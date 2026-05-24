@@ -1,0 +1,134 @@
+## 10.1 Farklı bir mülkiyet rejimi
+
+Bu kitabın şu ana kadarki bölümleri, mülkiyet kavramını Avrupa entelektüel geleneği içinde — Aristoteles'ten Hegel'e — izledi. Bu gelenek, mülkiyeti büyük ölçüde *teorik felsefe* alanında — doğal hukuk, sosyal sözleşme, idealist felsefe — ele aldı. Pratik hukuk pratiği önemliydi, ama teorinin gölgesinde kaldı.
+
+Osmanlı İmparatorluğu'nda mülkiyet ise tersinin örneğidir: zengin bir *pratik hukuk* geleneği, ama az felsefi teorik yansıma. Osmanlı toprak rejimi yedi yüzyıllık bir tarih boyunca, somut sorunların pratik çözümü olarak geliştirildi. Çoğunlukla felsefi bir gerekçelendirme aranmadan, ihtiyaca göre işleyen bir sistem inşa edildi.
+
+Bu bölüm Osmanlı mülkiyet sisteminin temel özelliklerini, onu Avrupa'dan ayıran yönleri, ve 19. yüzyılda modernleşme sürecinde geçirdiği büyük dönüşümü ele alır. Konu, hem klasik Osmanlı tarihi açısından zengindir hem de modern Türkiye'nin (ve diğer İslâm dünyası ülkelerinin) hukuk sistemlerinin kavramsal kaynaklarını anlamak için gereklidir.
+
+## 10.2 Osmanlı toprak sisteminin üç temel kategorisi
+
+Klasik Osmanlı toprak hukukunda, topraklar üç ana kategoriye ayrılırdı:
+
+**1. Mîrî (devlet) arazi**. İmparatorluğun büyük çoğunluğu — verimli tarım arazileri — bu kategoride yer alırdı. Toprağın *çıplak mülkiyeti* (raqaba) devlete aitti; köylüye sadece *tasarruf hakkı* (tapu hakkı) verilirdi. Köylü tarlayı işleyebilir, üzerindeki mahsulün sahibi olabilirdi; ama tarlayı satamaz, devredemez, parçalayamazdı. Ölümünde tarla, kanuna göre, ya çocuklarına (öncelikle erkek çocuklara) ya da köy içindeki bir başka çiftçiye geçerdi.
+
+**2. Mülk (özel) arazi**. Şehir içindeki arsalar, evler, dükkânlar, ve bazı küçük tarlalar bu kategoriye girerdi. Bu tür mülkiyet, Avrupa hukukundaki "tam sahiplik" (*dominium*) ile aynı içeriğe sahipti: sahibi satar, miras bırakır, parçalar, kiralar.
+
+**3. Vakıf arazi**. Dini ya da hayri bir amaçla bırakılmış topraklar. Bir cami, medrese, han, çeşme — hepsinin işletmesi için tahsis edilmiş gelir kaynakları. Vakıf arazileri ne satılabilir ne de tasarrufundan başka şeye dönüştürülebilir; gelirleri vakıfnamede belirtilen amaç için kullanılırdı.
+
+İnalcık-Quataert bu sistemi şöyle açıklar:
+
+> "The dominium eminens of the state on conquered lands was sometimes interpreted as a simple right of legal control (vala'), in consideration of the fact that the state controlled..."
+>
+> — İnalcık ve Quataert, *An Economic and Social History of the Ottoman Empire*, s. 76^[1]
+
+Devletin *dominium eminens*'i (üstün egemenlik hakkı), Avrupa feodalizminden çok farklı bir mantıkla işliyordu. Avrupa'da feodal lord toprağın "*efendisi*" idi; Osmanlı'da devlet toprağın "*hukuksal denetçisi*" idi. Pratik bir fark: Avrupa lord'u toprağı miras bırakırken, Osmanlı *sipahi*'sinin (timar sahibinin) hiçbir miras hakkı yoktu. Sipahi öldüğünde, timar başka bir sipahiye verilirdi.
+
+## 10.3 Timar sistemi: vergi-asker takası
+
+Osmanlı toprak rejiminin merkezi yapısı, 14-16. yüzyıllarda klasik biçimini bulan *timar sistemi*'ydi. Sistem son derece pragmatikti:
+
+1. Devlet, bir bölgenin mîrî arazisini bir *sipahi*'ye (atlı asker) tahsis ederdi.
+2. Sipahi, o arazinin köylülerinden devletin belirlediği vergi oranlarında vergi toplardı.
+3. Topladığı vergi karşılığında, savaş zamanı belirli sayıda atlı asker getirmek zorundaydı.
+4. Vergi miktarına göre, sipahi *küçük timar* (3.000-19.999 akçe), *zeamet* (20.000-99.999) ya da *has* (100.000+) sahibi olurdu.
+
+Bu sistem üç şeyi aynı anda çözüyordu:
+
+- **Vergi tahsili**: Köylüler vergiyi doğrudan devlete değil, sipahiye verirdi; devlet bürokratik maliyetten kurtuluyordu.
+- **Askeri güç**: Sipahiler, kendi mali kaynaklarıyla atlarını ve silahlarını sağlardı; devletin doğrudan askeri harcaması azalırdı.
+- **Yerel kontrol**: Sipahiler bölgede oturarak güvenliği ve düzeni sağlardı.
+
+Timar sistemi 16. yüzyılın sonuna kadar Osmanlı ekonomisinin temel yapısıydı. Ama 17. yüzyılda, ateşli silahların yayılmasıyla birlikte (atlı askerlerin önemi azaldı), iltizam sistemi (vergiyi peşin satın alma) baskın hale geldi ve timar yavaş yavaş gözden düştü.
+
+## 10.4 Köylünün konumu: tasarruf hakkı vs Avrupa serfliği
+
+Osmanlı köylüsünün mülkiyet konumu, çağdaş Avrupa serfinin konumundan birçok yönden farklıydı:
+
+**Avrupa serfi**: Toprağa hukuken bağlıydı (*glebae adscriptus*). Toprak değişirse, o da değişirdi; lord'un izni olmadan başka yere gidemezdi. Bazı bölgelerde, lord'un onun çocukları üzerinde haklar vardı (*droit du seigneur* gibi).
+
+**Osmanlı çiftçisi (re'aya)**: Tarlayı tasarruf etme hakkına sahipti. Hukuken serbest bir kişiydi; istediği zaman tarlayı bırakıp başka yere gidebilirdi (gerçi pratikte bu nadiren oldu). Çocukları, kendi adlarına vergi ödeyen bağımsız kişilerdi.
+
+Bu, Osmanlı sisteminin önemli bir yapısal özelliğidir: köylülük, hukuken serbest. Sipahinin yetkisi vergi toplama ile sınırlıydı; köylü üzerindeki *kişisel* yetkisi son derece sınırlıydı. Köylü, mahkemeye gidip sipahisini şikayet edebilirdi; ve Osmanlı mahkeme kayıtları (sicil-i mahkeme), köylü-sipahi uyuşmazlıklarının sıklıkla çözüldüğünü gösterir.
+
+Bu farkın ekonomik sonuçları derindir. Osmanlı'da köylülerin tarla iyileştirmesi yapma teşviki, Avrupa'dakinden daha güçlü olabilirdi — çünkü tarlanın kalıcı tasarrufu garantili idi. Ama tarlayı satma ya da parçalama hakkı yoktu; bu da büyük yatırımları sınırlandırdı.
+
+## 10.5 İslâm hukukunda kadın mülkiyeti
+
+Osmanlı mülkiyet sisteminin Avrupa'dan en belirgin farklı özelliği, kadınların hukuksal konumudur. İslâm hukukunda — Hanefî mezhebinden Şafi'î mezhebine — kadın, *kendi mülkiyetinin sahibi olarak kalır*. Evlilik onun mülkiyet haklarını ne devreder ne de sınırlandırır.
+
+Bu, Roma hukukundan ve sonraki Avrupa kanonik hukukundan radikal biçimde farklıdır. Avrupa'da:
+
+- Kadın evlendiğinde, mülkiyeti büyük ölçüde kocasının kontrolüne geçerdi (İngiliz *coverture* doktrini, 19. yüzyıl sonuna kadar).
+- *Paterfamilias* (Roma ataerkil yetkisi) altında, evli kadın hiç mülkiyet sahibi olamayabilirdi.
+- Modern Fransız Hukuku (Napoléon Kodu 1804) bile, evli kadının mülkiyet işlemleri için kocasının iznini gerektiriyordu.
+
+Osmanlı mahkeme kayıtları, 15. yüzyıldan itibaren binlerce kadının kendi adına mülk aldığını, sattığını, vakıf kurduğunu, alacaklı olduğunu kayıt eder. Edirne, Bursa, İstanbul, Şam, Halep, Kahire — tüm büyük Osmanlı kentlerinde aynı pattern görülür.
+
+Bu fark, modern Müslüman toplumların kadın hakları tartışmalarında önemli bir kavramsal kaynaktır. Hukuken kadın mülkiyeti uzun bir tarihe sahip; çağdaş kısıtlamalar (eğer varsa) hukuki değil, sosyal pratiklerden geliyor.
+
+## 10.6 Müsadere — devletin mülke el koyma hakkı
+
+Osmanlı mülkiyet sisteminin Avrupa'dan farklı bir başka boyutu, *müsadere* (devletin özel mülke el koyma) doktrinidir. Padişah, özellikle yüksek devlet memurları için, herhangi bir resmi suçlama olmaksızın mülklerine el koyma hakkına sahipti.
+
+Bu doktrin, paradoksal olarak, mülkiyet *güvenliği*'nin Osmanlı'da Avrupa'dan daha düşük olduğu anlamına gelirdi. Yüksek bir vezir, yıllarca devlet hizmetinde servet biriktirirdi; padişah istediği an, hiçbir mahkemeye gitmeden, o servete el koyabilirdi.
+
+Bu pratiğin ekonomik sonuçları tartışmalıdır. North-Acemoglu-Robinson (Bölüm 11) modern kurumsal iktisat çerçevesinde, müsaderenin Osmanlı'nın uzun-vadeli ekonomik gerilemesinin sebeplerinden biri olduğunu söyler — çünkü mülkiyet güvenliği yatırım için kritiktir. Diğer tarihçiler (Şevket Pamuk, Mehmet Genç) bu görüşe daha eleştirel yaklaşır; müsaderenin pratikte sadece yüksek devlet memurlarına uygulandığını ve genel köylü-tüccar mülkiyetini etkilemediğini belirtirler.
+
+Tartışma sürer; ama temel olgu açıktır: Osmanlı sisteminde mülkiyet, Avrupa'dakinden farklı bir politik bağlamdaydı.
+
+## 10.7 1858 Arazi Kanunnamesi: büyük dönüşüm
+
+19. yüzyılda Osmanlı, kapsamlı bir hukuk reformuna girişti. Avrupa'nın artan ticari ve askeri baskısı, geleneksel Osmanlı hukukunun yetersiz kalmasına neden oldu. *Tanzimat* (1839) reformları başladı; ve toprak hukukunda en önemli adım, 1858 Arazi Kanunnamesi'ydi.
+
+Kanunname üç temel değişiklik getirdi:
+
+**1. Tapuların sicillenmesi**. Her tarla, modern bir *tapu sicili*'nde kaydedilirdi. Daha önceki tasarruf hakkı belirsizliklerinin yerini, modern bir mülkiyet kaydı aldı.
+
+**2. Mülkiyet haklarının modern formülasyonu**. Köylünün "tasarruf hakkı" yavaş yavaş "*mülkiyet hakkı*"na dönüştü. Tarla artık miras bırakılabilir, satılabilir, parçalanabilir hale geldi. Bu değişim 1860'lar boyunca aşamalı olarak gerçekleşti.
+
+**3. Vakıf hukukunun düzenlenmesi**. Geleneksel vakıf sisteminin modern hukuksal çerçeveye uyarlanması başladı.
+
+Bu değişim, modern bir gözle *modernleşme* olarak görülür; ama eşit derecede önemli olan, bunun bir *transformasyon* olduğudur. Osmanlı'nın geleneksel toprak sistemi — devlet-merkezli, köylüye uzun-süreli tasarruf veren — yıkıldı; yerine Avrupa-tarzı bir özel mülkiyet rejimi kuruldu.
+
+## 10.8 Tanzimat sonrası: kazananlar ve kaybedenler
+
+1858 Arazi Kanunnamesi'nin uygulanması, Osmanlı kırsal toplumunda büyük bir yeniden-yapılanma yarattı. İki büyük kategori kazanan ve kaybeden ortaya çıktı:
+
+**Kazananlar**:
+- *Mütegallibe* (yerel güçlüler): Köylülerin tapularını ucuza alarak, büyük toprak sahibi haline gelen yerel yetkililer.
+- Tüccar-bankerler: Köylülere kredi vererek, ödenmeyen borç karşılığında topraklara el koyan finans sınıfı.
+- Yabancı sermaye: 1880'ler sonrasında, Anadolu ve Suriye'de Avrupa yatırımcısı çiftlikler.
+
+**Kaybedenler**:
+- Küçük köylülük: Geleneksel tasarruf güvenliğini yitirip, borç-sahibi olmak zorunda kalan ve sonunda topraklarını yitiren çiftçiler.
+- Aşiretler: Bedevî aşiretlerin geleneksel arazi haklarının tanınmaması, özellikle Doğu Anadolu ve Suriye'de büyük bir sosyal değişime yol açtı.
+- Kadın mülk sahipleri: Modern hukuk, hukuksal olarak kadın mülkiyetini korudu; ama pratik olarak, modern tapu sistemi erkek-tahakkümünü daha sıkı sicillemeye yol açtı.
+
+Bu değişimin uzun-vadeli sonuçları, modern Türkiye'nin (Cumhuriyet sonrası 1923) toprak yapısının tarihsel temellerini oluşturur. 1924 Köy Kanunu, 1934 Soyadı Kanunu, 1945 Çiftçiyi Topraklandırma Kanunu — hepsi 1858 Kanunnamesinin ortaya çıkardığı yapıyı yeniden şekillendirme çabalarıdır.
+
+## 10.9 Osmanlı sisteminin mülkiyet teorisi tarihindeki yeri
+
+Osmanlı mülkiyet sisteminin Avrupa-merkezli mülkiyet teorisinin yanına koyulması, üç önemli ders öğretir:
+
+**1. Mülkiyet sistemi tek-türlü değildir**. Avrupa'nın Locke-Smith-Hegel hattının savunduğu "özel mülkiyet" modeli, mülkiyetin gelişmiş bir formu değildir; sadece *bir* formdur. Osmanlı sistemi, alternatif bir modelin yedi yüzyıllık pratik bir uygulaması olmuştur.
+
+**2. Mülkiyet teorisi ile mülkiyet pratiği arasındaki gerilim**. Avrupa'da mülkiyet teorisi yoğun (Locke, Hegel, Marx, Proudhon); pratik daha az çeşitlilikte (özel mülkiyet baskın). Osmanlı'da pratik daha çeşitlilikte (mîrî, mülk, vakıf, timar); teori daha az gelişmiş. Bu fark, mülkiyetin ne kadar kavramsal soyutlamalardan, ne kadar pratik koşullardan şekillendiğine dair bir soru ortaya çıkarır.
+
+**3. Modernleşmenin paradoksu**. 1858 Arazi Kanunnamesi, *modernleşme* sayıldı; ama pratik sonucu, küçük köylülüğün hak kaybı ve büyük toprak sahipliğinin yoğunlaşması oldu. Bu paradoks, modern kalkınma iktisadının önemli bir tartışma konusudur: "modern mülkiyet rejimleri" her zaman daha eşit ya da daha verimli midir?
+
+Bu üç ders, sonraki bölümde — North, Coase, Ostrom üzerinden modern kurumsal iktisad — daha da geliştirilecektir.
+
+---
+
+## Kaynakça
+
+[^1]: İnalcık, H. ve Quataert, D. *An Economic and Social History of the Ottoman Empire*, s. 76. Devletin *dominium eminens*'i ve Osmanlı toprak hukukunun yapısı.
+
+[^2]: İnalcık, H. ve Quataert, D. *An Economic and Social History of the Ottoman Empire*, s. 79. Mîrî toprakların satışının yasaklanması ve "özel mülkiyetin sonuçları" tartışması.
+
+[^3]: Müslüman kadınların mülkiyet haklarının pratik uygulamaları için: Judith Tucker, *In the House of the Law: Gender and Islamic Law in Ottoman Syria and Palestine* (1998); Leslie P. Peirce, *Morality Tales: Law and Gender in the Ottoman Court of Aintab* (2003). Bu kaynaklar kb-mcp dışında.
+
+[^4]: Müsadere doktrini ve Osmanlı ekonomik gerilemesi tartışması için: Şevket Pamuk, *A Monetary History of the Ottoman Empire* (2000); Mehmet Genç, *Osmanlı İmparatorluğu'nda Devlet ve Ekonomi* (kb-mcp'de mevcut). North-Acemoglu çerçevesinin eleştirel okuması.
+
+[^5]: 1858 Arazi Kanunnamesi için klasik analitik referans: Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution* (1993); Huri İslamoğlu-İnan (ed.), *The Ottoman Empire and the World-Economy* (1987). Modern Türkiye toprak tarihi için: Çağlar Keyder, *The Definition of a Peripheral Economy: Turkey 1923-1929* (1981).

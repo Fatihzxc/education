@@ -45,7 +45,7 @@
       subtitle: 'Aristoteles\'ten Ostrom\'a',
       description: 'Sahiplik, ortak alan, emek-mixing, hukuksal kurum — mülkiyetin yirmi beş asırlık seyri.',
       chapterCount: 12,
-      status: 'draft',
+      status: 'completed',
       primaryAuthors: ['Aristoteles', 'Aquinas', 'İbn Haldun', 'Locke', 'Smith', 'Marx', 'Hegel', 'Proudhon', 'Ostrom'],
     },
   ];
