@@ -106,6 +106,44 @@ Bu dört katkı, Bodin'i modern siyasal düşüncenin önemli bir köprü-figür
 
 Sonraki bölüm, bu sistemin en güçlü formülasyonu olan Hobbes'un *Leviathan*'ına geçer. Hobbes, Bodin'in sovranlık kavramını alıp, *doğa durumu* + *sosyal sözleşme* + *mutlak egemen* çerçevesinde modern siyasal düşüncenin kurucu metinini yazacaktır.
 
+## 6.9 Bodin'in üç-niteliği zaman içinde — sayısal test
+
+Bodin'in 1576'da formüle ettiği üç-nitelikli sovranlık tanımı (mutlak, sürekli, bölünmez), tarihsel testlerden geçti. Beş büyük dönüm noktasında, üç-niteliğin ne kadar tutarlı kaldığını izleyelim:
+
+| Tarih | Olay | Mutlak | Sürekli | Bölünmez |
+|------:|------|:------:|:-------:|:--------:|
+| 1576 | Bodin formülasyonu | ✓ (tanım gereği) | ✓ | ✓ |
+| 1648 | Westphalia Antlaşması | ✓ (her devlet kendi sınırlarında) | ✓ | ✓ (papa yetkisi reddedildi) |
+| 1787 | ABD Anayasası | ~ (federal/eyalet paylaşımı) | ✓ | ✗ (kuvvetler ayrılığı) |
+| 1871 | Bismarck Almanyası | ~ (imparator + krallıklar) | ✓ | ✗ (federal yapı) |
+| 1922 | SSCB kuruluşu | ✓ (parti tek-egemen) | ~ (parti-içi süreçler) | ✓ (resmi olarak) |
+| 1957 | AET (Roma Antlaşması) | ✗ (yetki devri) | ~ | ✗ (üst-ulusal kurumlar) |
+| 2009 | AB Lizbon Antlaşması | ✗ | ✗ (üye değişimi) | ✗ (çok-katmanlı yönetim) |
+
+Tablonun gösterdiği örüntü: Bodin'in tanımı yaklaşık 200 yıl boyunca (1576-1787) tam tutar; sonra federal sistemler ve kuvvetler ayrılığı "bölünmez" niteliğini sarsmaya başlar; 20. yüzyıl ortasından itibaren AB-tipi uluslar-üstü yapılar her üç niteliği birden sorgular hale gelir.
+
+Bu, Bodin'in çerçevesinin "yanlış" olduğunu göstermez; modern egemenliğin Bodin'in tanımına sığmayacak kadar çok-katmanlı hale geldiğini gösterir. 21. yüzyılda *fonksiyonel egemenlik* — farklı alanlarda farklı düzeylerde havuzlaştırılan yetki — Bodin'in 1576'daki tek-merkezli formülünden ayrılır. Bölüm 12, bu süreci sistematik biçimde işler.
+
+## 6.10 Bodin'in *Réponse* sayısal — kantite teorisi 1568
+
+Bodin'in 1568'de *Réponse aux paradoxes de M. de Malestroit*'da geliştirdiği kantite para teorisi, somut bir tarihsel veri analizine dayanır. 16. yüzyıl Avrupa'sındaki *fiyat devrimi*'nin yaklaşık verileri:
+
+| Yıl | Gümüş ithalatı (Amerika'dan, ton) | Avrupa fiyat endeksi (1500=100) |
+|----:|----------------------------------:|--------------------------------:|
+| 1500 | 0 (önemsiz) | 100 |
+| 1525 | ~50 | 110 |
+| 1550 | ~300 | 130 |
+| 1575 | ~800 | 170 |
+| 1600 | ~2000 | 280 |
+
+Yüz yıl boyunca: gümüş ithalatı sıfırdan ~2000 ton yıllığa çıktı; fiyat endeksi 100'den 280'e (yaklaşık 2.8 kat) yükseldi. Bodin'in 1568'deki tezi: bu iki gelişme bağlantılıdır. Para arzının artışı, paranın değerini düşürür; sabit miktarda mal için daha fazla para gerekir — fiyatlar yükselir.
+
+Modern monetarist gelenek (Friedman 1956), bu mantığı *MV = PT* (para arzı × dolanım hızı = fiyat seviyesi × üretim hacmi) formülünde ifade eder. V (dolanım hızı) ve T (üretim) görece sabit kalırsa, M (para) ile P (fiyat) arasında doğrudan oran vardır.
+
+Earl J. Hamilton'ın *American Treasure and the Price Revolution in Spain, 1501-1650* (1934) eseri, Bodin'in tezini ampirik olarak doğruladı: İspanya'da gümüş akışı ile fiyat seviyesi arasında %85+ korelasyon. Bu, sosyal bilimlerde nadiren görülen bir doğruluk derecesidir.
+
+Bodin'in tezi *egemenlik teorisi* açısından da kritiktir. Bir devletin para basma yetkisi, onun gücünün önemli bir kısmıdır. Modern devlet, *vergilendirme tekeli*'ne ek olarak, *para basma tekeli*'ne sahiptir. AB ülkeleri, 1999'da Euro'ya geçerek bu ikinci tekelden vazgeçtiler — egemenliğin kavramsal bir kısmını terk etmişlerdir. 2010 Yunan borç krizinde bu kararın bedeli somut hale geldi: Yunanistan, para basamadığı için, borç krizini *enflasyona dönüştürerek* çözme seçeneğini yitirmişti. Bodin'in 1568'deki içgörüsü, 450 yıl sonra modern Avrupa'nın yapısal bir kırılganlığını açıklar.
+
 ---
 
 ## Kaynakça

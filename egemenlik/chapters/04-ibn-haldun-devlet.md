@@ -114,15 +114,48 @@ Bu kayıp, modern okuyucu için bir fırsat sunar: İbn Haldun'u Batı'nın egem
 
 Sonraki bölüm, Avrupa'da egemenlik düşüncesinin laikleşme sürecinin ilk büyük figürüne — Machiavelli'ye — geçer. *Il Principe* (1532), egemenliği teolojik gerekçelerden ayırıp, *devlet aklı* (raison d'état) çerçevesinde yeniden formüle eden ilk modern metindir.
 
+## 4.10 Asabiyye → Charles Tilly — savaş devleti inşa eder
+
+Charles Tilly'nin *Coercion, Capital, and European States, AD 990-1992* (1990) eseri, modern devletin doğuşunu üç yapısal etken üzerinden okur: *zor* (asker, fiziksel güç), *sermaye* (vergi, kredi), ve *devlet* (kurumsal organizasyon). Tilly'nin ünlü formülü: "*War made the state, and the state made war*" — savaş devleti yaptı, devlet de savaş yaptı.
+
+Bu çerçeve, İbn Haldun'un asabiyye-mülk-vergi üçlüsünün doğrudan akrabasıdır. Osmanlı'nın 14-16. yüzyıl genişlemesini, Tilly'nin Avrupa modelini Anadolu'ya uygulayarak izleyelim:
+
+| Yıl | Olay | Nüfus (tahmin) | Vergi tabanı | Asker | İbn Haldun mantığı |
+|----:|------|---------------:|--------------|------:|---------------------|
+| 1300 | Söğüt beyliği kuruluşu | ~10,000 | Minimal | ~1,000 | Asabiyye doğum aşaması |
+| 1326 | Bursa fethi | ~50,000 | Bursa pazarı | ~5,000 | Asabiyye güçleniyor, mülk genişliyor |
+| 1389 | Kosova zaferi | ~3 milyon | Balkan vergi tabanı | ~50,000 | Hadarî dönüşüm; orduda profesyonelleşme |
+| 1453 | İstanbul fethi | ~6 milyon | Akdeniz ticaret | ~80,000 | Tam imparatorluk; mülk-ü tâmm zirvede |
+| 1517 | Mısır fethi | ~15 milyon | Doğu Akdeniz + Kızıldeniz | ~150,000 | Genişleme bitiyor; asabiyye yumuşamaya başlıyor |
+| 1571 | İnebahtı yenilgisi | ~25 milyon | (Aynı) | ~250,000 | Genişleme durdu; iç gerilimler artıyor |
+
+İbn Haldun'un teorik döngüsü ile Osmanlı'nın somut tarihi, şaşırtıcı bir paralellik gösterir. Söğüt beyliğindeki Osman Bey'in *asabiyye*'sinden, Fatih Sultan Mehmed'in tam *mülk-ü tâmm*'ına geçiş, sonra 16. yüzyıl sonundan itibaren gerileme — döngü tipik bir İbn Haldun şablonu izler.
+
+Bu çerçeve, Avrupa devletlerinin (Fransa, İspanya, İngiltere) aynı dönemdeki gelişimine de uygulanabilir. Tilly bunu Avrupa için sistematik biçimde yaptı; ama İbn Haldun'un çerçevesini doğrudan miras almadı. Modern komparatif tarih için, iki çerçeveyi yan yana okumak — Tilly'nin Avrupa modeli + İbn Haldun'un İslâm modeli — daha bütünlüklü bir devlet-oluşumu teorisi üretir.
+
+## 4.11 Schumpeter'in vergi devleti krizi — İbn Haldun mirası
+
+Joseph Schumpeter, 1918'de yazdığı "Die Krise des Steuerstaates" (Vergi Devletinin Krizi) makalesinde, modern devletin temel sınırının *vergilendirme kapasitesi* olduğunu ortaya koydu. Bir devletin gerçek gücü, sadece askeri kapasitesi değil; vatandaşlardan vergi toplayabilme yeteneğidir.
+
+Schumpeter'in formülü: bir devlet, eğer halkın üretken kapasitesini desteklemeden vergi koyarsa, kısa-vadede gelir kazanır ama uzun-vadede kendi vergi tabanını yok eder. Bu, doğrudan İbn Haldun'un 6 yüzyıl önceki tezinin Avrupa modern formülasyonudur. Schumpeter İbn Haldun'u büyük olasılıkla doğrudan okumadı (Mukaddime'nin Almancaya kapsamlı çevrilmesi 1950'leri buldu), ama yapısal mantık aynıdır.
+
+**Çağdaş test — Yunan borç krizi 2010-2018**: Yunanistan, AB ortak para birliği (Euro) içinde *kendi para basma yetkisini* yitirdiği için, borçlanma dışında kamu maliyesini sürdüremedi. 2009'dan 2018'e kamu borcu GSYİH'nin %180'ine ulaştı. AB-IMF "*kemer sıkma*" politikası (austerity), vergi artışı ve harcama kısıtlamaları getirdi. Sonuç: GSYİH %25 daraldı, işsizlik %27'ye fırladı, vergi tabanı bizatihi kendisi çöktü. Devlet, vergi koyabildi — ama vergi koyacağı bir ekonomi geriye kalmadı.
+
+Bu mantık, doğrudan İbn Haldun'un (Mukaddime I/542) tezidir: "Halk, ticaret, ziraat ve sanat alanlarında güvenle, aşkla, şevkle ve hatta hırsla çalıştığında... vergi mükellefleri artar." Tersi: aşırı vergilendirme, üretim şevkini öldürür, vergi tabanını daraltır. Yunan örneği bu mantığın 21. yüzyıl Avrupa'daki kanıtıdır.
+
+Modern *fiscal sociology* literatürü — Tilly, Schumpeter, Joseph Strayer, *Coercion, Capital and European States*, *On the Medieval Origins of the Modern State*, modern haliyle Margaret Levi *Of Rule and Revenue* (1988) — bu temayı sistematik geliştirir. Ama temel içgörü, 14. yüzyıl Tunusu'nda Mukaddime'de zaten kuruluyordu: egemenlik, vergi kapasitesinin sürdürülebilirliğine bağlıdır.
+
 ---
 
 ## Kaynakça
 
-[^1]: İbn Haldun (1377/2007). *Mukaddime*, çev. Süleyman Uludağ, Cilt I, s. 397. Dergâh Yayınları. Mülk-asabiyye ilişkisinin orijinal formülasyonu.
+*Pagination notu*: Mukaddime alıntıları, Süleyman Uludağ'ın Dergâh Yayınları çevirisinin 3-ciltlik baskısının sayfa numaralarıyla verilmiştir. `iktisat-kb` veritabanındaki 2-parçaya bölünmüş PDF taramasıyla sistematik bir kayma olabilir; konvansiyon ve detaylı açıklama için *Mülkiyet kavramının tarihi* kitabı Bölüm 3 Kaynakça notuna bakınız.
 
-[^2]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 567. Bir görevin mülke dönüşmesi; egemenliğin aileselleşmesi.
+[^1]: İbn Haldun (1377/2007). *Mukaddime*, çev. Süleyman Uludağ, Cilt I, s. 397 [indeks PDF ~p. 370-400 bölgesi]. Dergâh Yayınları. Mülk-asabiyye ilişkisinin orijinal formülasyonu.
 
-[^3]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 542. Vergi-üretim ilişkisinin "Laffer eğrisi" formülasyonu; egemenliğin mali temelinin sürdürülebilirliği.
+[^2]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 567 [indeks PDF farklı sayfa numarasında]. Dergâh Yayınları. Bir görevin mülke dönüşmesi; egemenliğin aileselleşmesi.
+
+[^3]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 542 [indeks PDF ~p. 520-540 bölgesi]. Dergâh Yayınları. Vergi-üretim ilişkisinin "Laffer eğrisi" formülasyonu; egemenliğin mali temelinin sürdürülebilirliği.
 
 [^4]: Tilly, C. (1990). *Coercion, Capital, and European States, AD 990-1992*. Modern devletin doğuşunu "savaş yapma kapasitesi"nin sonucu olarak okuyan klasik analiz. İbn Haldun'un asabiyye-vergilendirme-mülk üçgeninin dolaylı modern uyarlaması.
 

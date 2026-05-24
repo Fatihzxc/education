@@ -69,7 +69,7 @@ Augustus'un tekniği önemlidir. O hiçbir zaman "kral" (*rex*) unvanını almad
 
 Bu *yetki yoğunlaşması* tekniği, sonraki tarihin önemli bir paradigmasıdır. Hitler'in 1933-34'te Almanya'da, Putin'in 2000-2008'de Rusya'da yaptığı, biçimsel olarak farklıdır ama yapısal olarak aynıdır: anayasal-yasal kurumların üst-üste binmiş yetkilerini tek bir kişide toplayarak, *resmi olarak* meşruiyeti koruma ile birlikte *fiili olarak* sınırsız bir egemen otorite kurma.
 
-## 2.7 Sezarocism ve Bizans dönüşümü
+## 2.7 Sezaropapizm ve Bizans dönüşümü
 
 Roma İmparatorluğu'nun batı yarısı 476'da (Romulus Augustus'un tahttan indirilmesi) sona erdi. Doğu yarısı (Bizans) 1453'e kadar sürdü. Bizans'ta egemenlik kavramı, Roma mirası ile Hristiyan teolojisinin sentezini oluşturdu.
 
@@ -100,6 +100,44 @@ Antik egemenlik düşüncesinin sonraki yüzyıllara yedi izi:
 Bu yedi iz, sonraki bölümlerde sürekli karşımıza çıkacak. Egemenlik kavramının modern formu, antik temellerin üzerine yapılmış bir yapıdır; o temelleri görmeden modern yapıyı anlamak mümkün değildir.
 
 Sonraki bölüm, ortaçağ Avrupa'sında egemenliğin "iki kılıç" — sivil ve dini — arasındaki paylaşımına geçer. Bu paylaşım, Reformasyon'a kadar Avrupa siyasal düşüncesinin merkezi tartışmasıdır.
+
+## 2.9 Augustus'un yetki yoğunlaşması — sayısal kurumsal walkthrough
+
+Augustus'un teknik dehasını somut görmek için, M.Ö. 27'den itibaren topladığı yetkileri tek tek izleyelim:
+
+| Unvan / Yetki | Verilis tarihi | Klasik kaynak | Kazanılan yetki |
+|---------------|---------------:|---------------|------------------|
+| *Imperator* (saygı unvanı) | M.Ö. 38 | Askeri zafer | Ordu komuta yetkisi |
+| *Augustus* (artıran) | M.Ö. 27 | Senato verdi | Kutsal-sembolik üst saygınlık |
+| *Princeps senatus* | M.Ö. 28 | Senatonun ilk üyesi | Senatoda söz alma önceliği |
+| *Imperium proconsulare maius* | M.Ö. 23 | Senato yetkisi | Tüm eyaletlerde valilik üstü yetki |
+| *Tribunicia potestas* | M.Ö. 23 | Halk meclisi geleneği | Yasama veto'su + halk koruyucusu |
+| *Pontifex maximus* | M.Ö. 12 | Lepidus'un ölümü | Devlet dini başı |
+| *Pater patriae* | M.Ö. 2 | Senato verdi | "Vatanın babası" sembolik baba |
+
+Bu 7 ayrı yetkinin tek bir kişide birikmesi, her birinin *bireysel olarak meşru* olmasına rağmen, *toplamda sınırsız* bir egemenlik üretir. Augustus hiçbir zaman "kral" (*rex*) unvanını almadı — Romalılar için bu tabu sayılıyordu. Onun yerine, *Cumhuriyet'in kurumsal repertuvarını* yeniden bir araya getirerek mutlak iktidarı meşrulaştırdı.
+
+**Modern paralel: Putin'in çoklu konumu**. Putin Rusya'da 1999-2008 başkan, 2008-2012 başbakan (Medvedev başkan), 2012'den itibaren tekrar başkan; aynı zamanda Birleşik Rusya partisinin lideri, FSB'nin (eski KGB) çıkışlı, Güvenlik Konseyi'nin yöneticisi. Her bir konum *bireysel olarak meşru*; ama toplamda, anayasal sınırların ötesinde bir egemenlik konumu üretir. 2020 anayasa değişikliği, başkanlık dönem-sayısı sınırını sıfırladı — Augustus modelinin 21. yüzyıl versiyonu.
+
+Bu örüntü 20. yüzyıl başında Hitler'in (1933-34: şansölye + cumhurbaşkanı + parti führeri + ordu başkomutanı) ve Mussolini'nin (1922-43: başbakan + Duce + içişleri/dışişleri bakanı + ordu komuta), 21. yüzyıl başında Erdoğan'ın (2014-: cumhurbaşkanı + parti genel başkanı + 2017 anayasa değişikliği ile başbakan + yürütme yetkilerinin tek elde), Xi Jinping'in (2012-: parti genel sekreteri + cumhurbaşkanı + askeri komisyon başkanı + 2018'de süre sınırı kaldırıldı) örneklerinde tekrarlandı. Augustus'un 2050 yıl önceki tekniği, modern otoriter dönüşümün şablonu olarak yaşamaya devam ediyor.
+
+## 2.10 Polybios karma rejimi → ABD anayasası — 2050 yıllık devamlılık
+
+Polybios'un (M.Ö. ~150) Roma Cumhuriyeti analizi ile Madison'ın *Federalist* No. 51'i (1788) arasında yapısal bir devamlılık vardır. İki sistemi yan yana koyalım:
+
+| Yapısal unsur | Roma Cumhuriyeti (Polybios) | ABD Anayasası (Madison) |
+|---------------|----------------------------|--------------------------|
+| Monarşik unsur | İki konsül (1 yıl, vetoları birbirini frenler) | Başkan (4 yıl, kongre vetolanabilir) |
+| Aristokratik unsur | Senato (300 üye, hayat boyu, eski magistratuslar) | Senato (100 üye, 6 yıl, başta meclislerce seçildi) |
+| Demokratik unsur | *Comitia* (halk meclisleri — *centuriata*, *tributa*) | Temsilciler Meclisi (435 üye, 2 yıl, doğrudan halk) |
+| Yargı | Praetor + jüri | Yüksek Mahkeme (9 üye, hayat boyu) |
+| Frenler arası denge | Tribün veto'su (halkı koruma) | Başkan veto'su + Senato onayı + judicial review |
+
+Aynı temel mantık: bir kuvvetin diğerini kontrol etmesi için, *üç* (ya da daha fazla) ayrı kuvvet gerekir. Tek bir kuvvet — monarşik, aristokratik, demokratik — kontrolsüz kaldığında, kendi yozlaşmış formuna doğru çürür (tiranlık, oligarşi, ohlokrasi).
+
+Polybios bu mantığı sadece *tasvir etti*; Madison ise *tasarladı*. Aradaki 1900 yıl boyunca, karma rejim ideali Roma Cumhuriyeti'nin pratik tarihinden (Cicero üzerinden), ortaçağ İtalyan şehir cumhuriyetlerine (Floransa, Venedik), Britanya parlamenter sistemine (Kral + Lordlar + Avam) ve nihayet 1787'de Philadelphia'ya geçti. Modern her demokratik anayasa, bu mirasın bir versiyonudur.
+
+**Modern test**: Bu mantık, demokratik gerileme dönemlerinde sınanıyor. Bir hükümet, yasama-yürütme-yargı arasındaki dengeyi *yapısal olarak* korurken, *fiili olarak* tek elde toplayabilir mi? Macaristan (Orbán 2010+), Türkiye (2017 anayasa değişikliği), Polonya (PiS 2015-2023) — üçü de bu testin örneğidir. Bölüm 8'de detaylı işlenecek.
 
 ---
 

@@ -100,6 +100,36 @@ Ortaçağ siyasal düşüncesinin modern egemenlik tartışmalarına dört kalı
 
 Sonraki bölüm, bu Avrupa-merkezli tartışmanın paralelinde, 14. yüzyıl İslâm dünyasında benzer soruları soran bir başka düşünüre — İbn Haldun'a — geçer. Onun *Mukaddime*'sinde geliştirdiği *mülk* ve *asabiyye* kavramları, egemenliğin nasıl ortaya çıktığı, korunduğu, ve çözüldüğüne dair Avrupa-dışı bir teorik çerçevedir.
 
+## 3.9 Investiture Controversy — somut bir kurumsal krizin kronolojisi
+
+İki kılıç doktrininin teorik formülasyonu (Gelasius 494) ile pratik kriz arasındaki uçurumu, 1075-1122 *Investiture Controversy*'nin ayrıntılı kronolojisinde görelim:
+
+| Tarih | Olay | Yapısal anlam |
+|------:|------|----------------|
+| 1075 | Papa Gregory VII *Dictatus Papae*'yi yayınlar | Papa, imparatoru azletme hakkına sahip iddiası |
+| 1076 | Henry IV piskoposları Worms Konsili'nde Gregory'yi azleder | İmparator, papayı azletme iddiası |
+| 1076 | Gregory, Henry'yi aforoz eder | Yetki çatışması açık askeri çatışmaya dönüşür |
+| Ocak 1077 | Henry, Canossa'da papaya af için 3 gün yalın ayak bekler | Geçici teslimiyet; papalık zaferi |
+| 1080 | Henry, Gregory'yi tekrar reddeder; antipapa Clement III'ü atar | Çatışma yeniden başlar |
+| 1084 | Henry, Roma'yı işgal eder; Gregory sürgünde ölür | Geçici imparatorluk üstünlüğü |
+| 1122 | Worms Concordat'ı | Uzlaşma: piskoposları *kim atayacak* sorusu çözülür |
+
+Worms Concordat'ının uzlaşması teknikti: piskoposların *manevi* atamasını (yüzüğün, asanın verilmesi) papa yapacak; *dünyevi* atamasını (toprakların, gelirlerinin verilmesi) imparator yapacak. Bu, iki kılıç doktrinin *somut kurumsal uygulaması*'dır: aynı kişiyi (piskopos) iki ayrı egemenlik atar, her biri kendi yetki alanı içinde.
+
+**Modern paralel: 1979 İran Devrimi**. Ayetullah Humeyni, *velayet-i fakih* (din âliminin yöneticiliği) doktrini ile sivil ve dini egemenliği yeniden iç içe geçirdi. Cumhurbaşkanı (sivil) ile Rehber (dini) arasında, 1979 sonrası İran anayasası iki kılıç dengesini formelleştirdi — ama Rehber'in *seçilmiş* sivil kurumlar üzerinde son söz hakkı olduğu bir yapıyla. Ortaçağ Avrupa'sının papa-imparator çatışmasının çağdaş bir versiyonu, ama farklı bir çözümle: dini otorite *yapısal* üstünlüğe sahip.
+
+## 3.10 İki kılıç doktrininin modern yankıları
+
+İki kılıç doktrini — sivil ve dini egemenliğin ayrı kurumlarda olması — Reformasyon sonrası teorik olarak çözüldü, ama pratik olarak modern dünyada hâlâ canlı:
+
+**1. Vatikan-İtalya ilişkisi**. 1870'te İtalyan birliği Roma'yı işgal edip Papalık Devletleri'ni sona erdirdi; papa "*Vatikan tutsağı*" olarak Vatican içinde inzivaya çekildi. 1929 *Lateran Antlaşması* (Mussolini ile imzalandı) bu ilişkiyi modern formuna soktu: Vatikan, 0.44 km² toprak üzerinde *bağımsız bir devlet*; aynı zamanda dini bir egemen. Bugün hâlâ — diplomatik temsilcilikleriyle, BM gözlemci statüsüyle, kendi para birimi ile (Euro kullanır ama tasarımı kendisi yapar) — modern uluslararası sistemde tek dini-egemen devlet.
+
+**2. İsrail Hahambaşılığı**. İsrail'in laik devlet yapısının yanında, *Hahambaşılık* (Rabanut Harashit) kurumu evlilik, boşanma, gömme, *kashrut* (helal yeme) denetimi gibi konularda yargı yetkisine sahiptir. Bir İsrailli Yahudi, *medeni* evlilik yapamaz; ancak Hahambaşılık tarafından onaylanmış dini bir tören aracılığıyla evlenebilir. Bu, modern devletin *sivil* ve *dini* yetki paylaşımının somut bir uygulamasıdır.
+
+**3. İran *velayet-i fakih* (din âliminin yöneticiliği)**. 1979 Humeyni anayasası, sivil cumhuriyet kurumlarının (cumhurbaşkanı, meclis, yargı) üstünde bir *Rehber* (Vali-i Fakih) konumu yaratır. Rehber, ordu komutanı, anayasa mahkemesi başkanı, devlet medyası başkanını atar; Cumhurbaşkanı'nın kararnamelerini reddedebilir. Bu, ortaçağ "iki kılıç" doktrininin tersine çevrilmiş hali: dini egemenlik sivili kontrol eder, tersi değil.
+
+Üç örnek, modern dünyada "*tam laikleşmiş*" devlet modelinin (Fransa, Türkiye-Atatürk dönemi) tek seçenek olmadığını gösterir. Sivil ve dini egemenlik arasındaki çeşitli denge formları, hâlâ pratik olarak işliyor. Ortaçağ tartışması — *iki kılıç nasıl paylaşılmalı?* — modern bir biçimde devam ediyor.
+
 ---
 
 ## Kaynakça

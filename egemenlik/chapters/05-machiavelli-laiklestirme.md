@@ -50,7 +50,7 @@ Bu doktrin, 16. yüzyıl sonu — 17. yüzyıl başında Avrupa'da geniş bir ta
 
 ## 5.6 Discorsi: Cumhuriyet'e övgü
 
-*Il Principe* Machiavelli'nin tek eseri değildir. Aynı yıllarda yazdığı — ama daha kalın olan — *Discorsi sopra la prima Deca di Tito Livio* (Livius'un İlk On Kitabı Üzerine Söylevler, 1517) eseri, çok farklı bir tonda yazılmıştır. *Il Principe* hükümdarlık üzerine; *Discorsi* cumhuriyetçilik üzerine.
+*Il Principe* Machiavelli'nin tek eseri değildir. Aynı yıllarda yazdığı — ama daha kalın olan — *Discorsi sopra la prima Deca di Tito Livio* (Livius'un İlk On Kitabı Üzerine Söylevler, yazımı ~1512-1517, yayınlanması 1531 — Machiavelli'nin ölümünden sonra) eseri, çok farklı bir tonda yazılmıştır. *Il Principe* hükümdarlık üzerine; *Discorsi* cumhuriyetçilik üzerine.
 
 İki eser arasındaki gerilim, Machiavelli'nin yorumcuları tarafından sıkça tartışılır:
 
@@ -95,13 +95,41 @@ Aralarında 130 yıl vardır; doğrudan bir etki ilişkisi söz konusu değildir
 
 Sonraki bölüm, Machiavelli'nin attığı laikleşme adımını sistematik biçimde formelleştiren bir başka düşünüre — Jean Bodin'e — geçer. Bodin, 1576'da yayınladığı *Six Livres de la République* ile, *sovranlık* (souveraineté) kavramının modern formülasyonunu sundu. Machiavelli pratik öğütler veriyordu; Bodin kavramsal bir teori inşa etti.
 
+## 5.10 Machiavelli pratik olarak okundu — 16. yy devlet adamı kütüphaneleri
+
+Machiavelli'nin Vatikan tarafından 1559'da yasaklanması, onun pratik etkisini engellemedi — tam tersine, yasaklı olduğu için *gizlice* okunan bir el-kitabı haline geldi. 16. yüzyıl Avrupa devlet adamlarının belgelenmiş Machiavelli okumalarına bakalım:
+
+**Henry VIII (İngiltere kralı, 1509-1547)**. Kraliyet kütüphanesinde *Il Principe*'nin İtalyanca el yazması nüshaları kayıtlı. 1530'ların Roma Kilisesi'nden kopuşu (1534 *Act of Supremacy* — Anglikan Kilisesi'nin kurulması) Machiavellian *devlet aklı* mantığının pratik bir uygulaması olarak okunabilir: kral, devletin çıkarı için dini-kurumsal bağları feda eder.
+
+**Catherine de Medici (Fransa kraliçesi, regent 1559-1574)**. Floransalı bir Medici, Machiavelli'nin doğrudan kültürel-coğrafi mirasçısı. 1572 Saint-Barthélemy katliamının (10,000+ Hugenot öldürüldü) ardındaki politik akıl, Machiavelli'nin "*sevilmek yerine korkulmak*" tezinin somut uygulaması olarak yorumlanır. Bodin'in *République*'ini (1576) yazdığı dönemin pratik politik bağlamı budur.
+
+**Philip II (İspanya kralı, 1556-1598)**. Düşman olarak gördüğü Hollanda Protestan isyanını bastırmak için Alva Dükü'nü görevlendirir (1567-1573); "*Kanlı Konsey*" 1,000+ kişiyi idam eder. Bu tip merkezi-zor uygulaması, Machiavelli'nin *Discorsi*'sindeki "*kurucu şiddet*" tartışmasının pratik bir uygulamasıdır.
+
+**Modern paralel: Henry Kissinger'in *Diplomacy* (1994)**. Kissinger, modern uluslararası ilişkilerin entelektüel tarihini Richelieu (1624-1642 Fransız Başbakanı) → Bismarck (1871 Alman birliği) → Çin Mao Zedong-Zhou Enlai çizgisi üzerinden okur. Üçü de — Kissinger'in çözümlemesinde — Machiavelli'nin modern versiyonlarıdır: *raison d'état* mantığını ulusal çıkarları korumak için ahlâki kategorilerin üstüne çıkararak uygularlar. Kissinger'in kendi 1969-1977 ABD Dışişleri Bakanlığı dönemi (Vietnam, Şili 1973 darbesi, Çin açılımı 1972), aynı çerçevenin pratik uygulamasıdır.
+
+Bu örüntü, Machiavelli'nin teorik yasaklılığına rağmen pratik egemenliğinin ne kadar derin olduğunu gösterir. Bir kitap *resmi olarak* reddedilebilir; ama pratik politikada kullanılırsa, onun mirası canlı kalır. Machiavelli'nin modern devletin "gizli el-kitabı" olma rolü, 500 yıl sonra hâlâ tartışılıyor.
+
+## 5.11 Modern realist IR teorisi — Morgenthau, Waltz, Mearsheimer
+
+Machiavelli'nin *virtù-fortuna* yapısı, 20. yüzyıl uluslararası ilişkiler (IR) teorisinin "*realist*" ekolünün kavramsal omurgasıdır. Üç önemli isim:
+
+**Hans Morgenthau, *Politics among Nations* (1948)**. Yale Üniversitesi'nde Alman göçmeni hukukçu. *Realism*'in kurucu metinini yazdı. Açılış formülü: "*International politics, like all politics, is a struggle for power.*" Devletler, ahlâki kategorilerle değil; *power* kategorisiyle hareket eder. Bu, doğrudan Machiavelli'nin *Il Principe* XVIII. bölümünün modern formülasyonudur.
+
+**Kenneth Waltz, *Theory of International Politics* (1979)**. Berkeley'de bir IR profesörü. Morgenthau'nun klasik realizmini "*neo-realizm*" (yapısal realizm) olarak yeniden yapılandırdı. Tezi: devletlerin davranışı, *liderlerin kişisel özelliklerinden* değil, *uluslararası sistemin yapısından* doğar. Uluslararası sistem anarşiktir (üst-egemen yoktur); bu yapı, devletleri güç-arayışına yönlendirir, *liderin niyetinden bağımsız olarak*. Machiavelli'nin *fortuna* (yapısal koşullar) çerçevesinin modern bir versiyonu.
+
+**John Mearsheimer, *The Tragedy of Great Power Politics* (2001)**. Chicago'da bir profesör. *Offensive realism* (saldırgan realizm) ekolünün önderi. Tezi: büyük güçler sadece güvenliği değil, *bölgesel hegemonyayı* hedefler. Çin'in 21. yüzyıldaki yükselişi, Mearsheimer'ın çerçevesinde, ABD ile *kaçınılmaz* bir çatışmaya yol açacaktır. *Realism*'in en sert versiyonu.
+
+Üç düşünürün ortak çerçevesi Machiavellian'dır: devletler ahlâki niyetlerle değil, güç hesaplarıyla hareket eder; bu hesabı görmezden gelmek pratik politika için yıkıcıdır. ABD'nin 2003 Irak Savaşı kararının Mearsheimer ve Walt tarafından (*The Israel Lobby*, 2007) doğrudan eleştirilmesi, realist IR teorisinin modern pratik politikadaki rolünün bir örneğidir.
+
+Bu çerçeve, Machiavelli'nin 1513-1531 yazılı eserlerinin 500 yıl sonra hâlâ yaşayan teorik mirasıdır. Onun "ahlâktan ayrılmış devlet aklı" tezi, modern dünyada hem akademik IR'nin hem pratik uluslararası politikanın gizli omurgasıdır.
+
 ---
 
 ## Kaynakça
 
 [^1]: Machiavelli, N. (1532). *Il Principe*. İlk basım Roma. Türkçe çeviri: Nazım Güvenç (Anahtar Kitaplar, 1994); H. Kazım Kabaağaç (Türkiye İş Bankası Kültür Yayınları, 2008). Bu kitap kb-mcp'de bulunmamakta; bu bölümün argümanları doğrudan public-domain metinden ve Quentin Skinner *Machiavelli: A Very Short Introduction* (1981) gibi referanslardan inşa edilmiştir.
 
-[^2]: Machiavelli, N. (~1517). *Discorsi sopra la prima Deca di Tito Livio*. Cumhuriyetçi karma rejim teorisi. Tam metin için: Bernard Crick (ed.), *The Discourses* (Penguin, 1970).
+[^2]: Machiavelli, N. (yazımı ~1512-1517, yayın 1531). *Discorsi sopra la prima Deca di Tito Livio*. Cumhuriyetçi karma rejim teorisi. Tam metin için: Bernard Crick (ed.), *The Discourses* (Penguin, 1970).
 
 [^3]: *Raison d'état* doktrini için klasik kaynak: Friedrich Meinecke, *Die Idee der Staatsräson in der neueren Geschichte* (1924). Modern Türkçe okuma için: Mehmet Ali Ağaoğulları, *Sokrates'ten Jakobenlere: Batı'da Siyasal Düşünceler* (2011).
 

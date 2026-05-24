@@ -8,7 +8,7 @@ Bu bölüm Osmanlı egemenlik anlayışının üç boyutunu ele alır: (1) padi�
 
 ## 9.2 Padişahlık: Türk-Moğol mirası
 
-Osmanlı padişahlığının kavramsal kökenleri, klasik İslâm halifeliğinden değil, Türk-Moğol bozkır gelenekten gelir. *Padişah* sözcüğü Farsçadır — *pâdişâh*, "büyük efendi" — ama kavramın içeriği, Cengiz Han'ın 1206'da Karakurum'da kuruluş kurultayında ilan ettiği *kağanlık* geleneğine yakındır.
+Osmanlı padişahlığının kavramsal kökenleri, klasik İslâm halifeliğinden değil, Türk-Moğol bozkır gelenekten gelir. *Padişah* sözcüğü Farsçadır — *pâdişâh*, "büyük efendi" — ama kavramın içeriği, Cengiz Han'ın 1206'da Onon nehri kıyısındaki büyük kurultayda ilan ettiği *kağanlık* geleneğine yakındır.
 
 Bu gelenekte egemenlik şu özellikleri taşır:
 

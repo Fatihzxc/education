@@ -95,6 +95,31 @@ Bu sorulara cevap vermek için, egemenlik kavramının nereden geldiğini bilmek
 
 Bir kavramın yirmi beş asırlık seyrini, onunla beraber dolaşmadan anlamak mümkün değildir.
 
+## 1.8 Egemenlik matrisi — bir okuma haritası
+
+Bu kitabın haritasını tek bir tabloda görelim. Her büyük düşünür, egemenliği üç eksende — *özne* (kim?), *kapsam* (hangi alanda?), *sınırlar* (hangi koşullarla?) — konumlandırır. Aşağıdaki matris, kitabın 12 bölümünün bir özetidir:
+
+| Düşünür | Özne | Kapsam | Sınırlar |
+|---------|------|--------|----------|
+| Aristoteles (Böl. 2) | Vatandaşlar (sınırlı yurttaşlık) | Polis (şehir-devlet) | Doğal yasa + yurttaş erdemi |
+| Roma (Böl. 2) | İmparator + Senato | Toprak imparatorluğu | *Imperium* + *auctoritas* dengesi |
+| Augustinus (Böl. 3) | Sivil yönetici (gölge) | Dünyevi şehir | *Civitas Dei*'ye tabidir |
+| Aquinas (Böl. 3) | Kral | Krallık | Doğal hukuk + ilahi hukuk |
+| İbn Haldun (Böl. 4) | Hanedan | Bölgesel mülk | Asabiyye + vergi tabanı |
+| Machiavelli (Böl. 5) | Prens (etkili olan kim ise) | Devlet | *Fortuna* + pratik sonuç |
+| Bodin (Böl. 6) | Sovran (tek merkez) | Devlet | Doğal hukuk + özel mülkiyet |
+| Hobbes (Böl. 7) | Leviathan | Devlet (mutlak) | Yalnızca yaşam hakkı |
+| Locke (Böl. 8) | Halk (temsil yoluyla) | Devlet | Doğal haklar (yaşam/özgürlük/mülkiyet) |
+| Rousseau (Böl. 8) | Halk (doğrudan) | Cumhuriyet | *Volonté générale* (genel irade) |
+| Hegel (Böl. 10) | Devlet (kişilik olarak) | Etik yaşam | Rasyonel anayasa |
+| Weber (Böl. 11) | Bürokratik aygıt | Toprak | Yasal-rasyonel meşruiyet |
+| Foucault (Böl. 11) | Hiç kimse (ağ) | Tüm sosyal alan | İktidar zaten her yerde |
+| Çağdaş (Böl. 12) | Çoğul (devlet + üst + alt + özel) | Çoğul (yerel + ulusal + küresel) | Çoğul mekanizmalar |
+
+Bu matrisin kullanım yolu şudur: her bölümün sonunda, yeni eklenen düşünürün üç ekseninin nereye düştüğünü zihninizde işaretleyin. Kitabın sonunda — Bölüm 12'de — modern dünyanın egemenlik krizini anlamak için bu matrisin bütününe ihtiyacınız olacak.
+
+Bir gözlem: matrise dikkatli baktığınızda, "ideal" bir egemenlik konfigürasyonunun olmadığını görürsünüz. Her dönem, kendi sorularına kendi cevaplarını verdi. Ama sorular benzer kaldı; cevaplar farklılaştı. 25 asrın hikâyesi, bir kelimenin değişen anlamlarının hikâyesidir.
+
 ---
 
 ## Kaynakça
