@@ -1,0 +1,609 @@
+{
+  "_generated": "mine_quotes.py",
+  "_method": "semantic_search top-k=8, distinct (source,page)",
+  "_conceptCount": 75,
+  "_distinctPages": 74,
+  "quotes": {
+    "secondary-murphy-john-law": {
+      "source": "ibn-haldun-mukaddime-uludag-vol2",
+      "page": 596,
+      "quote": "Cevdet Paşa",
+      "score": 0.5721,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Gerard Malynes'."
+    },
+    "gerard-malynes": {
+      "source": "magnusson-shaping",
+      "page": 50,
+      "quote": "Malynes, The Maintenance of Free Trade, p. 69. 92 THE BIRTH OF A DISCOURSE OF MERCANTILISM 146. Gerrard de Malynes, Saint George for England, Allegorically Described. London 1601...",
+      "score": 0.5111,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Gerard Malynes'."
+    },
+    "edward-misselden": {
+      "source": "magnusson-shaping",
+      "page": 38,
+      "quote": "ch is quite close to ours some 300 years later. Unfortunately we do not know very much about Edward Misselden (1608-54). The little we know, however, is that...",
+      "score": 0.6628,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Edward Misselden'."
+    },
+    "antoine-de-montchrestien": {
+      "source": "magnusson-shaping",
+      "page": 93,
+      "quote": "on only appeared around 1700 with Boisguilbert. Quite rightly so he is famous for being the first of the so-called economistes which explicitly directed their 179 MERCANTILISM see...",
+      "score": 0.6818,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Antoine de Montchrestien'."
+    },
+    "thomas-mun": {
+      "source": "hornigk-osterreich",
+      "page": 4,
+      "quote": "iv \u0013\u0006 \u0011 \b\u0007\u0001\u000f\u000e \u000e\b\u0001\u0006\u0015\u0001\u0002\u0005 \u0006\u0010 \u0007 \b\u0001\u0004\u000e \u0014\b\u0010\u0011 \u0012\u0015\u0001 \u0010\b\u0011\u0011",
+      "score": 0.5662,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Thomas Mun'."
+    },
+    "jean-baptiste-colbert": {
+      "source": "magnusson-shaping",
+      "page": 106,
+      "quote": "cantilist Doctrines before Colbert. New York: Richard R. Smith 1931, p. xiii). 5 For France see especially the important work by Jean-Claude Perrot, Une histoire intellectuelle de l'economie...",
+      "score": 0.6251,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Jean-Baptiste Colbert'."
+    },
+    "william-petty": {
+      "source": "magnusson-shaping",
+      "page": 70,
+      "quote": "dependent 133 MERCANTILISM it is also necessary to pay attention to Petty as he indeed was of great importance as a writer and thinker during the boom of...",
+      "score": 0.6562,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'William Petty'."
+    },
+    "josiah-child": {
+      "source": "magnusson-shaping",
+      "page": 75,
+      "quote": "th, p. 87ff. 11 Dictionary of National Biographies. For a presentation of Child see the unfortu- nately highly biased William Letwin, 'Sir Josiah Child, merchant economist', Baker Library...",
+      "score": 0.467,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Josiah Child'."
+    },
+    "charles-davenant": {
+      "source": "heckscher-mercantilism",
+      "page": 148,
+      "quote": "he second—that of Charles the Great from that of Bismarck.14 14 For any facts not given in Luschin von Ebengreuth, see K. Th. Eheberg, liber das altere deutsche...",
+      "score": 0.5997,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Charles Davenant'."
+    },
+    "philipp-von-hornigk": {
+      "source": "hornigk-osterreich",
+      "page": 149,
+      "quote": "THE KNOWN PUBLICATION RECORD OF HÖRNIGK’S BOOK 137 137 Franckfurt und Leipig, 1753. i title; ii blank; iii- vii V orrede an den geneigten Leser, dated at end:/uni00A0Michaelis-...",
+      "score": 0.6815,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Philipp von Hoernigk'."
+    },
+    "bernard-de-mandeville": {
+      "source": "bodin-reponse",
+      "page": 7,
+      "quote": "The Response of Jean Bodin to the Paradoxes of Malestroit and The Paradoxes Translated from the French Second Edition Paris: Jacques du Puys, 1578 by GEORGE ALBERT MOORE...",
+      "score": 0.5714,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Bernard de Mandeville'."
+    },
+    "john-law": {
+      "source": "ibn-haldun-mukaddime-uludag-vol1",
+      "page": 125,
+      "quote": "MUKADDIME 123 b) Kanun felsefesi, Kanunlara giriş veya kanunların ruhu: Monteskiyö'nun L 'esprit des lois isimli eseri bu sahada yazılmıştır. Çeşitli millet ve kavimlerdeki ka­ nunlar ve hukuki...",
+      "score": 0.6441,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'John Law'."
+    },
+    "james-steuart": {
+      "source": "magnusson-shaping",
+      "page": 13,
+      "quote": "James Steuart, I, p. 310. 28 Sir James Steuart, 11, p. 115. 29 Sir James Steuart, 11, p. 117. 30 Sir James Steuart, I, p. 203. 31 Charles...",
+      "score": 0.6775,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'James Steuart'."
+    },
+    "classicWest": {
+      "source": "beckert-empire-cotton",
+      "page": 208,
+      "quote": "Germany: Friedrich List (illustration credit 6.7) United States: Tench Coxe (illustration credit 6.8)",
+      "score": 0.5567,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Klasik Batı merkantilistleri'."
+    },
+    "ibn-haldun": {
+      "source": "ibn-haldun-mukaddime-uludag-vol1",
+      "page": 3,
+      "quote": "MUKADDİME İbn Haldun",
+      "score": 0.8763,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'İbn Haldun'."
+    },
+    "lutfi-pasa": {
+      "source": "kocibey-risalesi",
+      "page": 27,
+      "quote": "KOÇÎ BEY RÎSÂLESI",
+      "score": 0.6779,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Lütfi Paşa'."
+    },
+    "koci-bey": {
+      "source": "hornigk-osterreich",
+      "page": 2,
+      "quote": "ii \u0013\u0006 \u0011 \b\u0007\u0001\u000f\u000e \u000e\b\u0001\u0006\u0015\u0001\u0002\u0005 \u0006\u0010 \u0007 \b\u0001\u0004\u000e \u0014\b\u0010\u0011 \u0012\u0015\u0001 \u0010\b\u0011\u0011",
+      "score": 0.7425,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Koçi Bey'."
+    },
+    "katip-celebi": {
+      "source": "genc-devlet-ekonomi",
+      "page": 98,
+      "quote": "İKİNCI BÖLÜM MALi SiSTEM VE EKONOMİ",
+      "score": 0.6949,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Kâtip Çelebi'."
+    },
+    "naima": {
+      "source": "hornigk-osterreich",
+      "page": 8,
+      "quote": "viii \u0013\u0006 \u0011 \b\u0007\u0001\u000f\u000e \u000e\b\u0001\u0006\u0015\u0001\u0002\u0005 \u0006\u0010 \u0007 \b\u0001\u0004\u000e \u0014\b\u0010\u0011 \u0012\u0015\u0001 \u0010\b\u0011\u0011",
+      "score": 0.6463,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Naima'."
+    },
+    "defterdar-sari-mehmed": {
+      "source": "genc-devlet-ekonomi",
+      "page": 3,
+      "quote": "Mehmet Genç . ÜSMANLI IMPARA TORLUGU'NDA DEVLET VE EKONOMİ ~ ÖTÜKEN",
+      "score": 0.7962,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Defterdar Sarı Mehmed Paşa'."
+    },
+    "mehmet-genc": {
+      "source": "hornigk-osterreich",
+      "page": 12,
+      "quote": "xii \u0013\u0006 \u0011 \b\u0007\u0001\u000f\u000e \u000e\b\u0001\u0006\u0015\u0001\u0002\u0005 \u0006\u0010 \u0007 \b\u0001\u0004\u000e \u0014\b\u0010\u0011 \u0012\u0015\u0001 \u0010\b\u0011\u0011",
+      "score": 0.5622,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Mehmet Genç'."
+    },
+    "halil-inalcik": {
+      "source": "ibn-haldun-mukaddime-uludag-vol1",
+      "page": 213,
+      "quote": "BİRİNCİ BÖLÜM GENELDE BEŞERI UMRAN",
+      "score": 0.7396,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Halil İnalcık'."
+    },
+    "sevket-pamuk": {
+      "source": "steuart-principles",
+      "page": 18,
+      "quote": "' *",
+      "score": 0.5847,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Şevket Pamuk'."
+    },
+    "iasecilik": {
+      "source": "ibn-haldun-mukaddime-uludag-vol2",
+      "page": 100,
+      "quote": "rl erdeki basiretli ve tecrübeli zevat arasında, \"fiyatların yükselme zamanını kollamak üzere hububatın ihtikarı (saklamak, spekülasyon, hoarding) meş'um bir ha­ disedir, (akıbeti felakettir, onun için stok edilen malın)...",
+      "score": 0.6809,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'İaşecilik (Provisionism)'."
+    },
+    "fiskalizm": {
+      "source": "reinert-how-rich",
+      "page": 13,
+      "quote": "Forewordixcontrasttoitscurrentaidcontribution,notonlyquantitatively,butalsointermsof'financinggovernmentbudgets'andensuring'policyspace'.Economicdevelopmentinvolvesprofoundqualitativechange,notonlyoftheeconomy,butalsoofsociety.Reducingeconomicdevelopmenttolittlemorethancapitalaccumulationandmoreefficientresourceallocationhasbecomeaformulaforperpetu-atingeconomicbackwardnessinmanypoorcountries.Bydeep-eningourunderstandingofunevendevelopmentbydrawingfromhisrichknowledgeofthehistoryofeconomicpolicy,Reinert'sbookprovidesbothimportantlessonsandstimulatingreading.JomoK.S.,UNAssistantSecretary-GeneralforEconomicDevelopmentandFounderChair,InternationalDevelopmentEconomicAssociates(IDEAs)",
+      "score": 0.7096,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Fiskalizm'."
+    },
+    "gelenekcilik": {
+      "source": "ibn-haldun-mukaddime-uludag-vol2",
+      "page": 247,
+      "quote": "lardan birinin sufilere, diğerinin mü ftü ve fakihlere has olduğunu söylemesi, ictimai değerlerin farklılaşmasım göstennesi bakımından kayda değer bir görüştür. Bu­ gün tasavvufun doğuşu ve gelişmesi önce zühd...",
+      "score": 0.6643,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Gelenekçilik'."
+    },
+    "kapitulasyonlar": {
+      "source": "reinert-how-rich",
+      "page": 3,
+      "quote": "\\",
+      "score": 0.8019,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Kapitülasyonlar'."
+    },
+    "ihtisab-narh": {
+      "source": "ibn-haldun-mukaddime-uludag-vol2",
+      "page": 158,
+      "quote": "l­ sile-i muntazama olup besait ve mürekkebatın her bir ufk ve tabakası ahirindeki zevat ve a'yan, üst tarafındaki mücavirine munkalib l()lmağa bittab müstaiddir. Nitekim anasır-ı basitada her tabakanın...",
+      "score": 0.6253,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'İhtisab ve Narh Sistemi'."
+    },
+    "men-i-ihracat": {
+      "source": "bodin-reponse",
+      "page": 43,
+      "quote": "THE RESPONSE OF JEAN BODIN TO THE PARADOX OF MALESTROICT CONCERNING THE INCREASE IN PRICE OF ALL THINGS AND THE MEANS OF REMEDYING IT First of all I...",
+      "score": 0.57,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Men-i İhracat'."
+    },
+    "iltizam-malikane": {
+      "source": "ibn-haldun-mukaddime-uludag-vol1",
+      "page": 298,
+      "quote": "ularla olan idriik bu beş duyudur. İç duyulada olan idriik, bu beynin kuvvetleridir. Bu idraklerin tümü, nefs-i niitıkayı, kendisinin üstündeki ruhani zatları (zevat-ı ruha­ niye) idriik etmekten alıkoyar...",
+      "score": 0.647,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'İltizam ve Malikâne Sistemi'."
+    },
+    "timar": {
+      "source": "pamuk-paranin-tarihi",
+      "page": 279,
+      "quote": "RESiM LER",
+      "score": 0.6209,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Tımar Sistemi'."
+    },
+    "thomas-aquinas": {
+      "source": "pamuk-paranin-tarihi",
+      "page": 22,
+      "quote": "oynayabilece!)i rol üzerine kısa ancak önemli bir tartışma için bkz. R. Stephen Humphreys, /s/amic History, A Frame­ worlc. for lnquiry, gözden ge çi rilmiş basım, Princ eton Univ...",
+      "score": 0.5015,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Thomas Aquinas'."
+    },
+    "salamanca-okulu": {
+      "source": "steuart-principles",
+      "page": 2,
+      "quote": "NUNC COGNOSCO EX PARTE TRENT UNIVERSITY LIBRARY",
+      "score": 0.5458,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Salamanca Okulu'."
+    },
+    "jean-bodin": {
+      "source": "bodin-reponse",
+      "page": 119,
+      "quote": "Date Due _ rn ot 22697 Bodin The response of Jean Bodin to the paradoxes of Malestroit",
+      "score": 0.5842,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Jean Bodin'."
+    },
+    "giovanni-botero": {
+      "source": "magnusson-shaping",
+      "page": 104,
+      "quote": "201 MERCANTILISM dations did not constitute the only or main economic discourse in Italy during the eighteenth century. The professional history of Beccaria is highly rypical from this...",
+      "score": 0.524,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Giovanni Botero'."
+    },
+    "antonio-serra": {
+      "source": "hornigk-osterreich",
+      "page": 19,
+      "quote": "(1589) and Antonio Serra, Breve trattato delle cause che possono far abbondare li regni d’oro e argento dove non sono miniere (1613). The Serra text was one of...",
+      "score": 0.4992,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Antonio Serra'."
+    },
+    "david-hume": {
+      "source": "hume-political-discourses",
+      "page": 16,
+      "quote": "xii INTRODUCTION. suffered him as \"the parent of the first elucidations of political economy to see his own offspring eclipsed, and to see it with pride\" — his...",
+      "score": 0.6978,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'David Hume'."
+    },
+    "richard-cantillon": {
+      "source": "steuart-principles",
+      "page": 8,
+      "quote": "By courtesy of Mrs J. Gordon Fyfe Sir James Steuart Portrait by Meyer of Tubingen, 1761",
+      "score": 0.5209,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Richard Cantillon'."
+    },
+    "francois-quesnay": {
+      "source": "heckscher-mercantilism",
+      "page": 374,
+      "quote": "se Commune of the city of Nantes: Le Pere M. de Saint-Jean, originally Jean fion, Le Commerce honorable ou considerations politiques (Nantes 1646—actually 1647), 3rd section, on the...",
+      "score": 0.539,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'François Quesnay'."
+    },
+    "anne-robert-jacques-turgot": {
+      "source": "genc-devlet-ekonomi",
+      "page": 203,
+      "quote": "ÜçüNCÜ BÖLÜM SANAYi, TiCARET VE ESNAFLAR",
+      "score": 0.5385,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Turgot'."
+    },
+    "adam-smith": {
+      "source": "smith-wealth-of-nations",
+      "page": 3,
+      "quote": "An Inquiry Into the Nature and Causes of the Wealth of Nations Adam Smith",
+      "score": 0.5842,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Adam Smith'."
+    },
+    "david-ricardo": {
+      "source": "beckert-empire-cotton",
+      "page": 549,
+      "quote": "o Charles Forcey, the world’s foremost magician of words; to John Killick at Leeds for providing me with some of his unpublished work; to Gavin Wright for his...",
+      "score": 0.4742,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'David Ricardo'."
+    },
+    "john-stuart-mill": {
+      "source": "magnusson-shaping",
+      "page": 49,
+      "quote": ":1 : I' . ' r d '.' l ':1': \" . MERCANTILISM University Press 1949, p. 12ff.) Thomas Milles is, however, mentioned by name in Misselden's text...",
+      "score": 0.5295,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'John Stuart Mill'."
+    },
+    "friedrich-list": {
+      "source": "beckert-empire-cotton",
+      "page": 752,
+      "quote": "an v. Lindequist, Reichskolonialamt, Dresden, October 22, 1910, \u0000le 8224, record group R 1001, Papers of the Deutsche Kolonialgesellschaft, Bundesarchiv, Berlin. 34. Buehler, “Die Unabhälgigkeitsbestrebungen,” 23, 39; Biedermann...",
+      "score": 0.616,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Friedrich List'."
+    },
+    "eli-heckscher": {
+      "source": "heckscher-mercantilism",
+      "page": 28,
+      "quote": "Ashley, 3 February 1927, Heckscher archives, L. 67: 79: 3, KB. 45 Letter to Professor G. Brodnitz, 16 November 1927, Heckscher archives, L. 67: 65: 2, KB. 46...",
+      "score": 0.5646,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Eli Heckscher'."
+    },
+    "lars-magnusson": {
+      "source": "hornigk-osterreich",
+      "page": 36,
+      "quote": "William D./uni00A0Grampp, ‘ An Appreciation of Mercantilism’, in Lars Magnusson, ed. Mercantilist Economics (Boston:/uni00A0Kluwer, 1993), 59– 85. 16 Eli F ./uni00A0Heckscher, Der Merkantilismus, trans. G./uni00A0Mackenroth, 2/uni00A0vols. (Jena:/uni00A0Gustav Fischer...",
+      "score": 0.5355,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Lars Magnusson'."
+    },
+    "erik-reinert": {
+      "source": "reinert-how-rich",
+      "page": 405,
+      "quote": "ErikS.Reinert,iseditorofGlobalization,EconomicDevelopmentandInequality:AnAlternativePerspective(2004)andco-editorofTheOriginsofDevelopmentEconomics,HowSchoolsofEconomicThoughthaveAddressedDevelopment(2005).HeisProfessorofTechnology,GovernanceandDevelopmentStrategiesatTallinnUniversityofTechnology,Estonia,andpresidentofTheOtherCanonfoundationinNorway.Heisoneoftheworld'sleadingheterodoxdevelopmenteconomists.Forfurtherinformationseewww.othercanon.org Jacketdesign:BRILLJacketimages:Corbis ¥CARROLL&GRAFAnimprintofAvalonPublishingGroup,Inc.www.carrollandgraf.comDistributedbyPublishersGroupWest",
+      "score": 0.5011,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Erik Reinert'."
+    },
+    "ha-joon-chang": {
+      "source": "kocibey-risalesi",
+      "page": 29,
+      "quote": "KOÇÎ BEY RİSALESİ BismiUâhi’r-Rahmâni’r-Rahim Devlet düzenine ait, Gorice'Ii Koçi Bey’in eaâdetlû Meh&betlû, râbi Sultan Murad Han gaziye verdimi Rit&ledir.1 Hamd ve senâyı önsözün tacına süs ve çok iyi...",
+      "score": 0.5592,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Ha-Joon Chang'."
+    },
+    "bullionism": {
+      "source": "kocibey-risalesi",
+      "page": 108,
+      "quote": "ak verdiği akçeyi çıkarmağa çalışıp, mecburen zâlim ve devlete düşman olur. Şevketlû hünkârıma mâ- lüm ola ki, zulüm ve rüşvet herhangi devlette mey­ dana çıkar ve âşikâr olursa...",
+      "score": 0.5601,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Bullionism (Külçecilik)'."
+    },
+    "balance-of-trade": {
+      "source": "steuart-principles",
+      "page": 46,
+      "quote": "the balance of trade has stood regularly for many years. An inconsiderable proportion of it may be found in another, which has had it as regularly in its...",
+      "score": 0.7136,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Ticaret Dengesi (Balance of Trade)'."
+    },
+    "protectionism": {
+      "source": "smith-wealth-of-nations",
+      "page": 931,
+      "quote": "ether incapable of defending themselves. In these circumstances there seem to be but two methods by which the state can make any tolerable provision for the public defence...",
+      "score": 0.6283,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Korumacılık (Protectionism)'."
+    },
+    "navigation-acts": {
+      "source": "magnusson-shaping",
+      "page": 64,
+      "quote": "y, etc., were necessary to implement. However, also foreign trade must be organised in a beneficial fashion. As such a beneficial regulation, as did Adam Smith, he pointed...",
+      "score": 0.4969,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Navigation Acts'."
+    },
+    "calico-acts": {
+      "source": "ibn-haldun-mukaddime-uludag-vol1",
+      "page": 333,
+      "quote": "kua gelen) Kadisiye savaşında meydana gelmişti. Zühre sa­ vaş günü Calinos'u takip ederek onu katletıniş, üzerinde olan şeyleri soymuş ve al­ mıştı. (Savaşta başkomutan olan) Sa'd ise bu...",
+      "score": 0.4468,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Calico Acts'."
+    },
+    "populationism": {
+      "source": "ibn-haldun-mukaddime-uludag-vol1",
+      "page": 401,
+      "quote": "lerde nüfus ar­ tışı sabittir. Buralarda refah o haclde baliğ olmuştur ki, artık çocuk sahibi olmak bile refaha engel sa­ yı lmaktadır. Bir devletin kuvveti ve milletin kudreti...",
+      "score": 0.6831,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Populationism (Nüfus Politikası)'."
+    },
+    "east-india-company": {
+      "source": "heckscher-mercantilism",
+      "page": 384,
+      "quote": "FOREIGN TRADE AND BUSINESS ORGANIZATION 359 The vdor-compagnieen The forerunners of the East India Company, the voor-compag- nieen, were not different in outward appearance from the noncor- porative...",
+      "score": 0.6483,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Doğu Hindistan Şirketleri (EIC, VOC)'."
+    },
+    "manufactures-royales": {
+      "source": "genc-devlet-ekonomi",
+      "page": 386,
+      "quote": "tim alanları: 7 4 üretim araçları: 34ı üretim artışı: 208, 2ı4. 2ı8. 3ı2 üretim aşamaları: 294. 295 üretim azalması: 2ı6 üretim düzeyi: 52. 67 üretim faaliyeti: 49. 63...",
+      "score": 0.5427,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Manufactures Royales'."
+    },
+    "lonca-sistemi": {
+      "source": "heckscher-mercantilism",
+      "page": 387,
+      "quote": "374 MERCANTILISM AS A UNIFYING SYSTEM As an enterprise, the corporation was indivisible. All transac- tions were carried out on common account. The capital belonged t o the...",
+      "score": 0.4997,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Lonca Sistemi (Guild System)'."
+    },
+    "import-substitution": {
+      "source": "magnusson-shaping",
+      "page": 30,
+      "quote": "ther term for import substitution. According to this theory and policy, the establishment of industry will give rise to value-adding production and 52 DEBATES ON MERCANTILISM more employment...",
+      "score": 0.6204,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'İthal İkamesi (Import Substitution)'."
+    },
+    "asiento-de-negros": {
+      "source": "reinert-how-rich",
+      "page": 247,
+      "quote": "avingRicardiantradetheoryunblemished.Africanswerenotpoorbecausetheyhadnotbeenallowedtoindustrialize,theywerepoorbecausetheywereblack.Todaywhenweemphasizetheroleofcorruptionincreatingpoverty,wearealittlebitmorepoliticallycorrect.Africansarenolongerpoorbecausetheyareblack,theyarepoorbecauseblacksarecorrupt.Inthefinalanalysisthedifferenceismarginal.Explainingawayfailure:theredherringsItistheyear1989.Itisclearthatthecommunistsystem,withitsdisdainformarkets,isabouttocollapse.Imagineyouareanecon-omistandaregiventhetaskofexplainingthedifferenceinwealthbetweenthebynowobviouswealthpotentialinSiliconValleyontheonehandandthepovertyofruralAfrica,sayamongtheMasai,ontheother.Sinceyouareaneconomist,however,youareprofes-sionallytrainedtodisregardcertainaspects:1.Youarenotallowedtoclaimthatanyqualitativedifferencesexistbetweeneconomicactivities,i.e.thatitisbetterforagroupofpeopletoproduceplatformsforsoftwarethanto",
+      "score": 0.5964,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Asiento de Negros'."
+    },
+    "triangular-trade": {
+      "source": "steuart-principles",
+      "page": 73,
+      "quote": "OF TRADE AND INDUSTRY CHAP. XXX 393 trading in the same goods, upon separate interests, makes the thing impossible. But where the interests of the sellers, which are...",
+      "score": 0.6138,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Üçgen Ticaret (Triangular Trade)'."
+    },
+    "low-interest-policy": {
+      "source": "chang-kicking-away",
+      "page": 31,
+      "quote": "riffs at a low, uniform rate (although not necessarily below five per cent) is exactly what modern-day free-trade economists recommend to developing countries. The classic work by Little...",
+      "score": 0.6475,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Düşük Faiz Politikası'."
+    },
+    "public-credit": {
+      "source": "steuart-principles",
+      "page": 152,
+      "quote": "blishing and supporting them. Private credit is inseparable, in some degree, from human society. We find it subsisting in all ages: the security is palpable, and the principles...",
+      "score": 0.6287,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Kamusal Kredi (Public Credit)'."
+    },
+    "classical-political-economy": {
+      "source": "smith-wealth-of-nations",
+      "page": 556,
+      "quote": "Book Four Of Systems of Political Economy",
+      "score": 0.6991,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Klasik Politik İktisat'."
+    },
+    "comparative-advantage": {
+      "source": "pamuk-paranin-tarihi",
+      "page": 265,
+      "quote": "EK LER",
+      "score": 0.667,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Karşılaştırmalı Üstünlük'."
+    },
+    "free-trade": {
+      "source": "chang-kicking-away",
+      "page": 19,
+      "quote": "ed championing the cause of free trade. However, it should be noted that the USA never practised free trade to the same degree as Britain did during its...",
+      "score": 0.6859,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Serbest Ticaret (Free Trade)'."
+    },
+    "wool-acts": {
+      "source": "smith-wealth-of-nations",
+      "page": 339,
+      "quote": "wool. That of the Yorkshire cloth, which is made altogether of English wool, is said indeed, during the course of the present century, to have fallen a good...",
+      "score": 0.6854,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Wool Acts'."
+    },
+    "chartered-companies": {
+      "source": "heckscher-mercantilism",
+      "page": 463,
+      "quote": "374 MERCANTILISM AS A UNIFYING SYSTEM Company their first charters of incorporation, and conferred similar privileges on many other less vigorous companies. Whether or not this legally important...",
+      "score": 0.6926,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Chartered Companies (İmtiyazlı Şirketler)'."
+    },
+    "south-sea-bubble": {
+      "source": "heckscher-mercantilism",
+      "page": 437,
+      "quote": "374 MERCANTILISM AS A UNIFYING SYSTEM down to 1719/20, the year of the South Sea Bubble. The share capital of the South Sea Company alone was twice as...",
+      "score": 0.4701,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'South Sea Bubble + Mississippi Bubble'."
+    },
+    "is-bolumu": {
+      "source": "steuart-principles",
+      "page": 80,
+      "quote": "of demand for their labour will constantly regulate, independently of the price of subsis¬ tence ; and this leads me to another branch of this doctrine, which is...",
+      "score": 0.615,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'İş Bölümü (Division of Labor)'."
+    },
+    "vergi-devlet-dongusu": {
+      "source": "ibn-haldun-mukaddime-uludag-vol1",
+      "page": 543,
+      "quote": "MUKADDi ME 541 XXXIX. Devletin son zamanlarında konulan vergiler Malum olsun ki, belirtmiş olduğumuz gibi hanedanlık ve devlet başlangıçta be­ devi olur. Bu yüzden, refah, adet ve itiyatlarının...",
+      "score": 0.7588,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Vergi-Devlet Döngüsü (Laffer Öncülü)'."
+    },
+    "asabiyye": {
+      "source": "kocibey-risalesi",
+      "page": 194,
+      "quote": "168 KOÇİ BEY RİSALESİ VÜKELÂ: Vekiller, Osmanlı İmparatorluğu Bakanlar kuru­ lu üyeleri. YAYA-BAŞI: ‘Yaya” adı verilen piyade askerinin z&bitL YÜK: Yüzbin akçe, yerine kullanılan bir kelime. ZAĞARCI -...",
+      "score": 0.6074,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Asabiyye (Grup Dayanışması)'."
+    },
+    "luxury-debate": {
+      "source": "magnusson-shaping",
+      "page": 35,
+      "quote": "posed 'want of money'. However, also outside the council an intensive discussion seems to have been going on regarding the of the crisis. In his overview of this...",
+      "score": 0.5973,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Lüks Tartışması (Luxury Debate)'."
+    },
+    "akce-devaluasyon": {
+      "source": "ibn-haldun-mukaddime-uludag-vol2",
+      "page": 48,
+      "quote": "664 MEMLEKETLER VE ŞEHIRLERIN UMRANI ilgili olmak üzere iktisadi bulıran dönemlerinde) fıyat inmeleri ve yükselmeleri şek­ linde pazarlarda görülen değişme ile olur. Bir hanedanlığın son bulup, yerini diğer...",
+      "score": 0.674,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Akçe Devalüasyonu'."
+    },
+    "fiyat-devrimi": {
+      "source": "pamuk-paranin-tarihi",
+      "page": 138,
+      "quote": "özellikle de büyük nüfuslu Hindistan ve Çin'd eki fiyat hareketleri hakkın­ da bildiklerimiz oldukça sırurlıdır. 3 Bu bölümde uluslararası literatürde Fiyat Devrimi üzerine yapılan son tartışmalan gözden geçirdikten...",
+      "score": 0.7908,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Fiyat Devrimi (Price Revolution)'."
+    },
+    "sophus-reinert": {
+      "source": "pamuk-paranin-tarihi",
+      "page": 279,
+      "quote": "RESiM LER",
+      "score": 0.7369,
+      "method": "sentence-transformer",
+      "claim": "Local semantic match for 'Sophus Reinert'.",
+      "_distinctRelaxed": true
+    }
+  }
+}

@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Merkantilizm — İnteraktif Öğrenme Sistemi</title>
+  <style>
+    /* ========================================================
+       CSS Custom Properties — Dark Theme (default)
+       ======================================================== */
+    :root {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16213e;
+      --bg-tertiary: #0f3460;
+      --bg-card: #1e2a45;
+      --bg-card-hover: #243352;
+      --text-primary: #e0e0e0;
+      --text-secondary: #a0a8b8;
+      --text-muted: #6b7280;
+      --accent: #00d4ff;
+      --accent-glow: rgba(0, 212, 255, 0.25);
+      --accent-dim: #0098b8;
+      --accent-secondary: #ff6b6b;
+      --success: #4ade80;
+      --warning: #fbbf24;
+      --border: #2a3a5c;
+      --border-active: #00d4ff;
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 16px;
+      --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+      --shadow-glow: 0 0 20px var(--accent-glow);
+      --font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', monospace;
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      --transition-fast: 150ms ease;
+      --transition-normal: 300ms ease;
+      --transition-slow: 500ms ease;
+
+      /* Depth indicator colors */
+      --depth-1: #4ade80;
+      --depth-2: #fbbf24;
+      --depth-3: #ef4444;
+
+      /* Category colors for concept map */
+      --cat-pre-mer: #a78bfa;
+      --cat-klasik: #60a5fa;
+      --cat-osmanli: #2dd4bf;
+      --cat-politika: #f59e0b;
+      --cat-somurge: #ef4444;
+      --cat-karsit: #4ade80;
+      --cat-modern: #9ca3af;
+    }
+
+    /* Light Theme */
+    [data-theme="light"] {
+      --bg-primary: #f8fafc;
+      --bg-secondary: #f1f5f9;
+      --bg-tertiary: #e2e8f0;
+      --bg-card: #ffffff;
+      --bg-card-hover: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #475569;
+      --text-muted: #94a3b8;
+      --border: #e2e8f0;
+      --border-active: #00d4ff;
+      --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+      --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.12);
+      --accent-glow: rgba(0, 212, 255, 0.15);
+    }
+
+    body {
+      transition: background-color var(--transition-normal), color var(--transition-normal);
+    }
+
+    /* ========================================================
+       Reset & Base
+       ======================================================== */
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html {
+      font-size: clamp(14px, 1vw, 16px);
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* ========================================================
+       Custom Scrollbar
+       ======================================================== */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg-secondary); }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--accent-dim); }
+
+    /* ========================================================
+       Skip Link (Accessibility)
+       ======================================================== */
+    .skip-link {
+      position: absolute; top: -40px; left: 0;
+      background: var(--accent); color: var(--bg-primary);
+      padding: 8px 16px; text-decoration: none;
+      border-radius: 0 0 var(--radius-sm) 0;
+      font-weight: 600; z-index: 9999;
+      transition: top var(--transition-normal);
+    }
+    .skip-link:focus { top: 0; }
+
+    .visually-hidden {
+      position: absolute; width: 1px; height: 1px;
+      padding: 0; margin: -1px; overflow: hidden;
+      clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+    }
+
+    /* ========================================================
+       App Shell — CSS Grid Layout
+       ======================================================== */
+    .app-shell {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      min-height: 100vh;
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: clamp(8px, 1.5vw, 16px);
+      gap: clamp(8px, 1.5vw, 16px);
+    }
+
+    /* ========================================================
+       Top Bar
+       ======================================================== */
+    .topbar {
+      display: flex;
+      align-items: center;
+      gap: clamp(8px, 1.5vw, 16px);
+      padding: clamp(8px, 1.5vw, 14px) clamp(12px, 2vw, 20px);
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-sm);
+      flex-wrap: wrap;
+    }
+
+    .topbar__title {
+      font-size: clamp(1rem, 2vw, 1.3rem);
+      font-weight: 700;
+      color: var(--accent);
+      white-space: nowrap;
+      letter-spacing: -0.02em;
+      margin-right: auto;
+    }
+
+    /* Depth Selector */
+    .depth-selector {
+      display: flex;
+      gap: 2px;
+      background: var(--bg-tertiary);
+      border-radius: var(--radius-md);
+      padding: 3px;
+      border: 1px solid var(--border);
+    }
+
+    .depth-btn {
+      padding: 6px 14px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      font-weight: 500;
+      cursor: pointer;
+      border-radius: calc(var(--radius-md) - 3px);
+      transition: all var(--transition-fast);
+      font-family: var(--font-sans);
+      white-space: nowrap;
+    }
+
+    .depth-btn:hover {
+      color: var(--text-primary);
+      background: var(--bg-card-hover);
+    }
+
+    .depth-btn.active {
+      background: var(--bg-card);
+      color: var(--text-primary);
+      font-weight: 600;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .depth-btn[data-depth="1"].active { color: var(--depth-1); }
+    .depth-btn[data-depth="2"].active { color: var(--depth-2); }
+    .depth-btn[data-depth="3"].active { color: var(--depth-3); }
+
+    /* View Toggle */
+    .view-toggle {
+      display: flex;
+      gap: 2px;
+      background: var(--bg-tertiary);
+      border-radius: var(--radius-md);
+      padding: 3px;
+      border: 1px solid var(--border);
+    }
+
+    .view-btn {
+      padding: 6px 14px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      font-weight: 500;
+      cursor: pointer;
+      border-radius: calc(var(--radius-md) - 3px);
+      transition: all var(--transition-fast);
+      font-family: var(--font-sans);
+      white-space: nowrap;
+    }
+
+    .view-btn:hover {
+      color: var(--text-primary);
+      background: var(--bg-card-hover);
+    }
+
+    .view-btn.active {
+      background: var(--bg-card);
+      color: var(--accent);
+      font-weight: 600;
+      box-shadow: var(--shadow-sm);
+    }
+
+    /* Theme Toggle */
+    .theme-toggle {
+      width: 36px; height: 36px;
+      border-radius: 50%;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-primary);
+      font-size: 16px;
+      display: flex; align-items: center; justify-content: center;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      flex-shrink: 0;
+    }
+
+    .theme-toggle:hover {
+      background: var(--bg-card-hover);
+      transform: scale(1.05);
+      border-color: var(--accent);
+    }
+
+    .theme-toggle:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    /* ========================================================
+       Main Content Area
+       ======================================================== */
+    .main-content {
+      display: grid;
+      grid-template-columns: 1fr clamp(280px, 30vw, 420px);
+      gap: clamp(8px, 1.5vw, 16px);
+      min-height: 0;
+    }
+
+    .main-view {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-sm);
+      overflow: hidden;
+      position: relative;
+      min-height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .main-view__placeholder {
+      color: var(--text-muted);
+      font-size: 1rem;
+      text-align: center;
+      padding: 40px;
+    }
+
+    .main-view__placeholder .icon {
+      font-size: 3rem;
+      display: block;
+      margin-bottom: 12px;
+      opacity: 0.4;
+    }
+
+    /* Deep-Dive Panel */
+    .deep-dive {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-sm);
+      padding: clamp(12px, 2vw, 20px);
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .deep-dive__header {
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 12px;
+    }
+
+    .deep-dive__title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 4px;
+    }
+
+    .deep-dive__era {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .deep-dive__content {
+      flex: 1;
+      overflow-y: auto;
+    }
+
+    .deep-dive__empty {
+      color: var(--text-muted);
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 0.9rem;
+    }
+
+    /* Depth layer visibility */
+    .depth-layer { display: none; }
+    [data-active-depth="1"] .depth-layer.depth-1 { display: block; }
+    [data-active-depth="2"] .depth-layer.depth-1,
+    [data-active-depth="2"] .depth-layer.depth-2 { display: block; }
+    [data-active-depth="3"] .depth-layer { display: block; }
+
+    .depth-label {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 10px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .depth-label.depth-1 { background: rgba(74, 222, 128, 0.15); color: var(--depth-1); }
+    .depth-label.depth-2 { background: rgba(251, 191, 36, 0.15); color: var(--depth-2); }
+    .depth-label.depth-3 { background: rgba(239, 68, 68, 0.15); color: var(--depth-3); }
+
+    /* Source quote area */
+    .deep-dive__source {
+      margin-top: 16px;
+      padding: 12px;
+      background: var(--bg-tertiary);
+      border-radius: var(--radius-sm);
+      border-left: 3px solid var(--accent-dim);
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+
+    .deep-dive__source-cite {
+      display: block;
+      margin-top: 8px;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .deep-dive__search-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 12px;
+      padding: 8px 16px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--bg-card);
+      color: var(--text-primary);
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      font-family: var(--font-sans);
+    }
+
+    .deep-dive__search-btn:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    /* Related links in deep-dive */
+    .deep-dive__related {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 12px;
+    }
+
+    .related-chip {
+      padding: 3px 10px;
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }
+
+    .related-chip:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    /* ========================================================
+       Bottom Tab Bar
+       ======================================================== */
+    .bottombar {
+      display: flex;
+      flex-direction: column;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-sm);
+      overflow: hidden;
+    }
+
+    .bottombar__tabs {
+      display: flex;
+      gap: 2px;
+      background: var(--bg-tertiary);
+      padding: 3px;
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+    }
+
+    .tab-btn {
+      padding: 8px 18px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      font-weight: 500;
+      cursor: pointer;
+      border-radius: calc(var(--radius-md) - 3px);
+      transition: all var(--transition-fast);
+      font-family: var(--font-sans);
+      white-space: nowrap;
+    }
+
+    .tab-btn:hover {
+      color: var(--text-primary);
+      background: var(--bg-card-hover);
+    }
+
+    .tab-btn.active {
+      background: var(--bg-card);
+      color: var(--accent);
+      font-weight: 600;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .bottombar__content {
+      padding: clamp(12px, 2vw, 20px);
+      min-height: 120px;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+
+    .tab-panel {
+      display: none;
+    }
+
+    .tab-panel.active {
+      display: block;
+    }
+
+    .tab-panel__placeholder {
+      color: var(--text-muted);
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+
+    /* ========================================================
+       Responsive — Tablet (≤768px)
+       ======================================================== */
+    @media (max-width: 768px) {
+      .main-content {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr auto;
+      }
+
+      .deep-dive {
+        max-height: 300px;
+      }
+
+      .topbar {
+        gap: 8px;
+      }
+
+      .topbar__title {
+        width: 100%;
+        text-align: center;
+        margin-right: 0;
+      }
+
+      .depth-selector,
+      .view-toggle {
+        flex: 1;
+        justify-content: center;
+      }
+    }
+
+    /* ========================================================
+       Responsive — Mobile (≤480px)
+       ======================================================== */
+    @media (max-width: 480px) {
+      .app-shell {
+        padding: 4px;
+        gap: 6px;
+      }
+
+      .topbar {
+        padding: 8px 10px;
+        gap: 6px;
+        justify-content: center;
+      }
+
+      .topbar__title {
+        font-size: 1rem;
+      }
+
+      .depth-btn,
+      .view-btn {
+        padding: 5px 10px;
+        font-size: 0.75rem;
+      }
+
+      .tab-btn {
+        padding: 6px 12px;
+        font-size: 0.75rem;
+      }
+
+      .main-view {
+        min-height: 280px;
+      }
+
+      .deep-dive {
+        max-height: 250px;
+        padding: 10px;
+      }
+    }
+
+    /* ========================================================
+       Reduced Motion
+       ======================================================== */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+</head>
+<body data-active-depth="1">
+
+  <!-- Skip link for accessibility -->
+  <a href="#main-content" class="skip-link">İçeriğe atla</a>
+
+  <!-- App Shell -->
+  <div class="app-shell">
+
+    <!-- ============================================================
+         Top Bar
+         ============================================================ -->
+    <header class="topbar" role="banner">
+      <a href="../book.html" class="back-to-book" title="Kitap'a dön" style="text-decoration:none;color:var(--text-secondary);padding:6px 10px;border:1px solid var(--border);border-radius:4px;font-size:12px;">← Kitap</a>
+      <h1 class="topbar__title">Merkantilizm</h1>
+
+      <!-- Depth Selector -->
+      <div class="depth-selector" role="radiogroup" aria-label="İçerik derinliği">
+        <button class="depth-btn active" data-depth="1" role="radio" aria-checked="true" id="depth1">
+          🌱 Giriş
+        </button>
+        <button class="depth-btn" data-depth="2" role="radio" aria-checked="false" id="depth2">
+          🌳 Orta
+        </button>
+        <button class="depth-btn" data-depth="3" role="radio" aria-checked="false" id="depth3">
+          🌲 İleri
+        </button>
+      </div>
+
+      <!-- View Toggle -->
+      <div class="view-toggle" role="radiogroup" aria-label="Görünüm seçimi">
+        <button class="view-btn active" data-view="timeline" role="radio" aria-checked="true" id="viewTimeline">
+          ⏱ Zaman Çizgisi
+        </button>
+        <button class="view-btn" data-view="map" role="radio" aria-checked="false" id="viewMap">
+          🕸 Kavram Haritası
+        </button>
+      </div>
+
+      <!-- Theme Toggle -->
+      <button class="theme-toggle" id="themeToggle" aria-label="Temayı değiştir" title="Aydınlık/Karanlık">
+        <span id="themeIcon">🌙</span>
+      </button>
+    </header>
+
+    <!-- ============================================================
+         Main Content: View + Deep-Dive Panel
+         ============================================================ -->
+    <main class="main-content" id="main-content">
+
+      <!-- Main View (Timeline or Concept Map) -->
+      <section class="main-view" id="mainView" aria-label="Ana görünüm">
+        <div class="main-view__placeholder" id="timelinePlaceholder">
+          <span class="icon">⏱</span>
+          Zaman Çizgisi burada görünecek<br>
+          <small>(timeline.js henüz yüklenmedi)</small>
+        </div>
+        <div class="main-view__placeholder" id="mapPlaceholder" style="display:none;">
+          <span class="icon">🕸</span>
+          Kavram Haritası burada görünecek<br>
+          <small>(concept-map.js henüz yüklenmedi)</small>
+        </div>
+      </section>
+
+      <!-- Deep-Dive Panel -->
+      <aside class="deep-dive" id="deepDive" aria-label="Detay paneli">
+        <div class="deep-dive__header">
+          <div class="deep-dive__title" id="deepDiveTitle">Bir öğe seçin</div>
+          <div class="deep-dive__era" id="deepDiveEra"></div>
+        </div>
+        <div class="deep-dive__content" id="deepDiveContent">
+          <div class="deep-dive__empty">
+            Zaman çizelgesinden bir olaya ya da kavram haritasından bir düğüme tıklayarak detayları görüntüleyin.
+          </div>
+        </div>
+        <div class="deep-dive__source" id="deepDiveSource" style="display:none;">
+          <div id="deepDiveQuote"></div>
+          <cite class="deep-dive__source-cite" id="deepDiveCite"></cite>
+        </div>
+        <button class="deep-dive__search-btn" id="deepDiveSearchBtn" style="display:none;">
+          🔍 Kaynakta ara
+        </button>
+        <div class="deep-dive__related" id="deepDiveRelated"></div>
+      </aside>
+
+    </main>
+
+    <!-- ============================================================
+         Bottom Tab Bar
+         ============================================================ -->
+    <nav class="bottombar" aria-label="Alt sekmeler">
+      <div class="bottombar__tabs" role="tablist">
+        <button class="tab-btn active" role="tab" aria-selected="true" data-tab="cases" id="tabCases">
+          📋 Vaka Çalışmaları
+        </button>
+        <button class="tab-btn" role="tab" aria-selected="false" data-tab="quiz" id="tabQuiz">
+          ❓ Quiz
+        </button>
+        <button class="tab-btn" role="tab" aria-selected="false" data-tab="modern" id="tabModern">
+          🔗 Güncel Bağlantılar
+        </button>
+        <button class="tab-btn" role="tab" aria-selected="false" data-tab="sources" id="tabSources">
+          📚 Kaynakça
+        </button>
+        <button class="tab-btn" role="tab" aria-selected="false" data-tab="terminology" id="tabTerminology">
+          📖 Sözlük
+        </button>
+        <button class="tab-btn" role="tab" aria-selected="false" data-tab="favorites" id="tabFavorites">
+          ⭐ Favoriler
+        </button>
+      </div>
+
+      <div class="bottombar__content">
+        <div class="tab-panel active" id="panelCases" role="tabpanel">
+          <div class="tab-panel__placeholder">Vaka çalışmaları burada listelenecek (case-study.js)</div>
+        </div>
+        <div class="tab-panel" id="panelQuiz" role="tabpanel">
+          <div class="tab-panel__placeholder">Quiz burada görünecek (quiz.js)</div>
+        </div>
+        <div class="tab-panel" id="panelModern" role="tabpanel">
+          <div class="tab-panel__placeholder">Güncel bağlantılar burada listelenecek (modern-links.js)</div>
+        </div>
+        <div class="tab-panel" id="panelSources" role="tabpanel">
+          <div class="tab-panel__placeholder">Kaynakça burada listelenecek</div>
+        </div>
+        <div class="tab-panel" id="panelTerminology" role="tabpanel">
+          <div class="tab-panel__placeholder">Terimler burada listelenecek (terminology.js)</div>
+        </div>
+        <div class="tab-panel" id="panelFavorites" role="tabpanel">
+          <div class="tab-panel__placeholder">Favoriler burada listelenecek (bookmarks.js)</div>
+        </div>
+      </div>
+    </nav>
+
+  </div><!-- /app-shell -->
+
+  <!-- ============================================================
+       Module Scripts (load order matters: fragments → registry → viz)
+       Pattern: ADR-006 / content-fragments/README.md
+       ============================================================ -->
+
+  <!-- Step 1: Content fragments (self-register into window.MerkantilizmFragments) -->
+  <script src="../modules/content-fragments/concepts-osmanli.js?v=3"></script>
+  <script src="../modules/content-fragments/concepts-bati-klasik.js?v=3"></script>
+  <script src="../modules/content-fragments/concepts-rest.js?v=3"></script>
+  <script src="../modules/content-fragments/events-cases-modern.js?v=3"></script>
+  <script src="../modules/content-fragments/satellite-concepts.js?v=3"></script>
+  <!-- J1: mined per-concept quotes; must load BEFORE content-validation-overrides -->
+  <script src="../modules/content-fragments/quotes-mined.js?v=3"></script>
+  <script src="../modules/content-fragments/content-validation-overrides.js?v=3"></script>
+  <script src="../modules/content-fragments/terminology-dict.js?v=3"></script>
+  <script src="../modules/content-fragments/quizzes-data.js?v=3"></script>
+  <!-- New fragments added here (alphabetical) -->
+
+  <!-- Step 2: Registry — builds window.CONTENT from fragments -->
+  <script src="../modules/content-data.js?v=3"></script>
+
+  <!-- Step 3: Viz / UI modules (consume window.CONTENT) -->
+  <script src="../modules/timeline.js?v=3"></script>
+  <script src="../modules/concept-map.js?v=3"></script>
+  <script src="../modules/deep-dive.js?v=3"></script>
+  <script src="../modules/quiz.js?v=3"></script>
+  <script src="../modules/case-study.js?v=3"></script>
+  <script src="../modules/modern-links.js?v=3"></script>
+  <script src="../modules/terminology.js?v=3"></script>
+  <script src="../modules/bookmarks.js?v=3"></script>
+  <script src="../modules/mcp-config.js?v=3"></script>
+  <script src="../modules/command-palette.js?v=3"></script>
+  <script src="../modules/reindex-panel.js?v=3"></script>
+
+  <!-- ============================================================
+       Application Bootstrap
+       ============================================================ -->
+  <script>
+    /* =====================================================
+       Application State
+       ===================================================== */
+    const APP = {
+      activeDepth: 1,        // 1=Giriş, 2=Orta, 3=İleri
+      activeView: 'timeline', // 'timeline' | 'map'
+      activeTab: 'cases',    // 'cases' | 'quiz' | 'modern' | 'sources'
+      selectedItem: null,    // currently selected concept/event for deep-dive
+    };
+
+    /* =====================================================
+       DOM References (cached once at init)
+       ===================================================== */
+    const DOM = {};
+
+    function cacheDOM() {
+      DOM.body = document.body;
+      DOM.depthBtns = document.querySelectorAll('.depth-btn');
+      DOM.viewBtns = document.querySelectorAll('.view-btn');
+      DOM.tabBtns = document.querySelectorAll('.tab-btn');
+      DOM.themeToggle = document.getElementById('themeToggle');
+      DOM.themeIcon = document.getElementById('themeIcon');
+      DOM.mainView = document.getElementById('mainView');
+      DOM.timelinePlaceholder = document.getElementById('timelinePlaceholder');
+      DOM.mapPlaceholder = document.getElementById('mapPlaceholder');
+      DOM.deepDiveTitle = document.getElementById('deepDiveTitle');
+      DOM.deepDiveEra = document.getElementById('deepDiveEra');
+      DOM.deepDiveContent = document.getElementById('deepDiveContent');
+      DOM.deepDiveSource = document.getElementById('deepDiveSource');
+      DOM.deepDiveQuote = document.getElementById('deepDiveQuote');
+      DOM.deepDiveCite = document.getElementById('deepDiveCite');
+      DOM.deepDiveSearchBtn = document.getElementById('deepDiveSearchBtn');
+      DOM.deepDiveRelated = document.getElementById('deepDiveRelated');
+      DOM.tabPanels = document.querySelectorAll('.tab-panel');
+
+      // Validate critical refs
+      ['themeToggle', 'mainView', 'deepDiveTitle'].forEach(key => {
+        if (!DOM[key]) console.warn('[App] DOM element not found:', key);
+      });
+    }
+
+    /* =====================================================
+       Depth Management
+       ===================================================== */
+    function setDepth(depth) {
+      APP.activeDepth = depth;
+      DOM.body.setAttribute('data-active-depth', depth);
+
+      DOM.depthBtns.forEach(btn => {
+        const isActive = parseInt(btn.dataset.depth) === depth;
+        btn.classList.toggle('active', isActive);
+        btn.setAttribute('aria-checked', isActive);
+      });
+
+      localStorage.setItem('merkantilizm.depth', depth);
+    }
+
+    /* =====================================================
+       View Management (Timeline / Concept Map)
+       ===================================================== */
+    function setView(view) {
+      APP.activeView = view;
+
+      DOM.viewBtns.forEach(btn => {
+        const isActive = btn.dataset.view === view;
+        btn.classList.toggle('active', isActive);
+        btn.setAttribute('aria-checked', isActive);
+      });
+
+      // Toggle placeholders (modules will override when loaded)
+      DOM.timelinePlaceholder.style.display = view === 'timeline' ? '' : 'none';
+      DOM.mapPlaceholder.style.display = view === 'map' ? '' : 'none';
+
+      localStorage.setItem('merkantilizm.view', view);
+    }
+
+    /* =====================================================
+       Tab Management
+       ===================================================== */
+    function setTab(tab) {
+      APP.activeTab = tab;
+
+      DOM.tabBtns.forEach(btn => {
+        const isActive = btn.dataset.tab === tab;
+        btn.classList.toggle('active', isActive);
+        btn.setAttribute('aria-selected', isActive);
+      });
+
+      DOM.tabPanels.forEach(panel => {
+        panel.classList.toggle('active', panel.id === `panel${tab.charAt(0).toUpperCase() + tab.slice(1)}`);
+      });
+
+      localStorage.setItem('merkantilizm.tab', tab);
+    }
+
+    /* =====================================================
+       Theme Management
+       ===================================================== */
+    function initTheme() {
+      const saved = localStorage.getItem('merkantilizm.theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      setTheme(saved || (prefersDark ? 'dark' : 'light'));
+    }
+
+    function setTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      if (DOM.themeIcon) {
+        DOM.themeIcon.textContent = theme === 'dark' ? '🌙' : '☀️';
+      }
+      localStorage.setItem('merkantilizm.theme', theme);
+    }
+
+    function toggleTheme() {
+      const current = document.documentElement.getAttribute('data-theme') || 'dark';
+      setTheme(current === 'dark' ? 'light' : 'dark');
+    }
+
+    /* =====================================================
+       Deep-Dive Panel
+       ===================================================== */
+    function showDeepDive(item) {
+      APP.selectedItem = item;
+
+      if (!item) {
+        DOM.deepDiveTitle.textContent = 'Bir öğe seçin';
+        DOM.deepDiveEra.textContent = '';
+        DOM.deepDiveContent.innerHTML = '<div class="deep-dive__empty">Zaman çizelgesinden bir olaya ya da kavram haritasından bir düğüme tıklayarak detayları görüntüleyin.</div>';
+        DOM.deepDiveSource.style.display = 'none';
+        DOM.deepDiveSearchBtn.style.display = 'none';
+        DOM.deepDiveRelated.innerHTML = '';
+        return;
+      }
+
+      DOM.deepDiveTitle.textContent = item.label || item.title || '';
+      DOM.deepDiveEra.textContent = item.era || '';
+
+      // Build depth-layered content
+      let html = '';
+      if (item.depth) {
+        for (let d = 1; d <= 3; d++) {
+          const text = item.depth[`intro`] || item.depth[`intermediate`] || item.depth[`advanced`] || '';
+          if (d === 1 && item.depth.intro) {
+            html += `<div class="depth-layer depth-1"><span class="depth-label depth-1">Giriş</span><p>${item.depth.intro}</p></div>`;
+          }
+          if (d === 2 && item.depth.intermediate) {
+            html += `<div class="depth-layer depth-2"><span class="depth-label depth-2">Orta</span><p>${item.depth.intermediate}</p></div>`;
+          }
+          if (d === 3 && item.depth.advanced) {
+            html += `<div class="depth-layer depth-3"><span class="depth-label depth-3">İleri</span><p>${item.depth.advanced}</p></div>`;
+          }
+        }
+      }
+      DOM.deepDiveContent.innerHTML = html || '<div class="deep-dive__empty">Henüz içerik girilmedi.</div>';
+
+      // Source quote (if available)
+      if (item.sourceQuote) {
+        DOM.deepDiveSource.style.display = 'block';
+        DOM.deepDiveQuote.textContent = `"${item.sourceQuote}"`;
+        DOM.deepDiveCite.textContent = item.sourceCite || '';
+        DOM.deepDiveSearchBtn.style.display = 'inline-flex';
+      } else {
+        DOM.deepDiveSource.style.display = 'none';
+        DOM.deepDiveSearchBtn.style.display = 'none';
+      }
+
+      // Related chips
+      DOM.deepDiveRelated.innerHTML = '';
+      if (item.related && item.related.length) {
+        item.related.forEach(ref => {
+          const chip = document.createElement('span');
+          chip.className = 'related-chip';
+          chip.textContent = ref.label || ref;
+          chip.addEventListener('click', () => {
+            // Will be handled by timeline/concept-map cross-navigation
+            window.dispatchEvent(new CustomEvent('merkantilizm:navigate', { detail: ref }));
+          });
+          DOM.deepDiveRelated.appendChild(chip);
+        });
+      }
+    }
+
+    /* =====================================================
+       Restore State from localStorage
+       ===================================================== */
+    function restoreState() {
+      const depth = parseInt(localStorage.getItem('merkantilizm.depth'));
+      if ([1, 2, 3].includes(depth)) setDepth(depth);
+
+      const view = localStorage.getItem('merkantilizm.view');
+      if (view === 'timeline' || view === 'map') setView(view);
+
+      const tab = localStorage.getItem('merkantilizm.tab');
+      if (['cases', 'quiz', 'modern', 'sources'].includes(tab)) setTab(tab);
+    }
+
+    /* =====================================================
+       Event Wiring
+       ===================================================== */
+    function wireEvents() {
+      // Depth buttons
+      DOM.depthBtns.forEach(btn => {
+        btn.addEventListener('click', () => setDepth(parseInt(btn.dataset.depth)));
+      });
+
+      // View buttons
+      DOM.viewBtns.forEach(btn => {
+        btn.addEventListener('click', () => setView(btn.dataset.view));
+      });
+
+      // Tab buttons
+      DOM.tabBtns.forEach(btn => {
+        btn.addEventListener('click', () => setTab(btn.dataset.tab));
+      });
+
+      // Theme toggle
+      if (DOM.themeToggle) {
+        DOM.themeToggle.addEventListener('click', toggleTheme);
+      }
+
+      // Deep-dive search button
+      if (DOM.deepDiveSearchBtn) {
+        DOM.deepDiveSearchBtn.addEventListener('click', () => {
+          if (APP.selectedItem && APP.selectedItem.sourceRefs) {
+            window.dispatchEvent(new CustomEvent('merkantilizm:search-source', {
+              detail: APP.selectedItem.sourceRefs
+            }));
+          }
+        });
+      }
+
+      // Keyboard shortcuts
+      document.addEventListener('keydown', (e) => {
+        // Don't trap typing in inputs
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+        switch (e.key) {
+          case '1': setDepth(1); break;
+          case '2': setDepth(2); break;
+          case '3': setDepth(3); break;
+          case 't': setView('timeline'); break;
+          case 'm': setView('map'); break;
+        }
+      });
+    }
+
+    /* =====================================================
+       Sources Tab Renderer (inline)
+       ===================================================== */
+    function renderSources() {
+      const panel = document.getElementById('panelSources');
+      if (!panel) return;
+      const sources = (window.CONTENT && window.CONTENT.SOURCES) || [];
+      if (sources.length === 0) {
+        panel.innerHTML = '<div class="tab-panel__placeholder">Kaynak yok.</div>';
+        return;
+      }
+      const grouped = { primary: [], secondary: [], other: [] };
+      sources.forEach(s => {
+        const bucket = s.type === 'primary' ? 'primary' : s.type === 'secondary' ? 'secondary' : 'other';
+        grouped[bucket].push(s);
+      });
+      function listFor(items, label) {
+        if (!items.length) return '';
+        return `<h3 style="color:var(--accent);margin:16px 0 8px;font-size:14px;">${label} (${items.length})</h3>
+          <ul style="list-style:none;padding:0;">
+          ${items.map(s => `<li style="padding:8px 12px;margin:4px 0;background:var(--bg-card);border-radius:6px;font-size:13px;color:var(--text-primary);">
+            <strong>${s.author || '—'}</strong>. <em>${s.title || s.id}</em>${s.year ? ' ('+s.year+')' : ''}${s.translator ? ' [çev. '+s.translator+']' : ''}
+            ${s.note ? '<br><small style="color:var(--text-secondary);">'+s.note+'</small>' : ''}
+            <br><small style="color:var(--text-muted);font-family:var(--font-mono);">id: ${s.id}</small>
+          </li>`).join('')}
+          </ul>`;
+      }
+      panel.innerHTML = `<div style="padding:16px;max-width:900px;margin:0 auto;">
+        ${listFor(grouped.primary, '📜 Birincil Kaynaklar')}
+        ${listFor(grouped.secondary, '📚 İkincil / Akademik Kaynaklar')}
+        ${listFor(grouped.other, '📋 Diğer')}
+      </div>`;
+    }
+
+    /* =====================================================
+       Initialize
+       ===================================================== */
+    (function init() {
+      cacheDOM();
+      initTheme();
+      restoreState();
+      wireEvents();
+      renderSources();
+
+      // Also re-render quiz/timeline when depth changes
+      const origSetDepth = setDepth;
+      window.setDepth = function(d) {
+        origSetDepth(d);
+        if (window.Quiz && window.Quiz.renderStart) window.Quiz.renderStart();
+      };
+
+      console.log('[Merkantilizm] App initialized. Depth:', APP.activeDepth,
+                  'View:', APP.activeView, 'Tab:', APP.activeTab,
+                  'CONTENT:', window.CONTENT ? 'loaded ('+window.CONTENT.CONCEPTS.length+' concepts, '+window.CONTENT.EVENTS.length+' events)' : 'NOT LOADED');
+    })();
+  </script>
+
+</body>
+</html>

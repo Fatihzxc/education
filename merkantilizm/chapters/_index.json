@@ -1,0 +1,102 @@
+{
+  "title": "Merkantilizm — Bir Tarih ve Düşünce Okuması",
+  "subtitle": "16-18. yüzyıl iktisat düşüncesi: Osmanlı ve Batı perspektifinden",
+  "chapters": [
+    {
+      "num": 1,
+      "slug": "01-niye-merkantilizm",
+      "title": "Niye \"merkantilizm\"?",
+      "subtitle": "Terimin doğuşu ve 20. yüzyıl tarihyazımı",
+      "estWords": 3000,
+      "status": "draft"
+    },
+    {
+      "num": 2,
+      "slug": "02-para-ve-fiyat",
+      "title": "Para nedir, neye yarar?",
+      "subtitle": "Bullionizm, Bodin ve fiyat devrimi",
+      "estWords": 3500,
+      "status": "draft"
+    },
+    {
+      "num": 3,
+      "slug": "03-erken-modern-devlet",
+      "title": "Erken modern devletin doğuşu",
+      "subtitle": "Mali kapasite, ordu, ticaret-siyaset ittifakı",
+      "estWords": 4000,
+      "status": "draft"
+    },
+    {
+      "num": 4,
+      "slug": "04-mun-ingiliz-okulu",
+      "title": "Thomas Mun ve İngiliz okulu",
+      "subtitle": "Bullionizmden ticaret dengesine, East India Company paradoksu",
+      "estWords": 4000,
+      "status": "draft"
+    },
+    {
+      "num": 5,
+      "slug": "05-colbert-fransiz",
+      "title": "Colbert ve Fransız devletçiliği",
+      "subtitle": "Manufactures royales, tarife duvarları, dirigisme",
+      "estWords": 4000,
+      "status": "draft"
+    },
+    {
+      "num": 6,
+      "slug": "06-cameralism-orta-avrupa",
+      "title": "Cameralism ve Orta Avrupa",
+      "subtitle": "Hörnigk, Habsburg bağlamı, ithal ikamesi",
+      "estWords": 3000,
+      "status": "draft"
+    },
+    {
+      "num": 7,
+      "slug": "07-iasecilik-fiskalizm",
+      "title": "İaşecilik, fiskalizm, gelenekçilik",
+      "subtitle": "Osmanlı iktisat düşüncesinin üçlü çatısı",
+      "estWords": 5000,
+      "status": "draft"
+    },
+    {
+      "num": 8,
+      "slug": "08-ibn-haldun",
+      "title": "İbn Haldun — dışarıdan bir bakış",
+      "subtitle": "Mukaddime'nin iktisadi fikirleri ve modern keşfi",
+      "estWords": 4000,
+      "status": "draft"
+    },
+    {
+      "num": 9,
+      "slug": "09-hume-smith-elestiri",
+      "title": "Hume, Smith ve klasik eleştiri",
+      "subtitle": "Fiyat-specie akışı, Wealth of Nations IV",
+      "estWords": 4500,
+      "status": "draft"
+    },
+    {
+      "num": 10,
+      "slug": "10-somurge-siddet",
+      "title": "Sömürge ve şiddet",
+      "subtitle": "Pamuk, kölelik ve Navigation Acts",
+      "estWords": 4000,
+      "status": "draft"
+    },
+    {
+      "num": 11,
+      "slug": "11-yeniden-okumalar",
+      "title": "20. yüzyıl yeniden okumaları",
+      "subtitle": "Heckscher, Magnusson, Reinert, Chang",
+      "estWords": 3500,
+      "status": "draft"
+    },
+    {
+      "num": 12,
+      "slug": "12-bugun",
+      "title": "Bugün ne kaldı?",
+      "subtitle": "Sanayi politikası, yaptırımlar, tarife savaşları",
+      "estWords": 3000,
+      "status": "draft"
+    }
+  ]
+}

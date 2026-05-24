@@ -1,0 +1,57 @@
+# Kaynaklar (kullanıcının yasal olarak edindiği kitaplar; commit edilmez)
+sources/**/*.pdf
+sources/**/*.epub
+sources/**/*.txt
+!sources/**/.gitkeep
+!sources/**/README.md
+
+# MCP üretilen veri (yeniden indekslenebilir)
+kb-mcp/data/index/
+kb-mcp/data/embeddings/
+kb-mcp/data/*.db
+kb-mcp/data/*.db-*
+kb-mcp/data/*.sqlite*
+kb-mcp/data/*.lock
+kb-mcp/data/progress.json
+kb-mcp/data/reindex.lock
+
+# Python ortam
+kb-mcp/.venv/
+kb-mcp/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+kb-mcp/.pytest_cache/
+kb-mcp/.mypy_cache/
+kb-mcp/iktisat_kb.egg-info/
+kb-mcp/*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright test artifacts
+.playwright-mcp/
+
+# Sırlar
+.env
+.env.*
+!.env.example
+
+# Geçici çalışma dosyaları
+/tmp/
+*.log
+*.tmp
+
+# OCR ara çıktıları
+kb-mcp/scripts/_ocr_tmp/
+
+# Node (vendor exempted, varsa)
+node_modules/
+package-lock.json
