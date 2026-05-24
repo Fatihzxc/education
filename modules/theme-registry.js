@@ -36,7 +36,7 @@
       subtitle: 'Aristoteles\'ten Sen\'e',
       description: 'Emek-değer, marjinalizm, kapabiliteler — değerin antik kökeninden 21. yüzyıla.',
       chapterCount: 12,
-      status: 'draft',
+      status: 'completed',
       primaryAuthors: ['Aristoteles', 'Aquinas', 'Smith', 'Ricardo', 'Marx', 'Menger', 'Jevons', 'Marshall', 'Sen'],
     },
   ];
