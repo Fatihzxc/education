@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yol Haritası — Sosyal Bilimler Kütüphanesi</title>
+  <meta name="description" content="Sonraki tema adayları, kavramsal yaylar, kaynak durumu — eğitim repo'sunun büyüme planı.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/book.css">
+  <style>
+    body.roadmap {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 32px 24px 80px;
+      font-family: 'Source Serif 4', Georgia, serif;
+    }
+    body.roadmap nav.top-nav {
+      display: flex;
+      gap: 16px;
+      align-items: center;
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 14px;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border-subtle, #2a2a2a);
+    }
+    body.roadmap nav.top-nav a {
+      color: var(--accent, #d4a574);
+      text-decoration: none;
+    }
+    body.roadmap nav.top-nav a:hover { text-decoration: underline; }
+    body.roadmap article#roadmapContent {
+      font-size: 17px;
+      line-height: 1.65;
+    }
+    body.roadmap article#roadmapContent h1 { font-size: 32px; margin-top: 0; }
+    body.roadmap article#roadmapContent h2 {
+      font-size: 24px;
+      margin-top: 48px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border-subtle, #2a2a2a);
+    }
+    body.roadmap article#roadmapContent h3 {
+      font-size: 20px;
+      margin-top: 32px;
+      color: var(--accent, #d4a574);
+    }
+    body.roadmap article#roadmapContent h4 {
+      font-size: 16px;
+      margin-top: 24px;
+      font-family: 'Inter', system-ui, sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-muted, #888);
+    }
+    body.roadmap article#roadmapContent table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 14px;
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+    body.roadmap article#roadmapContent table th,
+    body.roadmap article#roadmapContent table td {
+      padding: 8px 12px;
+      text-align: left;
+      border-bottom: 1px solid var(--border-subtle, #2a2a2a);
+    }
+    body.roadmap article#roadmapContent table th {
+      background: var(--bg-secondary, #1a1a1a);
+      font-weight: 600;
+    }
+    body.roadmap article#roadmapContent code {
+      font-family: 'JetBrains Mono', monospace;
+      background: var(--bg-secondary, #1a1a1a);
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-size: 0.9em;
+    }
+    body.roadmap article#roadmapContent pre {
+      background: var(--bg-secondary, #1a1a1a);
+      padding: 16px;
+      border-radius: 6px;
+      overflow-x: auto;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 14px;
+    }
+    body.roadmap article#roadmapContent blockquote {
+      border-left: 3px solid var(--accent, #d4a574);
+      padding-left: 16px;
+      margin-left: 0;
+      color: var(--text-muted, #aaa);
+    }
+    body.roadmap article#roadmapContent hr {
+      border: none;
+      border-top: 1px solid var(--border-subtle, #2a2a2a);
+      margin: 32px 0;
+    }
+    body.roadmap .roadmap-banner {
+      background: var(--bg-secondary, #1a1a1a);
+      border: 1px solid var(--accent, #d4a574);
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 32px;
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 14px;
+      color: var(--text-muted, #aaa);
+    }
+    body.roadmap .roadmap-banner strong { color: var(--text-primary, #eee); }
+    body.roadmap #loading {
+      text-align: center;
+      padding: 64px 0;
+      color: var(--text-muted, #888);
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+  </style>
+</head>
+<body class="roadmap">
+
+  <nav class="top-nav">
+    <a href="/">← Kütüphane</a>
+    <span style="color: var(--text-muted, #666);">·</span>
+    <span style="color: var(--text-muted, #888);">Yol Haritası</span>
+  </nav>
+
+  <div class="roadmap-banner">
+    <strong>Çalışma belgesi.</strong> Bu sayfada listelenen temalar sonraki kitap adaylarıdır. Sıralama bağlayıcı değil; her tema yazılmadan önce kullanıcı kararı bekler. Tamamlanmış kitaplar için <a href="/" style="color: var(--accent, #d4a574);">kütüphaneye dönün</a>.
+  </div>
+
+  <article id="roadmapContent">
+    <div id="loading">Yol haritası yükleniyor…</div>
+  </article>
+
+  <script>
+  // Theme bootstrap — same as other pages.
+  (function() {
+    var saved = null;
+    try { saved = localStorage.getItem('merkantilizm.theme'); } catch (e) {}
+    var theme = saved || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+  </script>
+  <script src="vendor/marked.min.js?v=5"></script>
+  <script>
+  (function() {
+    'use strict';
+    var url = 'docs/superpowers/themes-roadmap-2026-05-24.md';
+    fetch(url, { cache: 'no-store' })
+      .then(function(r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.text();
+      })
+      .then(function(md) {
+        if (window.marked && typeof window.marked.parse === 'function') {
+          window.marked.setOptions({ gfm: true, breaks: false });
+          document.getElementById('roadmapContent').innerHTML = window.marked.parse(md);
+        } else {
+          document.getElementById('roadmapContent').innerHTML =
+            '<pre style="white-space: pre-wrap; font-family: \'Source Serif 4\', Georgia, serif;">' +
+            md.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') +
+            '</pre>';
+        }
+        document.title = 'Yol Haritası — Sosyal Bilimler Kütüphanesi';
+      })
+      .catch(function(err) {
+        document.getElementById('roadmapContent').innerHTML =
+          '<p style="color: #c66; font-family: Inter, system-ui, sans-serif;">' +
+          'Yol haritası yüklenemedi: ' + String(err.message || err) + '</p>';
+      });
+  })();
+  </script>
+
+</body>
+</html>
