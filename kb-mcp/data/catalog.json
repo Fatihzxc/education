@@ -398,8 +398,8 @@
         "state-advice",
         "fiscal-reform"
       ],
-      "indexed": false,
-      "indexedAt": null,
+      "indexed": true,
+      "indexedAt": "2026-05-24T18:34:52.491544+00:00",
       "semanticIndexed": false,
       "semanticModel": null,
       "textFilename": "primary/sarimehmed-nesayih.ocr.txt",
@@ -408,7 +408,9 @@
         "language": "ota+eng+tr",
         "dpi": 160,
         "createdAt": "2026-05-24T20:56:00+00:00"
-      }
+      },
+      "pages": 345,
+      "indexedPath": "primary/sarimehmed-nesayih.ocr.txt"
     },
     {
       "id": "heckscher-mercantilism",
@@ -1359,17 +1361,19 @@
       "year": 2002,
       "language": "en",
       "type": "secondary",
-      "filename": "secondary/stiglitz-globalization-discontents.pdf",
+      "filename": "secondary/stiglitz-globalization-discontents.txt",
       "tags": [
         "globalization",
         "imf-critique",
         "asymmetric-information",
         "nobel-laureate"
       ],
-      "indexed": false,
-      "indexedAt": null,
+      "indexed": true,
+      "indexedAt": "2026-05-24T18:34:52.491544+00:00",
       "semanticIndexed": false,
-      "semanticModel": null
+      "semanticModel": null,
+      "pages": 137,
+      "indexedPath": "secondary/stiglitz-globalization-discontents.txt"
     },
     {
       "id": "schumpeter-history-analysisocr",
