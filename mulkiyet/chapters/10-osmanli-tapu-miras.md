@@ -119,6 +119,58 @@ Osmanlı mülkiyet sisteminin Avrupa-merkezli mülkiyet teorisinin yanına koyul
 
 Bu üç ders, sonraki bölümde — North, Coase, Ostrom üzerinden modern kurumsal iktisad — daha da geliştirilecektir.
 
+## 10.10 1858 Arazi Kanunnamesi bir Anadolu köyünde
+
+1858 Arazi Kanunnamesi'nin pratik etkilerini somut bir hipotetik köy üzerinden izleyelim. Yer: 1862 Konya yakınlarında, "Yeniköy" adlı 80 hanelik bir Anadolu köyü. Toprak yapısı:
+
+| Önceden (1857) | Kanunname uygulamasından sonra (1865) |
+|----------------|---------------------------------------|
+| 800 dönüm mîrî arazi (köyün geleneksel tasarrufu) | Aynı 800 dönüm, modern *tapu* sicilinde kayıtlı |
+| Her hane ortalama 10 dönüm "tasarruf hakkı" | Her hane "*mülk*" hakkı (satılabilir, devredilebilir) |
+| 50 dönüm köy ortak otlağı | "*Sahipsiz arazi*" sayıldı; bir yerel ağa tarafından özelleştirildi |
+| Sipahi yıllık vergi: ~2.000 akçe | Devlet tapu vergisi + mîrî öşrü ≈ %30 daha yüksek |
+
+Uygulamadan 7 yıl sonra (1865), tipik bir senaryo:
+
+- **Hane 1-30 (zengin köylüler)**: Tapuları kaydettiler, ek topraklar satın aldılar (kasaba tüccarlarından kredi alarak). Pamuk üretimine geçtiler (Manchester pazarına uyumlu).
+- **Hane 31-60 (orta köylüler)**: Tapuları kaydettiler, geleneksel buğday üretimine devam ettiler. Kötü hasat yıllarında borç aldılar; bazıları topraklarının bir kısmını rehin verdi.
+- **Hane 61-80 (yoksul köylüler)**: Tapu kayıt ücretini ödeyemediler, borç-batağına girdiler. 4 yıl içinde topraklarının yarısı, kasabadaki bir tefeciye geçti.
+- **Yeni gelişim**: Köyün 50 dönümlük ortak otlağı, Konya'lı Mustafa Ağa tarafından "*sahipsiz arazi*" olarak başvuru üzerine ona tapulandı. Köylülerin tarihsel kullanım hakkı, modern hukukta tanınmadı.
+
+1875'e gelindiğinde, köyün toprak dağılımı dramatik değişti:
+- Mustafa Ağa: 400 dönüm (eski ortak otlak + borç-karşılığı alınan tarlalar)
+- Hane 1-30: 250 dönüm
+- Hane 31-60: 100 dönüm
+- Hane 61-80: 50 dönüm + ortak alan yok
+
+Önceki *eşit-dağılımlı* tasarruf sistemi, modern *piyasa-yönelimli* mülkiyet sistemine dönüştü. Verimlilik arttı (Mustafa Ağa pamuk + makine getirdi); ama gelir dağılımı bozuldu, küçük köylülük tasfiye oldu, ortak alan yok edildi.
+
+Bu örüntü, Anadolu'nun, Suriye'nin, Filistin'in 1860-1920 dönemini şekillendirdi. Modern "*mülkiyet rejimi modernleşmesi*" çoğu yerde aynı sonucu verdi: kazanan az, kaybeden çok. Bu tarihsel deneyim, sonraki bölümde (Ostrom, Bölüm 11) işlenen "*commons özelleştirilmesinin sosyal maliyeti*" tartışmasının kavramsal kaynağıdır.
+
+## 10.11 Osmanlı kadın mülkiyeti — sicil-i mahkeme verileri
+
+Bölüm 10.5'te ele aldığımız İslâm hukukunun kadın mülkiyet hakları, sicil-i mahkeme arşivlerinden gelen ampirik verilerle desteklenir. Üç bölgesel çalışmadan tipik bulgular:
+
+**Şam, 1700-1860 (Judith Tucker, 1998)**:
+- Mahkemeye kayıtlı tüm mülk işlemlerinin %35-40'ı kadınların adına.
+- Kadınlar arasında: %60 ev/dükkân alım-satım; %25 vakıf kuruculuğu; %15 alacaklı sıfatıyla borç verme.
+- Karşılaştırma: aynı dönemde İngiliz mahkeme kayıtlarında kadın işlem oranı <%10.
+
+**Aintab, 1540-1640 (Leslie Peirce, 2003)**:
+- 16. yüzyıl Antep'inde 300 dolayında kadın-başvuru kayıt edildi.
+- Kadın başvurularının %70'i mülkiyet haklarına ilişkin (miras, kira anlaşmazlığı, vakıf yönetimi).
+- Bir kadın (Khadija bint Ahmad), 1591'de kendi adına kurduğu vakıf ile bir mektep ve şifahane finanse etti — 350 yıl boyunca sürdü.
+
+**Bursa, 17-18. yy (Haim Gerber, 1980; Yvonne Seng, 1996)**:
+- Bursa mahkemelerinde kadın-erkek mülk alım-satım oranı yaklaşık 1:3 (Avrupa standartlarında çok yüksek).
+- Drahoma (*mahr*) sistemi: evlilik sözleşmesinde belirlenen bir miktar, kadının kendi mülkiyetinde kalır; boşanma durumunda alır.
+
+Bu sayılar, modern Müslüman toplumlarda kadın mülkiyet kısıtlamalarının (eğer varsa) *hukuki* değil, *sosyal/kültürel* kaynaklı olduğunu gösterir. İslâm hukuku Osmanlı yorumunda kadın mülkiyetini açıkça koruyordu; ve mahkemeler bu hakları aktif olarak uyguluyordu.
+
+Karşılaştırmalı boyut önemli. Aynı 17. yüzyılda İngiliz *coverture* doktrini, evli kadının tüm mülkünü kocasının kontrolüne devrediyordu; 1882 *Married Women's Property Act*'a kadar İngiliz kadınlarının böyle bir hakları yoktu. Yani 17-19. yüzyıl arasındaki 250 yıl boyunca, Osmanlı kadınları kendi adlarına mülk alıp satabilirken, İngiliz kadınları yapamıyordu.
+
+Bu tarihsel paradoks, modern "*Doğu / Batı kadın hakları*" söylemini sorgular. Hukuksal-tarihsel bakıştan, Osmanlı kadınlarının mülkiyet konumu uzun süreler boyunca Avrupa'lı çağdaşlarından *daha güçlü* olmuştur. 20. yüzyılda durum tersine döndü — Avrupa'da kadın hakları hızla genişledi, Müslüman toplumlarda sosyal kısıtlamalar arttı. Ama hukuki temel, tarihsel olarak Osmanlı'da daha açıktı.
+
 ---
 
 ## Kaynakça

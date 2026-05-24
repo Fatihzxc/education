@@ -119,6 +119,81 @@ Bu dünyalara giriş, bu kitabın asıl ödülüdür. Geride bıraktığım on i
 
 Bir kavramın yirmi beş asırlık seyrini, onunla beraber dolaşmadan anlamak mümkün değildir.
 
+## 12.10 Fikri mülkiyet sayısal — ilaç maliyeti vs erişim
+
+Modern fikri mülkiyet sisteminin yarattığı "*yenilik teşviki vs erişim*" geriliminin somut bir örneği: HIV/AIDS antiretroviral tedavisi.
+
+| Boyut | ABD piyasası (patent altında) | Hindistan jenerik (patent dışı) |
+|-------|------------------------------:|--------------------------------:|
+| Yıllık tedavi maliyeti | $30,000 - $40,000 | $300 - $500 |
+| Etkinlik | Aynı kimyasal bileşim | Aynı kimyasal bileşim |
+| Üretim maliyeti | ~$200 | ~$200 |
+| Mark-up | %15,000+ | %50-100 |
+
+ABD'deki bir hastanın yıllık $30,000 tedavi maliyeti, %95'in üzerinde *fikri mülkiyet rantı*'dır. Üretim maliyeti aynı; fark patent korumasından geliyor. Patent koruması olmadan (Hindistan'da Cipla, Aurobindo gibi jenerik üreticilerden), aynı ilaç 60-100 kat ucuza erişilebilir.
+
+Bu farkın küresel sonuçları derindir. 2000-2010 arasında, Güney Afrika'daki HIV salgını sırasında, patent fiyatları nedeniyle milyonlarca insan tedaviye erişemedi. 2001'de DTÖ TRIPS anlaşmasının Doha Bildirgesi, "*halk sağlığı acil durumunda*" patent zorunlu lisansının verilebileceğini kabul etti. Hindistan, Brezilya, Tayland bu hükmü kullanarak jenerik üretime izin verdi.
+
+İlaç şirketlerinin (Pfizer, GSK, AbbVie) cevabı: "*Patent koruma, milyarlarca dolarlık AR-GE yatırımının geri kazanılması için gereklidir; aksi takdirde yeni ilaç geliştirilemez.*" Bu argüman kısmen haklı; ama Reinert'in (2007, *How Rich Countries Got Rich* — kb-mcp'de mevcut) işaret ettiği şudur: çoğu ilaç AR-GE'si devlet finansmanlı akademik araştırmaya dayanır; özel sektör çoğu zaman son aşama testleri ve pazarlamayı üstlenir. Yani rant, "*yenilik*"in tüm maliyetini değil, sadece son aşama maliyetini karşılar.
+
+Modern reform önerileri: (a) patent sürelerini kısaltma (şu an 20 yıl); (b) zorunlu lisanslama mekanizmasının genişletilmesi; (c) "*prize fund*" modelleri — devlet AR-GE'yi finanse eder, çıktılar kamuya açık olur; (d) açık-kaynak ilaç geliştirme. Hiçbiri henüz baskın olmadı; ama tartışma 21. yüzyılın merkezi mülkiyet sorularındandır.
+
+## 12.11 GDPR vs CCPA vs Çin DSL — üç farklı veri rejimi
+
+Kullanıcı verisinin mülkiyet statüsü hakkında üç büyük yargı yetkisinin farklı düzenlemeleri var:
+
+| Düzenleme | AB GDPR (2018) | Kaliforniya CCPA (2020) | Çin DSL (2021) |
+|-----------|---------------|------------------------|------------------|
+| Temel çerçeve | "*Veri, kullanıcının temel hakkı*" | "*Veri, ticari bir varlık + tüketici hakkı*" | "*Veri, ulusal güvenlik kaynağı*" |
+| Onay (consent) | Açık ve sürekli onay zorunlu | Opt-out mantığı (vatandaş itiraz edebilir) | Belirsiz; çoğu durumda zorunlu paylaşım |
+| Veri-portability | ✓ Zorunlu (taşıyabilirsin) | Sınırlı | ✗ |
+| Sil-me hakkı | ✓ Tam | ✓ Sınırlı | ✗ |
+| Sınır-ötesi transfer | Sıkı denetim | Liberal | Zorunlu yerel-depolama |
+| İhlal cezaları | Yıllık küresel cironun %4'üne kadar | $7,500/ihlal | Belirsiz; yüksek |
+| Mülkiyet türü | "*Kişiliğe içkin*" (Hegel-Radin tarzı) | "*Ticari ama korunabilir*" (hibrid) | "*Devlet egemenlik alanı*" |
+
+Aynı bir kullanıcı verisi — örneğin bir kişinin tarama geçmişi — üç farklı yargı yetkisinde *üç farklı mülkiyet kategorisi*'ne giriyor. AB'de hakikatte *kullanıcıya* aittir; ABD'de ticari bir varlık olarak şirkete yakın aittir; Çin'de devlete aittir.
+
+Bu üç-rejim sistemi, küresel dijital şirketler için bir kabus yarattı. Bir Apple, kullanıcı verisini hem GDPR'a hem CCPA'ya hem Çin DSL'e uydurarak işlemek zorunda. Çoğu zaman, en sıkı standart (GDPR) küresel-uygulama olarak benimsenir; ama bu da Çin pazarındaki konumu sarsabilir (Çin yerel-depolama gerektiriyor, bu da Apple'ı yerli sunucularda Apple iCloud verisi tutmaya zorlamıştır — 2018 sonrası).
+
+Mülkiyet teorisi açısından, üç rejim üç farklı tarihsel geleneğin uzantısıdır:
+- AB: Hegel-Radin kişilik-temelli mülkiyet
+- ABD: Locke-Nozick liberteryen mülkiyet
+- Çin: Konfüçyüs-marksist devlet-merkezli mülkiyet
+
+Yirmi beş asırlık mülkiyet teorisinin farklı kollarının, 21. yüzyıl dijital ekonomisinde paralel hayat sürdürdüğünün somut bir kanıtı.
+
+## 12.12 Karbon vergisi vs cap-and-trade — sayısal karşılaştırma
+
+Ekolojik commons'ın iki temel düzenleyici aracı: Pigou-tarzı *karbon vergisi* ve Coase-tarzı *cap-and-trade*. Aynı çevre hedefini farklı mekanizmalarla peşinde koşarlar.
+
+Hedef: Bir ülkenin sera gazı emisyonunu %30 azaltma (örneğin 1.000 ton CO₂/yıl'dan 700 ton'a).
+
+**Karbon vergisi yöntemi**:
+- Hükümet ton başı $50 vergi koyar.
+- Şirketler, $50'dan daha ucuza emisyon azaltabilen teknolojilere yatırım yapar; daha pahalısı için vergiyi tercih eder.
+- Toplam azaltma: yaklaşık 300 ton (hedefe ulaştığını varsayalım).
+- Hükümet vergi geliri: 700 × $50 = $35,000/yıl.
+- Refah dağılımı: Vergi geliri devletin elinde; kullanım kararı politiktir.
+
+**Cap-and-trade yöntemi**:
+- Hükümet 700 ton emisyon-kredi yaratır, şirketlere tahsis eder (geçmiş emisyona oranla, ya da açık-artırma ile).
+- Şirketler birbirine kredi satabilir. Düşük-maliyetle azaltabilen firmalar, kredilerini yüksek-maliyetlilere satar.
+- Piyasada denge fiyatı oluşur: belki ton başı $50 (vergi senaryosuyla aynı, çünkü aynı marjinal azaltma maliyeti).
+- Hükümet gelirleri: tahsis yöntemine bağlı. Ücretsiz tahsis varsa $0; açık-artırma varsa $35,000 (vergiyle aynı).
+- Refah dağılımı: Verimli şirketler ekstra gelir kazanır (kredilerini satarak); verimsizler ekstra maliyet öder.
+
+Teknik olarak, iki sistem aynı *miktarsal* sonuca varır (300 ton azaltma); aynı *fiyat sinyaline* (ton başı $50); aynı *toplam refah etkisine*. Fark *dağıtımcı*: kim ödüyor, kim alıyor.
+
+Pratik tercih, politik bağlama bağlı:
+- AB: Cap-and-trade tercih edildi (EU ETS, 2005-). Politik gerekçe: vergi sınırların ötesinde uygulanabilir değil; her ülke kendi vergi sistemine kararlı.
+- Britanya Columbia (Kanada): karbon vergisi (2008-). Politik gerekçe: vergi gelirleri tüketici-hane-iadesi olarak dağıtılarak destek alındı.
+- ABD: ne biri ne diğeri federal düzeyde uygulandı. Eyalet-düzeyinde farklı modeller (Kaliforniya cap-and-trade, washington karbon vergisi).
+
+İki sistem arasındaki seçim, *teknik* değil, *politik bir tercihtir*: dağıtımcı sonuçlar, idari kapasiteler, ve seçmen tercihleri belirleyici.
+
+Bu, modern mülkiyet teorisinin pratik bir test alanıdır. Ekolojik commons'ın özelleştirilmesi (cap-and-trade'in yarattığı kirletme-hakkı piyasası), Pigou-tarzı vergi rejimi, ya da Ostrom-tarzı kollektif yönetim (uluslararası bağlayıcı anlaşma) — üçü de kavramsal olarak meşru, ama farklı politik-iktisadi mantıklar üretir. Atmosfer, insan tarihinin en büyük commons'ıdır; ve onun yönetimi, mülkiyet teorisinin yirmi beş asrı boyunca geliştirdiği tüm araçların aynı anda devreye girdiği bir test laboratuvarıdır.
+
 ---
 
 ## Kaynakça

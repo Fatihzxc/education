@@ -133,6 +133,48 @@ Coase-North-Ostrom çerçevesi, mülkiyet kavramının tarihinde önemli bir par
 
 Bu üç katkı, 21. yüzyıl mülkiyet düşüncesinin temel araçlarıdır. Son bölüm bu araçları, çağdaş mülkiyet sorunlarına — fikri mülkiyet, dijital varlıklar, ekolojik commons — uygular.
 
+## 11.10 Coase teoremi nehir-fabrika örneğinde sayısal
+
+Coase teoremini somut bir örnekle çalışalım. Bir nehir kıyısında bir kağıt fabrikası ile bir balıkçılık kooperatifi yan yana faaliyet gösteriyor.
+
+- Fabrika yıllık üretimi: £100,000 kazanç sağlıyor. Tam üretim için nehre günde 1 ton kimyasal salıyor; bu nehri kirletiyor.
+- Balıkçı kooperatifi: temiz nehirde yıllık £150,000 hasılat; ama fabrika tam üretimde olduğu zaman, balık popülasyonu çöküyor, hasılat £0'a düşüyor.
+
+Fabrikanın "*temizlik teknolojisi*" alma maliyeti: yıllık £80,000 (özel filtreler, atık-su arıtma). Bu maliyetle fabrika hâlâ £20,000 kâr eder; balıkçılık tam £150,000'ı geri kazanır.
+
+**Senaryo A: Mülkiyet hakkı fabrikaya verilirse** (kirletme hakkı). Fabrika filtreyi takmak istemez; balıkçılar fabrikaya filtreyi finanse etmeyi teklif edebilir. Fabrika kabul ederse, balıkçılar £80,000 öder, hâlâ £70,000 kazançlı çıkar (£150,000 - £80,000); fabrika hâlâ £100,000 kazanır. Toplam refah: £170,000.
+
+**Senaryo B: Mülkiyet hakkı balıkçılara verilirse** (temizlik hakkı). Fabrika ya filtreyi takmak (yıllık £80,000) ya da üretimi durdurmak zorunda. Filtreyi takar (çünkü £20,000 kâr > £0). Toplam refah: £20,000 + £150,000 = £170,000.
+
+İki senaryoda da *aynı* sonuç gerçekleşir — filtre takılır, balıkçılık kurtarılır, toplam refah maksimize edilir. Tek fark: kim ödediği. A senaryosunda balıkçılar maliyeti üstlenir; B senaryosunda fabrika. Coase'in temel tezi budur: işlem maliyetleri yoksa, mülkiyet haklarının kime atandığı *verimliliği* değil sadece *dağılımı* etkiler.
+
+Tabii gerçek dünya bu kadar temiz değil. İşlem maliyetleri (yüksek avukat ücretleri, çok sayıda balıkçının organize olmasının zorluğu, bilgi asimetrisi) sıfır değil. Coase'in kendisi bunu çok iyi biliyordu; teoremi bir "*soyut sınır*" olarak kurmuş, gerçek politika için "*hangi mülkiyet hakkı düzenlemesi en az işlem maliyetiyle çalışır?*" sorusunu sormuştur.
+
+Modern karbon-emisyon ticareti (EU ETS) bu mantığın küresel ölçekli bir uygulaması: atmosferin "*temiz kalma hakkı*" yasal olarak topluma tanımlandı; kirleten bu hakkı belirli bir fiyata satın almak zorunda. Coase'in 1960'taki kavramsal modeli, 60 yıl sonra dünya iklim politikasının yapı taşı oldu.
+
+## 11.11 Ostrom'un 8 ilkesi — Alanya balıkçılığında somut
+
+Ostrom'un 8 tasarım ilkesi (Bölüm 11.5), Türkiye'nin Akdeniz kıyısındaki Alanya balıkçı kooperatifinde nasıl uygulanıyor? Ostrom kendisi bu vakayı *Governing the Commons*'da inceledi:
+
+| İlke | Alanya'daki uygulaması |
+|------|------------------------|
+| 1. Açık sınırlar | Sadece kayıtlı kooperatif üyeleri Alanya kıyılarında balık avlayabilir (yaklaşık 100 kişi) |
+| 2. Yerel koşullara uyumlu kurallar | Mevsimlik kurallar — kışın bir set rotasyon, yaz başka |
+| 3. Kollektif karar verme | Yıllık kooperatif toplantısı, oybirliği ya da büyük çoğunluk |
+| 4. İzleme sistemi | Kooperatif üyeleri birbirlerinin avlama bölgelerini ve süresini gözlemler |
+| 5. Aşamalı yaptırımlar | İlk ihlalde uyarı; tekrarlanırsa rotasyondan çıkarılır; ciddi ihlalde kooperatif üyeliğinden çıkarılır |
+| 6. Düşük-maliyetli uyuşmazlık çözümü | Kooperatif başkanlığı uyuşmazlıkları çözer; nadiren mahkemeye gider |
+| 7. Yerel kuralların dış tanınması | Türk devleti (Tarım Bakanlığı) Alanya balıkçılık kooperatifini resmen tanır |
+| 8. İç içe geçmiş katmanlar | Alanya kooperatifi, Türk balıkçılık federasyonunun bir parçası |
+
+Sistemin somut işleyişi: yılın başında, balıkçılık alanları (~100 farklı "*nokta*") bir listede sıralanır. Üyeler her gün kendilerine ayrılan noktaya gider. Eğer bir üye kendi noktasında balık bulamazsa, ertesi gün başka bir noktaya geçer; rotasyon böyle ilerler. Yılın sonunda her üye, yıl boyu en verimli noktalarda eşit zaman geçirmiş olur.
+
+Bu sistem, Türk balıkçılık şehirlerinin diğerlerinden farkı: Bodrum'da örneğin, kooperatif yoktur; rekabet doğrudan rakipler arasında. Sonuç: aşırı avlama, yaz aylarında ağ çakışmaları, sezon sonunda balık popülasyonunun çökmesi. Alanya'da bunlar yok.
+
+Bu, *commons trajedisinin* kaçınılabilir olduğunun somut kanıtıdır. Bir kaynağın "*ortak*" olması, onun *otomatik olarak* aşırı kullanılacağı anlamına gelmez. Doğru kurumsal tasarımla — Ostrom'un 8 ilkesinin dikkatli uygulanmasıyla — bin yıllık balıkçı topluluğu, modern kapitalist rekabetin sebep olduğu çöküntüyü önleyebilir.
+
+Bu, modern kalkınma iktisadının önemli bir dersidir. "*Commons özelleştirilmeli*" reçetesi, çoğu zaman yerel topluluğun yüzyıllarca işleyen yönetim kapasitesini yıkar; yerine geçen özel-mülkiyet sistemi daha az verimli ve daha az adil olur. Ostrom'un asıl katkısı, Alanya-tipi modellerin akademik literatüre dahil edilmesi — onların değerinin görünür kılınmasıdır.
+
 ---
 
 ## Kaynakça

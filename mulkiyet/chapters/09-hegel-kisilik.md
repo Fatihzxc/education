@@ -90,6 +90,40 @@ Bu, Anglo-Amerikan liberal geleneğinin (Locke-Smith-Nozick) "mülkiyet mutlakt�
 
 Sonraki bölüm, mülkiyet teorisinin Avrupa'dan dışına çıkıp bir başka kültürel-hukuksal gelenek olan Osmanlı toprak rejimine geçer. Orada görülecek olan, doğa-hukuk ya da diyalektik temelli teorik bir mülkiyet sistemi değil; pratik bir devlet-yönetim tasarımının ürünü olarak gelişmiş bir mülkiyet rejimidir.
 
+## 9.9 Hegel'in üç-mülkiyet biçiminin dijital varlıklara uygulanması
+
+Hegel'in *Besitznahme* (sahiplenme) / *Gebrauch* (kullanma) / *Veräußerung* (devretme) üçlüsü (Bölüm 9.3), 21. yüzyıl dijital varlıkları için ilginç bir test alanı oluşturur. Bir Facebook hesabını ele alalım:
+
+| Hegel'in yetkisi | Facebook kullanıcısı | Facebook (platform) |
+|------------------|----------------------|---------------------|
+| *Besitznahme* (sahiplenme) | ✓ (hesap açma, profil oluşturma) | ✗ (kullanıcı eylemiyle başlatılır) |
+| *Gebrauch* (kullanma) | ✓ (gönderi paylaşma, mesajlaşma) | ✓ (içerik göstermek, algoritma uygulamak) |
+| *Veräußerung* (devretme) | ✗ (hesap satılamaz, başkasına geçirilemez) | ✓ (kullanım haklarını üçüncü taraflara satabilir — reklam) |
+
+Üç yetkinin tamamı kullanıcıda olmadığı için, Hegel'in çerçevesinde *tam* mülkiyet *yoktur*. Kullanıcı sahiplenme ve kullanma haklarına sahip; ama *devretme* — bir mülkiyetin "tam" hâli için Hegel'in kritik gördüğü yetki — Facebook'tadır.
+
+Bu, modern dijital ekonominin yapısal bir mülkiyet açığını gösterir. Hegel'in 1820'deki terminolojisinde, bir Facebook hesabı *tam mülkiyet* değil — kullanıcının bir nevi *Besitz* (zilyetlik) ile sınırlı zayıf bir mülkiyetidir. Platform, *dominium*'a yakın bir konumda.
+
+Bu analiz, modern "*digital sovereignty*" (dijital egemenlik) hareketinin teorik temelidir. AB'nin GDPR (2018) ve DMA (2022) düzenlemeleri, kullanıcının dijital mülkiyetini Hegel'in tam mülkiyet kategorisine yaklaştırma denemesidir — özellikle veri-portability (taşınabilirlik) hakkı, *Veräußerung* yetkisinin sınırlı bir biçimini kullanıcıya verir. Kullanıcı kendi verisini bir platformdan başka bir platforma götürebilir; sözleşmeyi feshedebilir; hesabını tamamen silebilir.
+
+Modern dijital mülkiyetin Hegel-tarzı yeniden-yapılandırılması, henüz tamamlanmadı. Ama soru çerçevesi açık: bir kullanıcı bir dijital hizmette *gerçekten* mülk sahibi mi, yoksa sadece bir *tasarruf hakkı* sahibi mi? Bu, Hegel'in 1820'de sorduğu sorunun 21. yüzyıl versiyonudur.
+
+## 9.10 Radin'in *personhood* teorisinin somut örnekleri
+
+Margaret Jane Radin'in 1982'de yayınladığı "*Property and Personhood*" makalesi (Bölüm 9.7), Hegel'in çerçevesini modern Amerikan hukuk-felsefesine taşıdı. Tezi: bazı mülkiyet biçimleri *kişiliğe içkin* (constitutive of personhood) — kişinin kim olduğunu tanımlayan; diğerleri *ticari* (fungible) — sadece ekonomik değer taşıyan. İki tür farklı hukuksal koruma gerektirir.
+
+Üç çağdaş örnek üzerinde test edelim:
+
+**Yüz tanıma verisi**. Bir kişinin yüzü, onun bedenine ait — onsuz "kim olduğunu" tanımlamak imkânsız. *Kişiliğe içkin* bir veri. Bir şirket bunu izinsiz kullanırsa — örneğin Clearview AI'ın 3 milyar yüz fotoğrafını sosyal medyadan toplaması (2020) — Radin'in çerçevesinde bu, sıradan bir IP ihlali değil; *kişilik ihlali*'dir. AB GDPR, biyometrik veriyi "*hassas veri*" kategorisine alır; bu, Radin'in teorisinin pratik uygulamasıdır.
+
+**Organ bağışı**. ABD ve Türkiye'de bir kişi organlarını satamaz; sadece bağışlayabilir. Çoğu liberteryen bunu eleştirir (Nozick'in çerçevesinde, kendi bedenine sahip olan kişi onu istediği gibi pazarlamalı). Ama Radin'in çerçevesinde, organlar *kişiliğe içkin*'dir; pazarlamak, bir nevi "*kendi kişiliğinin parçasını satmak*". Bu yüzden ticari mülkiyetten farklı muamele görür.
+
+**Dijital miras**. Bir kişi öldüğünde, e-posta hesapları, sosyal medya profilleri, dijital fotoğraf arşivleri ne olur? ABD federal kanunu (Revised Uniform Fiduciary Access to Digital Assets Act, 2015), aile üyelerinin sınırlı erişim hakkı tanır; ama platformların kullanıcı sözleşmeleri (Facebook'un "*memorialization*" politikası) bunu sınırlandırır. Radin'in çerçevesi bir denge önerir: kişisel-bağlantı içeren içerik (özel mesajlar, fotoğraflar) ailenin erişim hakkına; ticari-değerli içerik (etkili hesaplardaki reklam-gelirleri) farklı muameleye tabi olmalı.
+
+Üç örnek, Radin-Hegel çerçevesinin modern hukuksal-felsefi pratikteki gücünü gösterir. Mülkiyet türleri arasındaki ayrım, sadece bir akademik nüans değil; *çok farklı hukuksal koruma rejimleri* gerektirir. Yüz tanıma verisi ile bir gayrimenkul yatırımı, *aynı* mülkiyet kategorisinde olamaz.
+
+Bu çerçeve, 21. yüzyıl mülkiyet hukukunun gelişme istikametidir. Sıradan piyasa-mantığı tüm mülkiyete uygulanamaz; bazı şeyler *insan kişiliğinin parçası* olarak korunmalı. Hegel'in 1820'deki kişilik-temelli mülkiyet teorisi, dijital çağda yeniden merkezi konuma geliyor.
+
 ---
 
 ## Kaynakça

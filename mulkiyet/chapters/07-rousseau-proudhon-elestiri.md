@@ -100,7 +100,7 @@ Bu üç tema, 19. yüzyıl sosyalist düşüncesinin temel taşlarıdır. Marx't
 
 İki gelenek de, Rousseau-Proudhon'un "mülkiyetin meşruiyeti sorgulanabilir" temasını miras alır. Sonraki bölüm, bu sorgulamanın en sistematik versiyonunu — Marx'ın *Kapital*'ini — ele alır.
 
-## 7.9 Proudhon'un kişisel/sermaye ayrımı pratikte — Mondragon
+## 7.10 Proudhon'un kişisel/sermaye ayrımı pratikte — Mondragon
 
 Proudhon'un 1840'taki "*kişisel mülkiyet meşru, sermaye mülkiyeti hırsızlık*" ayrımının (Bölüm 7.5), pratik bir 20-21. yüzyıl uygulamasını görmek için İspanya'nın Bask bölgesindeki Mondragon kooperatif federasyonuna bakmak gerekir.
 
@@ -125,7 +125,7 @@ Tabii sınırları var. Fagor Electrodomésticos 2013'te iflas etti (mutualism f
 
 Yine de, Mondragon Proudhon'un 1840'taki vizyonunun yaşayan örneğidir. Üretim araçları üzerindeki mülkiyet *kollektifleştirilirse*, kapitalist eşitsizlik mekaniği önemli ölçüde sınırlanabilir. Bu, ne tam-devlet sosyalizmi (kurum üyeleri özerk), ne de tam-kapitalist piyasa (kâr-amacı sınırlanmış). Üçüncü bir yol.
 
-## 7.10 Rousseau-Locke çatışması — bir çitleme deneyinde
+## 7.11 Rousseau-Locke çatışması — bir çitleme deneyinde
 
 Locke ve Rousseau'nun zıt çerçevelerini somut bir sahnede görelim. 17. yüzyıl İngiltere'sinde bir köyün ortak otlağı çitleniyor. Aynı olayı iki gözlükten okuyalım:
 
