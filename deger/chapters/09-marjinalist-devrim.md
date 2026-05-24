@@ -46,7 +46,7 @@ Walras'ın denge teorisinin elle tutulur bir sorunu vardır: *Nasıl* tüm fiyat
 
 Walras bunun için bir alegori geliştirir: *tâtonnement* (el yordamı). Bir merkezi-müzayedeci hayal edin. Bir piyasada tüm alıcılar ve satıcılar fiyat-tekliflerini bu müzayedeciye sunar. Müzayedeci başlangıçta bir fiyat ilan eder. Arz ile talep eşit ise, fiyat sabittir; eşit değilse, müzayedeci fiyatı ayarlar. Bu süreç tüm piyasalarda aynı anda gerçekleşir; ekonomi, eş-zamanlı bir "el-yordamı" süreciyle dengesine ulaşır.
 
-Bu alegori, Walras'ın "soyut piyasa" modelinin önemli bir özelliğidir. Gerçek ekonomilerde bir merkezi müzayedeci yoktur; bu yüzden tâtonnement bir gerçek-süreç tasviri değil, bir analitik-modeldir. Ama o analitik model, ekonominin bütününün nasıl denge-noktasına ulaşabileceğini *en azından mümkün*'mütemmün gösterir. Walras'ın projesi, gerçek piyasaların nasıl çalıştığını anlatmak değil; ekonomi bilminin matematik-olarak çözülebilir olduğunu kanıtlamaktır.
+Bu alegori, Walras'ın "soyut piyasa" modelinin önemli bir özelliğidir. Gerçek ekonomilerde bir merkezi müzayedeci yoktur; bu yüzden tâtonnement bir gerçek-süreç tasviri değil, bir analitik-modeldir. Ama o analitik model, ekonominin bütününün nasıl denge-noktasına ulaşabileceğini en azından mantıksal olarak mümkün gösterir. Walras'ın projesi, gerçek piyasaların nasıl çalıştığını anlatmak değil; ekonomi bilminin matematik olarak çözülebilir olduğunu kanıtlamaktır.
 
 Bu çerçeve, 20. yüzyıl ortasında Kenneth Arrow ve Gérard Debreu tarafından tam matematiksel sıkılıkla yeniden ele alınır; *Arrow-Debreu modeli* (1954), Walras'ın programının modern formülasyonudur. Bu model, modern mikroekonominin temel teorik referansıdır.
 

@@ -46,20 +46,20 @@ Marx'ın asıl yeniliği şu noktadadır: kapitalist üretimde işçi *emeğini*
 
 Emek-gücü, kendisi de bir metadır. Her meta gibi, onun değeri de "üretiminde gerekli toplumsal-zorunlu emek-zamanı"dır — yani işçinin (ve ailesinin) hayatını sürdürmek için gereken yaşam araçlarının üretimi için harcanan emek-zamanı. Diyelim ki bu, günde 6 saat tutuyor.
 
-Kapitalist işçiyi 6 saat çalıştırıp gönderirse, hiç kâr yapmaz: ödediği ücret = ürettiği değer. Ama kapitalist işçiyi 12 saat çalıştırırsa — Marx'ın 19. yüzyıl İngiltere için verdiği örnek bu — ne olur?
+Kapitalist işçiyi 6 saat çalıştırıp gönderirse, hiç kâr yapmaz: ödediği ücret = ürettiği değer. Ama kapitalist işçiyi 12 saat çalıştırırsa — Marx'ın 19. yüzyıl İngiltere için verdiği örnek bu — ne olur? Marx, IX. bölümde formülü açıkça yazar:
 
-> "We have seen that the rate of surplus value is represented by the following formulae: Surplus value / s / __ Surplus value / Surplus labour / Variable Capital / Value of labor-power / Necessary..."
+> "Surplus value bears the same ratio to variable capital, that surplus labour does to necessary labour, or in other words, the rate of surplus value, s/v, equals surplus labour / necessary labour."
 >
-> — Marx 1867, s. 314^[4]
+> — Marx 1867, s. 127^[4]
 
-Marx'ın formüllerinin Türkçe açıklaması:
+Türkçe açılımı:
 
-- Yaşam-araçlarını üretmek için gerekli emek = 6 saat → *gerekli emek*
+- Yaşam araçlarını üretmek için gerekli emek = 6 saat → *gerekli emek*
 - Bunun üzerindeki 6 saat = *artı emek*
 - 12 saat çalışma sonunda yaratılan değer = 12 saat-değer
-- İşçiye ödenen = 6 saat-değer (ücret)
-- Kapitalist tarafından el konulan = 6 saat-değer (*artı-değer*)
-- Artı-değer oranı = artı emek / gerekli emek = 6/6 = %100
+- İşçiye ödenen (değişken sermaye, *v*) = 6 saat-değer
+- Kapitalist tarafından el konulan (*s*, artı-değer) = 6 saat-değer
+- *Artı-değer oranı* = s / v = artı emek / gerekli emek = 6/6 = %100
 
 Bu Marx'ın "değer-yaratma" formülü değil; *sömürü oranının* formülüdür. Kapitalist üretimde işçi gerekli emek-zamanından sonra durmaz; kapitalistin sahip olduğu sermaye (alet, fabrika, hammadde), işçiye yalnızca bunlarla birlikte çalışma izni verilmesi karşılığında, artı-zamanı çalıştırma "hakkını" kapitaliste verir.
 
@@ -127,6 +127,6 @@ Sonraki üç bölüm, marjinalist devrimi anlatır: Bölüm 8 Avusturya okulu (M
 
 [^3]: Marx, K. (1867). *Capital* I, s. 19. Teknolojik değişimle emek-zamanının yarıya inmesi, değerin yarıya inmesi sonucunu verir.
 
-[^4]: Marx, K. (1867). *Capital* I, s. 314. Artı-değer oranı formülü: artı-emek / gerekli emek = artı-değer / değişken sermaye.
+[^4]: Marx, K. (1867). *Capital* I, Chapter IX, s. 127. Artı-değer oranı formülü: artı-emek / gerekli emek = artı-değer / değişken sermaye = s/v. Marx'ın *Rate of Surplus Value* başlıklı IX. bölümünde sistematik biçimde işlenir; ayrıca XV. bölüm (Machinery and Modern Industry) bu mantığı teknolojik değişime uygular.
 
 [^5]: Marx'ın "1872'de Marksist olmadığını söylediği" rivayeti Engels'in mektuplarında geçer ve genellikle Paul Lafargue'a referansla anlatılır; tam alıntı kaynağı tartışmalıdır ama anekdot Marx-Engels yazışmalarının geleneğine uygun.

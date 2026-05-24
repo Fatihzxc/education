@@ -136,18 +136,54 @@ Bu eksiklikleri saymak, İbn Haldun'un katkısını küçültmek için değildir
 
 Sonraki bölümlerde Smith'in (Bölüm 5), Ricardo'nun (Bölüm 6) ve Marx'ın (Bölüm 7) projeleri kendi bağlamlarında ele alındığında, İbn Haldun'un teorisinin neden gerçek bir "ilk" olduğu, ve neden Smith'in yine de bir başka şey yaptığı, daha net görünecektir.
 
+## 4.11 Sayısal Laffer: İbn Haldun bir politika reçetesi vermiyor
+
+İbn Haldun'un vergi-üretim ilişkisini, sayısal bir örnekle yürüyelim. Diyelim ki bir bölgenin potansiyel maksimum yıllık üretimi 1000 birim. Aşağıdaki tablo, üretimi vergi oranının bir fonksiyonu olarak modellemeye çalışır:
+
+| Vergi oranı | Üretim (mükellef şevki ile) | Vergi geliri |
+|------------:|---------------------------:|-------------:|
+| %10         | 1000 (tam)                 | 100          |
+| %30         | 950                        | 285          |
+| %50         | 700                        | 350          |
+| %70         | 400                        | 280          |
+| %90         | 100                        | 90           |
+
+Pik gelir %50 dolayında. Reagan-dönemi yorumunda (Arthur Laffer, 1974), bu pik bir *politika hedefi*'dir: "vergi oranını düşürürseniz, gelir artar." Bir restoran peçetesine çizilen eğri, ABD bütçe politikasının bir dayanağı oldu.
+
+İbn Haldun'un argümanı yapısal olarak farklıdır. Bu eğri bir *politika önerisi* değil; bir *hanedan-döngüsü teşhisi*'dir. *Mukaddime*'nin Cilt I s.542 dolayındaki pasaj şöyle der: kuruluş döneminde hanedan az vergi alır (çünkü bedevî alışkanlıklarla gözü-toklukla yetinir); olgunluk döneminde lüks tüketim ihtiyacı arttıkça vergi oranını yükseltir; bu yükseliş, *zorunlu olarak* üretimi sıkıştırır ve uzun-vadede toplam gelirin düşmesine yol açar.
+
+Fark kritik. Laffer, "*optimum noktasını biliyoruz, oraya yönelelim*" der. İbn Haldun, "*hanedan, kaderi gereği, optimum noktasını terk eder ve kendi vergi-tabanını yer*" der. Birinde insan iradesi öne çıkar; ötekinde tarihsel-yapısal bir mecburiyet.
+
+Bu fark, neden İbn Haldun'un 1377'deki argümanını bir "iktisat politikası içgörüsü" olarak okumanın yanıltıcı olduğunu açıklar. *Mukaddime*'nin yazılış amacı tarih ve uygarlık analizidir; bir devlet bakanına "şu kadar vergi alın" demek değil. Reagan ekibinin yaptığı seçici alıntı, modern iktisadın geçmişi kendi sorularına göre yeniden kurgulamasının tipik bir örneğidir.
+
+## 4.12 Hadarî ve bedevî = işbölümü farkı (Smith ile köprü)
+
+Bölüm 4.4'te ele aldığımız hadarî/bedevî ayrımı yüzeyde bir coğrafi-yerleşim ayrımı gibi görünür: kırsal vs kentsel. Ama İbn Haldun'un asıl tezi daha sofistikedir. Ayrım, *işbölümü yoğunluğu* hakkındadır.
+
+Bedevî bir köyde, bir kişi kendi ekmeğini yapar, kendi sandaletini diker, kendi sütünü sağar. Üretim *bütünleşik*: her hane bütün işlerin küçük versiyonlarını yapar. Hadarî bir kentte, *uzmanlaşma* vardır: bir kişi sadece ekmek yapar, başka biri sadece sandalet diker, başka biri sadece süt satar. Her uzman, kendi ürününü diğer uzmanların ürünleriyle değişerek geçinir.
+
+Bu işbölümü, sadece üretim verimini artırmaz; aynı zamanda *emek-değer'i görünür kılar*. Bedevî köyde "kunduracının emeğinin değeri" bir abstraksiyondur — kunduracı yoktur ki. Hadarî kentte ise her emek tipi piyasa-fiyatına çevrilmiştir; "*bir saat kunduracı emeği = bir saat çiftçi emeği*" oranı, pratik bir hesap meselesidir.
+
+Bu noktada İbn Haldun ile Adam Smith arasında doğrudan bir kavramsal köprü vardır. Smith *Wealth of Nations* I.3'te ünlü tezini koyar: "*işbölümünün derinliği, piyasanın büyüklüğüne bağlıdır*" (*the division of labour is limited by the extent of the market*). İbn Haldun, dört yüz yıl önce Cilt II s.37 dolayındaki pasajda aynı tezin bir versiyonunu kurmuştur: kentin nüfusu küçük kaldığında uzmanlaşma yapısı çöker; çünkü her uzmana yetecek alıcı yoktur.
+
+Bu paralelliğin önemi şu: İbn Haldun'un emek-değer tezi, hadarî kentin işbölümü yoğunluğunun *yapısal bir sonucu*'dur. Smith'in Wealth of Nations'taki tezi de aynı yapısal mantığı taşır. Ama Smith bu işbölümü mantığını "doğal" olarak sunar; İbn Haldun ise "*hanedanın belirli bir aşamasının özelliği*" olarak. İkinci okumada, işbölümü ve onun ürettiği emek-değer şeması, döngünün belirli bir noktasında *çöker* (Bölüm 4.5'deki asabiyye-çöküş tezi).
+
+Bu ayrıntı, modern iktisat tarihinin en sık ihmal ettiği noktalardan birisidir. Eğer İbn Haldun'un emek-değer tezini "Smith'ten dört yüzyıl önce" diye okursak, çerçevenin yarısını kaybederiz. Onun tezi, *zaten Smith'in göremediği* bir şeyi gören bir tezdir: ticari toplumun yapılarının evrensel değil, *hanedanın yaşam-evresine bağlı* olduğunu.
+
 ---
 
 ## Kaynakça
 
-[^1]: İbn Haldun (1377/2009). *Mukaddime*, çev. Süleyman Uludağ, Cilt II, s. 695. Dergâh Yayınları.
+*Pagination notu*: Mukaddime alıntıları, Süleyman Uludağ'ın Dergâh Yayınları çevirisinin 3-ciltlik baskısının sayfa numaralarıyla verilmiştir. Köşeli parantez içindeki ikinci sayfa numarası (`[indeks PDF p. X]`), `iktisat-kb` veritabanında yer alan 2-parçaya bölünmüş PDF taramasındaki konumdur; iki numaralandırma arasında sistematik bir kayma vardır.
 
-[^2]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 713. Dergâh Yayınları.
+[^1]: İbn Haldun (1377/2009). *Mukaddime*, çev. Süleyman Uludağ, Cilt II, s. 695 [indeks PDF p. 77 dolayları]. Dergâh Yayınları. "Kesb, insan emeğinin kıymetinden ibarettir" tezinin açılış pasajı.
 
-[^3]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 37. Dergâh Yayınları.
+[^2]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 713 [indeks PDF p. 80 dolayları]. Dergâh Yayınları. "Bir malın kıymeti ve kazancın değeri onu meydana getirmek için harcanan emeğin değeridir."
 
-[^4]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 370. Dergâh Yayınları. Asabiyye-devlet döngüsünün tipik bir geçici örneği — Selçuk, sonra Moğol, sonra Sinhace.
+[^3]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 37 [indeks PDF p. 40-42 dolayları]. Dergâh Yayınları. Şehirlerin "emek pazarı" olarak işlev görmesi; Smith'in "extent of the market" formülasyonundan dört yüzyıl önce.
 
-[^5]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 79. Dergâh Yayınları. Sermaye = donmuş emek tezinin Marx'tan altıyüz yıl önce ortaya konuşu.
+[^4]: İbn Haldun (1377/2007). *Mukaddime*, Süleyman Uludağ çevirisi, Cilt I, s. 370. Dergâh Yayınları. Asabiyye-devlet döngüsünün tipik bir geçici örneği — Selçuk, sonra Moğol, sonra Sanhâce (Almoravid hanedanının arkasındaki Berberi konfederasyonu).
+
+[^5]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 79 [indeks PDF p. 79]. Dergâh Yayınları. Sermaye = donmuş emek tezinin Marx'tan altıyüz yıl önce ortaya konuşu. *(Bu kaynakta print ve PDF numaralandırmaları çakışır.)*
 
 [^6]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 542. Dergâh Yayınları. Düşük vergi ile umran arasında pozitif ilişki — "Laffer eğrisi"nin altıyüz yıl önceki versiyonu.

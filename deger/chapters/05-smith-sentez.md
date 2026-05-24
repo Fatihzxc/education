@@ -118,6 +118,40 @@ Bu yüzden Smith'i okumak — gerçek metnini, modern özetleri değil — değe
 
 Sonraki bölümde, David Ricardo'nun 1817'de Smith'in dağınık sistemini nasıl bir araya getirmeye çalıştığını — ve bu sırada hangi yeni problemleri ortaya çıkardığını — göreceğiz.
 
+## 5.9 "Deer and beaver" deneyi — Smith'in iki-değer kayması net görünür
+
+*Wealth of Nations* I.6'da Smith bir düşünce deneyi kurar. Bir "*ilkel ve kaba avcı toplumu*" (early and rude state of society) varsayalım — sermaye yığılması, toprak mülkiyeti henüz yoktur. Bu toplumda iki tip mal: karaca (*deer*) ve kunduz (*beaver*).
+
+Bir karaca avlamak ortalama 2 saatlik emek; bir kunduz 4 saat. Smith der ki: bu toplumda mübadele oranı doğrudan emek-oranıyla aynı olacaktır. Yani:
+
+> 1 kunduz = 2 karaca
+
+Çünkü hiçbir avcı, başka bir avcının 4 saatlik emek ürününü kendi 2 saatlik emek ürününe değişmez; eşit emek-saatlerine eşit ürün düşmelidir. *Labour embodied* (içerilmiş emek) = *labour commanded* (emredilen emek) burada özdeştir. Smith'in beşinci bölümdeki iki formülasyonu çatışmaz; çünkü kapitalist artığı ve toprak rantı henüz yoktur.
+
+Şimdi Smith aynı toplumu *ileri* bir kapitalist forma çevirir. Kunduz avı için bir tüfek (sermaye) gerekiyor olsun. Tüfek üreten bir kapitalist, avcıya tüfek "kiralar" karşılığında kunduz hasılatının %20'sini ister. Karaca için tüfek gerekmez (elle yakalanır).
+
+Bir avcı 4 saat çalışıp 1 kunduz yakalıyor → kapitaliste 0,2 kunduz veriyor → kendine 0,8 kunduz kalıyor. Yani avcının 4 saatlik emek karşılığı = 0,8 kunduz. *Bir kunduzun değeri (labour-commanded)* = 4 / 0,8 = 5 karaca-saat. Ama *bir kunduzun değeri (labour-embodied)* hâlâ = 4 saat.
+
+İki sayı arasında bir kama: 5 vs 4. Bu kama, Smith'in iki formülasyonunun gelişmiş kapitalist toplumda ayrıldığı noktadır. Kapitalist artığı (1 kunduz / 5 saat-değerinden 1 saat-değeri kadar) bu kamayı oluşturur.
+
+Smith bu hesabı sayısal olarak yapmaz; ama *Wealth of Nations* I.6'da kavramsal olarak tam bunu söyler. Ricardo 1817'de bu kavramı sıkı bir teoreme dönüştürür (Bölüm 6); Marx 1867'de bu kamayı "*artı-değer*" diye yeniden adlandırır (Bölüm 7). İlk avcı-örneği, Smith'in iki formülasyonunun ne zaman çakıştığını ve ne zaman ayrıldığını sayısal olarak gösteren prototiptir.
+
+## 5.10 "Görünmez el" — bir ifadenin uzun hayatı
+
+Smith'in *invisible hand* ifadesi, 20. yüzyıl iktisat reklamcılığının en başarılı parçasıdır. Ama Smith'in kendisi onu sadece üç kez kullanır:
+
+1. *Theory of Moral Sentiments* (1759), IV.1: zenginlerin "*görünmez bir el ile*" zenginliklerini fakirlerle yarı-eşit biçimde paylaştığı tezi. Burada bağlam tüketim eşitsizliğinin bir filozofik teselli.
+
+2. *Wealth of Nations* (1776), IV.2: yerli üreticiyi tercih eden tüccarın "*görünmez el ile*" toplumsal yararı da ürettiği tezi. Bu, Smith'in *protectionist* bir argümanına (sermayenin yurtiçinde kalması) doğal bir tamamlama olarak gelir; salt bir piyasa-iyimserliği değil.
+
+3. *History of Astronomy* (1758, ölüm sonrası 1795 basıldı): Jupiter'in "*görünmez el*"i ile yıldırımın açıklandığı antik mit — mecazî bir kullanım.
+
+Yani Smith'in külliyatında *invisible hand* ne sistematik bir kavramdır, ne de salt-piyasa savunmasının ana terimidir. 20. yüzyıl ortasında — özellikle Chicago okulu (Friedman, Stigler) ve neoklasik refah teoremlerinin (Arrow-Debreu) popüler tezhirlerinde — bu üç-kerelik kullanım, "*Smith'in temel kavramı*" haline getirildi. Smith'in *Wealth of Nations*'da defalarca tekrarladığı *gerçek* tezi — *rekabet, ücret-rant-kâr'ı doğal oranlarına çeker* — bu cazibeli metafor altında neredeyse görünmez oldu.
+
+Bu yanlış-okumanın iki pratik sonucu vardır. Bir, Smith'in "devletin meşru rolleri" (V. kitap: adalet, savunma, eğitim, altyapı, tekel-engelleme) listesi sistematik olarak ihmal edilir. İki, Smith'in ticarî sınıfa karşı sert eleştirileri ("*tüccarlar nadiren bir araya gelmez, ama bir araya geldiklerinde komplo kurmaktan başka bir şey yapmazlar*", WoN I.10) modern Smith-anılırlarında nadiren geçer.
+
+Bir kelimenin nasıl kullanıldığı, sadece bir filolojik mesele değil; bir politik mesele olabilir. Smith'in *invisible hand*'i, bir Aristotelesçi-orta-yolun ifadesi olarak doğdu; bir kapitalist-savunusunun sloganı olarak yaşamaya devam ediyor. Aradaki fark, iki yüz yılın seçici-okuma birikiminin sonucudur.
+
 ---
 
 ## Kaynakça

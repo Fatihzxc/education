@@ -1,6 +1,6 @@
 ## 3.1 13. yüzyıl Paris'i — bir teolog, bir soru
 
-1268 yılı civarında, Paris Üniversitesi'nde Dominik tarikatına bağlı bir teoloji profesörü — Tommaso d'Aquino — *Summa Theologiae*'nin ikinci kısmının ikinci yarısını yazıyordu. Eser, Hristiyan ahlâkının tüm konularını sistematik biçimde ele alacaktı: erdemler, günahlar, adalet biçimleri. Q.77 ve Q.78 (75 ve 76. sorular değil; bu numaralar farklı baskılarda biraz değişir) iki spesifik konuya ayrılır: *satışta hile* (Whether it is lawful to sell a thing for more than its worth?) ve *faiz günahı* (Of the Sin of Usury).
+1268 yılı civarında, Paris Üniversitesi'nde Dominik tarikatına bağlı bir teoloji profesörü — Tommaso d'Aquino — *Summa Theologiae*'nin ikinci kısmının ikinci yarısını yazıyordu. Eser, Hristiyan ahlâkının tüm konularını sistematik biçimde ele alacaktı: erdemler, günahlar, adalet biçimleri. Standart Leonine numaralandırmasında II-II Q.77 ve Q.78 iki spesifik konuya ayrılır: *satışta hile* (Whether it is lawful to sell a thing for more than its worth?) ve *faiz günahı* (Of the Sin of Usury).
 
 Aquinas'ın bu iki sorudaki argümanları, sonraki dört yüzyıl boyunca Avrupa'da iktisadi düşüncenin temeli olacaktır. *Justum pretium* (adil fiyat) öğretisi ve *faiz yasağı*, sadece teolojik birer pozisyon değil; iktisadi davranışın yasal ve kurumsal çerçevesidir. 16. yüzyıla kadar Avrupa şehirlerindeki ticaret kuralları, lonca tüzükleri, kraliyet kararnameleri büyük ölçüde bu öğretiye dayanır.
 
@@ -63,9 +63,9 @@ Aquinas'ın faiz aleyhindeki temel argümanı, *para*'nın doğasından çıkars
 
 Daha somut bir argüman: Bir parayı kullandığınızda, onu *tükettiğiniz* için kullanırsınız. Yani parayı harcamak demek, onun "kullanım" değerini tüketmek demektir. Eğer ben size 10 dinar verirsem ve 11 dinar geri istersem, sizden iki şey istemiş olurum: paranın kendisini (10 dinar) ve paranın kullanımını (1 dinar). Ama paranın kullanımı paranın kendisinden ayrı bir şey değildir; ikisini ayrı satmak, aynı şey için iki kez ücret istemektir — yani adaletsizliktir.
 
-Faiz yasağı, 12. ve 13. yüzyıllarda Latin kilisesinin resmi pozisyonu olduğu için, Avrupa'da kredinin gelişmesi karmaşık dolambaçlı yollardan geçti. Bankerler — özellikle Yahudi ve Lombard tüccarlar — bu yasağa tabi değildi (Yahudiler için kilise yasası uygulanmıyordu; Lombardlar ise resmi olarak günah içinde çalıştığını kabul ediyorlardı). Bir kısım Hristiyan bankerlik, fıkıh-arası kaçışlarla çalıştı: bir borç, "üretken işlere yatırılma" gerekçesiyle örtülürse faiz değil "kâr-paylaşımı" gibi sunulabilirdi.
+Faiz yasağı, 12. ve 13. yüzyıllarda Latin kilisesinin resmi pozisyonu olduğu için, Avrupa'da kredinin gelişmesi karmaşık dolambaçlı yollardan geçti. Yahudi tefeciler kilise yasası dışında oldukları için yasal olarak faiz alabiliyorlardı; ama bu, antisemitik şiddetin tarihinin acı bir parçası haline geldi. Lombard ve Floransa'lı Hristiyan bankerler ise yasağı kontratif kaçışlarla aştı: *census* (gayrimenkul kirası gibi düzenlenen borç), *triple contract* (sözleşmenin üç parçaya bölünerek faizin "risk primi" olarak sunulması), ve sonra *contractum trinius* gibi yapılar. Bir borç, "üretken işlere yatırılma" gerekçesiyle örtülürse faiz değil "kâr-paylaşımı" gibi sunulabilirdi. Skolastik teologların büyük bir kısmı bu yapıları sezdi ama, ticaretin pratik gereği baskısı altında, çoğunu hoş gördü.
 
-15. ve 16. yüzyıllarda, ticaret hacmi büyüdükçe ve kredi ihtiyacı arttıkça, faiz yasağına itiraz pratikte yumuşadı. 1515'te V. Leo'nun bir Papalık kararnamesi *montes pietatis* — kilise denetimindeki düşük-faizli krediler kuran ve yetimleri-dulları finansman ile destekleyen kurumlar — onayladı. Bu, modern kredi sisteminin filizlerinden birisidir.
+15. ve 16. yüzyıllarda, ticaret hacmi büyüdükçe ve kredi ihtiyacı arttıkça, faiz yasağına itiraz pratikte yumuşadı. 1515'te X. Leo'nun Beşinci Lateran Konsili'nde çıkardığı *Inter Multiplices* fermanı, *montes pietatis* — kilise denetimindeki düşük-faizli krediler kuran ve yetimleri-dulları finansman ile destekleyen kurumlar — kurumunu resmen onayladı. Kurumun kendisi 1462'de Perugia'da Fransisken vaizi Michele Carcano tarafından kurulmuştu; X. Leo'nun 1515'teki fermanı, 53 yıllık pratiği teolojik tartışmadan çıkarıp resmî kanon hukukuna dahil etti. Bu, modern kredi sisteminin filizlerinden birisidir.
 
 ## 3.6 Salamanca okulu
 
@@ -108,6 +108,36 @@ Skolastik çerçevenin üç katkısı, sonraki tartışmalarda kalıcı olmuştu
 **3. Salamanca'nın sübjektif fiyat teorisi**. Marjinalist devrim, bu 16. yüzyıl içgörüsünün yeniden keşfidir. Eğer iktisat tarihçileri Salamanca okulunu daha iyi tanısaydı, 1871 "marjinal devrimi" yerine "marjinal yeniden-keşif" terimini kullanmak daha doğru olurdu.
 
 Sonraki bölüm, Aquinas'ın çağdaşı, ama ondan çok daha uzakta ve çok başka bir iktisadi gerçeklik içinde yazan bir başka düşünüre — İbn Haldun'a — gider. Onun *Mukaddime*'sinde göreceğimiz değer-tezi, Aquinas'ın çerçevesinden çok farklı bir yere açılır: emek-değer teorisinin sistematik formülasyonu.
+
+## 3.9 Bir montes pietatis nasıl işliyordu
+
+Skolastik çerçevenin pratiğe ne kadar incelikli sızdığını anlamak için, 1517 Floransa'sında bir *monte di pietà*'da geçen bir hayali kredi olayını izleyelim:
+
+Bir dokumacı dul kadın, kışı geçirmek için 5 florin'e ihtiyaç duyar. Bir Floransa bankerine gitse %30 yıllık faizle borç bulur — ama bu *usura*'dır, kilise yasaktır. Bunun yerine kasaba *monte*'sine gider. Süreç:
+
+1. **Rehin (pegno)**: bir gümüş kupayı teminat olarak verir. Tahmini değeri 7 florin. *Monte* memuru kupayı tartar, kayda geçirir.
+2. **Borç (deposito)**: 5 florin nakit verilir. Asla "faiz" denmez; verilen şey "*depozit*"tir.
+3. **Hizmet ücreti (interesse)**: bir yıllık vade için *monte*'nin işletim maliyetini karşılamak üzere %5-7 ek alınır. Bu *interesse* — "ara-zarar tazmini" — *usura* değil, çünkü kazanç peşinde değil, kurumun ayakta kalmasını sağlama gerekçesi vardır.
+4. **Geri ödeme veya temerrüt**: dul bir yıl sonra 5,35 florin getirirse kupasını alır. Getiremezse, kupa açık-artırmaya çıkar; 6 florin'e satılırsa fazla (0,65 florin) ya dul'a iade edilir, ya da *monte*'nin yoksul-fonuna aktarılır.
+
+Bu yapı, Aquinas'ın faiz yasağının her teknik kuralını tek tek aşar:
+- *Usura* "para için para isteme"dir; *interesse* "verilmeyen alternatifin tazminidir" — ayrı bir kategori.
+- *Monte* bireysel banker değil, kilise-onaylı sosyal kurum; kazanç peşinde değil, ayakta kalma peşinde.
+- Yoksul-fonu mekanizması, kurumu "*hayır* (caritas)" çerçevesine yerleştirir.
+
+Bu yapının arkasındaki dil-oyunu — *usura* değil *interesse*, *banker* değil *monte*, *kazanç* değil *operasyon* — modern faiz teorisinin doğum sancılarının ta kendisidir. 19. yüzyıl sonunda Böhm-Bawerk (Bölüm 8), *interesse*'yi *time-preference* olarak yeniden adlandırdığında, terimin altındaki kurumsal mantık 1462'de Perugia'da kurulmuş olan *monte*'lerden hiç de farklı değildir.
+
+## 3.10 21. yüzyıl justum pretium: COVID hand-sanitizer ve EpiPen
+
+Aquinas'ın "adil-fiyat" çerçevesinin modern dönüşümleri her gün karşımıza çıkar. Üç somut örnek:
+
+**COVID el-dezenfektanı, Mart 2020**. ABD'de New York Eyaleti Başsavcılığı, bir hafta içinde olağan piyasa fiyatının 5-10 katı fiyatla el-dezenfektanı satan Amazon ve eBay satıcılarına 13.000'den fazla *price-gouging* uyarısı gönderdi. Yasal dayanak: NY State'in 1979 tarihli *Price Gouging Statute*'u, "krizdurumunda fahiş fiyat yasaktır" hükmü. Aquinas'ın çerçevesinden bakıldığında: alıcının olağanüstü savunmasız olduğu bir krizde *justum pretium*'tan sapma, bizatihi adaletsizliktir. Modern hukuk bu Skolastik mantığı laikleştirmiştir — etik gerekçe yerine "tüketici koruma".
+
+**EpiPen / Mylan skandalı, 2007-2016**. Mylan firması alerjik şok için kullanılan EpiPen enjektörünün fiyatını 100$'dan 600$'a (altı misli) çıkardı. Üretim maliyeti < 30$. Konvansiyonel marjinalist çerçeve şöyle der: "*tüketici razıysa, fiyat meşrudur*". Aquinas'ın çerçevesi farklı sorar: alıcı (hayati ilaca ihtiyacı olan hasta) gerçekten "*razı*" mıdır, yoksa zorunlu mu? Eğer zorunluluk varsa, fiyatın *üretim maliyetinden ne kadar saptığı* bir adalet sorusudur. ABD Kongresi soruşturma açtı; Mylan CEO'su tanık olarak çağrıldı. Pratik sonuç bir yönetmelik değil, kamuoyu baskısı oldu — ama tartışmanın çerçevesi tam tamına Aquinas'ın *Summa* II-II Q.77 A.1'inde kurduğu çerçevedir.
+
+**Antimicrobial Surge Pricing**, 2015. Turing Pharmaceuticals'ın CEO'su Martin Shkreli, HIV/AIDS hastalarının kullandığı Daraprim ilacının fiyatını gecelik bir karar ile 13,50$'dan 750$'a (55 misli) yükseltti. Aquinas'ın çerçevesinden tam-net bir *adaletsizlik* — alıcının savunmasızlığı azami, satıcının fırsatçılığı azami. Modern hukuk Shkreli'yi başka bir gerekçeyle (yatırımcı dolandırıcılığı) hapse attı; ama Daraprim fiyat-meselesi bir Skolastik test-vakası olarak ekonomi etik literatürünün standart bir parçasıdır.
+
+Üç vaka, ortak bir yapıya işaret eder: modern toplum "*piyasa fiyatı her zaman meşrudur*" tezini *teori*'de kabul ederken, kriz/zorunluluk/asimetri durumlarında *pratikte* Skolastik *justum pretium* mantığına başvurur. Aquinas 1274'te yazdığı çerçeve, 750 yıl sonra, kanun ve kamuoyu sezgisinde hâlâ yaşar.
 
 ---
 

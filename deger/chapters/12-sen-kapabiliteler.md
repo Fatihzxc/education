@@ -6,7 +6,7 @@ Yirmi beş asır boyunca, kavram farklı pencerelerden gözlendi. Ama bir başka
 
 Bu son soru, Amartya Sen'in (1933-) 1980'lerden itibaren işlediği temayı oluşturur. Sen'in projesi, "değer" sözcüğünü iktisadi-teknik anlamından geri çekip, yeniden daha geniş bir alana — *insan yetkinleşmesinin* alanına — döndürmek. Sen'in çerçevesi, dolaylı olarak, kitabın açılışında Aristoteles'in *eudaimonia* kavramına geri döner.
 
-Bu son bölüm, Sen'in *kapabilite yaklaşımı*'nı ele alır. Yaklaşımın merkezi eseri olarak *Development as Freedom* (1999) okunur; ama Sen'in tezleri 1980'lerin başından beri olgunlaşmıştır (*Inequality Re-examined*, 1992; *Commodities and Capabilities*, 1985). Sen, 1998 Nobel iktisat ödülünü "*sosyal seçim teorisi ve refah ekonomisine katkılarından dolayı*" almıştır; ama onun çalışmaları, iktisadi-teknik kapsamı çoktan aşmıştır.
+Bu son bölüm, Sen'in *kapabilite yaklaşımı*'nı ele alır. Yaklaşımın merkezi eseri olarak *Development as Freedom* (1999) okunur; ama Sen'in tezleri 1980'lerin başından beri olgunlaşmıştır (*Inequality Re-examined*, 1992; *Commodities and Capabilities*, 1985). Sen, 1998 İsveç Merkez Bankası iktisat ödülünü (Riksbank Prize) "*refah ekonomisine katkılarından dolayı*" aldı; ödül gerekçesi bilhassa sosyal seçim teorisi ve yoksulluk-eşitsizlik ölçümü üzerine vurgu yapar. Onun çalışmaları iktisadi-teknik kapsamı çoktan aşmıştır.
 
 ## 12.2 Geliri eleştirmek
 
@@ -26,7 +26,7 @@ Sen'in alternatif çerçevesi iki temel kavrama dayanır:
 
 **Functioning** (fonksiyonlama, gerçekleşim): bir kişinin yapabildiği veya olabildiği bir şey. *Yapabilmek*: çalışmak, oy kullanmak, hareket etmek. *Olabilmek*: sağlıklı, iyi-beslenmiş, okuryazar, saygıdeğer olmak.
 
-**Capability** (kapabilite, yetenek-vergisi): bir kişinin *gerçekleştirebileceği* fonksiyonlamalar kümesi. Bir kişinin gerçekten ne yaptığı değil, *gerçekleşebilirliği elinde olan* ne olduğu.
+**Capability** (kapabilite, yetenek seti): bir kişinin *gerçekleştirebileceği* fonksiyonlamalar kümesi. Bir kişinin gerçekten ne yaptığı değil, *gerçekleşebilirliği elinde olan* ne olduğu.
 
 > "The concept of 'functionings,' which has distinctly Aristotelian roots, reflects the various things a person may value doing or being. The valued functionings may vary from elementary ones..."
 >

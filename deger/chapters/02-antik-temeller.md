@@ -35,7 +35,7 @@ Bu ayrımın iktisat tarihindeki yansıması derindir. Skolastik düşünce (Bö
 
 Birincil kullanım, *chrēsis* (kullanım); ikincil kullanım, *metablētikē* (mübadele). İkisi de meşrudur — bir kişi sandaleti kullansa da satsa da yanlış bir şey yapmaz. Ama bu iki kullanım arasında bir hiyerarşi vardır: ikincil kullanım birincil kullanımı önceleyemez. Sandalet öncelikle giyilmek için vardır; satılması ikincil bir olgudur.
 
-Smith'in 1776'da yaptığı, 1872'de Marx'ın daha keskinleştirdiği, *use value / exchange value* ayrımı, doğrudan Aristoteles'in bu pasajına dayanır. Schumpeter'ın deyişiyle:
+Smith'in 1776'da yaptığı, 1867'de Marx'ın daha keskinleştirdiği, *use value / exchange value* ayrımı, doğrudan Aristoteles'in bu pasajına dayanır. Schumpeter'ın deyişiyle:
 
 > "the Aristotelian distinction between value in use and value in exchange was [the starting point]"
 >
@@ -119,6 +119,36 @@ Aquinas'ın 13. yüzyılda Aristoteles'i Hristiyan teolojisine entegre edişi, b
 Aristoteles'in Yunan-konuşan kentlerinden Latin-konuşan üniversitelere yolculuğu, sadece bir kültürel tarih meselesi değil; iktisadi düşüncenin tarihinin de bir omurgasıdır. Bir filozofun M.Ö. 4. yüzyılda ortaya attığı sorular — *kullanım ve değişim ayrımı, eşitlik, ölçü, ekonomik etkinliğin doğası* — kendisinden sonraki binlerce yıl boyunca yanıtlanmaya çalışılır. Ve her dönemin değer-teorisi, bu soruların kendi yanıtıdır.
 
 Sonraki bölüm bu yanıtların ilkini ele alır: 13. yüzyılda Thomas Aquinas'ın *justum pretium* (adil fiyat) öğretisi ve Skolastik fiyat teorisi.
+
+## 2.9 Sandalet-tahıl: Aristoteles'in çözemediği oran
+
+*Nikomakhos'a Etik* V.5'in temel sorusunu sayısal bir örnekle deneyelim. Bir kunduracı bir sandalet yapmak için 4 saat çalışır. Bir çiftçi 1 kile tahıl için 1 saat çalışır. Aristoteles'in oran formülünü ("çiftçinin emeği sandaletçinin emeğine nasılsa, ürünleri de o şekilde değişir") doğrudan uygularsak:
+
+> 1 sandalet = 4 kile tahıl
+
+Bu pürüzsüz görünür, ama derin bir karışıklık örtülmüştür. *Hangi* emeğin saatleri sayılıyor? Üç olası okuma:
+
+1. **Saf emek-saat (Schumpeter okuması)**: harcanan fiziksel zaman. 4 saat = 4 saat. Bu okumada Aristoteles bir emek-değer teorisinin atasıdır; Smith ve Marx onu eksiksiz miras alır.
+
+2. **Toplumsal pazarlık (Polanyi okuması)**: Antik şehirdeki *isotēs* salt teknik bir oran değil; bir *normatif düzen*'in mübadeleye yansımasıdır. Sandaletçi ile çiftçi eşit *vatandaş* olarak tanınır; oran, bu eşitliğin pazardaki ifadesidir. Bir köle ile bir hür adam mübadele yapsa, "eşit" oran kurulmaz, çünkü kişiler eşit değildir. Bu okumada, mübadele *gömülü* (embedded) — sosyal yapıdan ayrılamaz.
+
+3. **Beceri-derecesi (Meikle okuması)**: bir sandaletçinin 4 saati ile bir çiftçinin 1 saati nitelikçe farklıdır. Aristoteles oran formülünü yazarken "saatler" değil, "*katkıların toplumsal tanınması*"nı ima eder. Bu okumada, formül salt aritmetik değil; daha çok bir *adalet ölçüsü*'nün gerekliliğine işarettir.
+
+Aristoteles bu üç okumadan hangisini kastettiğini netleştirmez. Pasajda iki cümle sonra şöyle der: "*Bu mümkün olmaz, gerçekte; ama para sayesinde, mümkünmüş gibi yapabiliriz.*" Yani Aristoteles'in kendisi, oran formülünün tam tutarlı olamayacağını sezer. Para, *yapay bir eşitlik kurma aracı*'dır — gerçek bir doğa-yasası değil, bir toplumsal-kurum.
+
+Bu farkındalık, sonraki tüm değer-teorisi tartışmalarının altında yatan epistemik soruyu açıklığa kavuşturur. Smith'in 1776'da "değer iki türlüdür" demesi, Marx'ın 1867'de "değer toplumsal bir ilişkidir" demesi, ve Menger'in 1871'de "değer öznedir" demesi — üçü de Aristoteles'in V.5'deki çözememeye verilen üç ayrı cevaptır.
+
+## 2.10 Chrematistic'in yirmi-birinci yüzyıl yansımaları
+
+Aristoteles'in *chrematistic* eleştirisinin pratik testini bugün rahatça yapabiliriz. Hangi etkinlikler "doğal sınırı olmayan" para-için-para mantığını taşır?
+
+**Yüksek-frekanslı ticaret (HFT)**. Mikrosaniyelik fiyat-farklarından kazanç sağlama. Bir HFT firması mal üretmez, hizmet sunmaz; piyasa içinde sadece bir bilgi-arbitrajını otomatize eder. Aristoteles için bu, *chrematistic*'in saf hâlidir: hane-geçimine ya da somut bir kullanım-değerine bağlanmadan, para parayı doğurur. Polanyi'nin (1944, *The Great Transformation*) söyleyişiyle, "piyasanın embedded olmaktan disembedded olmaya geçişi" tam burada görünür.
+
+**Türev-üzerine-türev sözleşmeleri**. CDO² ya da synthetic CDO'lar (2008 krizinin habercisi): kredi-temerrüt riskinin kendi üzerine inşa edilen ikinci-derece spekülatif yapıları. Bir konutun ödenmeyen mortgage'ı, somut bir şey üretmeden onlarca finansal araç üzerinden el değiştirir. Aristoteles'in soracağı soru: "*Bu, hangi haneyi geçindiriyor?*" Hiçbiri.
+
+**Dijital reklam ekonomisi**. Bir kullanıcının dikkat-saatleri yapay-zekâ algoritmalarıyla maksimize edilip reklam-verene satılır. Üretilen "ürün" — kullanıcı dikkati — Aristoteles'in *chrēsis* (kullanım) çerçevesine sığmaz. Bir köprü inşa eder gibi değil; bir kullanım-amacı olmayan bir nesne icat eder gibidir.
+
+Bu üç örnekte ortak olan, Aristoteles'in tezhinin modern bir yankısıdır: ekonomik faaliyetin somut bir *kullanım amacına* bağlı kalması gerektiği fikri. Bu fikir 21. yüzyılda "stakeholder kapitalizmi", "ESG (çevresel-sosyal-yönetişim) yatırım", ve "post-büyüme iktisadı" (Tim Jackson, Kate Raworth) tartışmalarında doğrudan canlandırılır. Aristoteles'in M.Ö. 4. yüzyıldaki *oikonomia*/*chrematistic* ayrımı, iki bin dört yüz yıl sonra, hâlâ tartışmanın çerçevesini sağlar.
 
 ---
 

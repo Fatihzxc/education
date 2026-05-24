@@ -16,13 +16,13 @@ Yolculuk için iyi bir başlangıç noktası, Adam Smith'in 1776'da yazdığı b
 
 Suyun *value in use*'u (kullanım değeri) yüksektir; susuz yaşanmaz. Ama *value in exchange*'i (değişim değeri) düşüktür; bir bardak su karşılığında neredeyse hiçbir şey alamazsınız. Elmas tersi: hayati hiçbir işe yaramaz, ama küçük bir parçası bir köyü satın alabilir. Smith bu çelişkiye bir isim vermez; sadece "iki *value*" olduğunu söyleyip geçer.
 
-Sonraki iki yüzyıl, bu sessiz çelişkinin bağırarak konuşulduğu yüzyıllar oldu. 1871'de Carl Menger ve aynı yıl William Jevons paradoksu çözdüklerini ilan ettiler — onlara göre suyun "kullanım değeri yüksek ama değişim değeri düşük" demek bir kategori karışıklığıydı: değerlenen *ne kadar* su olduğuyla ilgilidir, *prensipte su mu* değildir. Bir bardak suyun marjinal faydası, bir Karaylık çölünde mahsur kalmış birisi için sonsuza yakındır; aynı bardağın marjinal faydası bol sulu bir New England çayırında neredeyse sıfırdır.^[2]
+Sonraki iki yüzyıl, bu sessiz çelişkinin bağırarak konuşulduğu yüzyıllar oldu. 1871'de Carl Menger ve aynı yıl William Jevons paradoksu çözdüklerini ilan ettiler — onlara göre suyun "kullanım değeri yüksek ama değişim değeri düşük" demek bir kategori karışıklığıydı: değerlenen *ne kadar* su olduğuyla ilgilidir, *prensipte su mu* değildir. Bir bardak suyun marjinal faydası, Sahra çölünde mahsur kalmış birisi için sonsuza yakındır; aynı bardağın marjinal faydası bol sulu bir New England çayırında neredeyse sıfırdır.^[2]
 
 Bu çözüm — *marginal utility revolution* — Smith'in cümlesini bir asır sonra kavramsal olarak temizledi. Ama Smith'in paradoksunu kabul ettiğimiz an, bir öncekini kabul etmiş oluyoruz: değer ile yararlılık birbirinden ayrı şeylerdir. İkisi aynı anda var olabilir; aynı şeyde farklı yönlerde hareket edebilir.
 
 ## 1.3 Aristoteles'in temel ayrımı
 
-Smith'in farkına vardığı ayrım yenideğil. Ona iki bin yıl önce Aristoteles işaret etmişti. *Politika* I.9'da Aristoteles şöyle bir örnek verir: bir sandalet hem giyilebilir (kullanım amacı) hem de para karşılığı satılabilir (değişim amacı). Sandalet üreten kunduracı, sandaletin *birinci* amacının giyilmek olduğunu unutmamalıdır; satmak ikinci, türemiş bir amaçtır. Bu ikincil amaç birincil amacın önüne geçtiğinde, üretim *chrematistic* — saf kazanç peşinde koşan, doğal sınırı olmayan bir etkinlik — haline gelir; Aristoteles'e göre bu "doğal değil"dir.^[3]
+Smith'in farkına vardığı ayrım yeni değil. Ona iki bin yıl önce Aristoteles işaret etmişti. *Politika* I.9'da Aristoteles şöyle bir örnek verir: bir sandalet hem giyilebilir (kullanım amacı) hem de para karşılığı satılabilir (değişim amacı). Sandalet üreten kunduracı, sandaletin *birinci* amacının giyilmek olduğunu unutmamalıdır; satmak ikinci, türemiş bir amaçtır. Bu ikincil amaç birincil amacın önüne geçtiğinde, üretim *chrematistic* — saf kazanç peşinde koşan, doğal sınırı olmayan bir etkinlik — haline gelir; Aristoteles'e göre bu "doğal değil"dir.^[3]
 
 Schumpeter'ın değerli rehberi *History of Economic Analysis*'da bu ayrım modern iktisadın tüm "değer" tartışmalarının kökeninde yatar:
 
@@ -109,6 +109,30 @@ Her bölüm, bir önceki argümana itiraz olarak değil, *üzerine* — kabul et
 Her bölümün ortak özelliği şudur: birincil metinden — Smith'in kendi cümlesinden, Marx'ın kendi cümlesinden, Menger'in kendi cümlesinden — başlayan, oradan tarihçi yorumlara ve sonraki ardılların eleştirilerine açılan, ve sondaki dipnotlarla okunan kişiyi orijinal kaynağa götürebilen bir yapı. Bu kitap, değer kavramı üzerine yazılmış pek çok kitaptan birisi olmaktan çok, *o kitapların okunması için bir kılavuz* olmaya çalışır.
 
 Bir kelimenin yirmi beş asırlık seyrini, onunla beraber dolaşmadan anlamak mümkün değildir.
+
+## 1.9 Su-elmas paradoksunun sayısal yürüyüşü
+
+Marjinalist çözümün kavramsal güzelliği, sayısal bir örnekte açıkça görünür. Bir kişinin elinde aşağıdaki gibi *azalan marjinal fayda* dağıldığını varsayalım (faydayı 0-100 arası bir önem-derecesi olarak ölçüyoruz):
+
+| Birim | Suyun MU | Elmasın MU |
+|-------|----------|------------|
+| 1     | 100      | 90         |
+| 2     | 60       | 80         |
+| 3     | 30       | 70         |
+| 4     | 5        | 60         |
+| 5     | 1        | 50         |
+
+İlk bardak suyun marjinal faydası 100 — susuzluktan ölmek söz konusu. İlk elmasın marjinal faydası 90 — değerli ama hayati değil. Burada hâlâ su pahalı olmalı gibi görünür.
+
+Ama dünyada genellikle su *çok bol*, elmas *çok kıt* miktarda bulunur. Diyelim ki bir kişinin 100 birim suyu var, 0 elması. Onun *son* (yüzüncü) bardak suyunun marjinal faydası ≈ 0; çünkü ilk yetmiş bardakta zaten doymuştur. Onun ilk elmasının marjinal faydası ise 90. Mübadele için anlamlı oran:
+
+> 1 elmas ≈ 90 / 0 → sonsuza yakın su birimi
+
+Yani 100 birim suyunuz varsa, ilk elmas için kolayca 30-40 bardak suyu vermeye razı olursunuz. Tersi: ilk bardak su için bir elmas vermeye razı olmazsınız (çünkü ilk elmasın MU'su = 90, ilk bardak suyunki ise — *zaten 99 bardağınız varken* — ≈ 0).
+
+Smith'in paradoksu burada çözülür: *suyun toplam faydası* (ilk bardağın 100 + sonrakilerin) elmastan büyüktür; ama *son bardağın marjinal faydası* sıfıra yakındır. Piyasa fiyatı toplam faydaya değil, marjinal faydaya bakar. Bu, Bölüm 9'da Walras ve Jevons'ın matematik olarak formelleştireceği fikrin sezgisel çekirdeğidir.
+
+Aynı tablo, bir kez ek bir senaryo eklediğinizde — diyelim ki çölde 0 bardak suyunuz var — derhâl çeviriyor: çölde ilk bardak suyun MU'su 100, ilk elmasın MU'su (giyilemez, içilemez) belki 10. *Bağlam* değişti, oran tersine döndü. Aristoteles'in *kullanım* sorusu burada saklıdır: bir şeyin doğal amacının ne kadar karşılandığı, marjinal fayda eğrisinin hangi noktasında olduğunuzu belirler.
 
 ---
 
