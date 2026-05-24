@@ -1,0 +1,102 @@
+{
+  "title": "Egemenlik ve modern devletin doğuşu",
+  "subtitle": "Aristoteles'ten Foucault'ya — egemenliğin yirmi beş asırlık seyri",
+  "chapters": [
+    {
+      "num": 1,
+      "slug": "01-niye-egemenlik",
+      "title": "Niye \"egemenlik\"?",
+      "subtitle": "Terimin çoğul yüzü ve okumanın çerçevesi",
+      "estWords": 2000,
+      "status": "draft"
+    },
+    {
+      "num": 2,
+      "slug": "02-antik-temeller",
+      "title": "Antik temeller",
+      "subtitle": "Aristoteles politeia, Roma imperium ve auctoritas",
+      "estWords": 2000,
+      "status": "draft"
+    },
+    {
+      "num": 3,
+      "slug": "03-ortacag-iki-kilic",
+      "title": "Ortaçağ ve \"iki kılıç\" doktrini",
+      "subtitle": "Augustinus, Aquinas, papa-imparator çatışması",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 4,
+      "slug": "04-ibn-haldun-devlet",
+      "title": "İbn Haldun ve devlet teorisi",
+      "subtitle": "Mukaddime'de mülk, asabiyye, hanedan döngüsü",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 5,
+      "slug": "05-machiavelli-laiklestirme",
+      "title": "Machiavelli ve egemenliğin laikleşmesi",
+      "subtitle": "Il Principe 1532 — virtù, fortuna, devlet aklı",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 6,
+      "slug": "06-bodin-soverenlik",
+      "title": "Bodin ve soverenliğin formülasyonu",
+      "subtitle": "Six Livres 1576 — mutlak, sürekli, bölünmez güç",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 7,
+      "slug": "07-hobbes-leviathan",
+      "title": "Hobbes ve Leviathan",
+      "subtitle": "1651 — sosyal sözleşme ve mutlak egemenlik",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 8,
+      "slug": "08-locke-montesquieu-rousseau",
+      "title": "Sınırlı egemenlik — Locke, Montesquieu, Rousseau",
+      "subtitle": "Halkın egemenliği ve kuvvetler ayrılığı",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 9,
+      "slug": "09-osmanli-padisah-hilafet",
+      "title": "Osmanlı devleti — padişah, hilafet, sultanlık",
+      "subtitle": "Egemenliğin pratik İslâm-Türk çerçevesi",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 10,
+      "slug": "10-hegel-devlet",
+      "title": "Hegel ve devlet idealizmi",
+      "subtitle": "Philosophy of Right — etik yaşamın zirvesi olarak devlet",
+      "estWords": 2000,
+      "status": "pending"
+    },
+    {
+      "num": 11,
+      "slug": "11-weber-schmitt-foucault",
+      "title": "Weber, Schmitt, Foucault — modern devlet sosyolojisi",
+      "subtitle": "Meşru zor tekeli, istisna hâli, biyo-iktidar",
+      "estWords": 2200,
+      "status": "pending"
+    },
+    {
+      "num": 12,
+      "slug": "12-bugun-kuresel-egemenlik",
+      "title": "Bugün — küresel egemenlik, uluslar-üstü yapılar",
+      "subtitle": "21. yüzyılda ulus-devletin krizi",
+      "estWords": 2000,
+      "status": "pending"
+    }
+  ]
+}

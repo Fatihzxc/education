@@ -48,6 +48,15 @@
       status: 'completed',
       primaryAuthors: ['Aristoteles', 'Aquinas', 'İbn Haldun', 'Locke', 'Smith', 'Marx', 'Hegel', 'Proudhon', 'Ostrom'],
     },
+    {
+      slug: 'egemenlik',
+      title: 'Egemenlik ve modern devletin doğuşu',
+      subtitle: 'Aristoteles\'ten Foucault\'ya',
+      description: 'Egemenliğin antik kökeninden modern devlete — Bodin, Hobbes, Hegel, Weber, Schmitt, Foucault hattı.',
+      chapterCount: 12,
+      status: 'draft',
+      primaryAuthors: ['Aristoteles', 'İbn Haldun', 'Machiavelli', 'Bodin', 'Hobbes', 'Locke', 'Rousseau', 'Hegel', 'Weber', 'Schmitt', 'Foucault'],
+    },
   ];
 
   console.log('[theme-registry] Loaded', window.MerkantilizmThemes.length, 'themes');
