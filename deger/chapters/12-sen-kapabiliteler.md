@@ -120,6 +120,89 @@ Bu dünyalara giriş, bu kitabın asıl ödülüdür. Geride bıraktığım on i
 
 Bir kelimenin yirmi beş asırlık seyrini, onunla beraber dolaşmadan anlamak mümkün değildir.
 
+## 12.10 HDI nasıl hesaplanır — iki ülke karşılaştırması
+
+Sen ile Mahbub ul Haq'ın 1990'da BM için tasarladığı *İnsani Gelişme Endeksi* (HDI), kapabilite yaklaşımının pratik tercümesidir. Üç boyut ve onları temsil eden göstergeler:
+
+| Boyut             | Gösterge                                  |
+|-------------------|-------------------------------------------|
+| Sağlık            | Yaşam beklentisi (doğumda, yıl)            |
+| Bilgi             | Beklenen eğitim yılı + Ortalama eğitim yılı |
+| Yaşam standardı   | Kişi başı GNI (PPP-düzeltilmiş, log alınır) |
+
+Her gösterge önce 0-1 aralığına normalleştirilir (min ve maks değerler sabit referanslara göre). Sonra üç boyutun *geometrik ortalaması* alınır — sıradan aritmetik ortalama değil; bu, bir boyutta düşük performansın diğerleriyle "telafi edilemez" olduğunu vurgular.
+
+İki çağdaş ülke ile yürüyelim (2022 verileri yaklaşık):
+
+| Gösterge                  | Norveç     | Bangladeş   |
+|---------------------------|-----------:|------------:|
+| Yaşam beklentisi          | 83,2 yıl   | 72,4 yıl    |
+| Beklenen eğitim yılı       | 18,2       | 12,4        |
+| Ortalama eğitim yılı       | 13,0       | 7,4         |
+| Kişi başı GNI (PPP $)      | 64,660     | 5,720       |
+
+Normalize edilmiş indeksler (kabaca):
+- Sağlık (yaşam beklentisi): Norveç (83,2-20)/(85-20) ≈ 0,972; Bangladeş (72,4-20)/65 ≈ 0,806
+- Bilgi (iki eğitim gösterge ortalaması): Norveç ≈ 0,925; Bangladeş ≈ 0,521
+- Yaşam standardı: log(64660)/log(75000) ≈ 0,989; log(5720)/log(75000) ≈ 0,773
+
+Geometrik ortalama:
+- Norveç HDI ≈ (0,972 × 0,925 × 0,989)^(1/3) ≈ 0,961
+- Bangladeş HDI ≈ (0,806 × 0,521 × 0,773)^(1/3) ≈ 0,693
+
+Norveç dünya sıralamasında 2.; Bangladeş 129. Bu *HDI* sıralaması, salt-GSYİH sıralamasından önemli farklılıklar gösterir. Örneğin Suudi Arabistan kişi başı GNI bakımından Norveç'in yaklaşık üçte birinde olsa da, eğitim ve yaşam beklentisinde daha düşük performansından dolayı HDI'da daha geride yer alır.
+
+Sen'in kavramsal hamlesi tam burada görünür hale gelir: bir ülkenin "*kalkınmışlığı*" tek-boyutlu (gelir) bir sayı değil, çok-boyutlu bir kapabilite portresidir. HDI bu portreyi *tek* bir sayıya zorla indirgiyor olsa da — kendi sınırlarını içerir — yine de salt-gelir göstergesinden köklü bir ayrımdır.
+
+**HDI'ın eleştirisi**. Sen'in kendisi HDI'ı bir "*pratik kompromisi*" olarak gördü. Pek çok kapabilite (politik özgürlük, cinsiyet eşitliği, çevre kalitesi) HDI'ın dışında kalır. UNDP daha sonra ek endeksler — *Inequality-adjusted HDI, Gender Inequality Index, Multidimensional Poverty Index* — geliştirdi; ama her ek endeks, modelin karmaşıklığını artırırken, *politik karar-verme* için pratik olma özelliğini azaltır. Sen'in çerçevesinin operasyonel zorluğu (Bölüm 12.7) burada somut hale gelir.
+
+## 12.11 Kapabilite yaklaşımı ve UBI tartışması
+
+21. yüzyılda *Universal Basic Income* (UBI — şartsız temel gelir) tartışması, Sen'in çerçevesinin doğrudan bir test-vakasıdır.
+
+UBI önerisi (Anthony Atkinson 1995, Guy Standing 2017, Andrew Yang 2020): her vatandaşa, hiçbir şart aranmadan, ay sonu sabit bir miktar para ödenmesi. Türev-versiyonları: *Negative Income Tax* (Friedman 1962), *Citizen's Dividend* (alaska modeli), *Job Guarantee* (Modern Monetary Theory tarafından alternatif olarak öne sürülür).
+
+UBI'nin kapabilite çerçevesinden iki okuması mümkün:
+
+**Lehinde okuma**: UBI bir kapabilite-genişleticidir. Bir kişinin bir işi reddetme kapasitesi (kötü, tehlikeli, ahlâksız bir iş için "*hayır*" deme) önemli bir kapabilitedir. Çağdaş emek piyasasında, çoğu işçi geçim baskısı altında bu kapasiteden yoksundur. UBI, bu kapasiteyi geri verir. Aynı şekilde, *fırsat-eğitimi*, *aile kuruluşu*, *sanatsal-yaratım* gibi pek çok kapabilite, geçim baskısı altında daralır; UBI bunları açar.
+
+**Aleyhinde okuma**: Sen'in argümanı şudur — *gelir* önemli ama yeterli değildir; sağlık, eğitim, özgürlük hizmetleri de gerekli (Bölüm 12.2). Eğer UBI sosyal hizmetleri *yerine geçerse* (Friedman'ın "*negative income tax + minimal devlet*" versiyonu), kapabilite-seti aslında daralır. Çünkü bir kişi cebinde 1000 lira ile, eğer hastanede ödenebilir bir sağlık hizmeti yoksa, sağlık-kapasitesini gerçekleştiremez. Sen'in çerçevesi UBI'ya *kategorik olarak* karşı değildir; ama UBI'ı sosyal hizmetlerin yerine değil, *yanına* koymayı önerir.
+
+Bu iki okuma, UBI tartışmasının iki politik kanadıyla örtüşür. Sol/sosyal-demokrat kanat (Atkinson, Standing): UBI + güçlü kamu hizmetleri. Liberteryen kanat (Charles Murray): UBI - kamu hizmetleri. Sen'in kapabilite çerçevesi, ilkini destekler; ikincisine teorik olarak şüpheyle bakar.
+
+**Ampirik veriler**. 2017-2019'da Finlandiya'da yapılan UBI deneyi, alıcılarda *gelir-iyileşmesi* sınırlı ama *iyi-oluş* (well-being, mental sağlık) önemli iyileşmesi gösterdi. Kenya'da GiveDirectly programının UBI deneyimi, alıcılarda *agency* (özerklik) artışı, eğitim-kararlarında özgürlük genişlemesi ortaya koydu. Bu sonuçlar, Sen'in *agency* tezini (Bölüm 12.6) destekler — refah salt gelir değil, *yapabilme* hissi olarak da artar.
+
+## 12.12 Nussbaum'un 10 kapabilitesi — listenin sorunu
+
+Sen'in çerçevesinin en önemli pratik geliştirmesi, Martha Nussbaum'un (1947-) çalışmasından gelir. Nussbaum, Sen'in *kasıtlı açıklığa* — hangi kapabilitelerin önemli olduğunu listeli olarak söylememeye — itiraz eder. Onun argümanı şudur: kapabilite çerçevesi politik karar-verme için *operasyonel* olmak istiyorsa, *hangi* kapabiliteleri geliştirmemiz gerektiği konusunda somut olmak zorunda.
+
+Nussbaum 1990'larda *Sex and Social Justice*'da, sonra *Women and Human Development* (2000) ve *Creating Capabilities* (2011) eserlerinde 10 kapabiliteyi sıralar:
+
+1. **Yaşam** — normal uzunlukta bir yaşam
+2. **Bedensel sağlık** — yeterli beslenme, barınma, üreme sağlığı
+3. **Bedensel bütünlük** — şiddetsiz hareket, cinsel güvenlik
+4. **Duyular, hayal gücü, düşünce** — eğitimden yararlanma, bilimsel ve sanatsal etkileşim
+5. **Duygular** — sevgi, dostluk, yas; korku ve kaygının olmamasından dolayı bozulmamış
+6. **Pratik akıl** — kendi yaşamını tasarlama, etiketleri sorgulama
+7. **Bağlanma** — başkalarıyla bir arada olma; kendine saygı temelinin korunması
+8. **Diğer türler** — doğa ile ilişkisi, hayvanlarla
+9. **Oyun** — gülebilmek, oynayabilmek, hoşça vakit geçirmek
+10. **Çevresinde kontrol** — politik katılım, mülkiyet hakkı, iş başvurma hakkı
+
+Bu liste deliberate. Nussbaum, listeye girmeyen şeylerin (mesela, *ekonomik büyüme*, *teknolojik yenilik*) "*kapabilitedişi*" olduğunu söylüyor — onlar araç olabilir, ama amaç değil.
+
+Sen, bu listeye iki itirazda bulunur:
+
+**(a) Demokratik proses**. Sen'e göre hangi kapabilitelerin önemli olduğuna toplum, demokratik bir kamuoyu müzakeresi yoluyla karar vermeli. Bir filozofun (hatta Nussbaum'un) listesi, demokratik bir cevap değil — bir uzman-imdat çıkarması. Toplumlar kendi kapabilite-listelerini farklı şekillerde kuracaktır; bu farklılık değerli.
+
+**(b) Bağlamsallık**. Bir toplum için "önemli" kapabiliteler, başka bir toplum için aynı önceliğe sahip olmayabilir. Su kaynaklarının sınırlı olduğu bir bölgede "*çevresel kontrol*" çok farklı bir anlam taşır; sayısal-asgari geçim altındaki bir bölgede "*oyun*" daha sonra gündeme gelebilir. Nussbaum'un sabit listesi, bu kontekstüel farklılıkları bastırır.
+
+Nussbaum'un cevabı: *anti-relativist* bir pozisyon vardır — bazı kapabiliteler her toplum için yapısal olarak gereklidir; demokratik müzakere bu zeminin nasıl uygulanacağı üzerine yapılmalı, ama bizatihi zeminin ne olduğu üzerine değil. Bu pozisyon, evrensel insan hakları literatürü ile derin bir bağ kurar.
+
+Sen-Nussbaum tartışması bugün hâlâ devam ediyor. Pratik politika için bir orta-yol genellikle şudur: *bir liste önerelim, ama bunu son söz değil bir tartışma başlangıcı olarak görelim*. UNDP'nin İnsani Gelişme Raporları bu yöntemi benimsedi: bir HDI önerirler, ama her yıl tartışmaya açarlar; her dönem ek-endeksler eklenebilir.
+
+Bu tartışma, değer kavramının yirmi beş asırlık tarihinin son sayfasında uygun bir yerde duruyor. Aristoteles'in *Nikomakhos*'unda sorduğu "*insanın iyi yaşamı nedir?*" sorusu, bugün Sen ile Nussbaum arasındaki bir kapabilite-listeleme tartışmasında yeniden açılıyor. Yanıt hâlâ tam değil; ama soruyu sormaya devam edilmesi, kitabın asıl tezidir.
+
 ---
 
 ## Kaynakça

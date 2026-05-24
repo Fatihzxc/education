@@ -84,6 +84,49 @@ Cambridge controversy değer kavramının tarihinde belirgin bir kavşak noktas�
 
 Sonraki ve son bölüm, değer kavramının 20. yüzyıl sonunda bir başka radikal yeniden-okumasını ele alır: Amartya Sen'in *kapabilite yaklaşımı*. Sen, hem klasik politik iktisad ile neoklasik gelenek arasındaki çatışmadan, hem de değerin teknik analizine olan modern indirgenmesinden ayrı bir yere gider: değerin ne olduğunu yeniden sorar — bu kez, *insan iyi-yaşamının* perspektifinden.
 
+## 11.9 Reswitching sayısal — Samuelson'u sallayan örnek
+
+Reswitching (yeniden-değiştirme) sonucunun sayısal anlamı tek bir minimal örnekle gösterilebilir. İki üretim tekniği A ve B düşünelim. Her ikisi de aynı malı üretir, ama farklı zamansal emek-girdi yapısına sahip:
+
+- **Teknik A**: t = 0 (bugün) 7 saat emek + t = 2 (iki yıl sonra) 0 saat emek
+- **Teknik B**: t = 0 1 saat emek + t = 1 (bir yıl sonra) 6 saat emek
+
+Çıktı her iki teknikte de t = 3'te 1 birim mal. Hangi teknik daha ucuz? Bu, cari kâr oranına (r) bağlıdır. Maliyet hesabı (compound geri-hesaplama):
+
+| Kâr oranı | Tekniği A maliyeti | Tekniği B maliyeti | Hangi seçilir |
+|----------:|-------------------:|-------------------:|---------------|
+| %2        | 7 × (1,02)³ ≈ 7,43 | 1×(1,02)³ + 6×(1,02)² ≈ 7,30 | B |
+| %10       | 7 × (1,10)³ ≈ 9,32 | 1×(1,10)³ + 6×(1,10)² ≈ 8,59 | B |
+| %50       | 7 × (1,50)³ ≈ 23,6 | 1×(1,50)³ + 6×(1,50)² ≈ 16,9 | B |
+
+Bu klasik neoklasik öngörüye uygun: kâr oranı yükseldikçe, B (daha az erken-emek, daha çok geç-emek) tercih edilebilir. Ama parametreler değişirse, bu monotonluk bozulabilir. Standart bir Sraffa-Pasinetti örneği şunu gösterir:
+
+| Kâr oranı | A maliyeti | B maliyeti | Seçim |
+|----------:|-----------:|-----------:|-------|
+| %5        | düşük      | yüksek     | A     |
+| %10       | yüksek     | düşük      | B     |
+| %20       | düşük      | yüksek     | A     |
+
+A → B → A geçişi. Yani aynı teknik, hem düşük hem yüksek kâr oranlarında "tercih edilir" hale gelir; orta kâr oranlarında ise alternatif teknik çekicidir. Bu, neoklasik öngörünün — "*kâr oranı düşerken, daha sermaye-yoğun teknik tercih edilir*" — monotonluk varsayımını yıkar.
+
+Pratik anlam: *agregat sermaye* — tüm sermaye-mallarını tek bir sayıyla temsil etmek — yapısal olarak tutarsızdır. Sermaye, "*emek-içeren bir indeks*"e indirgenemez; çünkü emek bileşeninin değeri kâr oranına bağlıdır, kâr oranı ise dağılımın bir sonucu. Bu döngüsellik, Cobb-Douglas tipi üretim fonksiyonlarının matematik temelini sarsar.
+
+Samuelson 1962'de "*bunlar parable (öğretici hikâye)*" diye yumuşatma denedi; 1966'da Quarterly Journal of Economics'teki "*A Summing Up*" makalesinde teknik kabul etti. Robert Solow daha sonra şöyle yazdı: "*Reswitching gerçektir; ama gerçek dünyada görülmesi nadirdir*". Joan Robinson'un cevabı: "*Eğer ne zaman gerçekleştiğini bilmiyorsanız, varsayımlarınız neden güvenilsin?*"
+
+## 11.10 Cambridge controversy bugün — yazılım, marka, ESG
+
+Cambridge controversy'nin 2020'lerde *neden* hâlâ önemli olduğunu sormak için, çağdaş yatırım piyasalarının yapısına bakmak yeterli. *Sermaye nedir?* sorusu hiç bu kadar somut olmamıştı:
+
+**Software-as-capital**. Bir Tesla aracının %30+'u yazılım. SpaceX füzesinin yeniden-kullanılabilirliği, mekanik tasarımdan çok firmwarea bağlı. Bir "sermaye malı" diye katma değer ürettiği için sayılan şey, bir hard-disk üzerindeki kod parçası mı, yoksa onun ardındaki yıllarca süren programcı emeği mi? Sraffa'nın sorduğu sorunun yeni biçimi: yazılım sermayesinin değeri, onu yazan emekçinin değerine indirgenebilir mi? İndirgenebilirse, bu emek kâr oranına nasıl bağlı?
+
+**Marka (intangibles)**. Coca-Cola'nın "marka değeri" ($80+ milyar) onun şişeleme tesisleri toplamından daha büyüktür. Bilanço hesabı, *good-will* başlığı altında bir muhasebe-fiksiyonu olarak gösterilir; ama gerçek-dünyada birleşme-satın-almalarda asıl pazarlık konusu odur. Bu "*sermaye*" tipi nasıl ölçülür? Geçmiş reklam-emeği toplamı mı, beklenen gelecek-gelirler mi? İkisi de Sraffa-tipi tutarsızlık riskine açık.
+
+**ESG ve "verim olmayan" sermaye**. Bir karbon-sıfır enerji üretim tesisi, geleneksel hesapla %4 yıllık getiri sağlayabilir; ama "*ESG değeri*" (çevresel-sosyal-yönetişim) hesabıyla aynı tesis %8 getiri gibi görünür. Bu "*ekleme*" subjective ESG-puanlama tarafından kuruluyor — yani bir "*verim*" hesaplamasının kendisi öznel bir sermayeleme. Sraffa'nın yarım yüzyıl önce işaret ettiği döngüsel-değerleme sorunu, ESG çağında sistematik olarak görünür hale gelir.
+
+Bu üç örnekte ortak olan, Cambridge controversy'nin teknik bir tartışma olmaktan çıkıp, pratik yatırım kararlarını doğrudan etkileyen bir mesele haline geldiğidir. 2008 küresel finansal krizinde "*sermaye nedir, nasıl değerlenir?*" sorusunun doğru cevabı olmadığı yerlerde bilançoların çöktüğünü gördük. Sraffa ve Robinson'un argümanı, akademik bir incelik olmaktan çok, modern finansın yapısal bir kör noktasını teşhis eder.
+
+Yine de pratik etki sınırlı. Akademik iktisat ders kitapları hâlâ Cobb-Douglas üretim fonksiyonunu kullanıyor; merkez bankalar hâlâ "*verim*" varsayımlarıyla politika belirliyor; yatırım yöneticileri hâlâ ESG-puanlamasına güveniyor. Cambridge controversy entelektüel olarak kazanıldı; ama eğitim ve pratik, eski araçlarla devam ediyor. Robinson'un 1980'lerin sonundaki gözlemi — "*Akademik iktisat, kendi temellerinin sarsıldığını kabul ettiğinde bile, eski binayı kullanmaya devam ediyor*" — 40 yıl sonra hâlâ doğru.
+
 ---
 
 ## Kaynakça
