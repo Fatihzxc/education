@@ -399,7 +399,7 @@
         "fiscal-reform"
       ],
       "indexed": true,
-      "indexedAt": "2026-05-24T18:34:52.491544+00:00",
+      "indexedAt": null,
       "semanticIndexed": false,
       "semanticModel": null,
       "textFilename": "primary/sarimehmed-nesayih.ocr.txt",
@@ -407,7 +407,7 @@
         "engine": "PyMuPDF",
         "language": "ota+eng+tr",
         "dpi": 160,
-        "createdAt": "2026-05-24T20:56:00+00:00"
+        "createdAt": "2026-05-24T21:08:00+00:00"
       },
       "pages": 345,
       "indexedPath": "primary/sarimehmed-nesayih.ocr.txt"
@@ -1430,10 +1430,12 @@
         "rationalization",
         "comparative"
       ],
-      "indexed": false,
-      "indexedAt": null,
+      "indexed": true,
+      "indexedAt": "2026-05-24T19:52:52.213997+00:00",
       "semanticIndexed": false,
-      "semanticModel": null
+      "semanticModel": null,
+      "pages": 196,
+      "indexedPath": "primary/weber-general-economic-history.txt"
     },
     {
       "id": "weber-economy-society",
