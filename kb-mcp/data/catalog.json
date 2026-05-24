@@ -1522,10 +1522,12 @@
         "geo-politics",
         "european-history"
       ],
-      "indexed": false,
-      "indexedAt": null,
+      "indexed": true,
+      "indexedAt": "2026-05-24T20:12:02.203210+00:00",
       "semanticIndexed": false,
-      "semanticModel": null
+      "semanticModel": null,
+      "pages": 374,
+      "indexedPath": "secondary/schmitt-nomos-earth.pdf"
     },
     {
       "id": "foucault-discipline-punish",
