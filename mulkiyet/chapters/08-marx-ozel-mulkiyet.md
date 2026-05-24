@@ -12,7 +12,7 @@ Bu bölüm Marx'ın bu ayrımı nasıl kurduğunu, kapitalist mülkiyetin tarihs
 
 ## 8.2 İlkel birikim — kapitalist mülkiyetin tarihsel doğuşu
 
-*Kapital*'in 24. bölümünde — *"Die sogenannte ursprüngliche Akkumulation"* (Sözde İlkel Birikim) — Marx, kapitalist mülkiyetin tarihsel doğuşunu sistematik biçimde inceler. Bu bölüm, Smith'in (Bölüm 6) "kapitalist tarımın gelişmesi" anlatımının doğrudan, sert bir reddidir.
+*Kapital*'in Marx'ın Almanca orijinalindeki XXIV. bölümünde (İngilizce Moore-Aveling çevirisinde Part VIII'in açılış bölümü, Chapter XXVI) — *"Die sogenannte ursprüngliche Akkumulation"* (Sözde İlkel Birikim) — Marx, kapitalist mülkiyetin tarihsel doğuşunu sistematik biçimde inceler. Bu bölüm, Smith'in (Bölüm 6) "kapitalist tarımın gelişmesi" anlatımının doğrudan, sert bir reddidir.
 
 Smith'e göre kapitalist mülkiyet, *biriken tasarrufların* sonucudur — çalışkan kişiler tasarruf eder, tasarruflarını yatırıma çevirir, sonunda sermayedar olurlar. Marx bu anlatımı bir mit olarak niteler:
 
@@ -123,7 +123,7 @@ Sonraki bölüm, mülkiyet teorisinin başka bir radikal versiyonuna — Hegel'i
 
 ## Kaynakça
 
-[^1]: Marx, K. (1867). *Capital: A Critique of Political Economy — Volume I*, s. 368. Bölüm XXV (sözde ilkel birikim) bağlamında, ilkel birikimin kapitalist üretimin tarihsel temeli olduğu, sonucu değil. ElecBook Classics edisyonu.
+[^1]: Marx, K. (1867). *Capital: A Critique of Political Economy — Volume I*, s. 368. Sözde ilkel birikim bölümünün açılış pasajı (Almanca orijinalde XXIV. Kapitel, İngilizce Moore-Aveling çevirisinde Part VIII'in başı, Chapter XXVI). İlkel birikimin kapitalist üretimin tarihsel temeli olduğu, sonucu olmadığı tezi. ElecBook Classics edisyonu.
 
 [^2]: Marx, K. (1867). *Capital* I, s. 421. Kapitalist sistemin önkoşulu: emekçilerin üretim araçlarından tamamen ayrılması.
 

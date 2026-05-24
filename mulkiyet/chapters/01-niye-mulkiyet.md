@@ -136,6 +136,21 @@ Her bölümün ortak özelliği — diğer iki kitabımız (Merkantilizm, Değer
 
 Bir kavramın yirmi beş asırlık seyrini, onunla beraber dolaşmadan anlamak mümkün değildir.
 
+## 1.9 Mülkiyet hakları matrisi — aynı tarla, dört farklı "mülkiyet"
+
+Mülkiyetin bir "haklar demeti" olduğunu (Bölüm 1.3) somut bir tabloda görelim. Diyelim ki 100 dönümlük bir tarla var. Aşağıdaki dört farklı düzenleme, *aynı* fiziksel toprak için *farklı* mülkiyet yapıları üretir:
+
+| Düzenleme         | Kullanma | Gelir alma | Dışlama | Devretme | "Mülkiyet" türü |
+|-------------------|:--------:|:----------:|:-------:|:--------:|-----------------|
+| A — Tam liberal   | ✓        | ✓          | ✓       | ✓        | Klasik Locke özel mülkiyet |
+| B — Uzun kira     | ✓        | ✓          | ✓       | ✗        | Tasarruf hakkı (Osmanlı re'aya, Bölüm 10) |
+| C — Vakıf         | ✓        | ✗ (vakfa) | ✓       | ✗        | Vakıf-toprak (Osmanlı, Bölüm 10) |
+| D — Commons       | ✓ (sınırlı) | ✗ | ✓ (üye-dışı) | ✗ | Ostrom-tarzı ortak yönetim (Bölüm 11) |
+
+Dört düzenlemenin hepsinde "biri tarlaya bir biçimde sahip"tir; ama her birinin kavramsal yapısı farklı. A düzenlemesi modern liberal hukukun varsayımıdır; B Osmanlı köylüsünün konumu; C bir caminin gelir-tahsisli vakıf arazisi; D bir Alpler köyünün ortak otlağı. Hiçbiri "diğerlerinden daha *mülkiyet*"tir; sadece dört farklı yapı.
+
+Bu matris, kitabın geri kalanı için bir okuma çerçevesi sunar. Her tarihsel düşünür — Aristoteles, Aquinas, Locke, Marx, Hegel, Ostrom — bu matrisin *bir köşesini* öne çıkarmıştır. Locke A'yı; Marx C ve D'yi; Hegel A'yı kişilik-temelli olarak; Ostrom D'yi sistematik olarak. "Mülkiyet teorisi" tartışmaları, çoğu zaman, hangi köşenin *önde* geldiğine dair bir kavgadır.
+
 ---
 
 ## Kaynakça

@@ -92,6 +92,33 @@ Antik dünya, sonraki yirmi beş asra mülkiyet üzerine sorulacak temel sorular
 
 Sonraki bölüm, bu sorularla on dördüncü yüzyıl Tunusu'nda — İbn Haldun'un *Mukaddime*'sinde — yeniden karşılaşır. Onun çerçevesinde mülkiyet sadece bir hukuksal kategori değil; hanedanın yapısını, devletin döngüsünü, ve toplumun çöküşünü yönlendiren bir sosyal yapı taşıdır.
 
+## 2.9 Roma *dominium*'unun üç yetkisi sayısal örnekte
+
+Roma hukukunun *ius utendi / fruendi / abutendi* üçlüsünü modern bir örnekle somutlaştıralım. İ.S. 150 dolayında bir Roma senatörü — Marcus — Latium kırsalında 200 hektar bir tarlaya *dominium tam* sahiptir. Bu tarlayı bir özgür çiftçiye (*colonus*) — Lucius — yıllık 5.000 sestertius kira karşılığında kiralar. Yıllık akış:
+
+| Taraf | Hangi yetki | Yıllık akış (sestertius) |
+|-------|-------------|--------------------------|
+| Marcus (sahip) | *ius abutendi* (satma, devretme, sözleşmeyi feshetme) | 5.000 (kira geliri) |
+| Lucius (kiracı) | *ius utendi* + *ius fruendi* | 12.000 (mahsulün satış geliri) - 5.000 (kira) - 4.000 (üretim maliyeti) = 3.000 net |
+
+İki tarafın kazançları, yetkilerin nasıl bölündüğüne bağlıdır. Marcus tarlayı kendi işletseydi, Lucius'un emek-maliyetini de üstlenmek zorunda olacak, net kazancı belki 4.000'e düşecekti — ama tüm üç yetkisini de elinde tutacaktı. Bölüştürme, *verimliliği* artırdı (Lucius doğrudan çalışıyor olduğu için daha dikkatli) ama Marcus'a *risk*'i de taşıdı (kuraklık yılında Lucius iflas ederse kirayı alamaz).
+
+Bu üç-yetki bölünmesi, 21. yüzyıl finansal mühendisliğine kadar kesintisiz devam etti. Modern bir gayrimenkul yatırım fonu (REIT), pay sahiplerine *ius fruendi* (kira gelirinden pay) verir; ama *ius utendi* (binayı kullanma) ve *ius abutendi* (binayı satma) fon yönetimindedir. Aynı Roma kategorileri, dijital çağda hâlâ canlı.
+
+## 2.10 Aristoteles vs Hardin — iki bin yıl arayla aynı argüman
+
+Aristoteles'in *Politika* II.5'teki "*ortak şeye en az dikkat edilir*" tezini ve Garrett Hardin'in 1968 *Tragedy of the Commons* makalesini yan yana koyalım. İki argümanın yapısı ürkütücü derecede benzer.
+
+Aristoteles'in mantığı (M.Ö. ~330): Bir ortak otlağı 10 köylü kullansın. Her köylü, kendi koyunlarını mümkün olduğu kadar fazla otlatmak ister; çünkü ek bir koyunun otlatma kazancı tamamen kendisine ait, ama otlak-yıpranmasının maliyeti tüm 10 köylüye dağıtılır. Sonuç: otlak aşırı kullanılır, kalitesi düşer, sonunda hiç işe yaramaz hale gelir.
+
+Hardin'in mantığı (1968): Aynı yapı, formel oyun-teorisi dilinde. Her aktörün marjinal kazancı = +1 (kendi koyununun değeri); marjinal maliyeti = -1/n (n aktör arasında bölünen otlak-yıpranması). n büyüdükçe, marjinal maliyet sıfıra yaklaşır; rasyonel aktör hep "ek koyun" eklemeyi tercih eder. Sistemin toplam çöküşü kaçınılmazdır.
+
+İki argüman aynı sonucu üretir; ama farklı sonuçlar önerirler. Aristoteles çözüm olarak *özel mülkiyet* önerir (insan kendine ait olana daha iyi bakar). Hardin de aynı sonuca varır: ya özelleştirme ya da merkezi devlet kontrolü. *Üçüncü bir yol* ikisinin de aklına gelmez.
+
+Ostrom'un 1990 *Governing the Commons*'ı (Bölüm 11) tam bu üçüncü yolu gösterir. Aristoteles ve Hardin'in haklı oldukları durumlar vardır — ama *her zaman* haklı değiller. Birçok ortak otlak (İsviçre Alpleri, Japonya köy ormanları), yüzyıllar boyunca *ne özel mülkiyet ne devlet kontrolü altında* çöküntü olmadan yönetilmiştir. Ortak nokta: belirli kurumsal koşullar (Ostrom'un 8 ilkesi, Bölüm 11.11) sağlandığında, kullanıcılar kendi-disiplin ile kaynak yönetimini sürdürebilir.
+
+Bu tarih önemli bir ders sunar. Aristoteles'in 2350 yıl önce yaptığı gözlem doğruydu *belirli koşullarda*. Hardin'in 1968'de yaptığı genelleme yanlıştı — gözlemin koşullarını fark etmedi. İki bin üç yüz yıl, doğru soruyu sormak için bazen yetmez.
+
 ---
 
 ## Kaynakça

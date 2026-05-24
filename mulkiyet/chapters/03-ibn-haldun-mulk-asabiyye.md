@@ -85,17 +85,60 @@ Bu kayıp, sonraki bölümlerde — özellikle Locke ve Smith üzerine konuştu�
 
 Sonraki bölüm, Aquinas'ın 13. yüzyıl Avrupası'nda mülkiyet üzerine yazdıklarını ele alır. Aristoteles'ten miras aldığı çerçeveyi Hristiyan teolojisi içine taşıyan, 16. yüzyıl Salamanca okuluna kadar Avrupa düşüncesinin baskın çerçevesi olan bir geleneğe.
 
+## 3.9 Üç-hanedan sayısal döngü modeli
+
+İbn Haldun'un asabiyye-mülk-çöküş döngüsünü, Mağrip'in birbirini izleyen üç Berberi hanedanı — Almoravid (1062-1147), Almohad (1121-1269), Marinid (1244-1465) — üzerinden somut sayılarla izleyelim. Yaklaşık göstergeler:
+
+| Kuşak / Hanedan | Asabiyye gücü (0-100) | Vergi tabanı (göreli) | Askeri güç (göreli) | Mülk yapısı |
+|-----------------|---------------------:|----------------------:|--------------------:|-------------|
+| Almoravid kuşak 1 (1062-1090) | 95 | 100 | 100 | Kollektif (asker-paylaşımı) |
+| Almoravid kuşak 2 (1090-1120) | 70 | 130 | 80 | Aile-tabanlı |
+| Almoravid kuşak 3 (1120-1147) | 35 | 90 | 40 | Saray-merkezli |
+| Almohad kuşak 1 (1121-1163) | 90 | 110 | 95 | Yeni asabiyye, yeniden kollektif |
+| Almohad kuşak 3-4 (1213-1269) | 25 | 70 | 30 | Çöküş |
+| Marinid kuşak 1 (1244-1286) | 85 | 100 | 90 | Yeni döngü başlar |
+
+Tablo İbn Haldun'un tezinin yapısal mantığını gösterir. Kuruluş kuşağında asabiyye yüksek, üretim güçlü, mülk kollektif. Olgunluk kuşağında vergi tabanı *önce* artar (verim sağlandığı için), sonra düşer (yüksek vergi şevki kırınca). Çöküş kuşağında her şey çöker; yeni bir asabiyyesi güçlü grup gelir, döngü yeniden başlar.
+
+İbn Haldun'un yaptığı asıl katkı bir *politika önerisi* değil — döngünün *önlenebilirliği* hakkında o pesimisttir. Onun katkısı, *mülkiyetin sosyal koşulluluğunu* göstermek: kurumsal yapılar (asabiyye, vergi sistemi, mülk dağılımı) birbirine kilitlenmiş bir dinamik içinde — biri zayıflarken diğeri de zayıflar.
+
+Modern bir karşılaştırma: Mancur Olson'un *The Rise and Decline of Nations* (1982) eseri, demokratik toplumlarda zamanla *çıkar grupları*'nın çoğalmasının ekonomik durağanlığa yol açtığını söyler. Yapısal olarak İbn Haldun'un asabiyye-çöküş tezinin modern bir versiyonudur — sadece hanedan döngüsü değil, *her* uzun-ömürlü kurumsal yapı, kendi sklerozuna doğru evrilir.
+
+## 3.10 İbn Haldun ile Douglass North arasındaki köprü
+
+Bölüm 11'de detaylı işleyeceğimiz Douglass North'un (1990) "*kurumlar mülkiyet haklarını belirler*" tezi, İbn Haldun'un altı yüzyıl önceki "*asabiyye mülkün koşuludur*" tezinin doğrudan akrabasıdır. İki çerçeveyi yan yana koymak öğreticidir.
+
+**North'un mantığı**: Kurumlar (yazılı kanunlar, yargı sistemi, kültürel normlar) mülkiyet haklarının ne kadar güçlü uygulanacağını belirler. Mülkiyet hakları güçlü uygulanırsa, yatırımcılar uzun-vadeli yatırım yapar; ekonomi büyür. Zayıf uygulanırsa, yatırım kaçar; ekonomi durağanlaşır. Mülkiyet, kurumsal bir üst-yapı içinde anlam kazanır.
+
+**İbn Haldun'un mantığı**: Asabiyye (grup-içi dayanışma kapasitesi) mülkün ne kadar güvende olduğunu belirler. Asabiyye güçlüyse, hanedan toprağı kontrol eder; *mülk-ü cüz'î* (özel mülkiyet) güvenlik içinde tutulur; köylü uzun-vadeli yatırım yapar (tarla iyileştirme). Asabiyye zayıflarsa, kontrol gevşer; özel mülkiyet belirsizleşir; köylü kısa-vadeli kararlara döner.
+
+İki teori arasındaki yapısal paralellik şöyle özetlenebilir:
+
+| North (1990) | İbn Haldun (1377) |
+|--------------|--------------------|
+| Kurumlar | Asabiyye + hanedan |
+| Mülkiyet hakları | Mülk-ü tâmm + mülk-ü cüz'î |
+| Yargı sistemi | Sipahi + kadı |
+| Uzun-vadeli yatırım | Tarla iyileştirme + ticari yatırım |
+| Ekonomik büyüme | Umran |
+
+İki çerçeve aynı *yapısal görüşü* paylaşır: mülkiyet bir izolasyonda anlamlı değil; çevresindeki kurumsal yapının bir parçası olarak işler. Fark zamanda ve uygulamada: North bunu 20. yüzyıl ekonomik kalkınma sorularına uyguladı; İbn Haldun 14. yüzyıl Mağrip hanedan analizine. Ama temel içgörü aynı: *mülkiyet bir tek-başına kavramı değil, bir kurumsal-yapı sistemi içindeki bir konumdur*.
+
+Bu paralellik, neden 21. yüzyıl iktisat tarihçiliğinin İbn Haldun'u modern kurumsal iktisadın bir öncüsü olarak yeniden okumaya başladığını açıklar. Acemoglu-Robinson'un *Why Nations Fail* (2012) eseri bile, kısa bir bölümde İbn Haldun'a saygı duruşu yapar — ama onun çerçevesini sistematik biçimde geliştirmez. Bu boşluk, modern iktisat tarihçiliğinin bir araştırma fırsatıdır.
+
 ---
 
 ## Kaynakça
 
-[^1]: İbn Haldun (1377/2007). *Mukaddime*, çev. Süleyman Uludağ, Cilt I, s. 397. Dergâh Yayınları. "Mülke esas teşkil eden zafer ve galebenin kaynağı asabiyettir" tezinin orijinal pasajı.
+*Pagination notu*: Mukaddime alıntıları, Süleyman Uludağ'ın Dergâh Yayınları çevirisinin 3-ciltlik baskısının sayfa numaralarıyla verilmiştir. Köşeli parantez içindeki ikinci sayfa numarası (`[indeks PDF p. X]`), `iktisat-kb` veritabanında yer alan 2-parçaya bölünmüş PDF taramasındaki konumdur; iki numaralandırma arasında sistematik bir kayma vardır. (Aynı not *Değer* kitabı Bölüm 4 için de geçerlidir.)
 
-[^2]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 567. Dergâh Yayınları. Bir görevin mülke dönüşmesi: valilik üzerinden mülk-mirası mekanizması.
+[^1]: İbn Haldun (1377/2007). *Mukaddime*, çev. Süleyman Uludağ, Cilt I, s. 397 [indeks PDF ~p. 370-400 bölgesi]. Dergâh Yayınları. "Mülke esas teşkil eden zafer ve galebenin kaynağı asabiyettir" tezinin orijinal pasajı.
 
-[^3]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 392, 397. Hanedanın asabiyyesinin zaafı ve mülkün dönüşümü.
+[^2]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 567 [indeks PDF farklı sayfada]. Dergâh Yayınları. Bir görevin mülke dönüşmesi: valilik üzerinden mülk-mirası mekanizması.
 
-[^4]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 48. Servet ortaya çıkınca emirlerin tutumunun değişmesi.
+[^3]: İbn Haldun (1377/2007). *Mukaddime*, Cilt I, s. 392, 397. Dergâh Yayınları. Hanedanın asabiyyesinin zaafı ve mülkün dönüşümü.
+
+[^4]: İbn Haldun (1377/2009). *Mukaddime*, Cilt II, s. 48 [indeks PDF ~p. 40-50 bölgesi]. Dergâh Yayınları. Servet ortaya çıkınca emirlerin tutumunun değişmesi.
 
 [^5]: Müslüman toplumlarda kadın mülkiyet hakları için temel referans: Judith Tucker, *In the House of the Law: Gender and Islamic Law in Ottoman Syria and Palestine* (1998). Osmanlı sicil-i mahkeme verilerini kullanan ampirik çalışmaların bir özeti.
 

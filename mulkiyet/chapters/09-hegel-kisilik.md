@@ -12,9 +12,7 @@ Bu bölüm Hegel'in mülkiyet teorisini, onun Locke ve Marx'tan farkını, ve mo
 
 Hegel'in *Philosophy of Right*'ının §§34-40 paragraflarında kurulan temel kavram *Persönlichkeit*'tir — "kişilik" ya da daha kesin olarak "kişi-olma kapasitesi". Hegel'e göre bir insan, *kişi* olmak için kendisinin dışında bir şeyi sahiplenmek zorundadır. Tamamen soyut bir özne — sadece düşünen, sadece isteyen — gerçek bir *kişi* değildir; bir potansiyeldir, ama henüz gerçekleşmemiş bir potansiyeldir.
 
-Bu çerçevede mülkiyet, kişiliğin maddi gerçekleşme aracıdır:
-
-*"Mülkiyet, ben'in kendi iradesini bir şeye yansıtması; o şeyi 'benim' yapmasıdır. Böylece soyut özne, somut bir kişi haline gelir."*
+Bu çerçevede mülkiyet, kişiliğin maddi gerçekleşme aracıdır. Hegel'in §§44-46 paragraflarındaki argümanını şöyle özetleyebiliriz: *ben* (özne), kendi iradesini bir şeye yansıttığında — onu *sahiplendiğinde* — o şeyi "benim" yapmış olur; böylece soyut özne, somut bir kişi haline gelir. (Doğrudan alıntı değil; Hegel'in birden çok paragrafa yayılmış argümanının özetidir. Orijinal metin için T.M. Knox'un 1942 İngilizce çevirisi standart referanstır.)
 
 Hegel'in bu argümanı, Locke'tan iki yönde ayrılır:
 
@@ -40,7 +38,7 @@ Bu üçlü, Roma hukukunun *ius utendi / fruendi / abutendi* üçlüsüne parale
 
 Hegel'in mülkiyet teorisi tek-kişilik bir kategori değildir. *Philosophy of Right*'ın §§72-81 paragraflarında, mülkiyetin *birden çok kişi* arasındaki ilişkilerde nasıl gerçekleştiğini açıklar. Bu, sözleşme (*Vertrag*) kavramının doğuş yeridir.
 
-Hegel için sözleşme, iki tarafın *karşılıklı irade-yansıtması*'dır. A, kendi mülkünü B'ye devreder; B, karşılığında bir başka şey verir. İki tarafın iradeleri, bir an için aynı noktada — mübadelenin gerçekleştiği anda — birleşir.
+Hegel için sözleşme (Knox çevirisinde §§72-81), iki tarafın *karşılıklı irade-yansıtması*'dır. A, kendi mülkünü B'ye devreder; B, karşılığında bir başka şey verir. İki tarafın iradeleri, bir an için aynı noktada — mübadelenin gerçekleştiği anda — birleşir. (Bu da Hegel'in birkaç paragrafının yazarın özetidir; doğrudan alıntı değildir.)
 
 Bu çerçeve önemli bir sonuç doğurur: mülkiyet, kişiliğin yansıması olsa da, *yalıtık* değildir. Bir kişi tek başına mülkiyet sahibi olamaz; mülkiyet, başkalarıyla olan ilişkiler — özellikle başkalarının onun mülkiyetini *tanıması* — aracılığıyla gerçekleşir. Bu, mülkiyetin *toplumsal* boyutunun Hegel'deki kavramsal kabulüdür.
 

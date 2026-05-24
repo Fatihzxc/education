@@ -32,9 +32,9 @@ Aquinas, özel mülkiyetin meşruiyetini kabul etmekle birlikte, *kullanımı* k
 
 Bir zengin, fazlalık yiyeceğini elinde tutamaz; ihtiyaç sahibine vermek zorundadır. Aquinas'ın bu konudaki en çarpıcı pasajı şudur:
 
-> "[In cases of urgent and manifest need], property [taken by command of God] is not against the will of its owner, whereas it is in this that theft consists. Nor is it only..."
+> "Whether it is lawful to steal through stress of need? ... In a case of a like need a man may also take secretly another's property in order to succor his neighbor in need."
 >
-> — Aquinas 1274, *Summa* II-II Q.66 A.7, s. 2459^[3]
+> — Aquinas 1274, *Summa* II-II Q.66 A.7, s. 3507-3508^[3]
 
 Aşırı acil ihtiyaç durumunda, açlıktan ölmek üzere olan bir kişi, başkasının yiyeceğini alabilir; bu hırsızlık değildir. Çünkü yiyeceğin "ortak amacı" — insan hayatının korunması — bireysel sahipliğin önündedir.
 
@@ -128,7 +128,7 @@ Sonraki bölüm, bu zemin üzerinde inşa edilen ilk büyük modern teoriye — 
 
 [^2]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.66 A.2 ad 1, s. 3500. "Doğal hukuk ortak mülkiyeti emretmez; sadece ortak mülkiyete karşı değildir" formülasyonu — Salamanca'nın geliştireceği kavramsal boşluk.
 
-[^3]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.66 A.7, s. 2459. Aşırı ihtiyaç durumunda mülkiyet sınırının çiğnenebilirliği; mülkiyetin teolojik sınırı.
+[^3]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.66 A.7, s. 3507-3508. Aşırı ihtiyaç durumunda mülkiyet sınırının çiğnenebilirliği; mülkiyetin teolojik sınırı. *(Q.66'nın diğer maddeleri ile aynı PDF bölgesinde yer alır; daha önceki bir baskıda farklı sayfa numarası kullanılmış olabilir.)*
 
 [^4]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 142. Locke'un mülkiyet teorisinin özeti; Aquinas-Vitoria-Grotius-Pufendorf-Locke zincirindeki son halka.
 
