@@ -76,11 +76,11 @@
 
   const TYPE_LABEL = {
     concept: 'Kavram', event: 'Olay', case: 'Vaka', term: 'Terim',
-    chapter: 'Bölüm', section: 'Bölüm'
+    chapter: 'Bölüm', section: 'Bölüm', theme: 'Tema'
   };
   const TYPE_ICON = {
     concept: '🧠', event: '⏱', case: '📋', term: '📖',
-    chapter: '📕', section: '§'
+    chapter: '📕', section: '§', theme: '🏛'
   };
 
   // Use the central helper from mcp-config.js when available; fall back to sniff.
@@ -197,8 +197,23 @@
       this.renderResults();
       return;
     }
-    const C = window.CONTENT;
+    const C = window.CONTENT || {};
     const candidates = [];
+
+    // Theme switcher — surfaces every theme except the current one. Slightly
+    // lower weight than chapter/section hits so it doesn't dominate when the
+    // user is searching within a book.
+    getThemeSwitchEntries().forEach(t => {
+      const s = Math.max(
+        score(t.label, q),
+        score(t.detail || '', q) * 0.5,
+        score((t.primaryAuthors || []).join(' '), q) * 0.4
+      );
+      if (s > 0) candidates.push({
+        type: 'theme', id: 'theme:' + t.slug, label: t.label,
+        meta: t.detail, score: s * 0.8, raw: t
+      });
+    });
 
     (C.CONCEPTS || []).forEach(c => {
       const s = Math.max(
@@ -240,23 +255,52 @@
   };
 
   CommandPalette.prototype._recentOrAll = function() {
-    // No query → show favorites first, then visited, then first 5 concepts
-    const C = window.CONTENT;
+    // No query → show theme switcher entries, then favorites, then chapters/concepts
+    const C = window.CONTENT || {};
     const bm = window.Bookmarks;
     const out = [];
-    if (bm) {
+    // Theme switcher always visible at top of empty palette (discoverability)
+    getThemeSwitchEntries().forEach(t => {
+      out.push({ type: 'theme', id: 'theme:' + t.slug, label: t.label, meta: t.detail, raw: t });
+    });
+    if (bm && C.getConceptById) {
       bm.favorites.forEach(id => {
-        const it = C.getConceptById(id) || C.getEventById(id);
+        const it = C.getConceptById(id) || (C.getEventById && C.getEventById(id));
         if (it) out.push({ type: it.depth ? 'concept' : 'event', id, label: it.label || it.title, meta: '⭐', raw: it });
       });
     }
-    (C.CONCEPTS || []).slice(0, 10).forEach(c => {
-      if (!out.find(x => x.id === c.id)) {
-        out.push({ type: 'concept', id: c.id, label: c.label, meta: c.category || '', raw: c });
-      }
-    });
+    // In book mode without concepts (e.g., Deger), list chapter titles instead
+    if (!(C.CONCEPTS && C.CONCEPTS.length) && window.BookManifest && window.BookManifest.chapters) {
+      window.BookManifest.chapters.slice(0, 10).forEach(ch => {
+        out.push({ type: 'chapter', id: 'chapter:' + ch.num, label: `Bölüm ${ch.num}: ${ch.title}`, meta: ch.subtitle || '', raw: ch });
+      });
+    } else {
+      (C.CONCEPTS || []).slice(0, 10).forEach(c => {
+        if (!out.find(x => x.id === c.id)) {
+          out.push({ type: 'concept', id: c.id, label: c.label, meta: c.category || '', raw: c });
+        }
+      });
+    }
     return out;
   };
+
+  function getThemeSwitchEntries() {
+    const themes = window.MerkantilizmThemes;
+    if (!Array.isArray(themes)) return [];
+    // Derive current slug from path. Landing returns '' which matches no theme,
+    // so all themes are surfaced there too.
+    const segs = location.pathname.split('/').filter(Boolean);
+    const currentSlug = (segs[0] || '').toLowerCase();
+    return themes
+      .filter(t => t.slug !== currentSlug)
+      .map(t => ({
+        slug: t.slug,
+        label: '→ ' + t.title,
+        detail: t.subtitle || '',
+        primaryAuthors: t.primaryAuthors || [],
+        href: '../' + t.slug + '/book.html',
+      }));
+  }
 
   CommandPalette.prototype.renderResults = function() {
     if (!this.results.length) {
@@ -294,7 +338,9 @@
   CommandPalette.prototype.selectResult = function(r) {
     this.close();
     if (!r) return;
-    if (r.type === 'chapter') {
+    if (r.type === 'theme') {
+      if (r.raw && r.raw.href) location.href = r.raw.href;
+    } else if (r.type === 'chapter') {
       if (window.BookReader) window.BookReader.go(r.raw.num);
     } else if (r.type === 'section') {
       if (window.BookReader) window.BookReader.go(r.raw.chapter.num, r.raw.section.num);

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sosyal Bilimler Kütüphanesi</title>
+  <meta name="description" content="Tematik kesişmeler: iktisat, felsefe, hukuk, siyaset bilimi — uzun-form okuma kitapları.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/book.css">
+  <link rel="stylesheet" href="styles/landing.css">
+</head>
+<body class="landing">
+
+  <header class="landing-header">
+    <h1>Sosyal Bilimler Kütüphanesi</h1>
+    <p class="subtitle">Tematik kesişmeler — iktisat, felsefe, hukuk, siyaset bilimi</p>
+  </header>
+
+  <main class="theme-grid" id="themeGrid" aria-label="Tema'lar">
+    <!-- theme-registry.js doldurur -->
+  </main>
+
+  <footer class="landing-footer">
+    <a href="merkantilizm/appendix/playground.html">Merkantilizm Appendix (eski oyun alanı)</a>
+    ·
+    <a href="https://github.com/Fatihzxc/education">github.com/Fatihzxc/education</a>
+  </footer>
+
+  <script>
+  // Theme bootstrap — match book pages so the landing respects the user's choice.
+  (function() {
+    var saved = null;
+    try { saved = localStorage.getItem('merkantilizm.theme'); } catch (e) {}
+    var theme = saved || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+  </script>
+  <script src="modules/theme-registry.js?v=1"></script>
+  <script>
+  (function() {
+    'use strict';
+    var themes = window.MerkantilizmThemes || [];
+    var grid = document.getElementById('themeGrid');
+    function esc(s) {
+      return String(s == null ? '' : s)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+    var statusLabel = { completed: 'tamamlandı', draft: 'taslak', pending: 'planlandı' };
+    grid.innerHTML = themes.map(function(t) {
+      return '<a class="theme-card status-' + esc(t.status) + '" href="' + esc(t.slug) + '/book.html">' +
+        '<h2>' + esc(t.title) + '</h2>' +
+        '<p class="card-subtitle">' + esc(t.subtitle) + '</p>' +
+        '<p class="card-description">' + esc(t.description || '') + '</p>' +
+        '<div class="card-meta">' +
+          '<span>' + t.chapterCount + ' bölüm</span>' +
+          '<span class="status-badge">' + esc(statusLabel[t.status] || t.status) + '</span>' +
+        '</div>' +
+      '</a>';
+    }).join('');
+  })();
+  </script>
+
+</body>
+</html>

@@ -8,8 +8,16 @@
 (function() {
   'use strict';
 
-  const KEY_LAST = 'merkantilizm.book.lastChapter';
-  const KEY_SCROLL = 'merkantilizm.book.scroll';
+  // Per-theme keys; falls back to legacy 'merkantilizm.*' if theme detection
+  // hasn't run (e.g. older standalone test pages).
+  function _keyFor(suffix) {
+    if (window.Merkantilizm && typeof window.Merkantilizm.storageKey === 'function') {
+      return window.Merkantilizm.storageKey(suffix);
+    }
+    return 'merkantilizm.' + suffix;
+  }
+  const KEY_LAST = _keyFor('book.lastChapter');
+  const KEY_SCROLL = _keyFor('book.scroll');
   let _saveTimer = null;
   let _currentChapter = null;
 

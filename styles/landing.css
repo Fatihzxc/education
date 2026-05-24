@@ -1,0 +1,118 @@
+/* landing.css — repo root landing page. Pairs with book.css custom properties. */
+
+:root {
+  --landing-card-bg: var(--bg-card, #1e2a45);
+  --landing-card-hover: var(--bg-card-hover, #243352);
+}
+
+body.landing {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.landing-header {
+  padding: 64px 32px 24px;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+.landing-header h1 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 42px;
+  margin: 0 0 12px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.landing-header .subtitle {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 17px;
+}
+
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+  padding: 40px;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  flex: 1;
+  box-sizing: border-box;
+}
+
+.theme-card {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  background: var(--landing-card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 150ms, border-color 150ms, transform 150ms;
+}
+.theme-card:hover {
+  background: var(--landing-card-hover);
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.theme-card h2 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 24px;
+  margin: 0 0 6px;
+  font-weight: 600;
+}
+.theme-card .card-subtitle {
+  color: var(--text-secondary);
+  font-size: 14px;
+  margin: 0 0 16px;
+}
+.theme-card .card-description {
+  flex: 1;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--text-primary);
+  margin: 0 0 16px;
+}
+.theme-card .card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'JetBrains Mono', Menlo, monospace;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+.theme-card .status-badge {
+  padding: 3px 9px;
+  border-radius: 12px;
+  background: var(--bg-tertiary);
+}
+.theme-card.status-completed .status-badge { color: var(--success); }
+.theme-card.status-draft .status-badge { color: var(--warning); }
+.theme-card.status-pending .status-badge { color: var(--text-muted); opacity: 0.7; }
+
+.landing-footer {
+  padding: 24px 32px;
+  text-align: center;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 13px;
+}
+.landing-footer a {
+  color: var(--accent);
+  text-decoration: none;
+  margin: 0 8px;
+}
+.landing-footer a:hover { text-decoration: underline; }
+
+@media (max-width: 480px) {
+  .landing-header { padding: 40px 20px 18px; }
+  .landing-header h1 { font-size: 30px; }
+  .theme-grid { padding: 24px 16px; gap: 14px; grid-template-columns: 1fr; }
+  .theme-card { padding: 18px; }
+}

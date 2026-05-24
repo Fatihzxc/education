@@ -1,0 +1,102 @@
+{
+  "title": "Değer kavramının tarihi",
+  "subtitle": "Aristoteles'ten Sen'e — emek-değer, marjinalizm, kapabiliteler",
+  "chapters": [
+    {
+      "num": 1,
+      "slug": "01-niye-deger",
+      "title": "Niye \"değer\"?",
+      "subtitle": "Terimin sorunu ve okumanın çerçevesi",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 2,
+      "slug": "02-antik-temeller",
+      "title": "Antik temeller",
+      "subtitle": "Aristoteles ve adil değiş",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 3,
+      "slug": "03-skolastik-fiyat",
+      "title": "Skolastik fiyat doktrini",
+      "subtitle": "Aquinas ve Salamanca okulu",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 4,
+      "slug": "04-ibn-haldun-emek-deger",
+      "title": "İbn Haldun ve emek-değer'in çekirdeği",
+      "subtitle": "Mukaddime'de değerin kökeni",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 5,
+      "slug": "05-smith-sentez",
+      "title": "Smith'in büyük sentezi",
+      "subtitle": "Wealth of Nations I.5-7",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 6,
+      "slug": "06-ricardo-emek-deger",
+      "title": "Ricardo ve emek-değer'in inceltilmesi",
+      "subtitle": "Principles 1817",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 7,
+      "slug": "07-marx-elestiri",
+      "title": "Marx'ın eleştirisi",
+      "subtitle": "Kapital I ve değerin iki yüzü",
+      "estWords": 4000,
+      "status": "pending"
+    },
+    {
+      "num": 8,
+      "slug": "08-avusturya-subjektif",
+      "title": "Avusturya okulu ve sübjektif değer",
+      "subtitle": "Menger 1871 ve Böhm-Bawerk",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 9,
+      "slug": "09-marjinalist-devrim",
+      "title": "Jevons ve Walras — marjinalist devrim",
+      "subtitle": "Theory of Political Economy ve Eléments",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 10,
+      "slug": "10-marshall-sentez",
+      "title": "Marshall ve neoklasik sentez",
+      "subtitle": "Principles 1890 — talep ve arz",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 11,
+      "slug": "11-cambridge-sraffa",
+      "title": "Cambridge controversy ve Sraffa",
+      "subtitle": "Production of Commodities ve neo-Ricardyen okul",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 12,
+      "slug": "12-sen-kapabiliteler",
+      "title": "Sen, kapabiliteler ve değerin yeni anlamı",
+      "subtitle": "Inequality Re-examined",
+      "estWords": 3000,
+      "status": "pending"
+    }
+  ]
+}

@@ -13,8 +13,19 @@
 (function() {
   'use strict';
 
-  const STORAGE_VISITED = 'merkantilizm.visited';
-  const STORAGE_FAVORITES = 'merkantilizm.favorites';
+  // Per-theme storage keys. mcp-config.js sets window.Merkantilizm.themeSlug
+  // before this module loads; for merkantilizm theme the slug is 'merkantilizm'
+  // so legacy keys ('merkantilizm.visited', 'merkantilizm.favorites') are
+  // preserved without migration. Other themes get their own namespace
+  // ('deger.visited', etc.).
+  function _keyFor(suffix) {
+    if (window.Merkantilizm && typeof window.Merkantilizm.storageKey === 'function') {
+      return window.Merkantilizm.storageKey(suffix);
+    }
+    return 'merkantilizm.' + suffix;
+  }
+  const STORAGE_VISITED = _keyFor('visited');
+  const STORAGE_FAVORITES = _keyFor('favorites');
 
   function injectStyles() {
     if (document.getElementById('bookmarks-styles')) return;

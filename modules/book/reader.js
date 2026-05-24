@@ -221,7 +221,8 @@
       if (window.Bookmarks && window.Bookmarks.markVisited) {
         window.Bookmarks.markVisited('chapter:' + chapter.num);
       }
-      document.title = `${chapter.num}. ${chapter.title} — Merkantilizm`;
+      const bookTitle = (_manifest && _manifest.title) || 'Kütüphane';
+      document.title = `${chapter.num}. ${chapter.title} — ${bookTitle}`;
     } catch (e) {
       // Aborted by a newer nav — don't render error
       if (e.name === 'AbortError' || (myController && myController.signal.aborted)) return;

@@ -126,20 +126,12 @@
     return r.ok;
   }
 
-  window.MerkantilizmMCP = {
-    getUrl,
-    setUrl,
-    mcpFetch,
-    isOnline,
-    QUICK_TIMEOUT_MS,
-    DEFAULT_TIMEOUT_MS,
-    safeStorage,
-  };
-
   // ---- Safe localStorage with schema version ----
   // All keys read/written via this helper get migration support and graceful
   // handling of corrupted or absent payloads. The schema version is global
   // (per-app) and incremented when on-disk shape changes are incompatible.
+  // (Declared before window.MerkantilizmMCP so the assignment below isn't a
+  // temporal-dead-zone reference.)
   const SCHEMA_VERSION = 1;
   const SCHEMA_KEY = 'merkantilizm.schemaVersion';
 
@@ -189,6 +181,16 @@
     schemaVersion: SCHEMA_VERSION,
   };
 
+  window.MerkantilizmMCP = {
+    getUrl,
+    setUrl,
+    mcpFetch,
+    isOnline,
+    QUICK_TIMEOUT_MS,
+    DEFAULT_TIMEOUT_MS,
+    safeStorage,
+  };
+
   // ---- Mode detection (book vs appendix) ----
   // Centralized so bookmarks.js + command-palette.js can stop sniffing
   // window.BookManifest / window.BookReader themselves.
@@ -211,5 +213,31 @@
       : hashFragment;
   };
 
-  console.log('[mcp-config] Bridge URL =', _currentUrl, '· mode =', window.Merkantilizm.mode);
+  // ---- Theme slug detection ----
+  // The first path segment under the repo root identifies the active theme
+  // (merkantilizm, deger, ...). Used as a localStorage namespace by bookmarks
+  // and progress so per-theme reading state doesn't bleed across books.
+  // Falls back to 'merkantilizm' for legacy paths and unknown contexts.
+  function _detectThemeSlug() {
+    try {
+      const segs = location.pathname.split('/').filter(Boolean);
+      if (segs.length === 0) return 'library'; // root landing
+      const first = segs[0].toLowerCase();
+      // Recognized theme slugs come from theme-registry if available
+      const themes = Array.isArray(window.MerkantilizmThemes) ? window.MerkantilizmThemes : null;
+      if (themes && themes.some(t => t.slug === first)) return first;
+      // Legacy fallback — anything else is treated as merkantilizm
+      return first || 'merkantilizm';
+    } catch (e) {
+      return 'merkantilizm';
+    }
+  }
+  window.Merkantilizm.themeSlug = _detectThemeSlug();
+  /** Build a per-theme localStorage key, e.g. ('visited') → 'deger.visited'.
+   *  For legacy compatibility, merkantilizm keeps the 'merkantilizm.' prefix. */
+  window.Merkantilizm.storageKey = function(suffix) {
+    return window.Merkantilizm.themeSlug + '.' + suffix;
+  };
+
+  console.log('[mcp-config] Bridge URL =', _currentUrl, '· mode =', window.Merkantilizm.mode, '· theme =', window.Merkantilizm.themeSlug);
 })();
