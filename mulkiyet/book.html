@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mülkiyet kavramının tarihi — Aristoteles'ten Ostrom'a</title>
+  <meta name="description" content="Mülkiyetin yirmi beş asırlık seyri — sahiplik, ortak alan, emek-mixing, hukuksal kurum.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles/book.css">
+</head>
+<body>
+
+<div class="book-shell">
+
+  <!-- ============ Header ============ -->
+  <header class="book-header" role="banner">
+    <button class="menu-toggle" id="menuToggle" aria-label="İçindekiler" title="İçindekiler">☰</button>
+    <h1><a href="#bolum/1">Mülkiyet</a></h1>
+    <span class="spacer"></span>
+    <span id="progressBadge" class="progress-badge" title="Okuma ilerlemesi"></span>
+    <button id="cmdkHint" title="Hızlı arama (⌘K)">⌘K</button>
+    <button id="themeToggle" title="Aydınlık / karanlık tema">☀</button>
+  </header>
+
+  <!-- ============ TOC sidebar ============ -->
+  <nav class="book-toc" id="bookToc" aria-label="İçindekiler">
+    <h2>Bölümler</h2>
+    <ol id="tocList"><!-- toc.js dolduracak --></ol>
+    <div class="toc-divider"></div>
+    <h2>Diğer Tema'lar</h2>
+    <a href="../" class="appendix-link">🏛 Kütüphane (tüm tema'lar)</a>
+    <a href="../merkantilizm/book.html" class="appendix-link">📕 Merkantilizm</a>
+    <a href="../deger/book.html" class="appendix-link">📘 Değer kavramının tarihi</a>
+  </nav>
+
+  <!-- ============ Reader ============ -->
+  <main class="book-reader" id="bookReader" aria-label="Okuma alanı">
+    <article class="book-article" id="bookArticle">
+      <div class="book-loading">Yükleniyor…</div>
+    </article>
+  </main>
+
+</div><!-- /book-shell -->
+
+<!-- ============ Vendor + content + modules ============ -->
+<script src="../vendor/marked.min.js?v=5"></script>
+
+<!-- Foundation: theme detection + MCP bridge + safeStorage (loaded first so
+     per-theme localStorage keys and the URL-resolved bridge URL are ready
+     before any consumer module). -->
+<script src="../modules/theme-registry.js?v=5"></script>
+<script src="../modules/mcp-config.js?v=5"></script>
+
+<!-- Mülkiyet theme has no content fragments yet (no concept-map / terminology dict).
+     content-data.js still loaded so modules that check window.CONTENT existence
+     get an empty registry instead of undefined. -->
+<script src="../modules/content-data.js?v=5"></script>
+
+<!-- Reading modules -->
+<script src="../modules/book/toc.js?v=5"></script>
+<script src="../modules/book/progress.js?v=5"></script>
+<script src="../modules/book/reader.js?v=5"></script>
+
+<!-- Reused interaction modules (terminology decoration, palette, bookmarks) -->
+<script src="../modules/terminology.js?v=5"></script>
+<script src="../modules/bookmarks.js?v=5"></script>
+<script src="../modules/command-palette.js?v=5"></script>
+<script src="../modules/reindex-panel.js?v=5"></script>
+
+<!-- Theme + menu wiring (small inline) -->
+<script>
+(function() {
+  'use strict';
+  // Theme (shared key across themes so a preference set in merkantilizm carries over)
+  function applyTheme(t) {
+    document.documentElement.setAttribute('data-theme', t);
+    localStorage.setItem('merkantilizm.theme', t);
+    document.getElementById('themeToggle').textContent = t === 'dark' ? '☀' : '🌙';
+  }
+  const saved = localStorage.getItem('merkantilizm.theme');
+  applyTheme(saved || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));
+  document.getElementById('themeToggle').addEventListener('click', () => {
+    const cur = document.documentElement.getAttribute('data-theme');
+    applyTheme(cur === 'dark' ? 'light' : 'dark');
+  });
+  // Hamburger
+  const toggle = document.getElementById('menuToggle');
+  const toc = document.getElementById('bookToc');
+  if (toggle) toggle.addEventListener('click', () => toc.classList.toggle('open'));
+  // Close TOC when a section is picked on mobile
+  toc.addEventListener('click', (e) => {
+    if (innerWidth <= 768 && e.target.closest('a, .chapter-link, .section-link')) {
+      toc.classList.remove('open');
+    }
+  });
+  // Cmd+K hint button → trigger palette
+  const cmdkBtn = document.getElementById('cmdkHint');
+  if (cmdkBtn) cmdkBtn.addEventListener('click', () => {
+    if (window.CommandPalette) window.CommandPalette.show();
+  });
+})();
+</script>
+
+</body>
+</html>

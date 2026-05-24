@@ -39,6 +39,15 @@
       status: 'completed',
       primaryAuthors: ['Aristoteles', 'Aquinas', 'Smith', 'Ricardo', 'Marx', 'Menger', 'Jevons', 'Marshall', 'Sen'],
     },
+    {
+      slug: 'mulkiyet',
+      title: 'Mülkiyet kavramının tarihi',
+      subtitle: 'Aristoteles\'ten Ostrom\'a',
+      description: 'Sahiplik, ortak alan, emek-mixing, hukuksal kurum — mülkiyetin yirmi beş asırlık seyri.',
+      chapterCount: 12,
+      status: 'draft',
+      primaryAuthors: ['Aristoteles', 'Aquinas', 'İbn Haldun', 'Locke', 'Smith', 'Marx', 'Hegel', 'Proudhon', 'Ostrom'],
+    },
   ];
 
   console.log('[theme-registry] Loaded', window.MerkantilizmThemes.length, 'themes');

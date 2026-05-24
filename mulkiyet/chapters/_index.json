@@ -1,0 +1,102 @@
+{
+  "title": "Mülkiyet kavramının tarihi",
+  "subtitle": "Aristoteles'ten Ostrom'a — sahiplik, ortak alan, emek-mixing, hukuksal kurum",
+  "chapters": [
+    {
+      "num": 1,
+      "slug": "01-niye-mulkiyet",
+      "title": "Niye \"mülkiyet\"?",
+      "subtitle": "Terimin çoğul yüzü ve okumanın çerçevesi",
+      "estWords": 2000,
+      "status": "draft"
+    },
+    {
+      "num": 2,
+      "slug": "02-antik-temeller",
+      "title": "Antik temeller",
+      "subtitle": "Aristoteles, Plato, Roma hukukunun dominium'u",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 3,
+      "slug": "03-ibn-haldun-mulk-asabiyye",
+      "title": "İbn Haldun: mülk, asabiyye ve hanedan",
+      "subtitle": "Mukaddime'de mülkiyetin sosyal teorisi",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 4,
+      "slug": "04-skolastik-dogal-hukuk",
+      "title": "Skolastik gelenek ve doğal hukuk",
+      "subtitle": "Aquinas, Salamanca okulu, Vitoria",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 5,
+      "slug": "05-locke-emek-mixing",
+      "title": "Locke ve emek-mixing teorisi",
+      "subtitle": "Two Treatises 1690 — mülkiyet bir doğal hak",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 6,
+      "slug": "06-smith-klasik-iktisad",
+      "title": "Smith ve klasik politik iktisat",
+      "subtitle": "Mülkiyet, değer ve gelir dağılımı",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 7,
+      "slug": "07-rousseau-proudhon-elestiri",
+      "title": "Rousseau ve Proudhon — mülkiyet eleştirisi",
+      "subtitle": "\"Mülkiyet hırsızlıktır\" tezi ve kökenleri",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 8,
+      "slug": "08-marx-ozel-mulkiyet",
+      "title": "Marx ve özel mülkiyetin tarihselliği",
+      "subtitle": "Kapital'de sermaye, sömürü ve mülk ilişkisi",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 9,
+      "slug": "09-hegel-kisilik",
+      "title": "Hegel ve mülkiyetin kişilik teorisi",
+      "subtitle": "Philosophy of Right — özgürlüğün maddi temeli",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 10,
+      "slug": "10-osmanli-tapu-miras",
+      "title": "Osmanlı hukuku — timar, tapu, miras",
+      "subtitle": "İslâm hukukunun mülkiyet yapısı ve modernleşme",
+      "estWords": 3000,
+      "status": "pending"
+    },
+    {
+      "num": 11,
+      "slug": "11-yirminci-yuzyil-kurumlar",
+      "title": "20. yüzyıl — kurumlar, Coase, Ostrom",
+      "subtitle": "Mülkiyet bir kurum olarak yeniden okunur",
+      "estWords": 3500,
+      "status": "pending"
+    },
+    {
+      "num": 12,
+      "slug": "12-bugun-fikri-dijital",
+      "title": "Bugün — fikri mülkiyet, dijital, ekoloji",
+      "subtitle": "21. yüzyılda mülkiyetin yeni biçimleri",
+      "estWords": 3000,
+      "status": "pending"
+    }
+  ]
+}
