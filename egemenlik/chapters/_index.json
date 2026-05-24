@@ -24,7 +24,7 @@
       "title": "Ortaçağ ve \"iki kılıç\" doktrini",
       "subtitle": "Augustinus, Aquinas, papa-imparator çatışması",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 4,
@@ -32,7 +32,7 @@
       "title": "İbn Haldun ve devlet teorisi",
       "subtitle": "Mukaddime'de mülk, asabiyye, hanedan döngüsü",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 5,
@@ -40,7 +40,7 @@
       "title": "Machiavelli ve egemenliğin laikleşmesi",
       "subtitle": "Il Principe 1532 — virtù, fortuna, devlet aklı",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 6,
@@ -48,7 +48,7 @@
       "title": "Bodin ve soverenliğin formülasyonu",
       "subtitle": "Six Livres 1576 — mutlak, sürekli, bölünmez güç",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 7,
@@ -56,7 +56,7 @@
       "title": "Hobbes ve Leviathan",
       "subtitle": "1651 — sosyal sözleşme ve mutlak egemenlik",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 8,
@@ -64,7 +64,7 @@
       "title": "Sınırlı egemenlik — Locke, Montesquieu, Rousseau",
       "subtitle": "Halkın egemenliği ve kuvvetler ayrılığı",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 9,
@@ -72,7 +72,7 @@
       "title": "Osmanlı devleti — padişah, hilafet, sultanlık",
       "subtitle": "Egemenliğin pratik İslâm-Türk çerçevesi",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 10,
@@ -80,7 +80,7 @@
       "title": "Hegel ve devlet idealizmi",
       "subtitle": "Philosophy of Right — etik yaşamın zirvesi olarak devlet",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 11,
@@ -88,7 +88,7 @@
       "title": "Weber, Schmitt, Foucault — modern devlet sosyolojisi",
       "subtitle": "Meşru zor tekeli, istisna hâli, biyo-iktidar",
       "estWords": 2200,
-      "status": "pending"
+      "status": "draft"
     },
     {
       "num": 12,
@@ -96,7 +96,7 @@
       "title": "Bugün — küresel egemenlik, uluslar-üstü yapılar",
       "subtitle": "21. yüzyılda ulus-devletin krizi",
       "estWords": 2000,
-      "status": "pending"
+      "status": "draft"
     }
   ]
 }

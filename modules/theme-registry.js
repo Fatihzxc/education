@@ -54,7 +54,7 @@
       subtitle: 'Aristoteles\'ten Foucault\'ya',
       description: 'Egemenliğin antik kökeninden modern devlete — Bodin, Hobbes, Hegel, Weber, Schmitt, Foucault hattı.',
       chapterCount: 12,
-      status: 'draft',
+      status: 'completed',
       primaryAuthors: ['Aristoteles', 'İbn Haldun', 'Machiavelli', 'Bodin', 'Hobbes', 'Locke', 'Rousseau', 'Hegel', 'Weber', 'Schmitt', 'Foucault'],
     },
   ];
