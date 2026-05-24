@@ -971,10 +971,12 @@
         "general-equilibrium",
         "mathematical-economics"
       ],
-      "indexed": false,
-      "indexedAt": null,
+      "indexed": true,
+      "indexedAt": "2026-05-24T17:23:07.275994+00:00",
       "semanticIndexed": false,
-      "semanticModel": null
+      "semanticModel": null,
+      "pages": 538,
+      "indexedPath": "primary/walras-elements-pure-economics.pdf"
     },
     {
       "id": "marshall-principles-economics",
@@ -1033,10 +1035,12 @@
         "pareto-optimality",
         "general-equilibrium"
       ],
-      "indexed": false,
-      "indexedAt": null,
+      "indexed": true,
+      "indexedAt": "2026-05-24T17:23:07.275994+00:00",
       "semanticIndexed": false,
-      "semanticModel": null
+      "semanticModel": null,
+      "pages": 716,
+      "indexedPath": "primary/pareto-manual-political-economy.pdf"
     },
     {
       "id": "wicksell-interest-prices",
