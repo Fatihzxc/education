@@ -106,6 +106,52 @@ Bu beş miras, modern siyasal teori ve hukukun şekillendirilmesinde belirleyici
 
 Sonraki bölüm, Locke'un emek-mixing teorisinin nasıl 18. yüzyıl klasik politik iktisadına — özellikle Adam Smith'in *Wealth of Nations*'ına — entegre olduğunu inceler. Smith, Locke'un teorisini bir adım daha geliştirir: mülkiyet sadece bir hak değil, üretim ekonomisinin *yapı taşı*'dır.
 
+## 5.9 Lockean provisos sayısal test — "yeterince ve eşit kalite" gerçekten kaldı mı?
+
+Locke'un birinci proviso'sunun (Bölüm 5.4) sayısal sınırını görelim. Diyelim ki 100 dönümlük bir ortak otlak var; 10 köylü ondan yararlanıyor. Locke'un mantığı: ilk köylü 10 dönüm çitleyip kendine alabilir, çünkü diğer 9 köylüye hâlâ 90 dönüm kalır — *yeterli ve eşit kalitede*.
+
+İlk çitleme (köylü 1): 90 dönüm kaldı, 9 köylü için. Kişi başı 10 dönüm.
+İkinci çitleme (köylü 2): 80 dönüm kaldı, 8 köylü için. Kişi başı 10 dönüm. ✓
+...
+Sekizinci çitleme (köylü 8): 20 dönüm kaldı, 2 köylü için. Kişi başı 10 dönüm. ✓
+Dokuzuncu çitleme (köylü 9): 10 dönüm kaldı, 1 köylü için. Kişi başı 10 dönüm. ✓
+
+Tüm 9 çitlemede *kişi başı pay sabit kalır*. Locke'un mantığı tutuyor gibi görünür. Ama bir nüans var: *toprak homojen mi?* Genellikle değildir. İlk çitleyen, en verimli 10 dönümü seçer (Ricardo'nun rant teorisi, *Değer* Bölüm 6). İkinci, en verimli kalanları. Son köylü, en verimsiz toprağı alır.
+
+Diyelim ki tarlanın verim dağılımı şöyle:
+- En verimli 10 dönüm: 200 kile/yıl
+- Sonraki 10 dönüm: 180 kile
+- ...
+- En verimsiz 10 dönüm: 20 kile
+
+İlk köylü 200 kile alır; son köylü 20 kile. Locke'un proviso'su *miktar* olarak karşılanmış olabilir ama *kalite* olarak kesinlikle karşılanmamıştır. Locke'un kendisi "*as good*" (aynı kalitede) ifadesini kullanır; ama bu koşul, gerçek dünyadaki heterojen kaynaklarda çoğu zaman karşılanmaz.
+
+Bu sayısal test, modern liberteryen Lockecu argümanların pratik sınırını gösterir. Çitleme, sömürge, dijital-platform-bazlı kaynak özelleştirme — hepsinde aynı yapı: ilk çitleyenler en iyi parçayı alır, son katılanlar kalitesiz olanı. *Lockean proviso* matematiksel olarak ihlal edilmemiş gibi görünür ama pratik olarak ihlal edilir.
+
+G.A. Cohen (1995, *Self-Ownership, Freedom, and Equality*) bu noktayı sistematik geliştirir: Locke'un kendi argümanı bile, *ciddi* bir okumayla, modern kapitalist mülkiyet birikimini meşrulaştırmaz — proviso'nun arkasındaki "eşit fırsat" mantığı, asla pratik olarak korunmamıştır.
+
+## 5.10 Locke → Nozick — 20. yüzyıl liberteryen savunma
+
+Locke'un emek-mixing teorisi 1690'da yazıldı; 1974'te Robert Nozick (1938-2002) *Anarchy, State, and Utopia* eseriyle bu teoriyi modern bir biçimde yeniden inşa etti. Nozick'in çerçevesi, çağdaş liberteryen düşüncenin (Hayek, Friedman, Rand) felsefi-akademik omurgasıdır.
+
+Nozick'in "*entitlement theory*"si üç ilke üzerine kuruludur:
+
+**1. *Justice in acquisition* (kazanım adaleti)**: bir kişi, daha önce hiç-kimsenin sahip olmadığı bir şeyi Lockean emek-mixing ile sahiplendiyse, o şey ona meşru olarak aittir.
+
+**2. *Justice in transfer* (devretme adaleti)**: bir kişi mülkünü gönüllü olarak başkasına (satış, hediye, miras) devrederse, alıcının mülkiyeti meşrudur.
+
+**3. *Rectification of injustice* (adaletsizlik tazmini)**: yukarıdaki iki ilke ihlal edildiyse (örneğin bir mülk şiddet yoluyla alındıysa), bir tazmin yapılmalı.
+
+Bu üç ilke, Nozick'in *minimal devlet* tezinin temelidir. Bir devlet sadece (a) gönüllü mübadeleleri korumak, (b) zorla mülk gaspını cezalandırmak için meşrudur. Vergilendirme — özellikle yeniden-dağıtım amaçlı vergilendirme — meşru değildir, çünkü "*zorla emek*"e eşittir.
+
+Nozick'in en provokatif argümanı, *Wilt Chamberlain* deneyidir. Diyelim ki başlangıçta servet eşit dağılmış (D₁ dağılımı). Sonra ünlü bir basketbol oyuncusu Wilt Chamberlain, her maç için 25 sent ekstra ücret alır; milyonlarca taraftar gönüllü olarak ödemeyi yapar. Sezon sonunda Chamberlain'in serveti çok fazla; başlangıçtaki eşit dağılım bozuldu (D₂). Hangi dağılım meşrudur? Nozick: D₂. Çünkü D₂'ye gönüllü mübadelelerle ulaşıldı; tek-bir mübadeleyi adaletsiz görmüyorsanız, sonucu da adaletsiz göremezsiniz.
+
+Bu argüman, modern eşitsizlik tartışmalarına bir liberteryen cevap olarak sıklıkla alıntılanır. Bill Gates'in $130 milyar serveti, milyonlarca insanın Microsoft Windows'a gönüllü ödediği telif sonucudur; meşrudur. Vergiyle yeniden-dağıtım, bu meşru servetin "*çalınması*"dır.
+
+Sol-liberal eleştiri (Rawls, G.A. Cohen): bu argüman, başlangıç koşullarının (D₁) meşru olduğunu varsayar. Ama gerçek dünyada D₁ asla meşru değildir — sömürge, kölelik, çitleme tarihi her başlangıç noktasını ihlal etmiştir. Nozick'in üçüncü ilkesi (*rectification*) tüm tarihsel adaletsizliklerin tazmini gerektirir; ama Nozick bu uygulamaya pratik bir yol önermez.
+
+Bu çerçeve, modern ABD politik tartışmasının önemli bir teorik temelidir. Estate tax (varlık vergisi) tartışması, IP koruma süreleri, sağlık-sigortası zorunluluğu — hepsi, Nozickçi liberteryen vs Rawlscu sosyal-liberal çerçeveler arasında müzakere edilir. Locke'un 1690'da yazdığı *Of Property*, 330 yıl sonra hâlâ güncel politik tartışmaların entelektüel zeminidir.
+
 ---
 
 ## Kaynakça

@@ -96,6 +96,45 @@ Bu üç iz, Smith'i Locke ile Marx arasındaki entelektüel köprü olarak konum
 
 Sonraki bölüm, Smith'in tarafsız tonuna karşı 18. yüzyılın eleştirel sesine — Rousseau'ya — geçer. Onun *İnsanlar Arasındaki Eşitsizliğin Kökeni Üzerine Söylev*'i (1755), mülkiyetin "doğal" değil, *zorla kurulan* bir kurum olduğunu söyleyen ilk büyük modern eleştiridir.
 
+## 6.9 Üç-mülkiyet/üç-gelir — bir 1850 Manchester pamuk fabrikasında
+
+Smith'in üç-sınıf modelini somut bir örnek üzerinden görelim. 1850 Manchester'da bir pamuk-iplik fabrikası. Yıllık hesap (yaklaşık dönem verileri, sterlin):
+
+| Kategori | Miktar (£) | Sahip | Smith terminolojisi |
+|----------|-----------:|-------|---------------------|
+| Toplam üretim değeri | 50.000 | — | Brüt çıktı |
+| Pamuk hammaddesi maliyeti | 18.000 | Hindistan/ABD tüccarları | Sirküle edilen sermaye |
+| Fabrika rant (arsa kirası) | 1.500 | Manchester toprak sahibi | **Rant** |
+| Makine amortismanı + bakım | 4.000 | Fabrika kurucusu | Sabit sermaye yenileme |
+| Yöneticilik + üst-vasıflı emek ücretleri | 3.500 | Mühendisler, ustabaşılar | Yüksek-vasıflı **ücret** |
+| 200 işçi yıllık ücret toplamı (40£/işçi) | 8.000 | İşçiler | Düşük-vasıflı **ücret** |
+| Geri kalan = fabrika sahibinin kârı | 15.000 | Kapitalist | **Kâr** |
+| Toplam | 50.000 | — | — |
+
+Smith'in üç-bileşen şeması net görünür:
+- Rant = 1.500 (toplam değerin %3'ü)
+- Ücretler (vasıflı + işçi) = 11.500 (%23)
+- Kâr = 15.000 (%30)
+- Hammaddi + makine = 22.000 (%44)
+
+Mülkiyet açısından önemli not: kapitalistin %30'luk kâr payı, *üretim araçlarına sahipliğin* sonucudur. İşçilere ödenen ücret + ustabaşılar maliyeti (toplam %23), fabrikatörü "uzaktan yönetebilir" kıldı (Smith'in "üretken emek" kavramı, Bölüm 6.4). Mülkiyetin politik anlamı budur: kim üretim araçlarına sahipse, üretilmiş artığın büyük kısmı ona gider.
+
+Marx'ın 17 yıl sonra (1867) bu şemayı *Kapital*'de tekrar yapacak: c (sabit sermaye = 22.000) + v (değişken sermaye, işçi ücreti = 8.000) + s (artı-değer = 15.000 + 3.500 = 18.500). Marx'ın artı-değer oranı = s/v = 18.500/8.000 ≈ %231. Yani işçi 12 saatte 9 saatlik artığı kapitaliste verir; sadece 3 saatlik karşılığı alır. Smith'in tarafsız bir gözlemi, Marx'ın çerçevesinde sömürünün nicel kanıtı haline gelir (Bölüm 8 detaylandıracaktır).
+
+## 6.10 "Civil government for defence of rich" — Piketty ve Stiglitz'in modern okumaları
+
+Smith'in *Wealth of Nations* V.i'deki provokatif cümlesi — "*sivil yönetim, mülkiyetin korunması için kurulduğu kadarıyla, zenginlerin fakirlere karşı, ya da mülkü olanların hiç olmayanlara karşı savunması için kurulmuştur*" — 1776'da yazıldı ama tonu 21. yüzyıl politik-ekonomi eleştirisinin tonunu yakalar.
+
+**Thomas Piketty (2013, *Capital in the 21st Century*, kb-mcp'de mevcut)**: Modern ampirik verilerle, kapitalist getiri oranı r'nin (% 4-5) ekonomik büyüme oranı g'nin (% 1-2) sürekli üzerinde olduğunu gösterir. Bu, mülk sahibi olanların payını mülk sahibi olmayanlara karşı sürekli büyütür. Smith'in 1776'daki cümlesi, Piketty'nin 21. yüzyıl verisiyle doğrulanır: politik kurumlar (vergi sistemi, mülkiyet hakları, kalıt yasaları) mülkün korunması için tasarlandı; ve bu, sistematik bir gelir-dağılımı sonucu üretir.
+
+**Joseph Stiglitz (2002, *Globalization and Its Discontents*)**: IMF ve Dünya Bankası'nın 1990'lar boyunca dayattığı "*Washington Consensus*" reformları — özelleştirme, deregülasyon, mülkiyet haklarının güçlendirilmesi — gelişmekte olan ülkelerde sıklıkla eşitsizliği artırdı, refah dağılımını bozdu. Bu, Smith'in tezinin uluslararası bir versiyonudur: *küresel sivil yönetim* (IMF, WTO, BM), büyük ölçüde küresel mülk sahiplerinin korunması için tasarlanır.
+
+**Modern empirik çalışmalar (Saez-Zucman, IMF analizi, OECD raporları)**: Üst %1 nüfusun gelir payı, 1980'den 2020'ye, ABD'de %10'dan %20'ye, Britanya'da %6'dan %14'e, Türkiye'de %10'dan %23'e yükseldi. Bu yükselişin yapısal motoru — Stiglitz, Piketty ve Acemoglu-Robinson çerçevesinde — kurumsal: vergi sistemleri sermayenin lehine ayarlandı, mülk-koruma mekanizmaları güçlendirildi, finansal düzenleme zayıfladı.
+
+Smith'in 1776'daki cümlesi, modern eşitsizlik tartışmalarının bir tarihsel kaynağıdır. Smith bunu *eleştirel* mi yoksa *betimleyici* mi söylediği yorum tartışmalıdır (Bölüm 6.5); ama 21. yüzyıl politik-ekonomi literatürü çoğunlukla onu eleştirel bir gözlemci olarak okur. Smith, modern sol için bir Lockecu doğal-hukuk teorisyeninden çok, mülkiyet kurumlarının yapısal politik içeriğini gören bir önder olarak yeniden konumlandırılır.
+
+Bu yeniden-okuma haklıdır. Smith'in tarafsız tonu, çoğu zaman tarafsız sonuçlar üretmez. Bir kurumun "*nasıl çalıştığını*" açıklamak, onun "*doğal*" olduğunu iddia etmek değildir. Smith bu noktayı kabul ediyor görünür; modern liberalizm bunu çoğu zaman görmezden gelir.
+
 ---
 
 ## Kaynakça

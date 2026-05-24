@@ -119,6 +119,48 @@ Marx'ın mülkiyet teorisinin kalıcı katkısı, *mülkiyetin doğal değil, ta
 
 Sonraki bölüm, mülkiyet teorisinin başka bir radikal versiyonuna — Hegel'in *Philosophy of Right*'ına (1820) — geçer. Hegel, Marx'ın hocası değildir ama hem Marx'ı önceler hem de farklı bir yönden mülkiyet teorisini sorgular. Onun çerçevesinde mülkiyet, *kişinin özgürlüğünün maddi temeli*'dir.
 
+## 8.9 c + v + s'in mülkiyet okuması
+
+Marx'ın *Kapital* I'in artı-değer formülü (*Değer* kitabı Bölüm 7.10'da sayısal işlendi) mülkiyet açısından da çözülebilir. Aynı 12 saatlik gün üretimi için (£10 sabit sermaye, £3 değişken sermaye, £3 artı-değer = toplam £16), kim neye sahip sorusunu cevaplayalım:
+
+| Yapı taşı | Kimin sahip? | Mülkiyet türü |
+|-----------|--------------|----------------|
+| c = £10 (makine, hammadde, fabrika) | Kapitalist | Sermaye mülkiyeti |
+| v = £3 (işçi ücreti = emek-gücünün değeri) | İşçinin emek-gücü | Kişisel "mülkiyet" — sadece kendi emek-gücüne sahip |
+| s = £3 (artı-değer) | Kapitalist | Sermaye mülkiyetinden çıkan artığa el-koyma |
+
+Mülkiyet asimetrisinin doğrudan ekonomik sonucu burada görünür. Kapitalist *c*'ye sahip olduğu için, üretim sürecini kontrol edebilir; işçiden 12 saat çalışma talep edebilir; üretimin tamamına (£16) hukuksal olarak sahip olur. İşçiye sadece kendi emek-gücünün değerini (£3) öder. Kalan £3 = *s*, mülkiyet asimetrisinin doğal bir sonucudur — *zorlama* değil, *yapısal* bir akış.
+
+Bu okuma, Marx'ın "*kapitalist sömürü politik değil yapısal*" tezinin somut görüntüsüdür. Kapitalist "*kötü*" değildir; mülkiyet yapısı verili olduğu sürece, herhangi bir kapitalist aynı yapısal kazanca varır. Onun bireysel ahlâkı değil, içine girdiği sistemin yapısı belirleyicidir.
+
+Marx'ın çözüm önerisinin de mantığı bu noktada netleşir. Bireysel davranış değişikliği yetmez (Proudhon'un mutualism'inin yetersizliği, Bölüm 7.7); *mülkiyet yapısının kendisi* değişmelidir. Üretim araçları (c) kollektif mülkiyete dönerse, artı-değer (s) tek bir sınıfın eline geçmez; üretilen değer üreticilere döner.
+
+Bu argüman, 20. yüzyıl sosyalist deneylerinin (Sovyet Birliği, Doğu Avrupa, Çin'in 1949-1978 dönemi) teorik temelidir. Pratik sonuçları karışıktır — kollektif mülkiyetin verimliliği klasik kapitalist firma kadar olmadı; ama sömürü oranı (s/v) düşürüldü ve eşitlik arttı. *Hangi bedele?* sorusu 20. yüzyılın en büyük politik tartışmasıdır.
+
+## 8.10 Piketty r > g vs Marx yoğunlaşma tezi
+
+Marx'ın 1867'deki "*kapital giderek az kişide yoğunlaşır*" tezi (Bölüm 8.4), 21. yüzyılda Thomas Piketty'nin (*Capital in the 21st Century*, 2013 — kb-mcp'de mevcut) sistematik ampirik analizinde tekrar canlandı. Piketty'nin tezi tek bir eşitsizlikle özetlenir:
+
+> **r > g**
+
+Burada r = sermaye getirisi (kira, faiz, kâr, kazançlar — yıllık), g = ekonomik büyüme (GSYİH artışı — yıllık). Piketty'nin tarihsel verileri (1700-2010, çeşitli ülkeler) gösterir ki:
+
+| Dönem | r ortalama | g ortalama | Sermaye/gelir oranı eğilimi |
+|-------|-----------:|-----------:|------------------------------|
+| 1700-1820 | ~5% | ~0.5% | Çok yüksek (mülk-yoğun toplum) |
+| 1820-1913 | ~4-5% | ~1.5% | Yüksek, yavaşça yükseliyor |
+| 1913-1950 | ~1-2% | ~1.5% | Dramatik düşüş (savaşlar, vergiler) |
+| 1950-1980 | ~3% | ~3-4% | Düşük (eşitlikçi dönem) |
+| 1980-2010 | ~4-5% | ~1.5-2% | Yeniden yükseliyor |
+
+Piketty'nin matematiksel argümanı şudur: eğer r sürekli g'nin üzerindeyse, sermaye varlıkları her yıl ekonomi geneli daha hızlı büyür; *sermaye/gelir oranı* (β = K/Y) zaman içinde genişler. Bu, sermaye sahibi olanların payını sürekli artırır.
+
+Sayısal örnek: 2020 ABD'sinde r ≈ 5%, g ≈ 2%. Bir milyarder $1 milyar serveti yıllık $50 milyon getiri sağlar; aynı milyarderin emek-geliri (CEO maaşı) belki $20 milyon. Servet, emek-gelirinden 2.5 kat hızlı büyür. Bir orta-sınıf ailesi: tek-konut $300,000 + birikim $50,000 = $350,000 servet; yıllık emek-geliri $80,000. Servetten getiri $17,500; emek-gelirinden 4.5 kat az. Üst-sınıf için servet emek-gelirini geride bırakır; orta-sınıf için emek-geliri başta kalır. Eşitsizlik sistematik olarak büyür.
+
+Bu, Marx'ın 1867'deki *yoğunlaşma tezi*'nin 21. yüzyıl ampirik doğrulamasıdır. Marx, mekanizmayı tam matematiksel olarak formüle etmedi; ama içgüdüsel olarak gördüğü dinamik, Piketty'nin verisi tarafından net biçimde teyit ediliyor: kapitalist sistem, kendi içsel mantığıyla, sermaye-mülk sahiplerini sermaye-mülk olmayanlara karşı sürekli kazandırır.
+
+Çözüm önerileri: Marx'ta devrim. Piketty'de ise global progresif servet vergisi (örneğin yıllık %2 üzeri belirli bir servet tavanından sonra). Pratik uygulama zor; ama teorik mantık, Marx'tan beri değişmedi.
+
 ---
 
 ## Kaynakça

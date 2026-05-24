@@ -100,6 +100,45 @@ Bu üç tema, 19. yüzyıl sosyalist düşüncesinin temel taşlarıdır. Marx't
 
 İki gelenek de, Rousseau-Proudhon'un "mülkiyetin meşruiyeti sorgulanabilir" temasını miras alır. Sonraki bölüm, bu sorgulamanın en sistematik versiyonunu — Marx'ın *Kapital*'ini — ele alır.
 
+## 7.9 Proudhon'un kişisel/sermaye ayrımı pratikte — Mondragon
+
+Proudhon'un 1840'taki "*kişisel mülkiyet meşru, sermaye mülkiyeti hırsızlık*" ayrımının (Bölüm 7.5), pratik bir 20-21. yüzyıl uygulamasını görmek için İspanya'nın Bask bölgesindeki Mondragon kooperatif federasyonuna bakmak gerekir.
+
+1956'da Bask Katolik rahibi José María Arizmendiarrieta, Mondragon kasabasında 5 işçinin kurduğu küçük bir kooperatifi destekledi (ULGOR — daha sonra Fagor markası ile beyaz eşya üreticisi). 2023 itibarıyla Mondragon Corporation:
+
+- 80,000+ üye-sahip işçi
+- 95 üye-kooperatif (sanayi, finansal, dağıtım, eğitim)
+- €11 milyar yıllık ciro
+- Avrupa'nın 10. en büyük endüstriyel grubu
+
+Yapısal özellikleri tam Proudhon'un mutualism'idir:
+
+**1. Üretim araçları işçilerin mülkiyetinde**. Bir üyenin sermayeye katkısı (girişte yatırılan pay), kullanım hakkını verir ama kâr-paylaşımına oransal değil; *eşit oy hakkı* prensibine bağlıdır.
+
+**2. Maaş eşitsizliği sınırlı**. En yüksek maaş : en düşük maaş oranı çoğu üye-kooperatifte 1:6 ile 1:8 arasında (klasik kapitalist firma: 1:300+). Bu oranlar üyelerin oylarıyla belirlenir.
+
+**3. Kâr dağılımı kollektif**. Yıllık kâr üç katmana ayrılır: %10 zorunlu rezerv, %10 toplum-eğitim fonu, %80 üye-hesaplarına yatırılır. Üye işten ayrıldığında (genelde emeklilik) kişisel hesabını çekebilir.
+
+**4. Krize karşı dayanıklılık**. 2008-2012 İspanyol ekonomik krizinde, ülke geneli işsizlik %25'e çıkarken Mondragon hiç toplu işten çıkarma yapmadı. Bazı kooperatif kapanırken, üyeler federasyonun diğer kooperatiflerine transfer edildi.
+
+Tabii sınırları var. Fagor Electrodomésticos 2013'te iflas etti (mutualism finansal krizden tam korunmuyor). Bazı eleştirmenler (Sharryn Kasmir 1996), Mondragon'un büyüdükçe sıradan kapitalist firmalara benzediğini iddia eder — üye olmayan geçici işçi çalıştırma, dış-pazar mantığı, finansal kararlarda hiyerarşi.
+
+Yine de, Mondragon Proudhon'un 1840'taki vizyonunun yaşayan örneğidir. Üretim araçları üzerindeki mülkiyet *kollektifleştirilirse*, kapitalist eşitsizlik mekaniği önemli ölçüde sınırlanabilir. Bu, ne tam-devlet sosyalizmi (kurum üyeleri özerk), ne de tam-kapitalist piyasa (kâr-amacı sınırlanmış). Üçüncü bir yol.
+
+## 7.10 Rousseau-Locke çatışması — bir çitleme deneyinde
+
+Locke ve Rousseau'nun zıt çerçevelerini somut bir sahnede görelim. 17. yüzyıl İngiltere'sinde bir köyün ortak otlağı çitleniyor. Aynı olayı iki gözlükten okuyalım:
+
+**Lockecu okuma** (1690): Bir köylü — diyelim Thomas Hawkins — kendi inisiyatifiyle 20 dönüm çitliyor, oraya çit çekiyor, koyunlarını koyuyor, tarlanın bir kısmını ekiyor. Locke'un *Two Treatises* II §32: "*Bu kadar toprak ki, bir kişi onun mahsulünü yetiştirir, eker, geliştirir, kültürlendirir, ve kullanabilir, o kadarı onun mülkiyetidir.*" Hawkins, *emeğini* tarlaya katmıştır; tarla artık doğal *res nullius* değil, onun mülküdür. Çitleme meşru, doğal, herhangi bir politik tartışmaya yer yok.
+
+**Rousseaucu okuma** (1755): Aynı sahne — Hawkins'in çit çekmesi — Rousseau için *kurucu bir sahtekârlık*'tır. Otlak yüzyıllardır köyün ortak kullanımındaydı; Hawkins'in "*Bu benim*" demesi, başkalarının önceki haklarının ihlali. Onun emek-mixing argümanı kendi-meşrulaştırıcıdır — çitleme öncesi otlak meşru olarak ortaktı; çitleme sonrası "*emek-eklemiş*" görünüyor ama eklenen emek, *önceki kollektif hakkı yok sayma* eylemine dayanır. Köy toplumu bu "*Bu benim*" iddiasına itiraz etmeli; etmeyince, kollektif düzen çöker.
+
+İki yorum, fiziksel olarak *aynı olay*'ı tasvir ediyor. Hawkins'in çit çekmesi gerçek; köylülerin önceki kollektif kullanımı gerçek; sonuçta yeni özel-mülkiyet rejimi de gerçek. Yorumcular sadece *moral anlamı* hakkında ayrılıyorlar.
+
+Bu çatışmanın çözümlenmeyen yapısı, modern mülkiyet tartışmalarının özüdür. Bir dijital platform (Facebook) kullanıcı verisini kollektif bir kaynaktan özel-mülkiyete dönüştürür — Lockecu mu, Rousseaucu mu okumalı? Bir madencilik şirketi yerli halkın geleneksel topraklarında çalışıyor — emek-mixing'in meşru bir uzantısı mı, çitleme sahtekarlığının tekrarı mı?
+
+Cevap, sadece olguların incelenmesinden çıkmaz; teorik çerçeveden çıkar. Aynı olay, iki farklı çerçevede iki farklı *gerçeklik* üretir. Bu kitap boyunca tekrar tekrar görüyoruz: mülkiyet "kavramı", sadece bir hukuksal kategori değil; bir politik yorum çerçevesidir.
+
 ---
 
 ## Kaynakça

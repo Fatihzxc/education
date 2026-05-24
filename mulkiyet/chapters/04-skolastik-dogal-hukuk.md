@@ -120,6 +120,36 @@ Skolastik gelenek, modern mülkiyet teorisinin direk atası olmasa da, çağdaş
 
 Sonraki bölüm, bu zemin üzerinde inşa edilen ilk büyük modern teoriye — John Locke'un *Two Treatises of Government*'ına — gider. Locke, skolastik geleneğin Tanrı-temelli mülkiyet çerçevesini, doğal hukuk geleneğinin akıl-temelli çerçevesi ile birleştirip, modern liberal mülkiyet teorisinin kurucu metinini yazacaktır.
 
+## 4.9 Vitoria *De Indis*'in modern uygulaması — yerel halk hakları
+
+Vitoria'nın 1532'de verdiği *De Indis* derslerinin temel argümanı — yerli halkların yaşadığı topraklar *res nullius* değildir, çünkü orada zaten meşru mülkiyet ilişkileri vardır — beş yüz yıl sonra, dünyanın farklı köşelerinde yargısal kararların kavramsal kaynağı haline geldi.
+
+**1992 — Mabo v Queensland (Avustralya Yüksek Mahkemesi)**. Eddie Mabo adlı bir Aborjin lider, Murray Islands'ın *terra nullius* (Roma hukuku terminolojisinde "kimseye ait olmayan toprak") sayılamayacağını iddia etti. Mahkeme, 1788'den beri sürmekte olan *terra nullius* varsayımını reddetti; yerli halkların *native title* (yerli toprak hakkı) sahibi olduğunu kabul etti. Mahkeme kararının teorik gerekçesi, doğrudan Vitoria-Grotius-Locke doğal hukuk geleneğinden çıkarılmıştır.
+
+**1988-2007 — Brezilya *demarcação* süreci**. Brezilya Anayasası (1988), Amazon yerli halkların geleneksel topraklarını tanır ve "demarkasyon" (sınır çizimi) ile koruma altına alır. Yawanawá, Suruwahá, Kayapó gibi halkların milyonlarca hektarlık geleneksel toprakları, hukuksal olarak *res nullius* statüsünden çıkarıldı. Bu süreç, Vitoria'nın 1532'deki argümanının modern bir uygulamasıdır.
+
+**2018 — Vatican'ın *Doctrine of Discovery*'yi reddi**. Roma Katolik Kilisesi, 2018'de Papa Francis'in yönlendirmesiyle, 1493 *Inter Caetera* fermanının (yeni keşfedilen toprakların Hristiyan krallıklara verildiği bull) "geçersiz" olduğunu açıkladı. Bu, Vitoria'nın 16. yüzyıldaki itirazının 500 yıllık bir gecikmeyle kurumsal kabulüdür.
+
+Üç örnek, modern dünyanın "*keşif doktrini*" mantığından (bir toprak orijinal olarak Avrupalılar tarafından "keşfedildiyse" onlarındır) doğal-hukuk temelli yerli-hak mantığına geçişin uzun süreçidir. Vitoria'nın 1532'deki argümanı, dört yüz yıl uyguladığı politik karşı-akıma rağmen, sonunda kabul gördü.
+
+Tabii çelişkiler sürüyor. Brezilya Bolsonaro hükümeti (2019-2022) demarkasyon sürecini durdurdu; ABD ve Kanada'da yerli toprak iadeleri hâlâ sınırlı; Avustralya'da Mabo sonrası uygulama eşitsiz. Ama kavramsal çerçeve değişti: artık "*terra nullius*" hukuksal bir kategori değil; "*native title*" tanınmış bir hak. Vitoria'nın doğum sancılarını çektiği fikir, beş yüzyıl sonra normal olmaya başladı.
+
+## 4.10 Aquinas'ın beş sınırı modern hukukta
+
+Aquinas'ın 13. yüzyılda formüle ettiği beş mülkiyet sınırı (Bölüm 4.6) — ihtiyaç-istisnası, adil fiyat, faiz yasağı, lüks sınırı, kullanım-paylaşımı sorumluluğu — modern hukukta beş farklı kurumsal biçimde yaşıyor:
+
+**1. İhtiyaç-istisnası → ABD *necessity defense***. Modern ceza hukukunda, *Model Penal Code* §3.02 (1962): "Bir kişi, daha büyük bir kötülüğü önlemek için olağan suç işleyebilir." Klasik örnekler: bir dağcının kar fırtınasında başkasının kulübesini kırıp içeriye sığınması; bir hastanenin yangında ilaç deposundan başkasının ilacını alıp can kurtarması. Aquinas Q.66 A.7'nin doğrudan modern formu.
+
+**2. Adil fiyat → *price gouging* yasakları**. 34 ABD eyaletinde, federal afet ilan edildiğinde, satıcıların fiyatları olağan piyasa fiyatının belirli bir oranının üstüne çıkarması yasaktır (genelde %10-25). Aquinas'ın "*haddinden fazla fiyat adaletsizliktir*" tezi, modern hukukta "*acil ihtiyaçtaki tüketici korunmalıdır*" çerçevesine dönüştü.
+
+**3. Faiz yasağı → İslâmî finans + tüketici kredisi tavanları**. Aquinas'ın *usura* yasağı, İslâmî bankacılıkta (toplam $4 trilyon küresel varlık, 2023) ahlâki ilkesi olarak yaşıyor — *mudaraba* (kâr-paylaşımı), *murabaha* (mark-up satış), *ijara* (kira sözleşmesi) yapılarıyla faiz olmadan kredi sağlanır. Sekiz Avrupa ülkesinde tüketici kredisi için yasal faiz tavanları vardır (Almanya %200 baz oranın üstünde kredi geçersizdir; Polonya formel limit getirir). Aquinas'ın temel tezi — "*paranın doğası kazanç-üretmeye uygun değildir*" — modern hukukta bir mutlak yasak değil, *bir tavan ilkesi* olarak korunur.
+
+**4. Lüks sınırı → lüks vergileri**. Modern Fransa (ISF, Impôt sur la fortune, 1981-2017), İspanya (Impuesto sobre el Patrimonio), Norveç ve İsviçre'de servet vergileri uygulanır. Bunlar, Aquinas'ın "*doğal-ihtiyaçların üstünde sınırsız servet biriktirme yasaklanmalı*" tezinin laik versiyonudur. ABD'de Elizabeth Warren ve Bernie Sanders'in 2020 başkanlık kampanyalarında savundukları "*wealth tax*" önerileri aynı zincirin parçasıdır.
+
+**5. Kullanım-paylaşımı sorumluluğu → *Corporate Social Responsibility* (CSR)**. 1970'lerden beri yaygınlaşan CSR çerçevesi, şirketlerin sadece hissedarlara değil; topluma ve çevreye karşı da sorumlu olduğunu öne sürer. Modern *stakeholder capitalism* (Business Roundtable 2019 deklarasyonu), Aquinas'ın "*zenginlik bir görev olarak emanet edilmiştir*" tezinin laikleşmiş versiyonudur.
+
+Beş örnek, Aquinas'ın 13. yüzyıl teolojik çerçevesinin yaşayan bir hukuksal mirası olduğunu gösterir. *Justum pretium*, *usura* yasağı, lüks sınırı — bunlar tarih değil; modern hukukun farklı isimlerle koruduğu yaşayan ilkelerdir. Skolastik gelenek "*tarihte kalmış*" değil; üzerine inşa edilen bir kavramsal temeldir.
+
 ---
 
 ## Kaynakça
