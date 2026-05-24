@@ -96,6 +96,74 @@ Bu üç tez, 1871'de Carl Menger, William Jevons ve Léon Walras tarafından tam
 
 Ama bu değişimin tam anlaşılması için, önce Karl Marx'ın 1867'de Ricardo'nun çerçevesini nasıl alıp radikal biçimde dönüştürdüğünü görmek gerekir — sonraki bölümün konusu.
 
+## 6.9 Karşılaştırmalı üstünlük — Ricardo'nun kendi sayılarıyla
+
+*Principles* VII. bölümün ünlü Portekiz-İngiltere örneğini olduğu gibi kuralım. Ricardo'nun verdiği rakamlar (1817):
+
+|                | Şarap (1 birim için) | Kumaş (1 birim için) |
+|----------------|-----------------------:|---------------------:|
+| Portekiz       | 80 işçi-saat           | 90 işçi-saat         |
+| İngiltere      | 120 işçi-saat          | 100 işçi-saat        |
+
+Portekiz her iki sektörde *mutlak üstün*; ne olursa olsun İngiltere'den az emek kullanır. Sezgisel sonuç: "Portekiz her şeyi kendi üretsin, ticaret yapmasın."
+
+Ricardo'nun ters-sonucunu görelim. *Görece* hesap:
+- Portekiz: 1 birim kumaş yapmak için 90 saat = 90/80 = 1,125 birim şarap fırsat-maliyeti.
+- İngiltere: 1 birim kumaş yapmak için 100 saat = 100/120 = 0,833 birim şarap fırsat-maliyeti.
+
+İngiltere kumaşı *görece* daha ucuz üretir. Tersine, Portekiz şarabı görece daha ucuz üretir.
+
+**Ticaret-öncesi** (her ülke kendi tüketimini üretir, varsayalım her ülke 1 şarap + 1 kumaş tüketir):
+- Portekiz emek tüketimi = 80 + 90 = 170 saat
+- İngiltere = 120 + 100 = 220 saat
+- Toplam: 390 saat → 4 birim ürün (2 şarap + 2 kumaş)
+
+**Ticaret-sonrası** (uzmanlaşma):
+- Portekiz tüm emeğini şaraba yatırır: 170 saat → 170/80 ≈ 2,125 şarap.
+- İngiltere tüm emeğini kumaşa yatırır: 220 saat → 220/100 = 2,2 kumaş.
+- Ticaret oranı 1 şarap = 1 kumaş varsayımıyla mübadele.
+- Toplam: 4,325 birim ürün — uzmanlaşmadan 0,325 birim *fazladan* (≈ %8) kazanç.
+
+Bu kazanç, ne sermayeden ne emek miktarından — sadece *uzmanlaşmadan* gelir. Ricardo'nun teoreminin gücü budur.
+
+**Modern eleştiri**. Erik Reinert (*How Rich Countries Got Rich*, 2007) ve Ha-Joon Chang (*Kicking Away the Ladder*, 2002) bu örneğin ihmal ettiği bir noktaya vurgu yapar: Portekiz şarabı ürettikçe *o sektörün öğrenme-eğrisinde* kalır; İngiltere kumaşı (sonra tekstil → mühendislik → makine) ürettikçe *artan getiriler*'in olduğu sektörlere taşınır. 1817'den 2000'e kadar İngiltere sanayi devrimini önderlik etti; Portekiz tarımsal-ihracatçı kaldı. Ricardo'nun *statik kazanç* teoremi, *dinamik kayıp* göz ardı eder.
+
+Dani Rodrik (*The Globalization Paradox*, 2011) daha ileri gider: karşılaştırmalı üstünlük teoremi *uzmanlaşmanın hangi sektörde gerçekleştiğine bakmaz*. Pratik politika için, *hangi* sektörde uzmanlaştığınız uzun-vadeli refah seyrini belirler. Bu çekirdek noktada, modern kalkınma iktisadı Ricardo'dan ayrılır.
+
+## 6.10 Üç-toprak rant modeli — sayısal yürüyüş
+
+Ricardo'nun farklılaşmış rant tezini somut bir tablo ile görelim. Üç tip toprak: A (yüksek verim), B (orta verim), C (düşük verim). Her toprak 100 işçi-saat emek ile şu kadar tahıl üretir:
+
+| Toprak  | 100 saat emek ile tahıl üretimi (kile) |
+|---------|---------------------------------------:|
+| A       | 200                                    |
+| B       | 150                                    |
+| C       | 100                                    |
+
+Nüfus küçükken sadece A ekilir. Tahıl arzı yeterli; fiyat A'nın maliyetini karşılar. Bir kile tahıl = 0,5 saat-emek değerinde. Rant = 0 (çünkü tek tip toprak var, kıt değil).
+
+Nüfus büyür; A yetmez, B ekilmek zorunda. Şimdi en *az verimli* toprak (B) maliyeti fiyatı belirler. Bir kile tahıl = 100/150 ≈ 0,67 saat-emek değerinde. B-toprağı sahibi kendi emeğini ödüyor; rantı sıfır. Ama A-toprağı sahibi 100 saat ile 200 kile üretirken, B-fiyatından satar:
+- A'nın bir kilesi 0,67 saat-emek değerinde
+- A 200 kile satar = 200 × 0,67 = 134 saat-emek karşılığı
+- A'nın gerçek emek-maliyeti 100 saat
+- **A toprağının rantı = 34 saat-emek değerinde**
+
+Nüfus daha da büyür; C de ekilmek zorunda. Şimdi C maliyeti fiyatı belirler: 1 kile = 100/100 = 1 saat-emek değerinde.
+- A'nın rantı: 200 × 1 - 100 = 100 saat-emek değerinde
+- B'nin rantı: 150 × 1 - 100 = 50 saat-emek değerinde
+- C'nin rantı: 100 - 100 = 0
+
+**Ricardo'nun çıkardığı sonuçlar**:
+1. Rant, *bir şeyin üretiminden* değil; *farklı verimliliklerde topraklar olduğundan* doğar. Toprak sahibi rantı *kazanmaz*; bir koşulun ürünüdür.
+2. Nüfus arttıkça rant artar; toprak sahibinin payı sürekli yükselir.
+3. Ücretler "doğal" düzeye geri çekilir (geçim seviyesi); ücret + rant + kâr arasındaki paylaşımda, rant kapitaliste karşı yükselir.
+
+Bu çıkarımların politik gücü kendi başına büyüktür. 19. yüzyıl Britanya'sında toprak sahibi sınıfı (Parlamento'nun çoğunluğunu kontrol eden) ile yükselen sanayi-kapitalist sınıfı arasında yapısal bir gerilimi haritalandırır. 1846'da Sir Robert Peel'in *Corn Laws*'ı kaldırması, bu yapısal teşhisin politik bir uygulamasıdır.
+
+**Modern bir yankı**. Şehirsel toprak rantı bugün ekonominin merkez tartışmalarından birisi. New York, Londra, San Francisco gibi metropollerde, konut fiyatlarının yükselişinin önemli bir kısmı *toprak* fiyatından geliyor — binadan değil. Ricardo'nun tezini güncel bir versiyona çeviren Henry George (1879, *Progress and Poverty*) "*tek vergi*" önerdi: tüm vergileri kaldırın, sadece toprak değerine vergi koyun. 21. yüzyılda Thomas Piketty (*Capital in the 21st Century*, 2013) benzer bir mantıkla "*g > r*" tezini geliştirir: sermaye (toprak dahil) getirisi büyüme oranını sürekli aşar, bu yüzden servet eşitsizliği yapısal olarak artar.
+
+Bu modern uzantılar, Ricardo'nun 1817'deki üç-toprak modelinin doğrudan torunlarıdır. Modeli özümseyen biri, bugün New York'taki konut piyasasını ya da Henry George reformunu yeniden anlamlandırabilir.
+
 ---
 
 ## Kaynakça

@@ -98,6 +98,60 @@ Marshall'ın değer kavramının tarihindeki yeri şudur:
 
 Sonraki bölüm, Marshall'ın sentezindeki bir teknik soruna — sermaye-yoğunluk problemine — geri döner. 1960'larda Piero Sraffa'nın *Production of Commodities*'i, bu sorunu Marshall'ın çerçevesinin temel bir hatası olarak ortaya koyar.
 
+## 10.9 Makasın sayısal kesişimi — denge ve fazla
+
+Marshall'ın talep-arz makasını basit doğrusal fonksiyonlarla yürüyelim. Diyelim ki bir kahve piyasası:
+
+- Talep fonksiyonu: Qd = 100 - 1·P (P liradan fiyat, Q fincan)
+- Arz fonksiyonu: Qs = 2·P - 20
+
+**Denge bulalım**. Qd = Qs olduğu noktada:
+- 100 - P = 2P - 20
+- 120 = 3P → P* = 40 lira
+- Q* = 100 - 40 = 60 fincan
+
+**Tüketici fazlası**. Talep eğrisi P = 100 - Q noktasından başlar; yani bir tüketici teoride ilk fincan için 100 liraya kadar ödeyebilirdi. Denge fiyatı 40 lira. Talep eğrisi ile yatay fiyat çizgisi arasındaki üçgen:
+- CS = ½ × taban × yükseklik = ½ × 60 × (100 - 40) = ½ × 60 × 60 = **1800 lira**
+
+**Üretici fazlası**. Arz eğrisi Q = 0 noktasında P = 10'dan başlar (bir üretici 10 liradan az fiyata üretim yapmaz). Denge fiyatı 40. Üçgen:
+- PS = ½ × 60 × (40 - 10) = ½ × 60 × 30 = **900 lira**
+
+**Toplam refah** = CS + PS = 2700 lira.
+
+Şimdi bir senaryo: hükümet kahveye fincan başına 10 liralık vergi koyar. Yeni denge:
+- Arz fonksiyonu yatay olarak yukarı kayar: yeni Qs = 2(P - 10) - 20 = 2P - 40
+- Yeni denge: 100 - P = 2P - 40 → P_yeni = 46,67 lira (alıcının ödediği), üreticinin aldığı 36,67
+- Yeni Q = 53,33 fincan
+
+Refah etkisi:
+- CS = ½ × 53,33 × (100 - 46,67) ≈ 1422 (kayıp 378)
+- PS = ½ × 53,33 × (36,67 - 10) ≈ 711 (kayıp 189)
+- Vergi geliri = 10 × 53,33 ≈ 533
+- *Ölü ağırlık kaybı* (deadweight loss) = 2700 - (1422 + 711 + 533) = 34 lira
+
+Bu hesap, Marshall'ın çerçevesinin pratik gücünü gösterir. Bir vergi politikasının toplumsal etkisini, sadece grafik üzerinden hesaplayabilirsiniz. Vergi gelir-üretiminde değil; bazı mübadeleler artık karlı olmadığı için toplam refah azalır. 34 liralık ölü ağırlık kaybı, "*kazanç*" diye sayılmayan, ama gerçek bir kayıp.
+
+Modern ders kitaplarındaki tüm "*vergi yansıması*", "*sübvansiyon analizi*", "*fiyat kontrolü*" bölümleri bu tek şema üzerine kuruludur. Marshall'ın 1890'daki teknik basitliği, mikroekonomi eğitiminin 130 yıllık standardı oldu.
+
+## 10.10 Pigou vergisi → karbon fiyatı
+
+Pigou'nun 1920'deki vergi önerisinin en görünür modern uygulaması karbon fiyatlandırmasıdır. Sayısal bir örnek:
+
+Bir kömür-santrali 1 MWh elektrik üretmek için 1 ton CO₂ salıyor. Üreticinin özel maliyeti £40 (yakıt + işletme + amortisman). Piyasa fiyatı £45 → kâr £5 / MWh.
+
+Ama CO₂ salımının sosyal maliyeti var: iklim hasarı + sağlık etkisi + ekosistem zararı. EU ETS (Avrupa Birliği Emisyon Ticaret Sistemi) bu sosyal maliyeti 2023 sonu itibarıyla ≈ €80/ton CO₂ olarak fiyatlandırdı.
+
+Pigou'nun mantığını uygulayarak: santral artık ton başı €80 karbon-vergisi öder. Yeni özel maliyet £40 + €80 ≈ £110 (kabaca dönüşümle). Piyasa fiyatı £45'ten £110'a çıkar — ama tüketici talebi azalır, alternatif teknolojilere geçiş başlar.
+
+Pigou vergisinin teorik gücü: *fiyat sinyali* sosyal maliyeti içselleştirir. Hiçbir merkezi planlamacı "*kömür kullanmayın*" demek zorunda değil; fiyat sistemine eklenen vergi, alternatifleri doğal olarak çekici hale getirir.
+
+**Pratik karmaşıklıklar**:
+1. *Sosyal maliyetin doğru hesabı zor*. Karbonun "*gerçek maliyeti*" nedir? Stern Review (2006) €30, Nordhaus (2018) €40, IPCC SR1.5 (2018) €200+. Bu fark, iskonto oranının seçimine duyarlıdır.
+2. *Dağıtımcı sorunu*. Karbon vergisi düşük-gelirli hanelere orantısız bir yük olabilir (enerji harcaması gelirin yüksek oranı). Çözüm önerileri: *carbon dividend* — vergi geliri eşit miktarda her vatandaşa nakit olarak dağıtılır.
+3. *Sızıntı problemi*. Bir ülke vergiyi uygularsa, sanayi vergisiz ülkelere kayabilir. *Border adjustment* (sınır-düzenleme vergisi) çözümü tartışılıyor — AB 2026'da CBAM ile başlıyor.
+
+Pigou'nun 1920'deki kalem-kâğıt analizi, bugün dünya enerji politikasının merkezindedir. Marshall'ın talep-arz çerçevesinin Pigou tarafından genişletilmesi, neoklasik iktisadın *etiketli* (politika-ilgili) bir koldur — emek-değer geleneğinin Marx'a giden kolu kadar somut.
+
 ---
 
 ## Kaynakça

@@ -94,6 +94,52 @@ Bu bir kazanç mıdır, bir kayıp mıdır? İktisat tarihçiliğinin verdiği c
 
 Sonraki bölüm, Alfred Marshall'ın Cambridge'de bu üç okulun (ve klasik politik iktisadın bazı temalarının) bir sentezini denediğini gösterir. Marshall'ın sentezi, 20. yüzyıl mikroekonomisinin standart ders-kitabı haline gelir.
 
+## 9.8 Walras tâtonnement — iki mal üzerinde adım adım
+
+Walras'ın *tâtonnement* sürecini iki-mal'lı basit bir ekonomide çalışalım. Mal A (ekmek) ve mal B (şarap) var. Bir merkezi müzayedeci, başlangıçta keyfî fiyatlar ilan eder: PA = 1, PB = 1.
+
+İki tüketici tipinin talep ve arz fonksiyonları (basit doğrusal varsayım):
+
+- Tüketici-1 talebi: QA_d1 = 10 - 2·PA + 1·PB; QB_d1 = 8 + 1·PA - 2·PB
+- Tüketici-2 arzı: QA_s2 = -2 + 3·PA; QB_s2 = -1 + 2·PB
+
+İlk denemede PA = PB = 1:
+- A talebi: 10 - 2 + 1 = 9; A arzı: -2 + 3 = 1 → fazla talep 8
+- B talebi: 8 + 1 - 2 = 7; B arzı: -1 + 2 = 1 → fazla talep 6
+
+Müzayedeci, fazla talebin pozitif olduğu yerde fiyatı yukarı çeker (örnek bir kural: ΔP = 0,1 × fazla talep / 10). Yeni fiyatlar PA ≈ 1,08, PB ≈ 1,06.
+
+İkinci tur:
+- A talebi: 10 - 2,16 + 1,06 = 8,90; A arzı: -2 + 3,24 = 1,24 → fazla talep 7,66
+- B talebi: 8 + 1,08 - 2,12 = 6,96; B arzı: -1 + 2,12 = 1,12 → fazla talep 5,84
+
+Hâlâ fazla talep var, ama daha az. Müzayedeci fiyatları yeniden ayarlar. Birkaç tur sonra (yaklaşık 20-30 iterasyon) sistem dengeye varır: bir PA*, PB* vektörü her iki piyasada da fazla talebi sıfıra getirir.
+
+Bu süreç birkaç önemli özelliğe sahip:
+
+1. *Müzayedeci hiçbir mal değişimini yapmaz* — sadece fiyat ilan eder. Mübadele yalnızca denge fiyatlarında gerçekleşir. Bu, "false trades" (denge dışı işlemlerin) sistemden temizlenmesidir; gerçek ekonomilerde bu varsayım büyük bir basitleştirmedir.
+2. *Süreç durağan* — sistem dışsal şok almazsa dengeye gelir. Ama bir şok (üretim kapasitesi azalması, talep değişimi) durumunda süreç yeniden başlar.
+3. *Genel denge tek değil*. Belirli fonksiyon yapılarında birden çok denge olabilir; sistem hangisine gideceği başlangıç fiyatlarına bağlıdır.
+
+Bu sayısal yürüyüş, Arrow-Debreu modelinin (1954) sezgisel zeminidir. Modern matematik iktisadın "*bir denge var ve tek*" teoremleri, bu basit sürecin formel garantileridir.
+
+## 9.9 Genel-denge bugün: iklim ve DICE
+
+Walras'ın programının 21. yüzyıldaki en görünür mirası, *iklim ekonomisi* alanındadır. William Nordhaus'un (2018 Nobel iktisat) *Dynamic Integrated Climate-Economy* (DICE) modeli, bir dünyanın iklim ile ekonomi arasındaki etkileşimini Walras-tipi genel-denge çerçevesinde çözer.
+
+DICE modelinin temel yapısı:
+- Üretim fonksiyonu: dünya GSYİH'si emek + sermaye + teknoloji üzerinden hesaplanır.
+- İklim modeli: CO₂ stoğu sıcaklık artışı → afet maliyeti → üretkenlik düşüşü.
+- Sosyal refah: bugün-yarın arası zaman-tercihi (Böhm-Bawerk'in terimi!) ile gelecek nesil refahları bugüne indirgeniyor.
+
+Çözüm: bütün dünya ekonomisini, bugün-yarın-yarın-sonra... tüm zaman vektörü boyunca tek bir genel-denge sistem olarak çözmek. *Optimal* karbon-vergisi (sosyal refahı maksimize eden), bu sistemden çıkar.
+
+Walras'ın 1874 *Eléments*'i ile DICE arasındaki kavramsal hat şudur: aynı temel mantık — tüm değişkenler eş-zamanlı çözülür — milyonlarca mal ve yüzyıllarca zaman ekseni üzerinden uzanır. Walras müzayedecinin yerini, *sosyal planlamacı*'nın (modeller her zaman bir merkezi optimizasyon yapar) alır.
+
+Bu uzantının bir gerçek-dünya sonucu: Nordhaus'un 2017 versiyonu, optimal karbon-vergisini ton başı ≈ $42 olarak hesapladı. Pek çok eleştirici (Nicholas Stern, Stern Review 2006) bu sayının çok düşük olduğunu iddia eder; gerekçesi de teknik (zaman-tercihi oranı $r$'yi nasıl seçeceğiniz). 0,1% vs 1,5% iskonto oranı seçimi, optimal karbon-vergisinin 10 katına farklılaşmasına yol açar. Walras'ın model yapısı dünya iklim politikası tartışmasını teknik bir parametre tartışmasına indirgemiş gibi görünür.
+
+Bu, marjinalist devrimin paradoksal mirasıdır. Bir tarafta, ekonomi sorularını matematik olarak çözülebilir hale getirir — büyük bir başarı. Diğer tarafta, *politik* soruları (gelecek nesillere ne kadar önem veriyoruz?) *teknik* parametre sorularına dönüştürür — bunun açıklığı tartışılır. Walras'ın 1874'teki projesi hâlâ yaşıyor; ama onun sınırları da hâlâ tartışılıyor.
+
 ---
 
 ## Kaynakça

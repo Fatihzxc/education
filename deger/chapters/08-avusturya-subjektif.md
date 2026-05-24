@@ -116,6 +116,61 @@ Avusturya okulunun değer kavramının tarihindeki yeri şudur: marjinalist devr
 
 Sonraki bölüm, marjinalist kolun diğer iki başlangıç noktasını — Manchester'da Jevons ve Lozan'da Walras — ele alır. Onlar aynı yıl, aynı temel fikre, ama farklı dillerde ve farklı tekniklerle vardılar.
 
+## 8.10 Menger'in ihtiyaç tablosu — marjinal-fayda görsel olarak
+
+Menger'in *Grundsätze*'sinde yaptığı en pedagojik hamle, ihtiyaçları bir tablo halinde dizmektir. Yenilenmiş bir versiyonunu kuralım. Bir kişi farklı ihtiyaç kategorilerinde, her birim için ne kadar önem atfettiğini sıralasın (10 = hayati, 1 = neredeyse önemsiz):
+
+| Birim | Yiyecek (I) | Giyim (II) | Barınma (III) | Eğlence (IV) | Lüks (V) |
+|-------|------------:|-----------:|--------------:|-------------:|---------:|
+| 1     | 10          | 9          | 8             | 6            | 4        |
+| 2     | 9           | 7          | 6             | 5            | 3        |
+| 3     | 8           | 5          | 4             | 4            | 2        |
+| 4     | 6           | 3          | 2             | 3            | 1        |
+| 5     | 4           | 1          | 0             | 1            | 0        |
+
+Bu tablonun iki yapısal özelliği vardır:
+
+**(a) Sütunlar içinde azalan marjinal fayda**. Her sütunda (kategoride), sonraki birimin önemi öncekinden düşüktür. İlk yemeğin önemi 10 (açlıktan ölmek söz konusu); beşinci yemeğin önemi 4 (hoş ama az anlamlı). Bu, Menger'in çekirdek tezi.
+
+**(b) Satırlar arasında karşılaştırma**. Kişinin sınırlı kaynağı varsa, en yüksek-önem birimlerini önce seçer. Diyelim ki 5 birim kaynağı var. Optimal seçim: I-1 (10), II-1 (9), III-1 (8), I-2 (9), II-2 (7) — toplam önem 43. (Lüks V-1 sadece 4 önem taşır, alınmaz.)
+
+Bu örnek modern mikroekonominin temel teoreminin sezgisel kanıtıdır. Bir tüketici kaynağını öyle dağıtır ki, *her kategorideki son birimin marjinal faydası eşit olsun*. Daha sıkı söyleyişle: MU_x / P_x = MU_y / P_y. Bu eşitlik Jevons'ın matematik formülasyonudur (Bölüm 9), ama Menger'in 1871'deki sözel teziyle aynı şeyi söyler.
+
+Tablonun bir başka değeri: su-elmas paradoksunu yeniden formüle eder. Su yiyecek-sınıfında (I), birinci birimi 10 önem; ama suyumuz bol, beşinci birimde 4'e iner. Elmas Lüks-sınıfında (V), birinci birimi 4 — ama elmasımız yok. Marjinal birim hangisi? Elmas. Çünkü ilk elmasın önemi 4 > beşinci suyun önemi 4 + son giyim biriminin marjinaline yakın eşit. Burada Menger'in işlevini görüyoruz: ortalama-fayda değil, son-birimin-faydası fiyatı çeker.
+
+## 8.11 Böhm-Bawerk zaman tercihi — sayısal
+
+Böhm-Bawerk'in zaman-tercihi tezinin pratik hesabı, modern faiz teorisinin omurgasıdır. Tek-yıllık örnek:
+
+> Bugün size £100 vereyim; bir yıl sonra ne kadar geri istemeliyim?
+
+Eğer zaman-tercihi oranınız %10 ise, *bir yıl sonraki £110* sizin için *bugün £100*'a denktir. Yani:
+
+> Bugünkü £100 ≡ Gelecek yılki £110 (r = %10)
+
+Tersine: gelecek yıl size garanti edilmiş £110 sizin bugünkü değerine indirgenirse: PV = FV / (1 + r) = 110 / 1,10 = £100.
+
+Beş yıl içinde compound (bileşik faiz):
+
+| Yıl | Vade-değeri (£) | Bugünkü değer (PV, r = %10) |
+|-----|----------------:|----------------------------:|
+| 0   | 100             | 100                         |
+| 1   | 110             | 100                         |
+| 2   | 121             | 100                         |
+| 3   | 133,1           | 100                         |
+| 5   | 161,05          | 100                         |
+| 10  | 259,37          | 100                         |
+
+Tablonun kavramsal anlamı: aynı parasal toplam zaman içinde yer değiştirdikçe, bir kişinin bugünkü-değerlemesi farklılaşır. Faiz, bu farklılaşmanın piyasada kurumsallaşan ifadesidir.
+
+**Marx ile çarpışma**. Marx'ın çerçevesinde işçi 12 saat çalışır, kapitalist 6 saatin değerini ödeyip 6 saatini el-koyar (Bölüm 7.10). Böhm-Bawerk'in itirazı: "*Hayır, işçi şimdi 6 saat değerini alır; çünkü ürünün satışı gelecekte gerçekleşir, ve kapitalist gelecekteki değerin riskini ve zaman-tercihi-farkını üstlenir.*" Diyelim ürün 1 yıl sonra £16'a satılırsa, kapitalist *bugün* işçiye £13 (= 16 / 1,23) ödemesi *normal* faiz oranındadır.
+
+Bu argümana karşı Marksist gelenek (Hilferding, Sweezy) iki cevap geliştirdi:
+1. *Zaman-tercihi farkı sermayeden değil sermayedarın konumundan gelir.* Eğer işçi de sermayeye sahip olsaydı, aynı tercih farkını uygulayabilirdi; ama mülkiyet hakkı asimetrik.
+2. *Risk gerçekten kapitalist tarafından mı üstleniliyor?* 19. yüzyıl Britanya'sında fabrikatörler iflas ettiklerinde işçiler de işsizlik yaşıyordu; risk paylaşılıyordu, ama ödüller paylaşılmıyordu.
+
+Bu çarpışma 100 yıl sonra Cambridge controversy'nin (Bölüm 11) içerikli bir parçası olur. Böhm-Bawerk'in 1889'daki teknik tezi, 1960-70'lerde Sraffa-Robinson tarafından, *agregat sermaye* sorunuyla birlikte yeniden masaya konur.
+
 ---
 
 ## Kaynakça

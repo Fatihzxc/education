@@ -117,6 +117,66 @@ Marx'ın 20. yüzyıl entelektüel mirasının sürekliliği, akademik iktisatta
 
 Sonraki üç bölüm, marjinalist devrimi anlatır: Bölüm 8 Avusturya okulu (Menger, Böhm-Bawerk), Bölüm 9 Walras ve Jevons, Bölüm 10 Marshall'ın sentezi. Marx'ın ardılları ile bu marjinalist hattın ardılları, 20. yüzyıl iktisadının iki ana akımıdır.
 
+## 7.10 12 saatlik gün: artı-değerin aritmetiği
+
+Marx'ın artı-değer formülünü sayısal olarak yürüyelim. Bir 19. yüzyıl Manchester pamuk-fabrikasını varsayalım. Üretim sürecindeki yapı taşları:
+
+- *Sabit sermaye* (c): hammadde + makinelerin amortismanı = £10 (bir günlük üretim için)
+- *Değişken sermaye* (v): işçiye ödenen günlük ücret = £3
+- *Yaratılan toplam değer* (c + v + s) = £16
+
+İşçi 12 saat çalışır. *Gerekli emek* (kendisinin geçim-araçlarını üretmek için gereken zaman) 6 saat. *Artı emek* (kapitalist için yaratılan zaman) 6 saat. Eğer bir saat-emek = £0,50 ise:
+
+- v (ücret) = 6 saat × £0,50 = £3 ✓
+- s (artı-değer) = 6 saat × £0,50 = £3
+- c (geçen-emek, sabit sermaye) = £10
+
+**Artı-değer oranı** = s / v = 3 / 3 = %100. Yani işçi günün yarısını kendine, yarısını kapitaliste çalışır.
+
+**Kâr oranı** = s / (c + v) = 3 / 13 ≈ %23. Marx'a göre kapitalist için *anlamlı* sayı budur — kâr, yatırılan toplam sermayeye göre hesaplanır.
+
+Burada teknik bir nokta dikkat çeker. Artı-değer oranı (sömürünün şiddetini ölçer) ve kâr oranı (yatırımın getirisini ölçer) birbirinden farklı sayılardır. Sermaye yoğun bir sektör (c yüksek, v düşük) aynı sömürü oranıyla daha düşük kâr oranına sahip görünür. Bu fark, *Kapital* III'de Marx'ın transformasyon problemiyle uğraştığı yer (Bölüm 7.7).
+
+Şimdi senaryoyu değiştirelim. *Mutlak artı-değer* artışı: çalışma günü 12 saatten 14 saate çıkarılırsa:
+- Gerekli emek hâlâ 6 saat (geçim seviyesi değişmedi).
+- Artı emek = 8 saat.
+- Artı-değer oranı = 8 / 6 = %133.
+
+*Göreli artı-değer* artışı: çalışma günü 12 saat sabit, ama teknolojik gelişmeyle işçinin geçim-araçları daha az emekle üretiliyor, gerekli emek 6 saatten 4 saate iner:
+- Artı emek = 12 - 4 = 8 saat.
+- Artı-değer oranı = 8 / 4 = %200.
+
+İki yol da aynı sonuca götürür — daha çok artı-değer. Ama politik içerikleri farklıdır. Mutlak artı-değer doğrudan bedensel-sömürü; göreli artı-değer "*aydın*" görünür çünkü teknolojik gelişme adı altında geçer. Marx'ın 19. yüzyıl Britanya'sının fabrika-yasalarındaki tartışmaları okuduğunda gördüğü yapı tam budur: kapitalistler çalışma-saatleri sınırlandığında *makine* devrimine geçti.
+
+## 7.11 21. yüzyıl artı-değeri: Uber sürücüsü
+
+Marx'ın çerçevesinin modern bir test-vakası: bir Uber sürücüsü. Klasik kapitalist üretimden iki farkı:
+
+- Sürücü **arabasını kendi sahiplenir** — sabit sermaye (c) işçinin elinde, kapitalistin değil.
+- Sürücü **istediği zaman çalışır** — emek-zamanı sözleşmesi katı değil.
+
+İlk bakışta bu, Marx'ın çerçevesinin gevşediğini düşündürür. Daha yakından bakalım:
+
+Bir sürücü saat başı ortalama £30 hasılat yapar. Bunun:
+- £8 = arabanın amortismanı + benzin + sigorta (c, sabit sermaye)
+- £6 = Uber'in komisyonu (yaklaşık %20 — platforma yatırılan değer)
+- £16 = sürücünün eline geçen "gelir"
+
+Ama gelir-ücret değildir. Sürücü kendi vergisini ödüyor, sosyal güvenliği yok, hasta günleri yok, emekli aylığı yok. Eğer bu yan-maliyetler dahil edilirse, gerçek saatlik net ≈ £10-12. Karşılaştırmalı: Londra'da bir taksi şoförünün 1990'larda saatlik net ücreti (enflasyon-düzeltilmiş) ≈ £14-16 idi.
+
+Marx'ın terimleriyle:
+- v (sürücüye giden değer) = £10-12
+- s (Uber'e giden artı-değer) = £6
+- Artı-değer oranı ≈ £6/£11 ≈ %55
+
+Ama burada bir farklılık var: sermaye (araba) sürücünün elinde olduğu için, kapitalist (Uber) *üretim aracını* kontrol etmez. Onun kontrolü daha incedir: *platformu* kontrol eder. Sürücünün başka bir alıcıya — geleneksel sokağa çıkıp müşteri arama yoluyla — gitmesi pratik olarak imkânsız; Uber'in algoritması müşterileri dağıtır.
+
+Bu, Marx'ın çerçevesini değiştirir mi yoksa genişletir mi? Çağdaş "*platform kapitalizmi*" literatürü (Nick Srnicek, *Platform Capitalism*, 2017) tezi şudur: Marx'ın mantığı genişler — kapitalist artığı el-koyma yöntemi değişir, ama el-koyma kendi yapısı sabit kalır. Üretim aracını kontrol etmek yerine, *erişim*'i kontrol etmek; ücret yerine *komisyon* almak. Sömürünün biçimi modernleşir; ama bizatihi mantığı 1867'deki gibi.
+
+Eleştiriciler için (Standing, *The Precariat*, 2011): bu daha da kötü bir form. Klasik kapitalist en azından *risk*'i üstlendi (fabrika çökerse kapitalistin kaybı); platform-kapitalisti ise *riski emekçiye taşır* (araba bozulursa sürücü öder). Sömürünün eski formu, en azından bir yapısal güvence sağlıyordu; yeni form, "*esneklik*" adı altında, bunu kaldırır.
+
+Bu çerçeve, Marx'ın *Kapital*'ini bir tarihsel-belge olarak değil, *yapısal bir teşhis aracı* olarak okumanın değerini gösterir. 21. yüzyıl gig-ekonomisi, 1867'deki Manchester pamuk-fabrikasının teknolojik ve hukuki dönüşümüdür; ama yapısal mantık ortak.
+
 ---
 
 ## Kaynakça
