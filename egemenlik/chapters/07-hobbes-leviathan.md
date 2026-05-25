@@ -109,6 +109,46 @@ Bu dört iz, modern siyasal düşüncenin neredeyse tüm bölümlerini şekillen
 
 Sonraki bölüm, Hobbes'un mutlak egemenlik teorisine karşı geliştirilen *sınırlı egemenlik* geleneğini ele alır. Locke (1690), Montesquieu (1748), ve Rousseau (1762) — üç farklı yönden, Hobbes'un çerçevesinin sınırlarını çizmeye çalışan klasik metinler.
 
+## 7.9 Hobbes vs Locke doğa durumu — yan yana
+
+Hobbes ve Locke aynı analitik varsayımdan başlar — *devlet, hukuk, sözleşme yokken insanlar nasıl yaşar?* — ama radikal biçimde farklı cevaplar verir. İki tasviri yan yana koymak, modern siyasal düşüncenin kavramsal temel ayrımını netleştirir.
+
+| Boyut | Hobbes (Leviathan XIII, 1651) | Locke (Two Treatises II §6, 1690) |
+|-------|-------------------------------|-----------------------------------|
+| Doğal koşul | "Bellum omnium contra omnes" — herkesin herkese karşı savaşı | Barışçıl, ama belirsizlik var |
+| İnsan davranışı | Korku, açgözlülük, sürekli endişe | Doğal hukuka tabi, rasyonel |
+| Doğal haklar | Yok; sadece *yaşam içgüdüsü* | Var — yaşam, özgürlük, mülkiyet |
+| Yaşamın niteliği | "Solitary, poor, nasty, brutish, short" | Yetersiz ama kabul edilebilir |
+| Üretim/ticaret | Yok (güvensizlik) | Var (mülkiyet zaten oluşmuş) |
+| Devleti kurma sebebi | *Doğa hâlinden kaçma* | *Mevcut hakları güvence altına alma* |
+| Egemen yetkisi | Mutlak (sadece yaşam hakkı sınır) | Sınırlı (doğal haklar tarafından bağlı) |
+| Direnme hakkı | Yok (egemen sözleşmenin tarafı değil) | Var (egemen sınırı aşarsa) |
+
+Aynı analitik soruya iki tamamen farklı cevap. Bu fark, salt felsefi bir tartışma değil; *politik yapının* temel bir tasarım sorudur:
+
+- **Hobbesçu çerçevede** egemen *mutlak* olmalıdır; aksi takdirde sistem doğa hâline geri döner. Sınırlamalar tehlikelidir.
+- **Lockeçu çerçevede** egemen *sınırlı* olmalıdır; aksi takdirde devlet bizatihi tiranlığa dönüşür. Sınırsızlık tehlikelidir.
+
+İki çerçevenin pratik sonuçları, 350 yıl boyunca modern siyasal düşüncenin iki ana ekolüdür. Muhafazakâr-otoriter gelenek (de Maistre, Schmitt, modern *security state* savunucuları) Hobbes'a yakın; liberal-anayasal gelenek (Locke, Madison, modern insan hakları geleneği) Locke'a yakın.
+
+Bir kişinin politik kimliğini test etmek için iyi bir soru: "*Devlet olmadan insanlar ne kadar güvende olur?*" Cevap "*hiç güvende olmaz*" ise Hobbesçu; "*belki yetersiz ama güvende*" ise Lockeçu bir yönelim taşır.
+
+## 7.10 "Leviathan revival" — 9/11 sonrası güvenlik devleti
+
+11 Eylül 2001 sonrası ABD ve Avrupa'da yaşananlar, Hobbes'un *Leviathan*'ının çağdaş bir yeniden-canlanışıydı. Hobbesçu çerçevenin pratik uygulamaları:
+
+**USA PATRIOT Act (2001)**: 26 Ekim 2001'de Kongre tarafından 45 gün içinde kabul edildi. 342 sayfa, 10 başlık. Yetkiler: telefon dinleme süresi uzatıldı, bankacılık verilerinin izlenmesi genişletildi, "*ulusal güvenlik mektupları*" ile mahkeme kararı olmadan veri talebi yapıldı. Hobbesçu mantık: *yaşam tehdidi (terörizm) altında, egemenin yetkileri genişlemelidir.*
+
+**Guantanamo Körfezi (2002+)**: ABD donanma üssünde, ABD ana karasında olmayan ama ABD kontrolünde tutulan tutuklular. Hukuksal durum: ne Cenevre Konvansiyonu (savaş tutsağı statüsü) ne ABD anayasası (sıradan tutuklu hakları) tam uygulanmaz. Schmitt-Agamben çerçevesinde tipik *istisna hâli* alanı. 2002-2024 arası 780+ kişi tutuldu; çoğu hiçbir mahkemede yargılanmadı.
+
+**NSA dragnet (Snowden 2013 ifşaatı)**: ABD Ulusal Güvenlik Ajansı'nın, milyarlarca telefon kaydını ve internet trafiğini, *bireysel mahkeme kararı olmadan* topladığı ortaya çıktı. Foreign Intelligence Surveillance Court (FISC) — gizli bir mahkeme — kapsam onayını verdi. Lockeçu çerçevede ihlal (gizlilik hakkı); Hobbesçu çerçevede *meşru* (ulusal güvenlik).
+
+**TSA (Transportation Security Administration)** ve havaalanı güvenlik prosedürleri: tüm yolcuların *bireysel şüphe olmaksızın* bedensel taranması. Klasik *probable cause* (makul şüphe) gerekliliğinin askıya alınması. Hobbesçu çerçevede meşru tedbir; Lockeçu çerçevede sistematik haklar ihlali.
+
+Bu dört örnek, Hobbes'un 1651'deki tezinin 21. yüzyıl uygulamalarıdır. Wendy Brown'un *Walled States, Waning Sovereignty* (2010) eseri bu dönemi sistematik analiz eder: küreselleşme ulus-devlet egemenliğini *ekonomik* boyutta aşındırırken, devletler *güvenlik* boyutunda Hobbesçu mutlak yetki iddialarına geri dönüyorlar. Sınırlar (Meksika-ABD duvarı, AB-Türkiye sınırı), gözetim altyapısı, askeri-güvenlik harcamaları — hepsi bu Hobbesçu canlanmanın somut işaretleri.
+
+Bu, kalıcı bir egemenlik dönüşümünün mü, yoksa geçici bir kriz tepkisinin mi göstergesi? 2026'dan bakıldığında cevap belirsiz; ama 25 yıllık örüntü, 9/11 sonrası genişleyen yetkilerin pratik olarak *geri çekilmediğini* gösteriyor. Hobbesçu çerçeve, modern dünyada Locke-Montesquieu-Rousseau çerçevesinin yanında — bazen onunla çatışarak — yaşamaya devam ediyor.
+
 ---
 
 ## Kaynakça

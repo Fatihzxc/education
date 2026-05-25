@@ -108,6 +108,52 @@ Hegel'in *Philosophy of Right*'ı, 1820'de yazılmış olsa da, modern dünyanı
 
 Sonraki bölüm, Hegel sonrası — 19. yüzyıl sonu ile 20. yüzyıl ortası arasında — modern devlet düşüncesinin sosyolojik ve eleştirel dönüşümünü ele alır. Weber'in *rasyonel-hukuksal otorite*'si, Schmitt'in *istisna hâli egemen*'i, Foucault'nun *biyo-iktidar*'ı — hepsi Hegel sonrası egemenlik düşüncesinin temel formlarıdır.
 
+## 10.10 Hegel'in *Anerkennung* — modern kimlik politikalarında
+
+Hegel'in *Anerkennung* (tanıma) kavramı, 20. yüzyıl sonunda Charles Taylor (*The Politics of Recognition*, 1992) ve Axel Honneth (*Kampf um Anerkennung*, 1992) tarafından yeniden gündeme getirildi. Hegel'in çerçevesinde, bireyin kişiliği, *başkalarının onu tanımasıyla* gerçekleşir. Bu, sadece bireysel değil; *kollektif kimlikler* için de geçerlidir.
+
+Modern uygulamalar:
+
+**1. Kanada — Quebec'in tanınması (1995-1998)**. Quebec'in *distinct society* (ayrı toplum) olarak tanınması, kanadalı federal sistem içinde uzun süreli bir tartışmaydı. 1995 referandumunda Quebec'in bağımsızlığı %49.4 ile %50.6 kıl payı reddedildi. 1998 Supreme Court of Canada *Reference re Secession of Quebec* kararı, bir eyaletin tek-taraflı ayrılma hakkı olmadığını; ama "*açık bir çoğunluğun*" "*açık bir soru*"ya verdiği "*evet*" cevabının, federal hükümeti *müzakere*'ye zorlayacağını belirledi. Hegelci *Anerkennung* mantığı: bir kollektif kimliğin (Quebec Frankofon kültürü) hukuksal-anayasal tanınması, onun yapısal varlığının koşuludur.
+
+**2. Yeni Zelanda — Maori (1840 → 1975-2024)**. 1840 Waitangi Antlaşması Maori topraklarını İngiliz Tacı'na devretti — ama Maori versiyonu ve İngilizce versiyonu farklı şeyler diyordu. 1975 *Waitangi Tribunal* kuruldu, Maori topraklarına yapılan ihlalleri tazmin etmek için. 1985 ve sonrasında milyarlarca dolar tazminat ödendi; bazı topraklar iade edildi. 2024'te bile süren süreç: kollektif bir kimliğin (Maori halkları) hem hukuksal hem maddi olarak tanınması.
+
+**3. Kuzey İrlanda — Good Friday Agreement (1998)**. 30 yıllık *Troubles* (1968-1998) sonrasında, üç tarafın (İngiliz, İrlanda, Kuzey İrlandalı) ortak imzaladığı antlaşma. Çift-vatandaşlık tanındı (Kuzey İrlandalılar hem İngiliz hem İrlanda vatandaşı olabilir); paylaşılan yönetim kuruldu (Unionist + Nationalist liderler birlikte); kollektif kimlikler hukuksal olarak korundu. Hegelci kollektif tanıma çerçevesinin somut bir politik uygulaması.
+
+Bu üç örnek, Hegel'in 1820'de geliştirdiği *Anerkennung* kavramının modern *identity politics* (kimlik politikası) tartışmalarının kavramsal omurgası olduğunu gösterir. Modern demokratik teorinin temel sorularından biri — *farklı kollektif kimlikler bir devlet yapısı içinde nasıl bir arada yaşayabilir?* — Hegel'in geliştirdiği teorik çerçeve içinde tartışılıyor.
+
+## 10.11 Bürokrasi: Hegel'in evrensel sınıfı vs Weber'in demir kafesi
+
+Aynı kurum — modern bürokrasi — iki düşünür gözünde iki ayrı şey: Hegel için kurtuluş, Weber için tutsaklık. Bu karşıtlık, modern devletin merkezi belirsizliğinin kavramsal kalbidir.
+
+**Hegel'in bürokrasisi (1820)**. *Philosophy of Right* §§287-297'de, bürokrasi "*allgemeiner Stand*" (evrensel sınıf) olarak konumlandırılır. Hegel'in mantığı:
+
+- Sivil toplumda her birey kendi *bencil* çıkarlarını izler.
+- Devlet, bu bencil çıkarların ötesinde, *evrensel rasyonalitenin* temsilcisidir.
+- Bürokratlar, devletin somut temsilcileri olarak, *kendi sınıf çıkarlarını değil; evrensel rasyonaliteyi* gerçekleştirirler.
+- Bürokrasi, sivil toplumun bencilliği ile devletin rasyonalitesi arasındaki *köprü*'dür.
+
+Bu, optimist bir bürokrasi vizyonudur. Bürokrat, kendi çıkarını aşan, kollektif rasyonaliteyi içerden temsil eden bir aktördür. Modern liberal-anayasal devletin temel meşruiyet kaynağı.
+
+**Weber'in bürokrasisi (1922 *Wirtschaft und Gesellschaft*)**. 100 yıl sonra, aynı kurum farklı bir gözle:
+
+- Bürokrasi, *rasyonel-hukuksal otorite*'nin teknik formudur.
+- Verimlidir: tahminebilir, hesaplanabilir, ölçülebilir kararlar üretir.
+- *Ama* bireyleri "*soğuk, kişisellikten arınmış*" prosedürlere tabi kılar.
+- Modern toplumun "*demir kafesi*" (stahlhartes Gehäuse) — rasyonelliğin verimliliğinden kurtulmak imkânsız hâle gelir.
+
+Weber'in tasviri pesimisttir. Bürokrasi, modern özgürlüğü garanti eden bir yapı değil; modern özgürlüğün hapishanesi olabilir. Modern devleti kim yönetir? Yöneticiler değil; *prosedürler* — ve kimsenin onlardan kurtuluşu yok.
+
+**Modern test — AB Komisyonu**. AB'nin yürütme organı, 32 binden fazla memur, 27 üye devletten temsil edilir. Yetkileri: AB yasalarını uygulamak, üye devletlerin uyumunu denetlemek, dış ticaret antlaşmalarını müzakere etmek. Kim onları seçer? Doğrudan halk değil; üye devlet hükümetleri (Komisyon Başkanı), sonra Komisyon Başkanı (komisyonerler). Halkın doğrudan onayı yok; ama milyarlarca insanı etkileyen kararlar verirler.
+
+İki okumayı yan yana koyalım:
+
+- **Hegelci okuma**: AB Komisyonu, üye devletlerin bencil ulusal çıkarlarının ötesinde, *Avrupa'nın evrensel rasyonalitesini* temsil eder. Ulusal politikacıların yapmadığı (yapmaktan kaçındığı) zor reformları yapar: rekabet hukuku, çevre standartları, dijital regülasyon (GDPR). Hegel'in *allgemeiner Stand*'ının modern uygulaması.
+
+- **Weberyan okuma**: AB Komisyonu, "*demokratik açığın*" tipik örneğidir. Seçilmemiş bürokratlar, milyonlarca insanı etkileyen kararlar verir; itiraz mekanizmaları zayıftır; sorumluluk dağınıktır. Avrupa Halkları, kendi kontrol etmedikleri bir *demir kafes* içinde yaşar. Brexit'in 2016'daki başarısının bir nedeni — *"egemenliği geri al"* sloganı — bu Weberyan tedirginliğin politik ifadesidir.
+
+İki okuma da gerçektir. AB Komisyonu, Hegel'in optimist çerçevesinin pratik kanıtı *ve* Weber'in pesimist uyarısının gerçekleşmesi; aynı anda. Bu, modern bürokratik devletin yapısal belirsizliğidir: hem özgürlüğün koşulu, hem özgürlüğün hapishanesi.
+
 ---
 
 ## Kaynakça

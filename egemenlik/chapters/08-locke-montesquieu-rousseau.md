@@ -108,6 +108,38 @@ Modern demokratik devlet, bu üçlü ile Hobbes arasındaki gerilim üzerinde ya
 
 Sonraki bölüm, Avrupa-dışı bir egemenlik geleneği olan Osmanlı devletine geçer. Osmanlı'nın egemenlik anlayışı — padişah, hilafet, sultanlık — Avrupa düşüncesinin bilmediği bir pratik çerçeveydi. Bu çerçeve, modern Türkiye'nin (ve diğer İslâm dünyası ülkelerinin) hukuk sistemlerinin tarihsel kaynaklarından birisidir.
 
+## 8.9 Federalist No. 51 — kuvvetler ayrılığı pratikte
+
+James Madison'ın 1788'de *The Federalist Papers* No. 51'de yazdığı "*ambition counteracts ambition*" formülü — *tutkunun tutkuyu engellemesi* — Montesquieu'nün kuvvetler ayrılığı doktrininin Amerikan pratik uygulamasıdır. ABD Anayasası'nın iç dinamiğini somut örneklerle izleyelim:
+
+**Mekanizma: Başkan veto'su** (yürütme → yasama). Başkan, Kongre'nin geçirdiği yasayı veto edebilir. Kongre, iki kamarada da 2/3 çoğunlukla bu veto'yu geçersiz kılabilir (override). 1789-2024 arası: 2,584 başkan veto'su; 112 Kongre tarafından override edildi (yaklaşık %4). Anlamı: başkan vetosu güçlü bir frenleme aracı; ama mutlak değil.
+
+**Mekanizma: Senato onayı** (yasama → yürütme). Başkanın atamaları (bakanlar, büyükelçiler, federal yargıçlar, Yüksek Mahkeme üyeleri) Senato'nun "*advice and consent*" onayını gerektirir. Tarihsel örnekler: 1987 Robert Bork (Reagan'ın Yüksek Mahkeme adayı) reddedildi; 2016 Merrick Garland (Obama'nın adayı) Senato Cumhuriyetçi çoğunluğu tarafından hiç oylamaya alınmadı; 2018 Brett Kavanaugh 50-48 onaylandı. Senato bu yetkisini *politik bir araç* olarak kullanır.
+
+**Mekanizma: Judicial review** (yargı → yasama). *Marbury v. Madison* (1803) kararıyla Yüksek Mahkeme, anayasaya aykırı yasaları iptal etme yetkisi kazandı. Önemli örnekler: 1954 *Brown v. Board of Education* (okullarda ırk ayrımı iptal); 1973 *Roe v. Wade* (kürtaj hakkı tanındı); 2022 *Dobbs v. Jackson* (Roe iptal edildi). Yüksek Mahkeme, *seçilmemiş* dokuz yargıçla, milyarlarca insanı etkileyen kararlar verir.
+
+**Sistemin sınanması: 1973 Watergate**. Nixon, kendisini araştıran özel savcıyı görevden almaya çalıştı (*Saturday Night Massacre*, Ekim 1973). Yüksek Mahkeme oybirliği ile *United States v. Nixon* (1974) — Nixon'ın Beyaz Saray kayıtlarını teslim etmek zorunda olduğu — kararını verdi. Üç gün sonra Nixon istifa etti. *Yürütmenin* anayasal sınırı, *yargı* tarafından çizildi.
+
+**Sistemin başarısızlığı: 2019-2021 Trump impeachments**. İki kez Temsilciler Meclisi tarafından suçlandı (Ukrayna soruşturması 2019; 6 Ocak 2021 ayaklanması). İkisinde de Senato, gerekli 2/3 çoğunluğa ulaşamayarak beraat verdi. Sistem teknik olarak işledi (suçlama yapıldı, yargılama yapıldı); ama politik kutuplaşma, kontrol mekanizmasının pratik etkinliğini sınırlandırdı.
+
+Madison'ın formülü, 235 yıl sonra, hâlâ büyük ölçüde işliyor — ama eksiksiz değil. Bir sonraki bölüm, kuvvetler ayrılığının başarısızlık örüntülerini ele alır.
+
+## 8.10 Modern demokratik gerileme — Montesquieu sınanıyor
+
+Steven Levitsky ve Daniel Ziblatt'ın *How Democracies Die* (2018) eseri, 21. yüzyıl demokratik gerilemesinin yapısal bir analizini sunar. Onların tezi: modern demokrasiler artık askeri darbelerle değil; *seçilmiş otoriterler* tarafından, *biçimsel anayasal yapıları* koruyarak ama *fiili olarak* boşaltarak yıkılır. Dört örnek:
+
+**Macaristan — Viktor Orbán (2010+)**. 2010 seçimlerinde 2/3 çoğunluk kazandı, *temel kanunu* (anayasa) tek başına değiştirebilirdi. 2011-2014 arası: yargı atama kuralları değişti (yeni Anayasa Mahkemesi üyeleri Fidesz tarafından atandı); medya yasası kabul edildi (eleştirel kanallar mali baskıyla kapandı); seçim sistemi yeniden çizildi (gerrymandering); üniversite özerkliği zayıflatıldı (Central European University 2017'de Macaristan'dan ayrıldı). Kuvvetler ayrılığı *biçimsel olarak* korundu; *fiili olarak* yürütme yargı ve yasamayı kontrol ediyor.
+
+**Türkiye — 2017 anayasa değişikliği**. Cumhurbaşkanlığı hükümet sistemi geçişi: başbakanlık kaldırıldı, başkanlık güçlendirildi. Yargı atamaları için Cumhurbaşkanı + Meclis çoğunluğu birlikte hareket eder; AKP-MHP koalisyonu pratikte her ikisini de kontrol eder. 2016 sonrası KHK'lar (kararname yetkisi) ile 150,000+ kişi devlet görevinden çıkarıldı. Schmitt'in *istisna hâli* mantığının pratik uygulaması.
+
+**Polonya — PiS (2015-2023)**. PiS partisi 2015'te iktidara geldi. Anayasa Mahkemesi'ne yeni üye atama tekniği ile mahkemeyi kontrol altına aldı. Medya, kamu yayıncılarını parti yandaşlığıyla yeniden örgütledi. AB Komisyonu 2017'de Madde 7 yaptırım sürecini başlattı (üye devletin AB değerlerini ihlali). 2023 seçimlerinde PiS yenildi; ama hasarın geri alınması yıllar sürecek.
+
+**Hindistan — Modi BJP (2014+)**. Dünyanın en büyük demokrasisi, 2014 sonrası sistematik bir gerilemeye girdi. V-Dem Demokrasi Endeksi Hindistan'ı "*seçimsel demokrasi*"den "*seçimsel otokrasi*"ye düşürdü (2021). Mekanizmalar: medya konsolidasyonu, sivil topluma karşı *Foreign Contribution Regulation Act* uygulamaları, 2019 Kashmir özerk statüsünün kaldırılması, Müslüman karşıtı *Citizenship Amendment Act*.
+
+Dört örneğin ortak örüntüsü: *Montesquieuvian* kontrol mekanizmaları (kuvvetler ayrılığı, bağımsız yargı, özgür basın) — *yapısal olarak* korunmuş gibi görünür; *fiili olarak* yürütme tarafından kontrol edilir. Levitsky-Ziblatt'a göre bu, demokratik gerilemenin 21. yüzyıl şablonudur. *Tank-tank* devrim değil; *kurum-kurum* aşınma.
+
+Bu örüntü, Montesquieu'nun 1748'deki çerçevesinin temel bir sınırını ortaya çıkarır: kurumsal-yapısal tasarım yeterli değildir. Kurumsal aktörler arasında *politik normlar* (mutual toleration, institutional forbearance) çökerse, biçimsel kuvvetler ayrılığı işlevsizleşir. Modern demokrasinin gerçek koruyucusu, sadece anayasal metin değil; o metni yorumlayan aktörlerin *demokratik kültürü*'dür.
+
 ---
 
 ## Kaynakça

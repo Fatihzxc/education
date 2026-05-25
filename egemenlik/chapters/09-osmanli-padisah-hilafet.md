@@ -114,6 +114,61 @@ Osmanlı egemenlik anlayışının modern düşünce için üç önemli dersi:
 
 Sonraki bölüm, modern Avrupa egemenlik düşüncesinin son büyük metafizik sentezine — Hegel'in *Philosophy of Right*'ına (1820) — geçer. Hegel, Rousseau ve Hobbes'un çerçevelerini idealist felsefe içinde birleştirerek, modern devleti *etik yaşamın zirvesi* olarak tanımlayacaktır.
 
+## 9.10 Devşirme sosyal mobilitesi — Sokollu Mehmed Paşa vakası
+
+Devşirme sisteminin somut işleyişini, Sokollu Mehmed Paşa (1505/1506?-1579) hayatı üzerinden izleyelim — Osmanlı tarihinin en başarılı devşirme çıkışlı devlet adamı.
+
+**1505-1516**: Sokolovići adlı küçük bir Sırp köyünde (bugün Bosna-Hersek) Hristiyan bir aileye doğdu. Annesinin Ortodoks rahip yakını; muhtemelen tahminen 10-12 yaşında devşirildi (~1516).
+
+**1516-1530**: Edirne sarayında Türkçe + Arapça + Farsça eğitimi, ardından İstanbul'da *enderun mektebi*'nde 14 yıl. Türkçe, Arapça, Farsça, Latince, İtalyanca, Yunanca öğrendi (toplam 6 dil).
+
+**1546-1551**: Kaptan-ı Derya (Donanma Komutanı) — Akdeniz'de aktif operasyon dönemi.
+
+**1551-1555**: Rumeli Beylerbeyi — Balkan eyaletleri sorumlusu.
+
+**1555-1561**: Üçüncü Vezir, sonra İkinci Vezir.
+
+**1565-1579**: 14 yıl boyunca *Sadrazam* (Başvezir) — üç padişaha hizmet etti: Kanuni Sultan Süleyman (1565-1566), II. Selim (1566-1574), III. Murad (1574-1579). 1579'da bir suikastte öldürüldü.
+
+**Sadrazamlık döneminde projeleri**:
+- 1566 Sigetvar Seferi (Kanuni'nin ölümü sırasında ordunun komutası)
+- Don-Volga kanalı projesi (1569 — başarısız ama plan ölçeği muazzam)
+- Süveyş kanalı yenileme projesi (1568-1569)
+- Akdeniz donanması inşaası (1571 İnebahtı yenilgisinden sonra)
+- İstanbul'un Belgrad/Bosna kompleksi (camiler, hanlar, hastaneler, su kemerleri)
+
+**Modern karşılaştırma**: 16. yüzyılda hangi Avrupa devleti, *Hristiyan bir Sırp köylüsünü* başbakan yapabilirdi? Cevap: hiçbiri. Klasik Avrupa devletleri aristokrasi-temelliydi; yüksek devlet görevleri kanla taşınırdı. Devşirme sistemi, *meritokratik bir bürokrasinin* 16. yüzyıl Osmanlı'da pratik olarak uygulanabilmesini sağladı.
+
+Weberyan terminolojide bu, *rational-legal authority*'nin (rasyonel-yasal otorite) erken bir örneğidir. Weber'in 1919'da formüle ettiği "*atamalar liyakate dayanır, kandan değil*" prensibi, 400 yıl önce Osmanlı'da fiilen uygulanıyordu.
+
+Tabii sınırlar vardı: devşirme sadece Hristiyan köylülere (genellikle Balkan'lardan) uygulanırdı; Müslüman aileler bu sistemden geçemezdi. Sistem, 17. yüzyıl ortasında bozuldu (yeniçeri ocağı kapalı bir sınıf haline geldi, kendi içinden çocuk yetiştirir oldu); 1826'da Yeniçeri Ocağı'nın imhasıyla resmen sona erdi.
+
+## 9.11 Halifelik sonrası boşluk — IŞİD 2014 dahil
+
+1924'te halifeliğin Türkiye Büyük Millet Meclisi tarafından lağvedilmesi, Müslüman dünyası için 1300 yıllık bir kurumsal sürekliliğin sonu oldu. Sonraki 100 yıl boyunca, halifeliği "*geri kurma*" denemeleri sürdü; hepsi başarısız kaldı:
+
+**1924 — Şerif Hüseyin (Mekke)**. Halifeliğin lağvedilmesinin hemen ardından, kendisini "*halife*" ilan etti. Birkaç ay içinde Suudi İbn Suud'un Mekke'yi ele geçirmesiyle (Ekim 1924) tahttan indirildi. Sonraki Suudi yönetimi halifelik unvanını üstlenmedi.
+
+**1926 — Kahire Kongresi**. Mısır'da uluslararası bir İslâmî konferans, halifeliği yeniden kurma teklifini görüşmek üzere toplandı. Anlaşmaya varılamadı; halifelik için adaylar (Mısır Kralı Fuad, Şerif Hüseyin, vb.) Müslüman dünyasının çoğunluğunu ikna edemedi.
+
+**1928+ — İhvan-ı Müslimin (Müslüman Kardeşler)**. Hasan el-Benna tarafından Mısır'da kuruldu. *Halifelik geri kurulmalı* fikri, hareketin ana hedeflerinden biri olarak ilan edildi. Pratik politika olarak gerçekleşmedi; ama 20. yüzyıl İslâmcı hareketlerin teorik kaynaklarından birisi oldu.
+
+**1941+ — Sayyid Abul A'la Mawdudi (Pakistan)**. *Cemaat-i İslâmî* hareketi. Modern devlet anayasal yapısı içinde "*Halifet İlahi*" (Tanrı'nın halifeliği) doktrininin uygulanması — Mawdudi'nin önerisi. Pakistan İslâm Cumhuriyeti'nin 1973 Anayasası'na bu kavram bir versiyonla girdi; ama klasik halifelik kurumuyla aynı değil.
+
+**1996 — Taliban Afganistan**. Molla Ömer, 1996'da kendisini "*Emir al-Mu'minin*" (Müminlerin Lideri) ilan etti. Kendi sınırları içinde halifelik iddiası; uluslararası olarak sadece üç devlet (Pakistan, Suudi Arabistan, BAE) tarafından tanındı. 2001 ABD işgalinden sonra düştü; 2021'de yeniden iktidara geldi ama halifelik iddiasını yenilemedi.
+
+**2014 — IŞİD'in halifelik ilanı**. Ebu Bekir el-Bağdadi, 29 Haziran 2014'te Musul'da kendisini *Halife İbrahim* ilan etti. IŞİD "*Halifelik*" yapısı 2014-2017 arası Suriye-Irak'ta önemli bir toprak parçasını kontrol etti; ama 2019'da askeri olarak ezildi.
+
+Niye 100 yıllık halifelik girişimlerinin hiçbiri tutmadı? Üç yapısal sebep:
+
+1. **Meşruiyet açığı**: Klasik halifelik (Abbasiler 750-1258, sonra fiili olarak Osmanlı 1517-1924) belirli soy + uzlaşı + kurumsal sürekliliğe dayanırdı. 1924 sonrası adaylar bu üç temelin hiçbirine sahip değildi.
+
+2. **Uluslararası tanıma eksikliği**: Modern Westphalia sistemi (Bölüm 6) toprak-temelli, eşit egemen devletler yapısı üzerine kuruludur. Üst-ulusal bir "halife" otoritesi bu sistemde meşru bir yer bulamaz.
+
+3. **İslâm dünyasının kurumsal fragmantasyonu**: Modern Müslüman dünyası, 50+ bağımsız devlete bölünmüş durumda; her birinin kendi siyasal kurumları, ulemaları, milli ulemaları var. Tek bir halife etrafında birleşmeleri, mevcut ulusal egemenlerin yetkilerini terk etmeleri demek.
+
+Bu örüntü, modern egemenlik sisteminin (Westphalia) *yapısal bir kazanımı*dır: 1924 öncesi var olan üst-ulusal halifelik kurumu, modern devletler sistemi içinde yer bulamadı. IŞİD'in 2014 girişiminin 5 yıl içinde ezilmesi, bu yapısal direncin somut bir kanıtıdır.
+
 ---
 
 ## Kaynakça

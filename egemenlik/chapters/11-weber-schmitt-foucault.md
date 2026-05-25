@@ -96,6 +96,47 @@ Schmitt'in dost-düşman ayrımı, terörle mücadele çağında geri döndü. F
 
 Son bölümde, modern egemenliğin *bugün* içinden geçtiği bu küresel krizi ele alacağız: uluslar-üstü yapılar, kurumsal güç, iklim politikası, dijital egemenlik. Ulus-devlet sona mı eriyor, yoksa biçim mi değiştiriyor — soruyu mümkün olduğunca açık bırakarak değerlendireceğiz.
 
+## 11.10 COVID-19 — üç çerçevenin aynı anda testi
+
+2020-2022 küresel pandemi dönemi, Weber-Schmitt-Foucault üçlüsünün eş zamanlı pratik bir testidir. Aynı politikaları üç ayrı gözlükten okuyalım:
+
+**Sokağa çıkma yasakları (lockdowns)**:
+- *Weberyan okuma*: Modern bürokratik devletin meşru-zor kullanma yetkisinin somut kullanımı. Yerel sağlık otoritesinin kararı + polis uygulaması + yargısal denetim — klasik *rational-legal* otorite zinciri. Bireyler "*ya boyun eğer ya itiraz eder*". 2020 Almanyası, Fransası, İtalyası — hepsi Weberyan modelin tipik uygulamaları.
+- *Schmittçi okuma*: Tüm dünyada eş-zamanlı *Ausnahmezustand* ilanı. Normal anayasal haklar (hareket özgürlüğü, toplanma özgürlüğü, dini ibadet) askıya alındı; bu askıya almayı *kim* meşrulaştırdı? Schmittçi cevap: *istisnaya karar veren* egemen otorite — pandemiyi "*kriz*" olarak tanımlayan yürütme. Türkiye, Macaristan, Filipinler örneklerinde olağanüstü hâl yetkileri pandeminin sona ermesinden sonra da uzun süre kullanıldı.
+- *Foucaultcu okuma*: Pandemi, *biyo-iktidar*'ın en uç gösterimidir. Nüfus düzeyinde yönetim — istatistik (R₀ değeri, ICU doluluk oranı, ölüm sayıları), demografi, halk sağlığı, *bireysel davranışın kollektif amaçlar için yönlendirilmesi*. Maske takmak, sosyal mesafe korumak, evde kalmak — hepsi disipliner bedensel pratikler. Klasik Foucaultcu Panopticon'un dijital bir versiyonu.
+
+**Aşı pasaportları**:
+- *Weberyan*: Bürokratik kayıt sistemi, evrensel kuralla uygulama.
+- *Schmittçi*: "*Aşı olmayan*"ın belirli hakları (restoranlara giriş, seyahat) askıya alınması — bir tür *dost-düşman* kategorizasyonu.
+- *Foucaultcu*: Bireysel sağlık verisinin (aşılanma durumu) bir devlet-tanımlı kategoriye dönüştürülmesi; *biyo-iktidar*'ın dijital genişlemesi.
+
+**Temas takibi uygulamaları** (UK NHS COVID-19 app, Çin Health Code, Singapore TraceTogether):
+- Bluetooth aracılığıyla yakın temas izlenir; pozitif vaka olursa otomatik bildirim. Hangi çerçeve uygulanır?
+- *Foucaultcu* okuma en güçlüdür: bireysel bedensel hareket, dijital olarak kayıt altına alınır, kollektif salgın yönetimi için kullanılır. Modern Panopticon'un gerçekleşmesi.
+- Çin'in *Health Code* sistemi en uç örneği: kullanıcılar yeşil/sarı/kırmızı kod alır; yeşil olmadan kamusal alana giremezler. Pandemi sonrası bu altyapı sosyal kredi sistemi ile entegre edildi.
+
+Üç okuma da gerçeklerin farklı yönlerini aydınlatır. Hiçbiri tek başına yeterli değildir. Modern egemenlik, üç çerçevenin de aynı anda doğru olduğu bir karmaşık yapıdır.
+
+## 11.11 Algoritmik egemenlik — Zuboff'un gözetim kapitalizmi
+
+Foucault'nun *biyo-iktidar* kavramının 21. yüzyıl dijital versiyonu, Shoshana Zuboff'un *The Age of Surveillance Capitalism* (2019) eserinde sistematik olarak analiz edilir. Onun tezi: modern dijital platformlar, kullanıcı davranışlarını sürekli izleyip *davranışsal artık* (behavioral surplus) toplar; bu artık, *davranış tahmini* ürünlerine dönüştürülür ve reklamverenlere satılır. Bu mantık, klasik kapitalist sömürünün dijital evrimi olmakla kalmaz; *egemenliğin yeni bir biçimi*'dir — algoritmik egemenlik.
+
+Beş çağdaş örnek:
+
+**Çin Sosyal Kredi Sistemi (2014+)**. 2014'te Çin Komünist Partisi'nin "*Sosyal Kredi Sistemi Kurulumu Planı*" kabul edildi. 2020'lerde tam uygulama. Vatandaşların finansal davranışı, hukuksal kayıtları, sosyal etkileşimi, hatta arkadaş çevreleri sayısal bir "*kredi puanı*"na dönüştürülür. Düşük puanlı vatandaşlar uçak/tren biletlerine erişim, kredi alma, çocuklarını iyi okullara gönderme hakkından mahrum kalır. Foucault'nun 1975'te tanımladığı *disiplin* mantığının küresel ölçekli dijital uygulaması.
+
+**Cambridge Analytica skandalı (2018)**. 87 milyon Facebook kullanıcısının verisi, kullanıcı onayı olmadan, politik mikro-hedefleme için kullanıldı. 2016 Brexit referandumunda ve ABD başkanlık seçiminde reklam tasarımı için kullanıldı. *Davranışsal artık*'ın politik amaçlarla kullanılması — Zuboff'un çerçevesinin somut bir örneği.
+
+**Snowden ifşaatı (2013)**. ABD Ulusal Güvenlik Ajansı'nın küresel veri toplama programları (PRISM, XKeyscore, Tempora) belgelenince ortaya çıktı. Devlet düzeyinde algoritmik gözetim — Foucault'nun 1975'teki Panopticon'un küresel ölçekli yeniden gerçekleşmesi.
+
+**Apple Differential Privacy (2016+)**. Apple'ın geliştirdiği bir teknik — kullanıcı verisini *anonimleştirilmiş* olarak topluyor; ama kollektif örüntüleri analiz ediyor. Bireysel gizliliği koruyor (Apple iddiasına göre), ama kollektif davranış kalıbının çıkarılmasına izin veriyor. *Biyo-iktidar*'ın "*nüfus düzeyinde yönetim*" mantığının teknik bir uygulaması.
+
+**AB Digital Services Act + Digital Markets Act (2022)**. AB'nin, dijital platformları *kamusal denetime* tabi tutma denemesi. Büyük platformlar (Google, Meta, Apple, Microsoft, Amazon, ByteDance, Booking) "*VLOP — Very Large Online Platform*" statüsüne alındı; algoritmik kararları için şeffaflık, kullanıcılara *itiraz hakkı*, *risk değerlendirme* gereksinimleri getirildi. AB'nin "*platform egemenliği*"ne karşı modern *Westphalia tipi* meydan okuması.
+
+Bu beş örneğin ortak örüntüsü: egemenlik artık sadece *devlet*'in değil; *algoritmaların* da bir kategorisi. Bir Twitter algoritması, hangi içeriğin görünür olacağına karar veriyor; bu, klasik sansür kararlarından yapısal olarak farksız. Bir Amazon algoritması, hangi satıcıların öne çıkarılacağına karar veriyor; bu, ticari egemenliğin yeni bir biçimi.
+
+Klasik egemenlik kuramı (Bodin-Hobbes) hazırlıksız: tek-merkezli, toprak-temelli, insan-karar verici. Algoritmik egemenlik dağınık, sınır-tanımaz, makine-karar verici. Foucault'nun 1976'da öngördüğü *iktidar ağı*, dijital çağda yeni bir somutluk kazandı.
+
 ---
 
 ## Kaynakça

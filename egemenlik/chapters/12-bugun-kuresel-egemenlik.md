@@ -66,7 +66,57 @@ Mevcut eğilimleri uzatırsak, 21. yüzyılın geri kalanı için en az üç far
 
 Gerçekte muhtemelen üçü de aynı anda olacak — kimi alanda yönetim havuzlaştırılırken, kimi alanda bloklaşacak, kimi alanda özelleşecek. Bu, egemenlik kavramının *iç tutarlılığı*'na yönelik en derin meydan okumadır.
 
-## 12.8 Sonuç: bir kavramın hikâyesi, henüz bitmedi
+## 12.8 Üç senaryo — sayısal projeksiyon denemesi
+
+Bölüm 12.7'de tanımlanan üç senaryonun (A: çok katmanlı yönetim, B: bloklaşma, C: özelleşme) somut göstergelerini, 2050 yılı için *spekülatif* tahminlerle inceleyelim. Bu, kesin bir öngörü değil; *eğer mevcut eğilimler doğrusal olarak ilerlerse* nereye varılabileceğini gösteren bir düşünce egzersizidir.
+
+| Gösterge | Senaryo A — Çok katmanlı | Senaryo B — Bloklaşma | Senaryo C — Özelleşme |
+|----------|--------------------------|------------------------|------------------------|
+| Karbon emisyon yönetimi | Küresel asgari karbon vergisi (~€100/ton) | ABD/AB/Çin ayrı sistemler, koordinasyonsuz | Özel sektör karbon-offset piyasası, devlet zayıf |
+| Dijital regülasyon | AB DSA/DMA modeli yayıldı; Brezilya, Hindistan benimsedi | ABD-Çin teknoloji bloklarına bölünmüş internet | Platform self-regülasyonu hakim |
+| Küresel GSYİH dağılımı | Ulus-üstü kurumlara yetki devri → bölgesel dengeleme | ABD %22, Çin %28, AB %18, geri kalan %32 | Şirket sıralaması devlet sıralamasını geçer (top 5 firma > top 5 devlet bütçesi) |
+| Askeri harcama | BM kuvvetleri güçlü; ulusal harcama düşüyor | Üç bloğun toplam askeri harcaması GSYİH'nin %3-5'i (Soğuk Savaş seviyesi) | Özel askeri firmalar küresel pazarın %40'ını üstlenmiş |
+| Vergi tabanı | Küresel kurumlar vergisi %18 (2050) | Bloklar arası farklılaşan oranlar | Vergi tabanı erozyonu — DAO'lar, kripto-altyapılar |
+| Sınır kontrolü | İklim göçmenleri için küresel kotalar | Sıkı blok-içi serbest, bloklar arası kapalı | Korporasyon-şehir vize programları (Saudi NEOM modeli) |
+| Demokrasi göstergesi | V-Dem ortalaması yükselir | Ortalama düşer; "*illiberal demokrasi*" normalleşir | Devlet-dışı yönetim alanları çoğalır; demokrasi kavramı yetersizleşir |
+
+Tablo speküllatiftir; ama önemli olan üç senaryonun da *birbirini dışlamadığı*'dır. Bir alanda A modeli (iklim — küresel anlaşma zorunlu), başka bir alanda B (savunma — blok-içi ittifaklar), bir üçüncüsünde C (dijital ekonomi — platform egemenliği) eşzamanlı olabilir. 2050 dünyası muhtemelen üç senaryonun *karması* olacak — kavramsal olarak en zor yönetilebilecek konfigürasyon.
+
+Bu, klasik egemenlik kuramının yapısal sınırını gösterir. Bodin'in 1576'da formüle ettiği "*mutlak, sürekli, bölünmez*" tanımı, 2050'nin çoğullaşmış-katmanlı egemenlik yapısını analiz edemez. Yeni bir egemenlik kuramı gerekiyor; ama henüz yok. Bu, 21. yüzyılın merkezi politik-felsefi sorunudur.
+
+## 12.9 Brussels Effect — GDPR'nin küresel yayılması
+
+Anu Bradford'un *The Brussels Effect* (2020) eseri, AB'nin küresel regülasyon gücünün sistematik bir analizini sunar. Onun tezi: AB, askeri ya da ekonomik dünya lideri olmasa bile, *düzenleyici güç* olarak küresel etki yaratır. Çok uluslu şirketler, AB pazarına erişim için AB standartlarına uymak zorunda kalır; bu standartlar sonra başka pazarlara yayılır.
+
+**Vaka çalışması: GDPR (General Data Protection Regulation, 2018)**.
+
+AB GDPR'sinin yayılması:
+
+| Yıl | Ülke / Bölge | Düzenleme | GDPR'a benzerlik |
+|----:|--------------|-----------|------------------|
+| 2018 | AB | GDPR | (orijinal) |
+| 2018 | Brezilya | LGPD (Lei Geral de Proteção de Dados) | ~%80 |
+| 2020 | Kaliforniya (ABD) | CCPA | ~%60 |
+| 2021 | Çin | PIPL (Personal Information Protection Law) | ~%70 (farklı vurgular) |
+| 2023 | Hindistan | DPDP Act | ~%65 |
+| 2023 | İngiltere (Brexit sonrası) | UK GDPR | ~%95 (Brexit'e rağmen) |
+| 2025 (tahmin) | Türkiye | KVKK güncellemesi | GDPR'a uyum yönünde |
+
+GDPR'nin yayılma mantığı şu: bir küresel teknoloji şirketi (örneğin Apple) AB'nin 450 milyon kullanıcısına hizmet vermek için *AB-uyumlu* bir veri sistemi kurmak zorunda. Bu sistemi *sadece AB için ayrı* tutmak teknik olarak zor ve maliyetlidir; *küresel olarak* aynı standartı uygulamak daha kolay. Apple, GDPR-uyumlu gizlilik kontrollerini tüm dünyada uygulamaya koyuyor; bu da diğer ülkelerin GDPR-tarzı yasaları benimsemesini kolaylaştırıyor. AB'nin *tek taraflı* düzenleyici kararı, *küresel* bir standart haline geliyor.
+
+**Diğer Brussels Effect örnekleri**:
+
+- *Rekabet hukuku*: AB Komisyonu'nun Google, Apple, Amazon'a uyguladığı yüksek cezalar (Google'a 2017-2019 arasında 8 milyar Euro+). Bu cezalar, küresel şirket davranışını şekillendiriyor.
+- *Çevre standartları*: AB'nin REACH yönetmeliği (kimyasal güvenlik), küresel kimya endüstrisinin standartlarını belirliyor.
+- *Tarım ürünleri*: AB'nin GDO yasakları, AB'ye ihracat yapan ülkelerin tarım politikalarını şekillendiriyor.
+
+Bu örüntü, modern egemenliğin yeni bir biçimini ortaya koyar. AB klasik anlamda *hard power* (askeri güç) sahibi değil; *soft power* (kültürel etki) sahibi sınırlı; ama *regulatory power* (düzenleyici güç) küresel ölçekte etkili. Bodin'in 1576'daki *toprak-temelli* egemenlik tanımı, bu modeli kavrayamaz.
+
+Brussels Effect, *Westphalia sistemi*'nin (Bölüm 6) önemli bir aşılışıdır. Bir devlet/kurum, kendi sınırları dışında *fiili olarak* yasama yapabilir — eğer ekonomik gücü yeterse. Modern egemenlik artık sadece *zor kullanma tekeli* (Weber) değil; *standart koyma tekeli*'dir de.
+
+Ama bu yeni egemenlik formu *demokratik açık* taşır. AB Komisyonu seçilmiş değil; AB Parlamentosu'nun küresel etkisi sınırlı. Brussels Effect, demokratik mekanizma olmadan küresel etki yaratıyor. Bu, 21. yüzyıl egemenliğin önemli bir yapısal sorunudur — Bölüm 12.6'da işaret edilen "*otoriter dönüş*"ün popüler bir kaynağı.
+
+## 12.10 Sonuç: bir kavramın hikâyesi, henüz bitmedi
 
 Bu kitap Aristoteles'in *politeia* sınıflamasından başladı; Roma *imperium*'undan İbn Haldun'un *mülk-asabiyye* döngüsüne, Bodin'in *soverenlik* tanımından Hobbes'un *Leviathan*'ına, Locke-Montesquieu-Rousseau'nun *modern halk egemenliği* sentezinden Hegel'in *Sittlichkeit* kuramına, Weber'in *zor tekeli*'nden Schmitt'in *istisna*'sına, Foucault'nun *iktidar ağı*'ndan 21. yüzyılın *küresel parçalanma*'sına uzandı.
 
