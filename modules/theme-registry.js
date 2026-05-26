@@ -40,6 +40,15 @@
       primaryAuthors: ['Cantillon', 'Quesnay', 'Mirabeau', 'Turgot', 'Du Pont de Nemours', 'Smith', 'Marx', 'Henry George'],
     },
     {
+      slug: 'klasik-iktisat',
+      title: 'Klasik İktisat',
+      subtitle: 'Smith\'ten Mill\'e, Marx\'a ve marjinal devrime',
+      description: '1776 Wealth of Nations\'tan 1870 marjinal devrime — bir okulun yükselişi ve dağılışı; Smith, Malthus, Ricardo, Mill, Marx, klasik makro, büyüme, Osmanlı alımlaması.',
+      chapterCount: 12,
+      status: 'draft',
+      primaryAuthors: ['Smith', 'Malthus', 'Ricardo', 'J.S. Mill', 'Marx', 'Engels', 'Jevons', 'Walras', 'Menger', 'Mehmed Cavid Bey', 'Sraffa', 'Piketty'],
+    },
+    {
       slug: 'deger',
       title: 'Değer kavramının tarihi',
       subtitle: 'Aristoteles\'ten Sen\'e',

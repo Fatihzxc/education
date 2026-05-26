@@ -1,12 +1,43 @@
 # Tema Yol Haritası — Education Repo Genişlemesi
 
 **Tarih:** 2026-05-24
-**Son güncelleme:** 2026-05-26 — Fizyokrasi kitabı (a) paralel-ajan ilk geçişiyle 12 bölüm draft'a alındı, (b) iki tematik doc'tan (kök-sebep + sınıf analizi) ~11K kelimelik genişleme entegrasyonu tamamlandı. Toplam ~45.8K kelime.
-**Bağlam:** Dört kitap tamamlandı (Merkantilizm, Değer, Mülkiyet, Egemenlik). Beşinci kitap (**Fizyokrasi**) iskeletten draft'a geçişte, ikinci tur entegrasyon ile derinleşti. Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
+**Son güncelleme:** 2026-05-26 — Altıncı kitap **Klasik İktisat** iskeletten paralel-ajan ilk geçişine alındı (12 bölüm, hedef ~37K kelime). Fizyokrasi'nin (45.8K) ikinci tur entegrasyonu önceki turda tamamlandı.
+**Bağlam:** Beş kitap commit'lenmiş durumda (Merkantilizm, Fizyokrasi, Değer, Mülkiyet, Egemenlik). Altıncı kitap **Klasik İktisat** yazımda. Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
 
 ---
 
-## 🚧 Aktif kitap — Fizyokratik Düşünce (yazımda, ikinci tur tamamlandı)
+## 🚧 Aktif kitap — Klasik İktisat (yazımda, ilk paralel-ajan geçişi)
+
+**Slug:** `klasik-iktisat/` · **Alt başlık:** Smith'ten Mill'e, Marx'a ve marjinal devrime · **Durum:** 12/12 draft (paralel-ajan ilk geçişi) · **Toplam:** ~42.7K kelime (hedef ~37K aşıldı) · **Sıra:** theme-registry'de 3. konum (kronolojik bloğun tamamlayıcısı: merkantilizm → fizyokrasi → klasik).
+
+### Tasarım kararları
+
+- **Marx KÖPRÜ formunda Ch 11'de** — ayrı tam-bölüm değil; "Klasik'in iki karşıt mirasçısı" çerçevesi (marjinalistler + Marx hattı birlikte). Tam Marx tartışması `deger/07` ve `mulkiyet/08`'de.
+- **Smith Ch 2'de bütüncül sentez** — 4 dağınık Smith bölümünün (merkantilizm/09, fizyokrasi/09, deger/05, mulkiyet/06) tek-okuyuşa toplaması. *Wealth*'i 5 cilt iç-mantığı olarak sunar.
+- **Osmanlı Ch 10** — Mehmed Cavid Bey, Sakızlı Ohannes, Münif Paşa. Sister kitap paralelliği korunur.
+
+### 12-bölüm yayı
+
+1. Niye "klasik iktisat"? — terim, kanon, 1776-1870 yayı
+2. Smith'in sistemi — *Wealth*'i 5 cilt iç-mantığı
+3. Malthus ve nüfusun sınırları — *Essay on Population* (1798)
+4. Ricardo'nun *Principles*'ı — emek-değer + rant + karşılaştırmalı üstünlük + parasal teori
+5. Klasik makro — Say's Law, ücret fonu, sermaye birikim
+6. Klasik büyüme teorisi — Smithian artan-getiri vs Ricardian azalan-getiri
+7. Karşılaştırmalı üstünlük ve serbest ticaret — Anti-Corn-Law League, 1846
+8. Klasik iktisat ve İngiliz politik bağlamı — Reform Bill, Chartism, Engels 1845, ütopyacı sosyalistler
+9. J.S. Mill ve klasik sentez — *Principles* (1848), *On Liberty*, kadın ve mülkiyet
+10. Klasik iktisat ve Osmanlı modernleşmesi — Cavid Bey *İlm-i İktisad*
+11. Klasik'in iki karşıt mirasçısı — marjinal devrim + Marx hattı
+12. Bugün — Sraffian/neo-Ricardian, Piketty, eşitsizlik
+
+### kb-mcp kaynak durumu
+
+Klasik döneme ait birincil kaynakların büyük bölümü `C:\Users\Fatih\github\kb-mcp\data\catalog.json`'da zaten indekslenmiş: Ricardo *Principles*, Malthus *Essay*, Mill *Principles*, Say *Treatise*, Bastiat *Sophisms*, Marx *Capital* Vol 1, Menger, Walras, Marshall, Schumpeter, Piketty. Yeni eklenen 8 girdi (`indexed: false`): Mill *On Liberty*, Mill *Subjection of Women*, Engels *Condition*, Marx *Theories of Surplus Value*, Cavid Bey *İlm-i İktisad*, Sraffa *Production of Commodities*, Blaug *Economic Theory in Retrospect*, Hollander *Classical Economics*.
+
+---
+
+## ✅ Tamamlanan kitap — Fizyokratik Düşünce (önceki tur)
 
 **Slug:** `fizyokrasi/` · **Alt başlık:** Cantillon'dan Henry George'a · **Durum:** 12/12 draft (paralel-ajan ilk geçişi + kök-sebep/sınıf-analizi doc entegrasyonu) · **Toplam:** ~45.8K kelime · **Sıra:** theme-registry'de 2. konum (merkantilizm'in halefi olarak).
 
