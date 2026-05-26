@@ -7,7 +7,7 @@
       "slug": "01-niye-klasik-iktisat",
       "title": "Niye \"klasik iktisat\"?",
       "subtitle": "Terim, kanon, 1776-1870 yayı, kitabın çerçevesi",
-      "estWords": 2800,
+      "estWords": 3700,
       "status": "draft"
     },
     {
@@ -15,7 +15,7 @@
       "slug": "02-smith-sistemi",
       "title": "Smith'in sistemi",
       "subtitle": "Wealth'i 5 cilt iç-mantığı olarak okumak",
-      "estWords": 5200,
+      "estWords": 6150,
       "status": "draft"
     },
     {
@@ -23,7 +23,7 @@
       "slug": "03-malthus-nufus-sinirlari",
       "title": "Malthus ve nüfusun sınırları",
       "subtitle": "Essay on Population (1798), iç-eleştiri olarak",
-      "estWords": 3800,
+      "estWords": 4250,
       "status": "draft"
     },
     {
@@ -31,7 +31,7 @@
       "slug": "04-ricardo-sistemi",
       "title": "Ricardo'nun Principles'ı",
       "subtitle": "Emek-değer + diferansiyel rant + karşılaştırmalı üstünlük + parasal teori",
-      "estWords": 5800,
+      "estWords": 6200,
       "status": "draft"
     },
     {
@@ -39,7 +39,7 @@
       "slug": "05-klasik-makro",
       "title": "Klasik makro",
       "subtitle": "Say'in yasası, ücret fonu, sermaye birikim mantığı",
-      "estWords": 4350,
+      "estWords": 4800,
       "status": "draft"
     },
     {
@@ -47,7 +47,7 @@
       "slug": "06-klasik-buyume-teorisi",
       "title": "Klasik büyüme teorisi",
       "subtitle": "Smithian artan-getiri vs Ricardian azalan-getiri, durağan-durum",
-      "estWords": 3200,
+      "estWords": 3350,
       "status": "draft"
     },
     {
@@ -55,7 +55,7 @@
       "slug": "07-karsilastirmali-ustunluk-serbest-ticaret",
       "title": "Karşılaştırmalı üstünlük ve serbest ticaret",
       "subtitle": "Ricardo formülü, Anti-Corn-Law League, 1846 abolition",
-      "estWords": 4600,
+      "estWords": 5100,
       "status": "draft"
     },
     {
@@ -63,7 +63,7 @@
       "slug": "08-klasik-politik-baglam",
       "title": "Klasik iktisat ve İngiliz politik bağlamı",
       "subtitle": "Reform Bill 1832, Chartism, Factory Acts, Engels 1845, ütopyacı sosyalistler",
-      "estWords": 5600,
+      "estWords": 5800,
       "status": "draft"
     },
     {
@@ -71,7 +71,7 @@
       "slug": "09-mill-sentez",
       "title": "J.S. Mill ve klasik sentez",
       "subtitle": "Principles (1848), durağan-durum tercihi, On Liberty, kadın ve mülkiyet",
-      "estWords": 4600,
+      "estWords": 6150,
       "status": "draft"
     },
     {
@@ -79,7 +79,7 @@
       "slug": "10-osmanli-tanzimat-iktisad",
       "title": "Klasik iktisat ve Osmanlı modernleşmesi",
       "subtitle": "Sakızlı Ohannes, Münif Paşa, Mehmed Cavid Bey — İlm-i İktisad'ın geç gelişi",
-      "estWords": 3100,
+      "estWords": 3500,
       "status": "draft"
     },
     {
@@ -87,7 +87,7 @@
       "slug": "11-iki-karsit-mirascisi",
       "title": "Klasik'in iki karşıt mirasçısı",
       "subtitle": "Marjinal devrim (Jevons-Walras-Menger) + Marx hattı — nesnel değerin terki ve sosyal-yerli devamı",
-      "estWords": 5950,
+      "estWords": 6300,
       "status": "draft"
     },
     {
@@ -95,7 +95,7 @@
       "slug": "12-bugun-klasik-yankilar",
       "title": "Bugün — klasik mirasın yankıları",
       "subtitle": "Sraffian/neo-Ricardian, Piketty Capital, eşitsizlik ve büyüme",
-      "estWords": 3400,
+      "estWords": 3950,
       "status": "draft"
     }
   ]
