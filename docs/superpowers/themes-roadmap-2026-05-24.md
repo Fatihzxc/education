@@ -1,7 +1,53 @@
 # Tema Yol Haritası — Education Repo Genişlemesi
 
 **Tarih:** 2026-05-24
-**Bağlam:** Dört kitap tamamlandı (Merkantilizm, Değer, Mülkiyet, Egemenlik). Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
+**Son güncelleme:** 2026-05-26 — Fizyokrasi kitabı (a) paralel-ajan ilk geçişiyle 12 bölüm draft'a alındı, (b) iki tematik doc'tan (kök-sebep + sınıf analizi) ~11K kelimelik genişleme entegrasyonu tamamlandı. Toplam ~45.8K kelime.
+**Bağlam:** Dört kitap tamamlandı (Merkantilizm, Değer, Mülkiyet, Egemenlik). Beşinci kitap (**Fizyokrasi**) iskeletten draft'a geçişte, ikinci tur entegrasyon ile derinleşti. Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
+
+---
+
+## 🚧 Aktif kitap — Fizyokratik Düşünce (yazımda, ikinci tur tamamlandı)
+
+**Slug:** `fizyokrasi/` · **Alt başlık:** Cantillon'dan Henry George'a · **Durum:** 12/12 draft (paralel-ajan ilk geçişi + kök-sebep/sınıf-analizi doc entegrasyonu) · **Toplam:** ~45.8K kelime · **Sıra:** theme-registry'de 2. konum (merkantilizm'in halefi olarak).
+
+### İkinci tur entegrasyon (2026-05-26)
+
+`docs/fizyokrasi-kok-sebep-analizi.md` (Problem→Sebep→Çözüm→Değerlendirme) ve `docs/aydinlanma-ve-devrim-sinif-analizi.md` (karşı-tarihçiler + sınıf-çıkar haritası) materyali 10 bölüme cerrahi olarak dağıtıldı:
+
+- **Ch 1** (+700): 18. yy Fransa paradoksu — kireçlenmiş kurumsal zemin teşhisi
+- **Ch 3** (+1900): Colbert üç ölümcül seçim + Aydınlanma'nın görünmeyen altyapısı (salon/loca/Encyclopédie)
+- **Ch 4** (+640): İçeriden reformcu olarak Quesnay, *société de pensée* analitik bağı
+- **Ch 6** (+780): İdeolojinin prototipi — sınıf transferi olarak *impôt unique*
+- **Ch 7** (+780): Aile hatları — Mirabeau père/fils, Du Pont→DuPont, Mercier→Catherine
+- **Ch 8** (+1440): *Guerre des farines* genişletilmiş + "Düşüş ve gölgenin uzunluğu" + dört-eksen değerlendirme
+- **Ch 9** (+400): Smith ve fizyokratlar — yükselen sınıfın teorisyenleri
+- **Ch 10** (+2400): Dört-eksen sistematik eleştiri + karşı-tarihçiler (Burke, Maistre, Taine, Cochin, Furet) + Cochin merceği sentezi
+- **Ch 11** (+670): Karşı-okuma merceği Türkiye'ye (Jön Türkler, Cumhuriyet kadrosu, vakıf ekosistemi)
+- **Ch 12** (+1150): Friedman "least bad tax" + Polanyi *Büyük Dönüşüm* çifte hareket + ideoloji okuma metodolojisi olarak miras + Doc 1 kapanış aforizması
+
+**Bölüm 2 ve 5 dokunulmadı** (Cantillon teknik öncül + *Tableau* salt model exposition).
+
+**12-bölüm yayı:**
+1. Niye "fizyokratlar"? — *physis* + *krátos*, 18. yy Fransası
+2. Cantillon ve Gournay — fizyokrasi öncesi
+3. Doğal düzen ve Aydınlanma — *ordre naturel*, *despotisme légal*
+4. Quesnay — hekimden ekonomiste
+5. *Tableau Économique* (1758) — üç sınıf, ilk makro model
+6. *Produit net* ve *impôt unique*
+7. Mirabeau ve fizyokrat ekolü
+8. Turgot — pratik fizyokrat (1774-76 edicts)
+9. Smith ve fizyokratlar — Paris ziyareti, *Wealth* II/IV.IX
+10. Eleştiri ve sınırlar — Marx'ın değerlendirmesi
+11. Osmanlı'ya yansımalar — Sarı Mehmed Paşa, Tanzimat
+12. Bugün — Henry George, LVT, ekolojik iktisat
+
+**kb-mcp kaynak durumu:**
+- Mevcut: Quesnay *Tableau* (`quesnay-tableau`), Cantillon *Essai* (`cantillon-essai-commerce`), Smith *Wealth*, Marx, Sarı Mehmed Paşa *Nesayih*
+- Eksik (catalog'da `indexed: false`): Turgot *Réflexions*, Mirabeau *L'Ami des hommes*, Du Pont *Physiocratie*, Meek *The Economics of Physiocracy*, Vaggi *The Economics of François Quesnay*, Henry George *Progress and Poverty*
+
+**Çapraz bağlar:** Merkantilizm Ch9 (Smith eleştirisi), Değer Ch5 (Smith sentezi), Mülkiyet Ch6 (toprak), Egemenlik Ch8 (Aydınlanma doğal hukuk).
+
+**Sonraki tur:** verify_claim ile her bölümün ≥3 birincil alıntısı doğrulanmalı; eksik PDF'ler edinilip ingest edilmeli; status `draft → completed`'a 12 bölüm bireysel düzeltme döngüsünden sonra çevrilir.
 
 ---
 

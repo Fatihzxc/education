@@ -27,6 +27,9 @@ sources/
 - `mandeville-fable-bees.pdf` — Bernard Mandeville, *Fable of the Bees* (1714) **[PDF gerekli]**
 - `cantillon-essai-commerce.pdf` — Richard Cantillon, *Essai sur la Nature du Commerce* (1755) **[PDF gerekli]**
 - `quesnay-tableau.pdf` — François Quesnay, *Tableau Économique* (1758) **[PDF gerekli]**
+- `turgot-reflexions.pdf` — A.-R.-J. Turgot, *Réflexions sur la formation et la distribution des richesses* (1766) **[PDF gerekli]**
+- `mirabeau-ami-des-hommes.pdf` — V. R. de Mirabeau, *L'Ami des hommes* (1756) **[PDF gerekli]**
+- `dupont-physiocratie.pdf` — P. S. Du Pont de Nemours, *Physiocratie* (1768) **[PDF gerekli]**
 - `montesquieu-esprit-lois.pdf` — Montesquieu, *De l'esprit des lois* (1748, Commerce bölümleri) **[PDF gerekli]**
 - `kocibey-risalesi.pdf` — Koçi Bey Risalesi
 - `katip-celebi-dusturul-amel.pdf` — Katip Çelebi, *Düsturü'l-Amel* (1653) **[PDF gerekli]**
@@ -47,6 +50,19 @@ sources/
 - `hirschman-passions-interests.pdf` — Albert Hirschman, *The Passions and the Interests* (1977) **[PDF gerekli]**
 - `polanyi-great-transformation.pdf` — Karl Polanyi, *The Great Transformation* (1944) **[PDF gerekli]**
 - `drelichman-voth.pdf` — Drelichman & Voth, *Lending to the Borrower from Hell* (2014) **[PDF gerekli]**
+- `meek-economics-physiocracy.pdf` — Ronald L. Meek, *The Economics of Physiocracy* (1962) **[PDF gerekli]**
+- `vaggi-quesnay.pdf` — Gianni Vaggi, *The Economics of François Quesnay* (1987) **[PDF gerekli]**
+- `george-progress-poverty.pdf` — Henry George, *Progress and Poverty* (1879) **[PDF gerekli]**
+- `burke-reflections.pdf` — Edmund Burke, *Reflections on the Revolution in France* (1790) **[PDF gerekli]**
+- `maistre-considerations.pdf` — Joseph de Maistre, *Considérations sur la France* (1797) **[PDF gerekli]**
+- `taine-origines.pdf` — Hippolyte Taine, *Les origines de la France contemporaine* (1875-93) **[PDF gerekli]**
+- `cochin-societes-de-pensee.pdf` — Augustin Cochin, *Les sociétés de pensée et la démocratie moderne* (1921, posthumous) **[PDF gerekli]**
+- `furet-penser-revolution.pdf` — François Furet, *Penser la Révolution française* (1978) **[PDF gerekli]**
+- `jacob-living-enlightenment.pdf` — Margaret C. Jacob, *Living the Enlightenment: Freemasonry and Politics in Eighteenth-Century Europe* (1991) **[PDF gerekli]**
+- `fay-franc-maconnerie.pdf` — Bernard Faÿ, *La Franc-maçonnerie et la révolution intellectuelle du XVIIIe siècle* (1935) **[PDF gerekli]**
+- `koselleck-kritik-krise.pdf` — Reinhart Koselleck, *Kritik und Krise* (1959) **[PDF gerekli]**
+- `mardin-toplum-siyaset.pdf` — Şerif Mardin, *Türkiye'de Toplum ve Siyaset* **[PDF gerekli]**
+- `kucukomer-duzenin-yabancilasmasi.pdf` — İdris Küçükömer, *Düzenin Yabancılaşması* **[PDF gerekli]**
 
 ## Konvansiyon
 

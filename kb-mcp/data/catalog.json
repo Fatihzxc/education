@@ -322,6 +322,61 @@
       "indexedPath": "primary/quesnay-tableau.txt"
     },
     {
+      "id": "turgot-reflexions",
+      "title": "Réflexions sur la formation et la distribution des richesses",
+      "shortTitle": "Reflections on the Formation and Distribution of Riches",
+      "author": "Anne-Robert-Jacques Turgot",
+      "year": 1766,
+      "language": "fr",
+      "type": "primary",
+      "filename": "primary/turgot-reflexions.pdf",
+      "tags": [
+        "physiocracy",
+        "capital-theory",
+        "interest",
+        "division-of-labor"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "mirabeau-ami-des-hommes",
+      "title": "L'Ami des hommes ou Traité de la population",
+      "shortTitle": "The Friend of Mankind",
+      "author": "Victor Riqueti de Mirabeau",
+      "year": 1756,
+      "language": "fr",
+      "type": "primary",
+      "filename": "primary/mirabeau-ami-des-hommes.pdf",
+      "tags": [
+        "physiocracy",
+        "population",
+        "agrarian-reform"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "dupont-physiocratie",
+      "title": "Physiocratie, ou Constitution naturelle du gouvernement",
+      "shortTitle": "Physiocratie",
+      "author": "Pierre Samuel Du Pont de Nemours",
+      "year": 1768,
+      "language": "fr",
+      "type": "primary",
+      "filename": "primary/dupont-physiocratie.pdf",
+      "tags": [
+        "physiocracy",
+        "school-anthology",
+        "ordre-naturel"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
       "id": "montesquieu-esprit-lois",
       "title": "De l'esprit des lois (Livres XX–XXIII: Commerce)",
       "shortTitle": "The Spirit of the Laws — Commerce",
@@ -1600,6 +1655,225 @@
       "semanticModel": null,
       "pages": 449,
       "indexedPath": "secondary/foucault-order-things.pdf"
+    },
+    {
+      "id": "meek-economics-physiocracy",
+      "title": "The Economics of Physiocracy",
+      "author": "Ronald L. Meek",
+      "year": 1962,
+      "language": "en",
+      "type": "secondary",
+      "filename": "secondary/meek-economics-physiocracy.pdf",
+      "tags": [
+        "physiocracy",
+        "history-of-economic-thought",
+        "tableau"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "vaggi-quesnay",
+      "title": "The Economics of François Quesnay",
+      "author": "Gianni Vaggi",
+      "year": 1987,
+      "language": "en",
+      "type": "secondary",
+      "filename": "secondary/vaggi-quesnay.pdf",
+      "tags": [
+        "physiocracy",
+        "quesnay",
+        "history-of-economic-thought"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "george-progress-poverty",
+      "title": "Progress and Poverty",
+      "author": "Henry George",
+      "year": 1879,
+      "language": "en",
+      "type": "secondary",
+      "filename": "secondary/george-progress-poverty.pdf",
+      "tags": [
+        "land-value-tax",
+        "georgism",
+        "physiocracy-revival"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "burke-reflections",
+      "title": "Reflections on the Revolution in France",
+      "author": "Edmund Burke",
+      "year": 1790,
+      "language": "en",
+      "type": "secondary",
+      "filename": "secondary/burke-reflections.pdf",
+      "tags": [
+        "counter-history",
+        "french-revolution",
+        "conservative-critique"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "maistre-considerations",
+      "title": "Considérations sur la France",
+      "author": "Joseph de Maistre",
+      "year": 1797,
+      "language": "fr",
+      "type": "secondary",
+      "filename": "secondary/maistre-considerations.pdf",
+      "tags": [
+        "counter-history",
+        "french-revolution",
+        "metaphysical-critique"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "taine-origines",
+      "title": "Les origines de la France contemporaine",
+      "author": "Hippolyte Taine",
+      "year": 1875,
+      "language": "fr",
+      "type": "secondary",
+      "filename": "secondary/taine-origines.pdf",
+      "tags": [
+        "counter-history",
+        "french-revolution",
+        "archival-critique"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "cochin-societes-de-pensee",
+      "title": "Les sociétés de pensée et la démocratie moderne",
+      "author": "Augustin Cochin",
+      "year": 1921,
+      "language": "fr",
+      "type": "secondary",
+      "filename": "secondary/cochin-societes-de-pensee.pdf",
+      "tags": [
+        "counter-history",
+        "sociology-of-revolution",
+        "societes-de-pensee"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "furet-penser-revolution",
+      "title": "Penser la Révolution française",
+      "author": "François Furet",
+      "year": 1978,
+      "language": "fr",
+      "type": "secondary",
+      "filename": "secondary/furet-penser-revolution.pdf",
+      "tags": [
+        "counter-history",
+        "revisionist-historiography",
+        "french-revolution"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "jacob-living-enlightenment",
+      "title": "Living the Enlightenment: Freemasonry and Politics in Eighteenth-Century Europe",
+      "author": "Margaret C. Jacob",
+      "year": 1991,
+      "language": "en",
+      "type": "secondary",
+      "filename": "secondary/jacob-living-enlightenment.pdf",
+      "tags": [
+        "freemasonry",
+        "enlightenment-networks",
+        "political-sociology"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "fay-franc-maconnerie",
+      "title": "La Franc-maçonnerie et la révolution intellectuelle du XVIIIe siècle",
+      "author": "Bernard Faÿ",
+      "year": 1935,
+      "language": "fr",
+      "type": "secondary",
+      "filename": "secondary/fay-franc-maconnerie.pdf",
+      "tags": [
+        "freemasonry",
+        "enlightenment-networks",
+        "controversial"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "koselleck-kritik-krise",
+      "title": "Kritik und Krise",
+      "author": "Reinhart Koselleck",
+      "year": 1959,
+      "language": "de",
+      "type": "secondary",
+      "filename": "secondary/koselleck-kritik-krise.pdf",
+      "tags": [
+        "enlightenment",
+        "public-sphere",
+        "historical-sociology"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "mardin-toplum-siyaset",
+      "title": "Türkiye'de Toplum ve Siyaset",
+      "author": "Şerif Mardin",
+      "language": "tr",
+      "type": "secondary",
+      "filename": "secondary/mardin-toplum-siyaset.pdf",
+      "tags": [
+        "turkish-modernization",
+        "class-ideology",
+        "political-sociology"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
+    },
+    {
+      "id": "kucukomer-duzenin-yabancilasmasi",
+      "title": "Düzenin Yabancılaşması",
+      "author": "İdris Küçükömer",
+      "language": "tr",
+      "type": "secondary",
+      "filename": "secondary/kucukomer-duzenin-yabancilasmasi.pdf",
+      "tags": [
+        "turkish-modernization",
+        "class-ideology",
+        "political-economy"
+      ],
+      "indexed": false,
+      "semanticIndexed": false,
+      "semanticModel": null
     }
   ],
   "missing_planned_sources": [

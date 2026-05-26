@@ -31,6 +31,15 @@
       primaryAuthors: ['Mun', 'Smith', 'Colbert', 'Genç', 'Pamuk', 'İbn Haldun'],
     },
     {
+      slug: 'fizyokrasi',
+      title: 'Fizyokratik Düşünce',
+      subtitle: 'Cantillon\'dan Henry George\'a',
+      description: 'Doğal düzen, toprak, akış — Quesnay\'in Tableau\'sundan Turgot reformlarına, Smith\'in mirasından bugünkü ekolojik iktisada.',
+      chapterCount: 12,
+      status: 'draft',
+      primaryAuthors: ['Cantillon', 'Quesnay', 'Mirabeau', 'Turgot', 'Du Pont de Nemours', 'Smith', 'Marx', 'Henry George'],
+    },
+    {
       slug: 'deger',
       title: 'Değer kavramının tarihi',
       subtitle: 'Aristoteles\'ten Sen\'e',
