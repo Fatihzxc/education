@@ -22,17 +22,17 @@ Cantillon'un en özgün kuramsal katkılarından biri *entrepreneur* kavramıdı
 
 Cantillon'un örneklerinde girişimci tipik olarak şu konumdadır: çiftçi belirli bir kira karşılığında topraktan bir yıllığına yararlanma hakkını alır; ürünün son fiyatı ise hasattan sonra, pazarda belli olur. Kira **kesin**, gelir **belirsiz**dir. Aynı yapı tüccarda da işler: mal **belirli** bir fiyatla alınır, geleceğin pazarında **belirsiz** bir fiyatla satılır. Aradaki fark — bazen pozitif, bazen negatif — girişimcinin kazancıdır.
 
-Bu çerçevenin iktisadi düşüncedeki anlamı şudur: Cantillon, çağdaşı yazarların çoğunun aksine, "kâr"ı mistik bir kategori olarak değil, **belirsizlik taşıma**nın ödülü olarak tanımlar. Klasik iktisat (Smith, Ricardo) bu çerçeveyi tam üstlenmeyecektir — onlarda kâr daha çok sermaye getirisi olarak görülür. Cantillon'un girişimci anlayışını yeniden canlandıracak olanlar, 20. yüzyıl başında Frank Knight (*Risk, Uncertainty and Profit*, 1921) ve Joseph Schumpeter (*The Theory of Economic Development*, 1911) olacaktır. Schumpeter'in yenilikçi, mevcut dengeyi bozan girişimcisi Cantillon'un risk-taşıyıcı çerçevesini geliştirir; Knight'ın "ölçülebilir risk" ile "ölçülemez belirsizlik" ayrımı ise Cantillon'un sezgisini formelleştirir^[9].
+Bu çerçevenin iktisadi düşüncedeki anlamı şudur: Cantillon, çağdaşı yazarların çoğunun aksine, "kâr"ı mistik bir kategori olarak değil, **belirsizlik taşıma**nın ödülü olarak tanımlar. Klasik iktisat (Smith, Ricardo) bu çerçeveyi tam üstlenmeyecektir — onlarda kâr daha çok sermaye getirisi olarak görülür. Cantillon'un girişimci anlayışını yeniden canlandıracak olanlar, 20. yüzyıl başında Frank Knight (*Risk, Uncertainty and Profit*, 1921) ve Joseph Schumpeter (*The Theory of Economic Development*, 1911) olacaktır. Schumpeter'in yenilikçi, mevcut dengeyi bozan girişimcisi Cantillon'un risk-taşıyıcı çerçevesini geliştirir; Knight'ın "ölçülebilir risk" ile "ölçülemez belirsizlik" ayrımı ise Cantillon'un sezgisini formelleştirir^[4].
 
 Cantillon'un çerçevesinde devletin ya da prensin girişimci sayılmadığına da dikkat etmek gerek. Bu, ciddi bir kırılmadır: merkantilist çerçevede (Bölüm 4-6: Mun, Colbert, Hörnigk; merkantilizm kitabımız) devlet hâlâ iktisadi aktörlerin başlıcasıdır — tekel ayrıcalıkları dağıtır, manufaktür kurar, ticari şirketleri korur. Cantillon'da iktisadi inisiyatif **özel kişilerin elinde**dir; devletin rolü çerçeve sağlayıcıdır, oyuncu değildir. Bu, fizyokratların *laissez-faire* eğiliminin **kuramsal çekirdeği**dir; Cantillon olmadan Quesnay'in radikal devletten-çekilme tezi havada kalırdı.
 
 ## 2.4 İçsel değer (*valeur intrinsèque*): toprak ve emek
 
-Cantillon'un ikinci büyük hamlesi fiyat teorisindedir. *Essai*'nin Birinci Bölüm 10. faslında, mallar için "içsel değer" (*valeur intrinsèque*) kavramını geliştirir^[4]. Tezi şudur: her malın "doğal" (uzun-vadeli) fiyatı, üretiminde tüketilen **toprak ve emek** miktarına eşittir.
+Cantillon'un ikinci büyük hamlesi fiyat teorisindedir. *Essai*'nin Birinci Bölüm 10. faslında, mallar için "içsel değer" (*valeur intrinsèque*) kavramını geliştirir^[5]. Tezi şudur: her malın "doğal" (uzun-vadeli) fiyatı, üretiminde tüketilen **toprak ve emek** miktarına eşittir.
 
 Bu formülde dikkat çeken iki nokta vardır. Birincisi, Cantillon yalnızca *iki* üretim faktörü tanır: emek ve toprak. Sermaye kendi başına bir kategori olarak ortaya çıkmaz; Cantillon için sermaye, "geçmişte üretilmiş emeğin ve topraktan elde edilen ürünün" depolanmış halidir — türetilmiş, ilksel olmayan bir kategori. Bu, klasik iktisadın üç-faktörlü çerçevesinden (Smith, Ricardo: emek, sermaye, toprak) belirgin biçimde ayrılır.
 
-İkincisi, Cantillon emeği bile *toprağa* indirgeme eğilimindedir. Argüman şudur: işçinin geçimi için gerekli olan tahıl, et, yağ — hepsi topraktan gelir. Dolayısıyla emek topraktan beslenir; fiyatı (geçim ücreti), işçinin tüketeceği toprak ürünlerinin maliyetidir. Bu ardışık indirgeme sonucunda Cantillon, malların değerinin nihai olarak **topraktan** kaynaklandığı sonucuna varır. Ünlü formülü: "*La terre est la source ou la matière d'où l'on tire la richesse; le travail de l'homme est la forme qui la produit.*"^[5]
+İkincisi, Cantillon emeği bile *toprağa* indirgeme eğilimindedir. Argüman şudur: işçinin geçimi için gerekli olan tahıl, et, yağ — hepsi topraktan gelir. Dolayısıyla emek topraktan beslenir; fiyatı (geçim ücreti), işçinin tüketeceği toprak ürünlerinin maliyetidir. Bu ardışık indirgeme sonucunda Cantillon, malların değerinin nihai olarak **topraktan** kaynaklandığı sonucuna varır. Ünlü formülü: "*La terre est la source ou la matière d'où l'on tire la richesse; le travail de l'homme est la forme qui la produit.*"^[6]
 
 Bu formül fizyokrasinin **teorik tohumudur**. Quesnay'in *produit net* kavramı (Bölüm 6'da işleyeceğiz) — tarımsal ürünün maliyeti aşan artığının topraktan geldiği tezi — Cantillon'un bu indirgemesinin radikal bir uzantısıdır. Quesnay daha da ileri gidip yalnızca tarımı "üretken" sayacak, manufaktürü "steril" diye etiketleyecektir. Cantillon bu kadar uzağa gitmez — *Essai*'de sanayi de bir üretim sektörüdür, sadece değerin nihai kaynağı toprağa indirgenir. Quesnay'in radikalleşmesi, Cantillon'un attığı tohumun uç noktaya çekilmesidir.
 
@@ -44,7 +44,7 @@ Cantillon'un bu çerçevesinin merkantilizmle ilişkisi de ilginçtir. Mun (Böl
 
 Cantillon'un büyük gözlemi şudur: yeni paranın ekonomiye giriş **kanalı** önemlidir. Yeni para önce maden sahiplerinin elinde belirirse (yeni bir altın madeni keşfi gibi), onlar önce lüks tüketim yapar; lüks malların fiyatı önce yükselir; lüks zanaatkârlar zenginleşir; onlar ihtiyaç mallarına talep yaratır; etki dalga dalga ekonomiye yayılır. Yeni para önce devletin kasasına girerse (savaş kazancı, vergi reformu), kanal farklıdır — askeri tedarikçiler ve devlet alacaklıları önce kazanır. Para genişlemesinin **dağıtım etkisi** kanala bağlıdır.
 
-Bu sezgi 20. yüzyılda "Cantillon etkisi" (*Cantillon effect*) adıyla yeniden keşfedildi. Avusturya okulu — özellikle Hayek (*Prices and Production*, 1931) ve daha yakın zamanda Jesús Huerta de Soto — Cantillon'u parasal genişlemenin eşitsizlikçi yönlerini vurgulamak için referans verir. Modern okumalar bunu, 2008 sonrası merkez bankası para basımının (*quantitative easing*) finansal aktif sahiplerine — bankalar, yatırımcılar — orantısız fayda sağladığı argümanına kadar uzatır. Cantillon'un 1730'larda yazdığı bir sezgi, 2010'larda makro-politika tartışmalarının terminolojisinin parçası olur^[10].
+Bu sezgi 20. yüzyılda "Cantillon etkisi" (*Cantillon effect*) adıyla yeniden keşfedildi. Avusturya okulu — özellikle Hayek (*Prices and Production*, 1931) ve daha yakın zamanda Jesús Huerta de Soto — Cantillon'u parasal genişlemenin eşitsizlikçi yönlerini vurgulamak için referans verir. Modern okumalar bunu, 2008 sonrası merkez bankası para basımının (*quantitative easing*) finansal aktif sahiplerine — bankalar, yatırımcılar — orantısız fayda sağladığı argümanına kadar uzatır. Cantillon'un 1730'larda yazdığı bir sezgi, 2010'larda makro-politika tartışmalarının terminolojisinin parçası olur^[7].
 
 İktisadi-tarihsel önemini de vurgulamak gerekir: Cantillon bu argümanla aynı zamanda **basit miktar teorisinin** sınırlarını gösterir. Para artışı sadece fiyatları yükseltmez; göreli fiyatları, kaynak dağılımını ve gelir dağılımını değiştirir. Bu, modern para teorisinde "para nötrlüğü" tartışmasının (Hume'un uzun-vade nötrlüğü, Friedman'ın doğal işsizlik oranı, Yeni Keynesyen modeller) öncel formülasyonudur.
 
@@ -64,9 +64,9 @@ Bu üç eksen birlikte alındığında, Cantillon'un *Essai*'sinin neden "fizyok
 
 Cantillon ve Gournay'in yanına, Fransa içinden gelen üçüncü bir damarı eklemek gerekir; aksi takdirde fizyokrasinin neden özellikle **Fransız** bir okul olarak doğduğu eksik kalır. Bu damarın iki adı vardır: Pierre Le Pesant de Boisguilbert (1646-1714) ve Sébastien Le Prestre de Vauban (1633-1707).
 
-Boisguilbert, Rouen'da bir vergi yargıcıydı. *Le Détail de la France* (1695) ve *Dissertation sur la nature des richesses* (1707) gibi yazılarında, Colbert döneminin yüksek-tarife ve tahıl-ihracat-yasağı politikalarının köylülüğü yoksullaştırdığını öne sürdü^[11]. Onun tezi açık fizyokratik bir önseme taşır: servet altın değildir, **dolaşımdaki tarımsal üründür**; tahılın iç dolaşımını engellemek, kaynağı kurutmaktır. Boisguilbert ayrıca — Cantillon'dan önce — fiyatların kendi başına dengelenme eğilimine ("kendiliğinden düzen") değinir; bu, sonraki *ordre naturel* kavramının erken bir habercisidir.
+Boisguilbert, Rouen'da bir vergi yargıcıydı. *Le Détail de la France* (1695) ve *Dissertation sur la nature des richesses* (1707) gibi yazılarında, Colbert döneminin yüksek-tarife ve tahıl-ihracat-yasağı politikalarının köylülüğü yoksullaştırdığını öne sürdü^[8]. Onun tezi açık fizyokratik bir önseme taşır: servet altın değildir, **dolaşımdaki tarımsal üründür**; tahılın iç dolaşımını engellemek, kaynağı kurutmaktır. Boisguilbert ayrıca — Cantillon'dan önce — fiyatların kendi başına dengelenme eğilimine ("kendiliğinden düzen") değinir; bu, sonraki *ordre naturel* kavramının erken bir habercisidir.
 
-Vauban ise Louis XIV'ün baş askeri mühendisiydi; ama ölümünden hemen önce yayımlanan *Projet d'une dîme royale* (1707), kraliyetin vergi sistemini radikal bir biçimde eleştirir. Vauban'ın önerisi tüm ayrıcalıkları kaldıran düz bir tarımsal-gelir vergisidir — fizyokratların yarım yüzyıl sonra savunacağı *impôt unique* fikrinin tohumudur^[12]. Kitap saraya o kadar ters geldi ki yayımlandıktan kısa süre sonra yasaklandı; Vauban yasak kararından birkaç ay sonra öldü.
+Vauban ise Louis XIV'ün baş askeri mühendisiydi; ama ölümünden hemen önce yayımlanan *Projet d'une dîme royale* (1707), kraliyetin vergi sistemini radikal bir biçimde eleştirir. Vauban'ın önerisi tüm ayrıcalıkları kaldıran düz bir tarımsal-gelir vergisidir — fizyokratların yarım yüzyıl sonra savunacağı *impôt unique* fikrinin tohumudur^[9]. Kitap saraya o kadar ters geldi ki yayımlandıktan kısa süre sonra yasaklandı; Vauban yasak kararından birkaç ay sonra öldü.
 
 Bu iki figür, Cantillon-Gournay çiftinden farklı olarak okul kurmaz; ama 18. yüzyıl Fransız iktisat düşüncesinin tortusuna sızar. Mirabeau, Quesnay ile tanışmadan önce Boisguilbert'i okumuştu; Dupont de Nemours, *Physiocratie* (1768) cildinin önsözünde Vauban'ı fizyokrasinin "öncüsü" olarak anar. Yani Cantillon'un teorisi, Gournay'in çevresi ve Boisguilbert-Vauban'ın Fransız iç-eleştirisi — üç ayrı kaynak — 1750'lerin sonunda Quesnay'in masasında bir araya gelir.
 
@@ -74,13 +74,13 @@ Bu iki figür, Cantillon-Gournay çiftinden farklı olarak okul kurmaz; ama 18. 
 
 Cantillon ölümünden sonra yayımlanmış bir kitap bıraktı; Gournay ise hiç kitap yazmadan iz bıraktı. Bu fark, iki figürün rollerini özetler: Cantillon kuram getirir, Gournay habitus kurar.
 
-Vincent de Gournay 1712'de Saint-Malo'da, Atlantik ticaretiyle zenginleşmiş bir Breton tüccar ailesinde doğdu. Gençliğinde Cádiz'de — İspanya'nın Amerika ticaretinin merkez liman kentinde — uzun yıllar tüccarlık yaptı; bu arada İngilizce, Felemenkçe, İspanyolca öğrendi ve Avrupa'nın büyük ticaret merkezlerinin pratik işleyişini içeriden tanıdı. 1746'da Fransa'ya döndü, ailesinin servetiyle Paris'e yerleşti, 1751'de devletin yeni kurulan *intendant du commerce* pozisyonlarından birine atandı^[6].
+Vincent de Gournay 1712'de Saint-Malo'da, Atlantik ticaretiyle zenginleşmiş bir Breton tüccar ailesinde doğdu. Gençliğinde Cádiz'de — İspanya'nın Amerika ticaretinin merkez liman kentinde — uzun yıllar tüccarlık yaptı; bu arada İngilizce, Felemenkçe, İspanyolca öğrendi ve Avrupa'nın büyük ticaret merkezlerinin pratik işleyişini içeriden tanıdı. 1746'da Fransa'ya döndü, ailesinin servetiyle Paris'e yerleşti, 1751'de devletin yeni kurulan *intendant du commerce* pozisyonlarından birine atandı^[10].
 
 Bu kurumsal konum kritiktir. *Intendant du commerce*, kraliyet idaresinin ticaret işlerinden sorumlu bir orta düzey bürokratıdır — yasa yapma yetkisi yoktur, ama ticari düzenlemelerin pratik işleyişini etkileme imkânı vardır. Gournay bu görevde kalıcı bir yasa çıkarmadı; ama Paris'te bir **çevre** kurdu. 1751-1759 arası, Rue de l'Université'deki evi Avrupa iktisat düşüncesinin Fransa'da yumurtlandığı yerlerden biri oldu.
 
 Gournay çevresinin yaptığı üç şey vardır:
 
-**Birincisi, çeviri.** İngiliz political economy yazarlarını sistematik olarak Fransızcaya çevirdiler. Josiah Child'ın *A New Discourse of Trade* (1668), Charles King'in *British Merchant* (1721), David Hume'un denemeleri Gournay çevresinin tercüme programıyla Fransızca okurlara ulaştı^[7]. Bu, kıtanın merkantilist düşünme alışkanlığı (Colbert mirası) ile İngiliz pragmatik ticari liberalizmi arasında bir köprü kurmaktı.
+**Birincisi, çeviri.** İngiliz political economy yazarlarını sistematik olarak Fransızcaya çevirdiler. Josiah Child'ın *A New Discourse of Trade* (1668), Charles King'in *British Merchant* (1721), David Hume'un denemeleri Gournay çevresinin tercüme programıyla Fransızca okurlara ulaştı^[11]. Bu, kıtanın merkantilist düşünme alışkanlığı (Colbert mirası) ile İngiliz pragmatik ticari liberalizmi arasında bir köprü kurmaktı.
 
 **İkincisi, gözlem ve eleştiri.** Gournay'in mektupları (esas olarak Turgot ve Trudaine ile yazışmaları) çağdaş Fransız ticaret düzenlemelerinin — gümrük tarifeleri, korporasyon ayrıcalıkları, ulaşım engelleri — eleştirisini içerir. Tezleri akademik bir teori değil, bir **bürokratın sahadan gelen şikâyetidir**: tüccar geçemiyor, mal akamıyor, fiyat oluşamıyor. Bu, Turgot'nun 1774-76 reformlarının (Bölüm 8) prototipidir.
 
@@ -92,7 +92,7 @@ Gournay'e atfedilen meşhur slogan — *laissez faire, laissez passer* ("yapıls
 
 Üç ana versiyon dolaşır:
 
-**Versiyon 1: Gournay'in 1750'lerde formüle ettiği motto.** Atfın temel kaynağı, Turgot'nun 1759'da Gournay'in ölümü üzerine yazdığı *Éloge de Vincent de Gournay*'dir^[8]. Turgot'ya göre Gournay sıkça "*laissez faire et laissez passer*" derdi — iç ticarette engellerin kaldırılması (*laissez passer*: malların geçişine izin) ve üretimde korporasyon ayrıcalıklarının ortadan kaldırılması (*laissez faire*: üreticinin yapmasına izin) çift talebini özetleyen formül.
+**Versiyon 1: Gournay'in 1750'lerde formüle ettiği motto.** Atfın temel kaynağı, Turgot'nun 1759'da Gournay'in ölümü üzerine yazdığı *Éloge de Vincent de Gournay*'dir^[12]. Turgot'ya göre Gournay sıkça "*laissez faire et laissez passer*" derdi — iç ticarette engellerin kaldırılması (*laissez passer*: malların geçişine izin) ve üretimde korporasyon ayrıcalıklarının ortadan kaldırılması (*laissez faire*: üreticinin yapmasına izin) çift talebini özetleyen formül.
 
 **Versiyon 2: Tüccar Le Gendre'nin 17. yüzyıl sonunda Colbert'e söylediği söz.** Efsaneye göre Colbert 1680'lerde Paris'te bir grup tüccarı toplar ve "size nasıl yardım edebilirim?" diye sorar. Le Gendre adlı tüccar şöyle yanıtlar: "*Laissez-nous faire*" ("bize bırakın yapalım"). Hikâyenin ilk yazılı kaynağı, René d'Argenson'un 1736 tarihli bir notudur — Colbert'in ölümünden 53, varsayılan olayın üzerinden 50 yıldan fazla sonra. Gerçekliği şüphelidir; sonraki bir liberal anekdot olarak okunmalıdır.
 
@@ -122,28 +122,29 @@ Bir sonraki bölüm bu çerçeveye geçer: doğal düzen düşüncesinin 17-18. 
 
 ## Kaynakça
 
-^[1] Cantillon, R. (1755). *Essai sur la nature du commerce en général*. Londra (Paris izinli baskı, anonim olarak yayımlandı).
 
-^[2] Higgs, H. (1931). "Richard Cantillon", giriş yazısı, *Essai sur la nature du commerce en général* (Royal Economic Society edisyonu). Londra: Macmillan. — Cantillon biyografisi ve yayım tarihi üzerine standart referans.
+[^1]: Cantillon, R. (1755). *Essai sur la nature du commerce en général*. Londra (Paris izinli baskı, anonim olarak yayımlandı).
 
-^[3] Schumpeter, J. A. (1954). *History of Economic Analysis*. New York: Oxford University Press. — Cantillon değerlendirmesi: "the first systematic treatise on economics".
+[^2]: Higgs, H. (1931). "Richard Cantillon", giriş yazısı, *Essai sur la nature du commerce en général* (Royal Economic Society edisyonu). Londra: Macmillan. — Cantillon biyografisi ve yayım tarihi üzerine standart referans.
 
-^[4] Cantillon, R. (1755). *Essai*, Birinci Bölüm, Fasıl X: "Du prix et de la valeur intrinsèque des choses".
+[^3]: Schumpeter, J. A. (1954). *History of Economic Analysis*. New York: Oxford University Press. — Cantillon değerlendirmesi: "the first systematic treatise on economics".
 
-^[5] Cantillon, R. (1755). *Essai*, Birinci Bölüm, Fasıl I (açılış cümlesi): "*La terre est la source ou la matière d'où l'on tire la richesse; le travail de l'homme est la forme qui la produit.*"
+[^4]: Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Boston: Houghton Mifflin. Ayrıca: Schumpeter, J. A. (1911). *Theorie der wirtschaftlichen Entwicklung*. Leipzig: Duncker & Humblot.
 
-^[6] Murphy, A. E. (1986). *Richard Cantillon: Entrepreneur and Economist*. Oxford: Clarendon Press. — Cantillon biyografisi; Gournay arka planı için bkz. Meyssonnier (1989).
+[^5]: Cantillon, R. (1755). *Essai*, Birinci Bölüm, Fasıl X: "Du prix et de la valeur intrinsèque des choses".
 
-^[7] Tsuda, T. (haz.) (1983). *Traductions et Mémoires économiques de Vincent de Gournay*. Tokyo: Kinokuniya. — Gournay çevresinin çeviri programının derlemesi.
+[^6]: Cantillon, R. (1755). *Essai*, Birinci Bölüm, Fasıl I (açılış cümlesi): "*La terre est la source ou la matière d'où l'on tire la richesse; le travail de l'homme est la forme qui la produit.*"
 
-^[8] Turgot, A. R. J. (1759). "Éloge de Vincent de Gournay". *Mercure de France*, Ağustos 1759. (Yeniden basım: *Œuvres de Turgot*, ed. G. Schelle, Paris: Alcan, 1913-23, cilt I.)
+[^7]: Hayek, F. A. (1931). *Prices and Production*. Londra: Routledge. Modern bir uzantı için: Huerta de Soto, J. (1998). *Dinero, crédito bancario y ciclos económicos*. Madrid: Unión Editorial.
 
-^[9] Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Boston: Houghton Mifflin. Ayrıca: Schumpeter, J. A. (1911). *Theorie der wirtschaftlichen Entwicklung*. Leipzig: Duncker & Humblot.
+[^8]: Boisguilbert, P. Le Pesant de (1695). *Le Détail de la France*. Paris. Ayrıca: *Dissertation sur la nature des richesses* (1707). Derlemesi: Hecht, J. (haz.) (1966). *Pierre de Boisguilbert ou la naissance de l'économie politique*. Paris: INED.
 
-^[10] Hayek, F. A. (1931). *Prices and Production*. Londra: Routledge. Modern bir uzantı için: Huerta de Soto, J. (1998). *Dinero, crédito bancario y ciclos económicos*. Madrid: Unión Editorial.
+[^9]: Vauban, S. Le Prestre de (1707). *Projet d'une dîme royale*. Rouen.
 
-^[11] Boisguilbert, P. Le Pesant de (1695). *Le Détail de la France*. Paris. Ayrıca: *Dissertation sur la nature des richesses* (1707). Derlemesi: Hecht, J. (haz.) (1966). *Pierre de Boisguilbert ou la naissance de l'économie politique*. Paris: INED.
+[^10]: Murphy, A. E. (1986). *Richard Cantillon: Entrepreneur and Economist*. Oxford: Clarendon Press. — Cantillon biyografisi; Gournay arka planı için bkz. Meyssonnier (1989).
 
-^[12] Vauban, S. Le Prestre de (1707). *Projet d'une dîme royale*. Rouen.
+[^11]: Tsuda, T. (haz.) (1983). *Traductions et Mémoires économiques de Vincent de Gournay*. Tokyo: Kinokuniya. — Gournay çevresinin çeviri programının derlemesi.
 
-^[13] Viner, J. (1937). *Studies in the Theory of International Trade*. New York: Harper & Brothers. — Bölüm II: *laissez-faire* sloganının çoklu kökenleri üzerine eleştirel inceleme.
+[^12]: Turgot, A. R. J. (1759). "Éloge de Vincent de Gournay". *Mercure de France*, Ağustos 1759. (Yeniden basım: *Œuvres de Turgot*, ed. G. Schelle, Paris: Alcan, 1913-23, cilt I.)
+
+[^13]: Viner, J. (1937). *Studies in the Theory of International Trade*. New York: Harper & Brothers. — Bölüm II: *laissez-faire* sloganının çoklu kökenleri üzerine eleştirel inceleme.
