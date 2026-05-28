@@ -1,0 +1,73 @@
+Ekonomi kartına en basit yerden başlayalım: Bir devlet neden altın ve gümüş ister?
+
+Bugünden bakınca bu soru garip gelebilir. Sonuçta altın kendi başına insanı doyurmaz, ev yapmaz, kumaş dokumaz. Ama 16. ve 17. yüzyıl dünyasında değerli maden çok somut bir güce sahipti. Askerin maaşı ödenecekse para gerekir. Yabancı tüccardan mal alınacaksa para gerekir. Savaşta müttefik tutulacaksa para gerekir. Devletin hazinesi boşsa, kâğıt üzerinde çok güçlü görünse bile gerçek dünyada eli zayıflar.
+
+Bu yüzden dönemin birçok insanı zenginliği önce para ve değerli maden üzerinden düşündü. Buna `bullionizm` diyoruz. Kelime ağır duruyor ama fikir basit: **ülkenin gücü, elindeki altın ve gümüş stoku ile ölçülür**.
+
+## Para neden bu kadar merkezdeydi?
+
+Bir köy düşün. Köyde herkes birbirini tanıyor. Biri buğday verir, diğeri ayakkabı yapar, bir başkası borcunu hasatta öder. Böyle küçük bir dünyada para çok önemli olabilir ama her şey değildir.
+
+Şimdi aynı mantığı bir krallığa taşı. Ordu var, liman var, yabancı tüccar var, uzak deniz seferi var, savaş borcu var. Burada "sonra öderim" demek kolay değildir. Devletin ödeme yapabilmesi gerekir. Değerli maden bu yüzden güven verir. Altın ve gümüş, yalnızca zenginlik değil, **hareket kabiliyeti** demektir.
+
+Amerika'dan Avrupa'ya büyük miktarda gümüş akınca bu düşünce daha da güçlendi. Potosi gibi madenler yalnızca İspanya'yı değil, bütün dünya para sistemini etkiledi. Ama burada çok öğretici bir paradoks çıktı: En çok gümüşe sahip olmak, en zengin ülke olmak anlamına gelmedi. İspanya çok gümüş çekti, fakat üretimini güçlendiremedi; fiyatlar yükseldi, ithalat arttı, savaşlar hazineyi yuttu. Yani yalnızca para girişi yeterli değildi.^[1]
+
+Bu bize ilk mekanizmayı gösterir:
+
+**Para girişi → fiyat artışı → yerli üretimin pahalanması → ithalata bağımlılık → paranın yeniden dışarı akması**
+
+Bu zinciri görünce merkantilist akıl biraz değişir. Sadece altın biriktirmek değil, altını ülkede tutacak üretim ve ticaret düzenini kurmak gerekir.
+
+## Ticaret dengesi ne demek?
+
+Ticaret dengesi de çok temel bir fikirden çıkar. Bir ülke dışarıya mal satarsa karşılığında para alır. Dışarıdan mal alırsa para verir. Eğer sattığı aldığından fazlaysa, ülkeye net para girer. Eğer aldığı sattığından fazlaysa, para dışarı çıkar.
+
+Thomas Mun'un meşhur önemi buradadır. Mun, East India Company çevresinden konuşur ve şunu savunur: Bir ticaret kaleminde para dışarı çıkıyor gibi görünse bile, o mallar başka yerde kârla satılıyorsa toplamda ülke kazanabilir. Yani mesele her gemide altın çıkıp çıkmaması değil, bütün dış ticaret hesabının ne gösterdiğidir.^[2]
+
+Bunu ev bütçesi gibi düşünmeyelim; devlet bütçesi ve uluslararası ödeme ağı gibi düşünelim. Mun'un dünyasında İngiltere Hindistan'a gümüş gönderebilir. İlk bakışta bu kötü görünür: "Gümüşümüz gidiyor." Ama Hindistan'dan alınan kumaş Avrupa'da veya başka pazarlarda daha yüksek değerle satılırsa, İngiliz tüccar ağı ve devlet geliri güçlenebilir. Mun bu yüzden basit bullionizmden daha gelişmiş bir ticaret dengesi düşüncesine geçer.
+
+## Şirketler neden bu kadar önemliydi?
+
+Bugün şirket dediğimizde akla çoğu zaman özel firma gelir. Ama erken modern imtiyazlı şirketler yalnızca firma değildi. East India Company veya VOC gibi kurumlar hem ticaret yapıyor, hem savaşabiliyor, hem kale kuruyor, hem antlaşma imzalıyor, hem bazı yerlerde vergi topluyordu. Yani şirket ile devlet arasındaki sınır bulanıktı.
+
+Devlet neden böyle bir şey ister?
+
+Çünkü uzak ticaret pahalı ve risklidir. Devlet her gemiyi kendi kurmak istemez; tüccarın sermayesini kullanır. Tüccar da koruma ister; devletin bayrağına ve imtiyazına ihtiyaç duyar. Böylece şu takas ortaya çıkar:
+
+**Devlet koruma ve tekel verir → şirket sermaye ve ticaret ağı kurar → devlet gümrük, güç ve bilgi kazanır**
+
+Bu modelin parlak yüzü, büyük ölçekli ticaret ve deniz gücü yaratmasıdır. Karanlık yüzü ise sömürge yönetimi, zorla emek, yerel toplumların şiddetle dönüştürülmesi ve bazı bölgelerde şirketin neredeyse devlet gibi davranmasıdır.
+
+## Korumacılık neden mantıklı göründü?
+
+Bir ülke yeni bir üretim alanı kurmak istiyorsa, dışarıdan gelen ucuz ve kaliteli mallarla hemen rekabet edemeyebilir. Bu durumda devlet "yerli üretici biraz büyüsün" diye gümrük koyabilir, yasak getirebilir, kalite standardı belirleyebilir, yabancı ustayı ülkeye çağırabilir. Colbert'in Fransa'da lüks imalatı desteklemesi, Hörnigk'in Habsburg dünyasında ham maddeyi içeride işlemeyi savunması, bu mantığın örnekleridir.
+
+Bu mantık bugün de tanıdık: "stratejik sektör", "yerli üretim", "tedarik güvenliği", "sanayi politikası" diyoruz. Ama o dönemde dil daha çıplaktı: Dışarıdan alırsan paran gider; içeride üretirsen hem iş hem vergi hem güç kazanırsın.
+
+Bu noktada ikinci mekanizma ortaya çıkar:
+
+**Koruma → yerli üretimin öğrenmesi → daha çok istihdam ve vergi → daha güçlü devlet**
+
+Fakat bu mekanizma her zaman çalışmaz. Koruma, üreticiyi tembelleştirebilir. Kalite düşebilir. Tüketici pahalı mal almak zorunda kalabilir. Devlet ayrıcalıkları bazı gruplara dağıtıp yolsuzluk yaratabilir. Bu yüzden merkantilist ekonomi ne basitçe "yanlış" ne de basitçe "doğru"dur. Hangi bağlamda, hangi araçla, kimin yararına uygulandığını sormak gerekir.
+
+## Osmanlı farkı neden önemli?
+
+Osmanlı dünyası bize iyi bir karşılaştırma verir. Osmanlı'nın temel kaygısı Avrupa tipi ihracat fazlası değildi. Mehmet Genç'in anlattığı üç ilke burada önemlidir: iaşecilik, fiskalizm, gelenekçilik.^[3]
+
+İaşecilik şunu söyler: Önce halkın ve ordunun temel ihtiyaçları bol ve uygun fiyatla sağlanmalı. Bu yüzden bazı stratejik malların ihracı sınırlanabilir. Avrupa merkantilisti "dışarı sat, para girsin" diye düşünürken, Osmanlı aklı bazı mallarda "dışarı satma, içeride kalsın" diyebilir.
+
+Bu fark bize çok şey öğretir. Devletin ekonomiye karışması tek başına merkantilizm değildir. Devlet hangi amaçla karışıyor? Dış ticaret fazlası için mi, iaşe için mi, hazine geliri için mi, toplumsal düzen için mi? Bu sorunun cevabı sistemi değiştirir.
+
+## Bugüne köprü
+
+Bugün ülkeler hâlâ stratejik üretimden söz ediyor: çip, batarya, savunma sanayii, enerji, gıda. Kimse artık "hazineye altın dolduralım" demiyor. Ama kaygı benzer: Eğer hayati bir malda dışarıya bağımlıysan, kriz anında zayıfsın.
+
+Merkantilist ekonomi bize bu yüzden hâlâ bir şey söyler. Zenginlik yalnızca para değildir; üretim kapasitesi, ticaret ağı, ödeme gücü, güvenlik ve devlet kapasitesinin birleşimidir. Hata, bunlardan birini her şey sanmaktır. Altın tek başına yetmez. Serbest ticaret tek başına yetmez. Devlet desteği tek başına yetmez.
+
+Asıl mesele mekanizmayı görmektir: Para nereden geliyor, nereye gidiyor, hangi üretimi doğuruyor, hangi gücü finanse ediyor, hangi insanlara bedel yüklüyor?
+
+## Kaynakça
+
+[^1]: Earl J. Hamilton. *American Treasure and the Price Revolution in Spain, 1501-1650* (1934). Amerika gümüşü ile Avrupa fiyatları arasındaki ilişkiyi klasik biçimde tartışır.
+[^2]: Thomas Mun. *England's Treasure by Forraign Trade* (1664). Mun'un dış ticaret dengesi düşüncesi için ana metin.
+[^3]: Mehmet Genç. *Osmanlı İmparatorluğu'nda Devlet ve Ekonomi* (2014). İaşecilik, fiskalizm ve gelenekçilik çerçevesi.

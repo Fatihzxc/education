@@ -38,6 +38,7 @@ Her bölüm bir dönemdir. Bölüm içinde bölgeler karşılaştırılır. Her 
 ## 3. Pane ve perspektif kartları
 
 İlk uygulama: `tarih-atlasi/appendix/panes.html`.
+İlk tam kalite pane mini kitabı: `tarih-atlasi/panes/merkantilizm/book.html`.
 
 Pane örnekleri:
 
@@ -56,6 +57,21 @@ Her pane şu kartları taşır:
 - Düşünce ve felsefe
 - Toplum ve gündelik hayat
 - Kamunun gözü, romanlar, gazeteler
+
+Kartlar iki seviyeli çalışır:
+
+- Pane panosunda kısa, hızlı okunur bir özet verir.
+- Tam kaliteye çıkarılan pane'lerde her kart aynı pane'in mini kitabındaki bir bölüme bağlanır.
+
+Merkantilizm için seçilen bölüm eşlemesi:
+
+1. Pane özeti
+2. Ekonomi
+3. Devlet ve siyaset
+4. Askerî ve mali güç
+5. Düşünce ve felsefe
+6. Toplum ve gündelik hayat
+7. Kamunun gözü
 
 Bu model zamanla genişletilebilir: bölgesel paneller (Osmanlı, Çin, Avrupa, Hint Okyanusu, Afrika, Amerika) ve dönem panelleri (1450-1650, 1815-1914, 1945-1991) aynı kart düzeniyle okunabilir.
 
@@ -91,5 +107,7 @@ Bu model zamanla genişletilebilir: bölgesel paneller (Osmanlı, Çin, Avrupa, 
 - `tarih-atlasi/book.html#bolum/1` pilot bölümünü render eder.
 - Diğer 11 bölüm pending stub olarak görünür.
 - `tarih-atlasi/appendix/panes.html` pane/kart modelini ilk kullanılabilir prototip olarak gösterir.
+- `tarih-atlasi/panes/merkantilizm/book.html` ilk tam kalite mini kitap olarak çalışır.
+- Merkantilizm kartları mini kitapta doğru bölümlere bağlanır.
 - Bölüm 1, kullanıcının büyük amacını uygulanabilir bir okuma yöntemine çevirir.
 - Sonraki yazım turları her bölümde aynı mercek düzenini korur.

@@ -251,10 +251,21 @@
     }
 
     .perspective-card {
+      display: block;
       min-height: 208px;
       padding: 18px;
       border: 1px solid var(--atlas-line);
       background: rgba(18, 19, 17, 0.82);
+      color: inherit;
+      text-decoration: none;
+      transition: border-color 140ms ease, transform 140ms ease, background 140ms ease;
+    }
+
+    .perspective-card[href]:hover {
+      border-color: var(--pane-color, var(--atlas-accent));
+      background: rgba(243, 238, 228, 0.055);
+      transform: translateY(-2px);
+      text-decoration: none;
     }
 
     .perspective-card h3 {
@@ -270,6 +281,16 @@
       font-family: "Source Serif 4", Georgia, serif;
       font-size: 17px;
       line-height: 1.48;
+    }
+
+    .card-cta {
+      display: inline-flex;
+      margin-top: 14px;
+      color: var(--pane-color, var(--atlas-accent));
+      font-family: "JetBrains Mono", monospace;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
     }
 
     .perspective-card.public-eye {
@@ -378,6 +399,15 @@
         problem: 'Zenginlik nasıl biriktirilir?',
         conflict: 'Tüccar, saray, donanma ve sömürge çıkarları aynı masada buluşur.',
         publicEye: 'Kamu gözünde dünya uzak pazar, gemi, fırsat ve tehlike olarak görünür; Defoe gibi yazarlar ticaret insanını roman kişisine dönüştürür.',
+        miniBook: '../panes/merkantilizm/book.html#bolum/1',
+        cardLinks: {
+          economy: '../panes/merkantilizm/book.html#bolum/2',
+          politics: '../panes/merkantilizm/book.html#bolum/3',
+          military: '../panes/merkantilizm/book.html#bolum/4',
+          thought: '../panes/merkantilizm/book.html#bolum/5',
+          society: '../panes/merkantilizm/book.html#bolum/6',
+          public: '../panes/merkantilizm/book.html#bolum/7'
+        },
         cards: {
           economy: 'Maden stoğu, dış ticaret fazlası, imtiyazlı şirketler, gümrük ve koloni tekelleri öne çıkar.',
           politics: 'Merkezî monarşi ve bürokrasi ticareti düzenler; iktisat, devlet aklının parçasıdır.',
@@ -387,6 +417,7 @@
           public: 'Roman/pamflet hattı: Daniel Defoe, seyahat anlatıları, ticari ahlak, macera ve koloni hayali.'
         },
         links: [
+          { label: 'Merkantilizm mini kitabı', href: '../panes/merkantilizm/book.html#bolum/1' },
           { label: 'Merkantilizm kitabı', href: '../../merkantilizm/book.html' },
           { label: 'İktisat haritası B2', href: '../../iktisat-haritasi/book.html#bolum/2' }
         ]
@@ -532,11 +563,14 @@
       )).join('');
     }
 
-    function card(title, body, extraClass) {
-      return '<article class="perspective-card ' + (extraClass || '') + '">' +
+    function card(title, body, extraClass, href) {
+      const tag = href ? 'a' : 'article';
+      const hrefAttr = href ? ' href="' + esc(href) + '"' : '';
+      return '<' + tag + hrefAttr + ' class="perspective-card ' + (extraClass || '') + '">' +
         '<h3>' + esc(title) + '</h3>' +
         '<p>' + esc(body) + '</p>' +
-      '</article>';
+        (href ? '<span class="card-cta">Derin oku</span>' : '') +
+      '</' + tag + '>';
     }
 
     function renderStage(pane) {
@@ -555,12 +589,12 @@
           '<div><b>Kamu gözü</b><span>' + esc(pane.publicEye) + '</span></div>' +
         '</section>' +
         '<section class="perspective-grid" style="--pane-color:' + esc(pane.color) + '">' +
-          card('Ekonomi', pane.cards.economy) +
-          card('Siyaset ve devlet', pane.cards.politics) +
-          card('Askerî ve mali güç', pane.cards.military) +
-          card('Düşünce ve felsefe', pane.cards.thought) +
-          card('Toplum ve gündelik hayat', pane.cards.society) +
-          card('Kamu gözü, romanlar, gazeteler', pane.cards.public, 'public-eye') +
+          card('Ekonomi', pane.cards.economy, '', pane.cardLinks && pane.cardLinks.economy) +
+          card('Siyaset ve devlet', pane.cards.politics, '', pane.cardLinks && pane.cardLinks.politics) +
+          card('Askerî ve mali güç', pane.cards.military, '', pane.cardLinks && pane.cardLinks.military) +
+          card('Düşünce ve felsefe', pane.cards.thought, '', pane.cardLinks && pane.cardLinks.thought) +
+          card('Toplum ve gündelik hayat', pane.cards.society, '', pane.cardLinks && pane.cardLinks.society) +
+          card('Kamu gözü, romanlar, gazeteler', pane.cards.public, 'public-eye', pane.cardLinks && pane.cardLinks.public) +
         '</section>' +
         '<section class="source-row" aria-label="Derinleşme bağlantıları">' +
           '<span>Derinleşme</span>' + links +

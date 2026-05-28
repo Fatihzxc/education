@@ -1,0 +1,13 @@
+{
+  "title": "Merkantilizm Pane'i",
+  "subtitle": "Güç, hazine, ticaret ve kamunun gözü",
+  "chapters": [
+    { "num": 1, "slug": "01-pane-ozeti", "title": "Pane Özeti — Merkantilizmi nasıl hayal etmeli?", "subtitle": "Devlet, ticaret ve savaş neden aynı masaya oturdu?", "estWords": 1700, "status": "draft" },
+    { "num": 2, "slug": "02-ekonomi", "title": "Ekonomi — Altın, ticaret dengesi ve şirketler", "subtitle": "Para, dış ticaret ve imtiyazlı şirketler en temelden", "estWords": 2100, "status": "draft" },
+    { "num": 3, "slug": "03-devlet", "title": "Devlet — Modern devlet neden ekonomiye karıştı?", "subtitle": "Vergi, bürokrasi, ulusal pazar ve Osmanlı farkı", "estWords": 2100, "status": "draft" },
+    { "num": 4, "slug": "04-askeri-mali-guc", "title": "Askerî ve Mali Güç — Orduyu kim öder?", "subtitle": "Donanma, borç, şirket ve mali-askerî devlet", "estWords": 2100, "status": "draft" },
+    { "num": 5, "slug": "05-dusunce", "title": "Düşünce — Bu gerçekten bir teori miydi?", "subtitle": "Smith, Heckscher, Viner, Magnusson ve etiketlerin gücü", "estWords": 2100, "status": "draft" },
+    { "num": 6, "slug": "06-toplum", "title": "Toplum — Tüccar, liman, zanaatkâr, köle", "subtitle": "Teorinin arkasındaki insan dünyası", "estWords": 2100, "status": "draft" },
+    { "num": 7, "slug": "07-kamunun-gozu", "title": "Kamunun Gözü — Romanlar, broşürler, seyahatnameler", "subtitle": "Merkantilist dünyanın sokakta ve hayalde görünen yüzü", "estWords": 2200, "status": "draft" }
+  ]
+}
