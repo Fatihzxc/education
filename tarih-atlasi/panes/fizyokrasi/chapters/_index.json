@@ -1,0 +1,13 @@
+{
+  "title": "Fizyokrasi Pane'i",
+  "subtitle": "Doğal düzen, toprak, ekmek ve reform",
+  "chapters": [
+    { "num": 1, "slug": "01-pane-ozeti", "title": "Pane Özeti — Fizyokrasiyi nasıl hayal etmeli?", "subtitle": "Ekmek, toprak, doğal düzen ve reform", "estWords": 1500, "status": "draft" },
+    { "num": 2, "slug": "02-ekonomi", "title": "Ekonomi — Toprak neden merkeze kondu?", "subtitle": "Produit net, Tableau ve tek vergi en temelden", "estWords": 1900, "status": "draft" },
+    { "num": 3, "slug": "03-devlet", "title": "Devlet — Reform neden yukarıdan beklendi?", "subtitle": "Kireçlenmiş Fransa, yasal despotizm ve Turgot", "estWords": 1900, "status": "draft" },
+    { "num": 4, "slug": "04-askeri-mali-guc", "title": "Askerî ve Mali Güç — Hazine neden tıkandı?", "subtitle": "Savaş borcu, vergi karmaşası ve tarımsal taban", "estWords": 1800, "status": "draft" },
+    { "num": 5, "slug": "05-dusunce", "title": "Düşünce — Doğal düzen ne demekti?", "subtitle": "Newton, hekim Quesnay, laissez-faire ve Smith'e geçiş", "estWords": 1900, "status": "draft" },
+    { "num": 6, "slug": "06-toplum", "title": "Toplum — Köylü, toprak sahibi, şehirli", "subtitle": "Ekmek fiyatı, sınıf çıkarı ve gündelik hayat", "estWords": 1900, "status": "draft" },
+    { "num": 7, "slug": "07-kamunun-gozu", "title": "Kamunun Gözü — Salonlar, ansiklopedi, ekmek isyanları", "subtitle": "Fizyokrasinin halk, salon ve polemik dünyasındaki yüzü", "estWords": 2000, "status": "draft" }
+  ]
+}

@@ -2,6 +2,21 @@
 
 Toplum kartının temel sorusu şu: **Bu düzenin içinde kimler vardı ve hayatları nasıl değişti?**
 
+## İnsan haritası: aynı sistemde farklı yerler
+
+Merkantilizmi toplumsal olarak anlamak için aktörleri yan yana görmek gerekir:
+
+| Aktör | Sistemdeki yeri | Ne kazanabilir? | Ne kaybedebilir veya kime bedel yükler? |
+|---|---|---|---|
+| Tüccar | Uzak pazar ve sermaye bilgisi | Kâr, imtiyaz, siyasal yakınlık | Tekel ve fiyat gücüyle başkalarını sıkıştırabilir |
+| Devlet memuru | Vergi, gümrük, standart | Daha görünür ve yönetilebilir ekonomi | Baskı ve keyfî denetim üretebilir |
+| Zanaatkâr | Yerli üretim | Koruma ve iş | Katı lonca veya pahalı tüketim baskısı |
+| Denizci | Ticaretin hareketli emeği | Ücret, deneyim, hareket alanı | Hastalık, savaş, ölüm riski |
+| Şirket çalışanı | Devlet ile özel kâr arası | Kariyer, servet, nüfuz | Yerel toplumlar üzerinde şiddetli güç kullanabilir |
+| Köleleştirilmiş insan | Zorla çalıştırılan emek | Kazanç değil, hayatta kalma mücadelesi | Sistemin en ağır bedelini taşır |
+
+Bu tablo, merkantilizmin neden yalnızca "devlet ve tüccar politikası" olarak okunamayacağını gösterir. Aynı düzen birine fırsat, başka birine felaket olabilir.
+
 ## Tüccar neden yeni bir figürdü?
 
 Tüccar elbette eski çağlardan beri vardı. Ama erken modern dönemde bazı tüccarlar yeni bir güç kazandı. Uzak pazarları biliyorlardı, kredi ağlarına erişiyorlardı, gemi ve sigorta işinden anlıyorlardı, devletle pazarlık edebiliyorlardı. Bazıları yalnızca mal alıp satan kişi olmaktan çıktı; devletin bilgi ve para ortağı haline geldi.

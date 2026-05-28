@@ -16,6 +16,20 @@ Buradaki mekanizma şudur:
 
 Heckscher'in "merkantilizm bir birleştirici sistemdir" derken kastettiği şeylerden biri budur.^[1] Devlet yalnızca dışarıya karşı koruma koymaz; içeride de dağınıklığı azaltmaya çalışır.
 
+## Devletin görme tablosu
+
+Merkantilist çağda devlet yalnızca emir vermek istemedi; aynı zamanda ülkeyi daha iyi görmek istedi. Çünkü görmediği şeyi vergilendiremez, koruyamaz, yönlendiremez.
+
+| Devlet neyi görmek ister? | Neden görmek ister? | Kullanabileceği araç |
+|---|---|---|
+| Nüfus | Asker, vergi ve emek kapasitesi | Sayım, kayıt, yerel memur |
+| Üretim | Hangi mal nerede üretiliyor? | Standart, lonca denetimi, teşvik |
+| Ticaret | Para ve mal nereye akıyor? | Gümrük kayıtları, liman denetimi |
+| Limanlar | Deniz ticareti ve kaçakçılık | Gümrük, donanma, şirket imtiyazı |
+| İç engeller | Ulusal pazar neden parçalı? | İç gümrüklerin azaltılması, ölçü standardı |
+
+Bu tablo modern devletin neden ekonomiyle bu kadar ilgilendiğini gösterir. Merkantilist müdahale yalnızca "yasak koyma" değildir; sayma, kaydetme ve ülkeyi tek bir iktisadî alan gibi görme çabasıdır.
+
 ## Vergi devleti nasıl kurar?
 
 Bir devleti anlamak istiyorsak şu soruya bakmak çok işe yarar: Vergiyi kim, nasıl, ne kadar düzenli topluyor?

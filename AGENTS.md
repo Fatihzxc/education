@@ -4,6 +4,21 @@ Bu proje 4 ajanın paralel çalıştığı multi-CLI bir kurulumdur. Her ajan ke
 
 ---
 
+## ✍️ Yazım Tonu & Skill Kuralı
+
+Türkçe açıklayıcı içerik, bölüm taslağı, kavram anlatımı, pane/mini kitap metni, quiz açıklaması veya tarih-iktisat sentezi yazarken **`turkish-warm-explainer` skill'i kullanılmalıdır**.
+
+Bu kuralın amacı metni akademik, mesafeli ve soyut bir tona sıkıştırmamak; okura konuyu en temelden kurarak anlatmaktır. Yazılar sıcak, içten ve anlaşılır olmalı; ama düşünme zinciri de açık görünmelidir. Bir iddia verildiğinde yalnızca "ne oldu?" değil, "bu neden önemli?", "hangi problemi çözüyor?", "hangi varsayıma dayanıyor?" ve "okur bunu zihninde nereye koymalı?" soruları da cevaplanmalıdır.
+
+Uygulama standardı:
+- Önce en basit fikirle başla; sonra adım adım karmaşıklığı artır.
+- Teknik terim kullanırsan hemen sade biçimde açıkla.
+- "Çünkü", "bu yüzden", "buradan şu sonuç çıkar", "bunu şöyle düşünebiliriz" gibi akıl yürütme bağlarını görünür kıl.
+- Roman, gazete, halk anlatısı, gündelik hayat ve kamunun gözü gibi malzemeleri yalnızca süs olarak değil, dönemin nasıl hissedildiğini anlamak için kullan.
+- Skill'in teknik olarak bulunmadığı CLI'larda aynı standardı elle uygula ve gerekirse review notunda bunu belirt.
+
+---
+
 ## 🧠 Opus 4.7 (Orkestratör + Mimar + Final Review)
 
 **Çevre**: Claude Code CLI

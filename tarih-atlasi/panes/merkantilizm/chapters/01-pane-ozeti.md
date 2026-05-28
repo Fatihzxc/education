@@ -44,6 +44,35 @@ Bu pane'de altı kart kullanıyoruz. Her kart aynı dünyayı başka bir tarafı
 
 **Kamunun gözü kartı** ise dönemin nasıl hissedildiğini arar. Romanlar, broşürler, seyahatnameler, gazeteler ve risaleler bize kuru verinin veremediği bir şeyi verir: korkuyu, merakı, macera duygusunu, zenginleşme hayalini, yabancıya bakışı, denizin çağrısını.
 
+## Görsel okuma: merkantilist odanın haritası
+
+Merkantilizmi tek bir çizgi yerine bir ilişki ağı gibi görmek daha öğreticidir:
+
+```text
+devletin güç ihtiyacı
+  ↓
+hazine, vergi, donanma
+  ↓
+ticaret dengesi ve korumacılık
+  ↓
+imtiyazlı şirketler ve koloniler
+  ↓
+üretim artışı, savaş kapasitesi, ama aynı zamanda sömürü ve şiddet
+```
+
+Bu akışta her ok aynı zamanda bir soru demektir. Hazine kimin vergisiyle doluyor? Donanma hangi ticareti koruyor? Şirket kimin adına hareket ediyor? Koloni kimin toprağı ve emeği üzerinden kuruluyor?
+
+Bir de kartları yan yana koyalım:
+
+| Kart | Ana soru | Görülmesi gereken gerilim |
+|---|---|---|
+| Ekonomi | Para ve ticaret dengesi nasıl çalışıyor? | Para stoku yetmez; üretim gerekir |
+| Devlet | Devlet neden ekonomiyi düzenliyor? | Birleştirme ile baskı yan yana gidebilir |
+| Askerî-mali güç | Orduyu kim öder? | Güç kapasitesi borç ve vergiye dayanır |
+| Düşünce | Bu tek bir teori miydi? | Etiket aydınlatır ama basitleştirir |
+| Toplum | Bu düzeni kim yaşıyor? | Tüccar görünür, köleleştirilmiş emek çoğu zaman gizlenir |
+| Kamunun gözü | Dönem nasıl hissedildi? | Macera anlatısı şiddeti örtebilir |
+
 ## Yanlış anlama uyarısı
 
 Merkantilizmi iki şekilde yanlış anlayabiliriz.

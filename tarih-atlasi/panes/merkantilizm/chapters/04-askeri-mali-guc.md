@@ -16,6 +16,20 @@ Bu yüzden mekanizma şöyle işler:
 
 Tilly'nin savaş-devlet formülü bu yüzden güçlüdür.^[1] Savaş devleti sadece yıkmadı; onu örgütledi. Devlet de örgütlendikçe daha büyük savaşlar yapabildi.
 
+## Askerî-mali zincir
+
+Bu bölümü tek bakışta görmek için zinciri şöyle kurabiliriz:
+
+| İhtiyaç | Devletin cevabı | İktisadî sonuç | Toplumsal bedel |
+|---|---|---|---|
+| Daha büyük ordu | Düzenli vergi | Kayıt ve bürokrasi büyür | Vergi yükü artar |
+| Donanma | Gemi yapımı ve Navigation Acts | Denizcilik sektörü güçlenir | Ticaret özgürlüğü daralır |
+| Uzak ticaret | İmtiyazlı şirket | Sermaye ve risk örgütlenir | Şirket şiddeti ve tekel |
+| Savaş finansmanı | Kamu borcu | Gelecek gelir bugüne çekilir | Borç yükü kuşaklara yayılır |
+| Koloni rekabeti | Kale, üs, asker | Küresel gelir ağı kurulur | Yerel halkların hayatı zorla dönüştürülür |
+
+Bu tablo bize şunu hatırlatır: Devlet kapasitesi tarafsız bir kelime değildir. Kapasite bazen yol, kayıt ve güvenlik demektir; bazen zor, vergi, sömürü ve savaş demektir.
+
 ## Donanma ve ticaret aynı şeyin iki yüzü
 
 Deniz gücü olmadan denizaşırı ticaret korunamaz. Denizaşırı ticaret olmadan büyük donanmayı besleyecek gelir ve gerekçe zayıflar. Bu yüzden İngiltere ve Hollanda örneklerinde ticaret ile deniz gücü birbirinden kopmaz.

@@ -16,6 +16,20 @@ Burada mekanizma şudur:
 
 Yani merkantilizm etiketi yalnızca geçmişi anlatmaz; klasik iktisadın kendi kimliğini kurmasına da yardım eder.
 
+## Okuma matrisi: aynı kelime, farklı yorum
+
+Merkantilizm tartışmasını öğrenirken en faydalı şey, yazarların neye ışık tuttuğunu yan yana görmektir.
+
+| Yorumcu | Merkantilizmde neyi öne çıkarır? | Bize ne öğretir? | Dikkat edilmesi gereken sınır |
+|---|---|---|---|
+| Adam Smith | Yanlış servet anlayışı ve tekel çıkarı | Klasik iktisadın eleştirel başlangıcı | Devlet kapasitesi boyutunu küçültebilir |
+| Heckscher | Ulusal birlik ve devlet sistemi | İç pazar ve modern devlet inşası | Fazla düzenli bir sistem gibi gösterebilir |
+| Viner | Güç ve refahın birlikte düşünülmesi | Güvenlik ile iktisat bağını gösterir | Şiddet ve sömürüyü ayrıca sormak gerekir |
+| Magnusson | Tek doktrin değil, iktisadî dil | Dağınık metinleri daha esnek okutur | Ortak çekirdeği fazla gevşetebilir |
+| Reinert/Chang | Kalkınma ve sanayi koruması | Bugünkü sanayi politikası tartışmasına bağlar | Her korumacılığı iyi göstermemek gerekir |
+
+Bu matrisi bir uyarı levhası gibi kullanabiliriz. Merkantilizm tek bakışla bitmez; hangi soruyu sorduğumuza göre başka yüzü görünür.
+
 ## Smith neden haklıydı, neden eksikti?
 
 Smith'in eleştirisinde güçlü bir taraf var. Serveti yalnızca altın ve gümüş gibi düşünmek gerçekten yanlıştır. Bir halkın gerçek zenginliği, tüketebildiği ve üretebildiği mal ve hizmetlerle ilgilidir. Ayrıca tekel imtiyazları, gümrükler ve şirket ayrıcalıkları çoğu zaman dar grupları zenginleştirip tüketiciyi yoksullaştırabilir.

@@ -12,6 +12,20 @@ Bir muhasebe defteri bize fiyatı söyler. Bir roman bize o fiyat dünyasının 
 
 Bu yüzden kamunun gözü kartı, diğer kartların sıcaklık ayarı gibidir. Ekonomi kartında "ticaret dengesi" dediğimiz şey, burada denize açılan bir insanın umut ve korkusuna dönüşür. Devlet kartında "imtiyazlı şirket" dediğimiz şey, burada uzak diyarlara giden gemi ve macera imgesi olur. Toplum kartında "köle emek" dediğimiz şey, burada bazen görünür olur, bazen de ürkütücü biçimde görünmez bırakılır.
 
+## Metin türleri haritası
+
+Kamunun gözüne bakarken her metin türü bize başka bir şey verir:
+
+| Metin türü | Ne gösterir? | Neye dikkat etmeli? |
+|---|---|---|
+| Roman | Dönemin arzu, korku ve kahraman tipleri | Kurgu olduğu için doğrudan veri sayılmaz |
+| Pamflet | Çıkar kavgası ve ikna dili | Abartı ve taraflılık yüksektir |
+| Seyahatname | Uzak dünyayı hayal etme biçimi | Sömürgeci bakış normalleştirilebilir |
+| Gazete/haber | Fiyat, savaş, gemi ve piyasa duyarlılığı | Okuryazar ve şehirli dünyayı daha çok yansıtır |
+| Risale/nasihatname | Düzen, ahlak ve devlet kaygısı | Avrupa terimleriyle birebir eşleştirmemek gerekir |
+
+Bu harita ufku açar çünkü "kaynak" dediğimiz şeyin tek tür olmadığını gösterir. Bazen bir fiyat defteri, bazen bir roman, bazen bir şikâyet metni bize dönemin başka bir yüzünü açar.
+
 ## Defoe ve ticaret insanı
 
 Daniel Defoe bu açıdan çok işe yarar. Defoe yalnızca roman yazarı değil, ticaret, kredi, iflas, proje, denizcilik ve girişim hakkında düşünen bir kamusal yazardı. *Robinson Crusoe* çoğu zaman bireysel hayatta kalma hikâyesi gibi okunur. Ama aynı zamanda ticaret çağının insan tipini taşır: hesap yapan, risk alan, denize açılan, mülk kuran, emeği düzenleyen, dünyayı fırsat alanı gibi gören kişi.^[1]

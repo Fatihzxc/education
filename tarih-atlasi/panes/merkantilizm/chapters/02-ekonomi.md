@@ -18,6 +18,12 @@ Bu bize ilk mekanizmayı gösterir:
 
 Bu zinciri görünce merkantilist akıl biraz değişir. Sadece altın biriktirmek değil, altını ülkede tutacak üretim ve ticaret düzenini kurmak gerekir.
 
+## Yaklaşık ölçek: gümüş gerçekten ne kadar büyüktü?
+
+Amerika gümüşünün etkisini anlamak için sayı duygusu gerekir. Kesin rakamlar çalışmadan çalışmaya değişir, ama ölçek çok nettir: 16. ve 18. yüzyıllar arasında Amerika madenlerinden Avrupa'ya ve dünya ticaretine on binlerce ton gümüş aktı. Güncel bir arkeometri çalışması, 1800'e kadar Amerikan kolonilerinde yaklaşık 86.000 ton gümüş çıkarıldığını ve bunun 18. yüzyılda dünya gümüş stokunun büyük kısmını oluşturduğunu belirtir.^[4]
+
+Bu sayı bize şunu anlatır: Merkantilistlerin altın ve gümüşe bakması sadece zihinsel bir saplantı değildi. Dünya gerçekten büyük bir değerli maden akışı yaşıyordu. Ama İspanya örneği de gösterdiği gibi, maden akışını üretim kapasitesine çeviremezsen gümüş zenginliği kalıcı güç yaratmayabilir.
+
 ## Ticaret dengesi ne demek?
 
 Ticaret dengesi de çok temel bir fikirden çıkar. Bir ülke dışarıya mal satarsa karşılığında para alır. Dışarıdan mal alırsa para verir. Eğer sattığı aldığından fazlaysa, ülkeye net para girer. Eğer aldığı sattığından fazlaysa, para dışarı çıkar.
@@ -25,6 +31,21 @@ Ticaret dengesi de çok temel bir fikirden çıkar. Bir ülke dışarıya mal sa
 Thomas Mun'un meşhur önemi buradadır. Mun, East India Company çevresinden konuşur ve şunu savunur: Bir ticaret kaleminde para dışarı çıkıyor gibi görünse bile, o mallar başka yerde kârla satılıyorsa toplamda ülke kazanabilir. Yani mesele her gemide altın çıkıp çıkmaması değil, bütün dış ticaret hesabının ne gösterdiğidir.^[2]
 
 Bunu ev bütçesi gibi düşünmeyelim; devlet bütçesi ve uluslararası ödeme ağı gibi düşünelim. Mun'un dünyasında İngiltere Hindistan'a gümüş gönderebilir. İlk bakışta bu kötü görünür: "Gümüşümüz gidiyor." Ama Hindistan'dan alınan kumaş Avrupa'da veya başka pazarlarda daha yüksek değerle satılırsa, İngiliz tüccar ağı ve devlet geliri güçlenebilir. Mun bu yüzden basit bullionizmden daha gelişmiş bir ticaret dengesi düşüncesine geçer.
+
+## Mini hesap: dış ticaret dengesini görmek
+
+Ticaret dengesi soyut kalmasın diye hayali bir örnek kuralım. Bu tarihsel veri değil; mantığı görmek için küçük bir öğrenme hesabı.
+
+| İşlem | Para akışı |
+|---|---:|
+| Yabancı pazara kumaş satışı | +120 |
+| Baharat ve ipek ithalatı | -70 |
+| Gemi, sigorta ve liman maliyeti | -20 |
+| Toplam net giriş | +30 |
+
+Merkantilist akıl bu son satıra bakar: ülkeye net para giriyor mu, çıkıyor mu? Ama daha dikkatli okur bir soru daha sorar: Bu +30 nasıl oluştu? Yerli üretimi artırarak mı, tekel imtiyazıyla mı, sömürge zoruyla mı, tüketiciye pahalı mal satarak mı?
+
+Bu yüzden rakam tek başına yetmez. Rakam yön duygusu verir; tarihsel anlam için o rakamın arkasındaki insan ve kurum ilişkisine bakmak gerekir.
 
 ## Şirketler neden bu kadar önemliydi?
 
@@ -71,3 +92,4 @@ Asıl mesele mekanizmayı görmektir: Para nereden geliyor, nereye gidiyor, hang
 [^1]: Earl J. Hamilton. *American Treasure and the Price Revolution in Spain, 1501-1650* (1934). Amerika gümüşü ile Avrupa fiyatları arasındaki ilişkiyi klasik biçimde tartışır.
 [^2]: Thomas Mun. *England's Treasure by Forraign Trade* (1664). Mun'un dış ticaret dengesi düşüncesi için ana metin.
 [^3]: Mehmet Genç. *Osmanlı İmparatorluğu'nda Devlet ve Ekonomi* (2014). İaşecilik, fiskalizm ve gelenekçilik çerçevesi.
+[^4]: "Investigating the Sources of Silver in 17th- and 18th-Century Silver Coins from the Rooswijk Shipwreck by Compositional Studies" (2025), Amerikan kolonilerinde 1800'e kadar yaklaşık 86.000 ton gümüş çıkarıldığı ve bunun 18. yüzyılda dünya gümüş stokunun büyük kısmını temsil ettiği ölçeğini aktarır.
