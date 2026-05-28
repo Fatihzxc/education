@@ -6,6 +6,8 @@ Alfred Marshall'ın 1890'daki *Principles of Economics*'i tam bu birleştirmeyi 
 
 Bu sentez modern iktisadın görünen yüzünü kurar: arz ve talep eğrilerinin kesiştiği denge fiyatı, kısa-dönem/uzun-dönem ayrımı, esneklik, *ceteris paribus* kısmi denge analizi. Marshall ayrıca bir köprü kişiliğidir — Cambridge'de hem klasik mirası (Ricardo'ya saygısını korur) hem marjinalist aleti taşır. **İşte "neoklasik iktisat" budur:** klasik üretim-maliyeti çerçevesi ile marjinalist fayda çerçevesinin arz-talep makasında sentezi. Derini kardeş kitap `deger` Bölüm 10'da.
 
+Sentezin dağılım tarafını Amerikalı iktisatçı John Bates Clark 1899'da tamamladı: her üretim faktörü — emek, sermaye, toprak — *marjinal verimliliği* kadar gelir alır. İşçinin ücreti, son işçinin ürettiği ek değere eşittir; sermayenin getirisi, son sermaye biriminin marjinal ürünüdür. Bu, klasik-Marx ailesinin "kâr ödenmemiş emektir" sorusuna sessiz ama kesin bir cevaptır: kimse kimseyi sömürmez, herkes katkısı kadar alır. Böylece Marshall'ın makası mikroiktisadı, Clark'ın marjinal-verimlilik kuramı ise gelir dağılımını neoklasik zemine oturtur — ve ikisi birlikte, "sömürü" kavramının yerine değer-yansız bir "faktör fiyatlaması"nı koyar. Marx'ın sorusu (Bölüm 4) böylece yalnızca cevaplanmaz, *sorulamaz* hale getirilir (Bölüm 5'teki marjinalist hamlenin dağılım kuramına uzanan tamamlayıcısı budur).
+
 ## 6.2 Bir terim tuzağı: "neoklasik iktisat" ≠ "neoklasik sentez"
 
 Burada kafa karıştıran, ama mutlaka ayrılması gereken iki terim var — ve çoğu metin bunları birbirine karıştırır.
