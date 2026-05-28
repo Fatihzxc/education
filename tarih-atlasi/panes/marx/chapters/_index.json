@@ -1,0 +1,13 @@
+{
+  "title": "Marx ve Artı-Değer Pane'i",
+  "subtitle": "Emek-gücü, artı-değer, sınıf, kriz ve kamunun gözü",
+  "chapters": [
+    { "num": 1, "slug": "01-pane-ozeti", "title": "Pane Özeti — Marx'ı nasıl hayal etmeli?", "subtitle": "Klasik iktisadın içinden çıkan patlayıcı soru", "estWords": 1600, "status": "draft" },
+    { "num": 2, "slug": "02-ekonomi", "title": "Ekonomi — Artı-değer nereden gelir?", "subtitle": "Emek, emek-gücü, sömürü oranı ve sermaye birikimi", "estWords": 1900, "status": "draft" },
+    { "num": 3, "slug": "03-devlet", "title": "Devlet — Hukuk eşitliği neden yetmez?", "subtitle": "Sınıf ilişkileri, mülkiyet, hak ve devlet", "estWords": 1800, "status": "draft" },
+    { "num": 4, "slug": "04-askeri-mali-guc", "title": "Askerî ve Mali Güç — Sermaye neden genişlemek ister?", "subtitle": "İmparatorluk, hammadde, pazar ve zor", "estWords": 1800, "status": "draft" },
+    { "num": 5, "slug": "05-dusunce", "title": "Düşünce — Marx hangi üç damarı birleştirdi?", "subtitle": "Alman felsefesi, İngiliz iktisadı, Fransız sosyalizmi", "estWords": 1900, "status": "draft" },
+    { "num": 6, "slug": "06-toplum", "title": "Toplum — Proletarya, sınıf bilinci ve gündelik hayat", "subtitle": "Fabrika disiplini, yedek işsizler ordusu, sendika ve parti", "estWords": 1900, "status": "draft" },
+    { "num": 7, "slug": "07-kamunun-gozu", "title": "Kamunun Gözü — Romanlar, işçi basını, devrim korkusu", "subtitle": "Zola, Gorki, Engels, sosyalist gazeteler ve burjuva panikleri", "estWords": 2000, "status": "draft" }
+  ]
+}
