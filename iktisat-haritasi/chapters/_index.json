@@ -1,0 +1,14 @@
+{
+  "title": "İktisat Düşüncesinin Haritası",
+  "subtitle": "Merkantilizmden monetarizme — analitik ilerleme mi, sınıf-meşrulaştırması mı?",
+  "chapters": [
+    { "num": 1, "slug": "01-nasil-okumali-harita", "title": "Nasıl okumalı: harita, iki katman, anti-Whig", "subtitle": "Genealoji haritası, iki-katman tezi, Whig tuzağı", "estWords": 2600, "status": "draft" },
+    { "num": 2, "slug": "02-ilk-kopus-merkantilizm-fizyokrasi", "title": "İlk kopuş: maden stoğundan produit net'e", "subtitle": "Merkantilizm → Fizyokrasi; analitik çürütme + sınıf çıkarı", "estWords": 2200, "status": "draft" },
+    { "num": 3, "slug": "03-klasik-sentez-smith-emek-deger", "title": "Klasik sentez: Smith ve emek-değer", "subtitle": "İki darlığı aşmak; Corn Laws ve sanayi burjuvazisi", "estWords": 2400, "status": "draft" },
+    { "num": 4, "slug": "04-catallanma-marx-arti-deger", "title": "Çatallanma I — Marx: emek-değerin radikalleşmesi", "subtitle": "Değer emekten geliyorsa kârı kim yaratıyor? Artı-değer, sömürü", "estWords": 2400, "status": "draft" },
+    { "num": 5, "slug": "05-catallanma-marjinalist-devrim", "title": "Çatallanma II — Marjinalist Devrim (1871)", "subtitle": "Marjinal fayda; dürüst atılım mı, ideolojik manevra mı?", "estWords": 2600, "status": "draft" },
+    { "num": 6, "slug": "06-marshall-neoklasik-terim-tuzagi", "title": "Marshall ve neoklasik: bir terim tuzağı", "subtitle": "Arz-talep sentezi; neoklasik iktisat ≠ neoklasik sentez", "estWords": 2200, "status": "draft" },
+    { "num": 7, "slug": "07-keynes-monetarizm", "title": "Keynes → Monetarizm: Buhran, müdahale, karşı-devrim", "subtitle": "Say Yasası'nın çöküşü, toplam talep, stagflasyon, Friedman/Hayek", "estWords": 2600, "status": "draft" },
+    { "num": 8, "slug": "08-kapanis-hicbir-ekol-olmez", "title": "Kapanış: hiçbir ekol ölmez — mercek kendine döner", "subtitle": "Bugünkü canlı versiyonlar; yanlılık merceği okurun çağına", "estWords": 2200, "status": "draft" }
+  ]
+}

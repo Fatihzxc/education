@@ -75,6 +75,15 @@
       status: 'completed',
       primaryAuthors: ['Aristoteles', 'İbn Haldun', 'Machiavelli', 'Bodin', 'Hobbes', 'Locke', 'Rousseau', 'Hegel', 'Weber', 'Schmitt', 'Foucault'],
     },
+    {
+      slug: 'iktisat-haritasi',
+      title: 'İktisat Düşüncesinin Haritası',
+      subtitle: 'Merkantilizmden monetarizme',
+      description: 'Bir soy ağacı ve tek bir mercek: her teorik geçiş hem analitik ilerleme hem sınıf-meşrulaştırması. Merkantilizm, fizyokrasi, klasik, Marx, marjinalizm, neoklasik, Keynes, monetarizm — sentez ve eleştiri.',
+      chapterCount: 8,
+      status: 'draft',
+      primaryAuthors: ['Quesnay', 'Smith', 'Ricardo', 'Marx', 'Jevons', 'Menger', 'Walras', 'Marshall', 'Keynes', 'Friedman', 'Hayek'],
+    },
   ];
 
   console.log('[theme-registry] Loaded', window.MerkantilizmThemes.length, 'themes');
