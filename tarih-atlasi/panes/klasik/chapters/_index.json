@@ -1,0 +1,13 @@
+{
+  "title": "Klasik İktisat Pane'i",
+  "subtitle": "Sanayi, emek, rant, serbest ticaret ve kamunun gözü",
+  "chapters": [
+    { "num": 1, "slug": "01-pane-ozeti", "title": "Pane Özeti — Klasik iktisadı nasıl hayal etmeli?", "subtitle": "Fabrika, ekmek, rant, ücret ve özgürlük dili", "estWords": 1600, "status": "draft" },
+    { "num": 2, "slug": "02-ekonomi", "title": "Ekonomi — Büyüme ve bölüşüm nasıl düşünülür?", "subtitle": "İş bölümü, emek-değer, ücret, kâr, rant ve karşılaştırmalı üstünlük", "estWords": 1900, "status": "draft" },
+    { "num": 3, "slug": "03-devlet", "title": "Devlet — Serbest piyasa devletsizlik miydi?", "subtitle": "Corn Laws, reform, liberal devlet ve kamu düzeni", "estWords": 1800, "status": "draft" },
+    { "num": 4, "slug": "04-askeri-mali-guc", "title": "Askerî ve Mali Güç — Savaş ve borç klasik aklı nasıl biçimledi?", "subtitle": "Napolyon savaşları, altın tartışması, imparatorluk ve mali kapasite", "estWords": 1800, "status": "draft" },
+    { "num": 5, "slug": "05-dusunce", "title": "Düşünce — Ahlak felsefesinden politik iktisada", "subtitle": "Smith, Malthus, Ricardo, Mill ve görünmeyen gerilimler", "estWords": 1900, "status": "draft" },
+    { "num": 6, "slug": "06-toplum", "title": "Toplum — Fabrika, şehir, işçi ve orta sınıf", "subtitle": "Sanayi toplumunun gündelik hayatı ve sınıf dili", "estWords": 1900, "status": "draft" },
+    { "num": 7, "slug": "07-kamunun-gozu", "title": "Kamunun Gözü — Romanlar, gazeteler, dilekçeler", "subtitle": "Dickens, Gaskell, Engels, işçi basını ve serbest ticaret propagandası", "estWords": 2000, "status": "draft" }
+  ]
+}
