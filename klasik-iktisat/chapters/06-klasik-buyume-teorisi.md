@@ -106,6 +106,7 @@ Klasik iktisadın "karanlık bilim" niteliği — Carlyle'ın 1849'da küçümse
 
 ## Kaynakça
 
+
 [^1]: Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book I, Chapter III: "That the Division of Labour is limited by the Extent of the Market." Pazar genişliği-işbölümü döngüsünün klasik formülasyonu; Smithian artan-getiri optimizminin metin temeli.
 
 [^2]: Ricardo, D. (1817). *On the Principles of Political Economy and Taxation*, Chapter V ("On Wages") ve Chapter VI ("On Profits"). Diferansiyel rant + subsistence ücret + kâr sıkışması zincirinin çıkarımı; *stationary state* öngörüsünün analitik çekirdeği. Türk okuru için Bölüm 4 ve Değer kitabı Bölüm 6'da detaylı işlenmiştir.
