@@ -1,0 +1,18 @@
+{
+  "title": "Dünya Tarihi Atlası",
+  "subtitle": "Bölgeler, dönemler ve güç biçimleri",
+  "chapters": [
+    { "num": 1, "slug": "01-nasil-okumali-atlas", "title": "Nasıl okumalı: bölge, dönem, mercek", "subtitle": "Tek çizgi tarih yerine karşılaştırmalı atlas yöntemi", "estWords": 2200, "status": "draft" },
+    { "num": 2, "slug": "02-antik-cekirdekler", "title": "Antik çekirdekler: nehir havzaları ve erken devletler", "subtitle": "Mezopotamya, Mısır, İndus, Çin, Anadolu ve Akdeniz eşiği", "estWords": 2600, "status": "pending" },
+    { "num": 3, "slug": "03-klasik-avrasya", "title": "Klasik Avrasya: imparatorluk, şehir ve felsefe", "subtitle": "Yunan-Roma, Pers, Hint, Çin ve bozkır dünyaları", "estWords": 2800, "status": "pending" },
+    { "num": 4, "slug": "04-dinler-ve-ticaret-aglari", "title": "Dinler ve ticaret ağları: 600-1000", "subtitle": "İslam'ın yükselişi, Bizans, Tang, Hint Okyanusu ve Avrupa'nın dönüşümü", "estWords": 2800, "status": "pending" },
+    { "num": 5, "slug": "05-orta-cag-bolgeleri", "title": "Ortaçağ bölgeleri: 1000-1450", "subtitle": "İslam dünyası, Çin, Avrupa, Afrika, Amerika ve Moğol bağlantısı", "estWords": 3000, "status": "pending" },
+    { "num": 6, "slug": "06-okyanus-ve-barut", "title": "Okyanus ve barut çağları: 1450-1650", "subtitle": "Atlantik açılımı, Osmanlı-Safevi-Moğol, Ming/Qing, sömürge ve gümüş", "estWords": 3200, "status": "pending" },
+    { "num": 7, "slug": "07-mali-askeri-devlet", "title": "Mali-askeri devlet ve devrimler: 1650-1815", "subtitle": "Vergi, borç, ordu, Aydınlanma, Amerikan ve Fransız devrimleri", "estWords": 3200, "status": "pending" },
+    { "num": 8, "slug": "08-sanayi-ve-imparatorluk", "title": "Sanayi, ulus ve imparatorluk: 1815-1914", "subtitle": "Kapitalizm, demiryolları, sömürgecilik, ulus-devlet ve sosyalizm", "estWords": 3400, "status": "pending" },
+    { "num": 9, "slug": "09-dunya-savaslari", "title": "Dünya savaşları ve ideolojiler: 1914-1945", "subtitle": "Toplam savaş, devrim, faşizm, kriz, soykırım ve yeni dünya düzeni", "estWords": 3400, "status": "pending" },
+    { "num": 10, "slug": "10-soguk-savas-ve-kalkinma", "title": "Soğuk Savaş ve kalkınma: 1945-1991", "subtitle": "İki kutup, dekolonizasyon, refah devleti, kalkınmacılık ve neoliberal kırılma", "estWords": 3400, "status": "pending" },
+    { "num": 11, "slug": "11-kuresellesme-ve-cok-kutupluluk", "title": "Küreselleşme ve çok kutupluluk: 1991-2020'ler", "subtitle": "Piyasa küreselleşmesi, Çin'in yükselişi, dijitalleşme, iklim ve yeni güvenlik", "estWords": 3200, "status": "pending" },
+    { "num": 12, "slug": "12-sentez-ve-okuma-yollari", "title": "Sentez: okuma yolları ve karşılaştırma tabloları", "subtitle": "Bölgeleri yan yana koymak; hangi mercekle nereye bakmalı?", "estWords": 2400, "status": "pending" }
+  ]
+}

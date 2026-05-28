@@ -84,6 +84,15 @@
       status: 'draft',
       primaryAuthors: ['Quesnay', 'Smith', 'Ricardo', 'Marx', 'Jevons', 'Menger', 'Walras', 'Marshall', 'Keynes', 'Friedman', 'Hayek'],
     },
+    {
+      slug: 'tarih-atlasi',
+      title: 'Dünya Tarihi Atlası',
+      subtitle: 'Bölgeler, dönemler ve güç biçimleri',
+      description: 'Tarihi tek çizgi gibi değil, bölge x dönem x mercek matrisi olarak okuma denemesi: ekonomi, devlet, savaş, düşünce, din, teknoloji ve ekoloji aynı tabloda.',
+      chapterCount: 12,
+      status: 'draft',
+      primaryAuthors: ['İbn Haldun', 'Braudel', 'McNeill', 'Bayly', 'Pomeranz', 'Tilly', 'Hodgson', 'Abu-Lughod'],
+    },
   ];
 
   console.log('[theme-registry] Loaded', window.MerkantilizmThemes.length, 'themes');

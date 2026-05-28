@@ -1,0 +1,588 @@
+<!doctype html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pane ve Perspektif Kartları — Dünya Tarihi Atlası</title>
+  <meta name="description" content="İktisat ekollerini ekonomi, siyaset, savaş, düşünce ve kamu gözü mercekleriyle yan yana okuma panosu.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../styles/book.css">
+  <style>
+    :root {
+      --atlas-ink: #f3eee4;
+      --atlas-muted: #b9ad9c;
+      --atlas-line: rgba(243, 238, 228, 0.14);
+      --atlas-panel: rgba(24, 25, 24, 0.78);
+      --atlas-panel-2: rgba(42, 38, 33, 0.72);
+      --atlas-accent: #d7b46a;
+      --atlas-teal: #79b7a5;
+      --atlas-rust: #c9784f;
+      --atlas-violet: #a996d8;
+      --atlas-blue: #7fa5c9;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      color: var(--atlas-ink);
+      background:
+        linear-gradient(90deg, rgba(215, 180, 106, 0.05) 1px, transparent 1px),
+        linear-gradient(0deg, rgba(215, 180, 106, 0.04) 1px, transparent 1px),
+        radial-gradient(circle at 12% 14%, rgba(121, 183, 165, 0.14), transparent 28%),
+        radial-gradient(circle at 88% 20%, rgba(201, 120, 79, 0.14), transparent 30%),
+        #10110f;
+      background-size: 44px 44px, 44px 44px, auto, auto, auto;
+      font-family: Inter, system-ui, sans-serif;
+    }
+
+    .atlas-shell {
+      width: min(1220px, calc(100% - 36px));
+      margin: 0 auto;
+      padding: 28px 0 64px;
+    }
+
+    .atlas-topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--atlas-line);
+    }
+
+    .atlas-topbar a {
+      color: var(--atlas-muted);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .atlas-topbar a:hover { color: var(--atlas-accent); }
+
+    .atlas-kicker {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 12px;
+      color: var(--atlas-accent);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .atlas-hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.72fr);
+      gap: 34px;
+      align-items: end;
+      padding: 42px 0 30px;
+    }
+
+    h1 {
+      margin: 8px 0 12px;
+      max-width: 780px;
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: clamp(42px, 7vw, 86px);
+      line-height: 0.93;
+      letter-spacing: 0;
+    }
+
+    .hero-copy {
+      max-width: 720px;
+      margin: 0;
+      color: var(--atlas-muted);
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: 19px;
+      line-height: 1.58;
+    }
+
+    .lens-meter {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      min-height: 156px;
+      border: 1px solid var(--atlas-line);
+      background: rgba(16, 17, 15, 0.68);
+    }
+
+    .lens-meter span {
+      display: flex;
+      align-items: end;
+      padding: 12px 9px;
+      border-right: 1px solid var(--atlas-line);
+      color: var(--atlas-muted);
+      font-family: "JetBrains Mono", monospace;
+      font-size: 11px;
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+    }
+
+    .lens-meter span:last-child { border-right: 0; }
+    .lens-meter .economy { background: linear-gradient(to top, rgba(215, 180, 106, 0.36), transparent 68%); }
+    .lens-meter .state { background: linear-gradient(to top, rgba(127, 165, 201, 0.34), transparent 62%); }
+    .lens-meter .war { background: linear-gradient(to top, rgba(201, 120, 79, 0.36), transparent 72%); }
+    .lens-meter .thought { background: linear-gradient(to top, rgba(169, 150, 216, 0.34), transparent 58%); }
+    .lens-meter .society { background: linear-gradient(to top, rgba(121, 183, 165, 0.32), transparent 66%); }
+    .lens-meter .public { background: linear-gradient(to top, rgba(243, 238, 228, 0.2), transparent 54%); }
+
+    .atlas-layout {
+      display: grid;
+      grid-template-columns: 286px minmax(0, 1fr);
+      gap: 22px;
+      align-items: start;
+    }
+
+    .pane-nav {
+      position: sticky;
+      top: 18px;
+      display: grid;
+      gap: 8px;
+      padding: 10px;
+      border: 1px solid var(--atlas-line);
+      background: rgba(16, 17, 15, 0.76);
+      backdrop-filter: blur(14px);
+    }
+
+    .pane-button {
+      width: 100%;
+      min-height: 58px;
+      border: 1px solid transparent;
+      border-left: 4px solid var(--pane-color, var(--atlas-accent));
+      background: transparent;
+      color: var(--atlas-muted);
+      text-align: left;
+      cursor: pointer;
+      padding: 9px 11px;
+      font: inherit;
+    }
+
+    .pane-button strong {
+      display: block;
+      color: var(--atlas-ink);
+      font-size: 14px;
+      line-height: 1.2;
+    }
+
+    .pane-button span {
+      display: block;
+      margin-top: 4px;
+      font-family: "JetBrains Mono", monospace;
+      font-size: 11px;
+    }
+
+    .pane-button:hover,
+    .pane-button.active {
+      border-color: var(--atlas-line);
+      background: rgba(243, 238, 228, 0.06);
+      color: var(--atlas-ink);
+    }
+
+    .pane-stage {
+      display: grid;
+      gap: 18px;
+    }
+
+    .pane-header {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 22px;
+      align-items: end;
+      padding: 24px;
+      border-top: 5px solid var(--pane-color, var(--atlas-accent));
+      background: linear-gradient(135deg, var(--atlas-panel), var(--atlas-panel-2));
+    }
+
+    .pane-header h2 {
+      margin: 0 0 8px;
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: clamp(31px, 4.4vw, 56px);
+      line-height: 0.98;
+      letter-spacing: 0;
+    }
+
+    .pane-header p {
+      max-width: 740px;
+      margin: 0;
+      color: var(--atlas-muted);
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: 18px;
+      line-height: 1.55;
+    }
+
+    .pane-period {
+      color: var(--pane-color, var(--atlas-accent));
+      font-family: "JetBrains Mono", monospace;
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    .problem-strip {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--atlas-line);
+      border: 1px solid var(--atlas-line);
+    }
+
+    .problem-strip div {
+      min-height: 102px;
+      padding: 16px;
+      background: rgba(16, 17, 15, 0.78);
+    }
+
+    .problem-strip b {
+      display: block;
+      margin-bottom: 8px;
+      color: var(--pane-color, var(--atlas-accent));
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .problem-strip span {
+      color: var(--atlas-ink);
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: 17px;
+      line-height: 1.38;
+    }
+
+    .perspective-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .perspective-card {
+      min-height: 208px;
+      padding: 18px;
+      border: 1px solid var(--atlas-line);
+      background: rgba(18, 19, 17, 0.82);
+    }
+
+    .perspective-card h3 {
+      margin: 0 0 12px;
+      color: var(--atlas-ink);
+      font-size: 15px;
+      letter-spacing: 0.02em;
+    }
+
+    .perspective-card p {
+      margin: 0;
+      color: var(--atlas-muted);
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: 17px;
+      line-height: 1.48;
+    }
+
+    .perspective-card.public-eye {
+      border-color: color-mix(in srgb, var(--pane-color, var(--atlas-accent)) 54%, transparent);
+      background:
+        linear-gradient(135deg, color-mix(in srgb, var(--pane-color, var(--atlas-accent)) 18%, transparent), rgba(18, 19, 17, 0.9));
+    }
+
+    .source-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 18px;
+      border: 1px solid var(--atlas-line);
+      background: rgba(16, 17, 15, 0.66);
+    }
+
+    .source-row a,
+    .source-row span {
+      display: inline-flex;
+      align-items: center;
+      min-height: 34px;
+      padding: 0 12px;
+      border: 1px solid var(--atlas-line);
+      color: var(--atlas-ink);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 650;
+    }
+
+    .source-row a:hover {
+      border-color: var(--pane-color, var(--atlas-accent));
+      color: var(--pane-color, var(--atlas-accent));
+    }
+
+    @media (max-width: 920px) {
+      .atlas-hero,
+      .atlas-layout,
+      .pane-header {
+        grid-template-columns: 1fr;
+      }
+
+      .pane-nav {
+        position: static;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .perspective-grid,
+      .problem-strip {
+        grid-template-columns: 1fr;
+      }
+
+      .pane-period { white-space: normal; }
+    }
+
+    @media (max-width: 560px) {
+      .atlas-shell { width: min(100% - 24px, 1220px); }
+      .pane-nav { grid-template-columns: 1fr; }
+      .lens-meter { min-height: 112px; }
+      .atlas-topbar { align-items: flex-start; flex-direction: column; }
+      .pane-header { padding: 18px; }
+      .perspective-card { min-height: auto; }
+    }
+  </style>
+</head>
+<body>
+  <div class="atlas-shell">
+    <nav class="atlas-topbar" aria-label="Üst gezinti">
+      <a href="../book.html#bolum/1">Dünya Tarihi Atlası</a>
+      <a href="../../">Kütüphane</a>
+    </nav>
+
+    <header class="atlas-hero">
+      <div>
+        <div class="atlas-kicker">Pane x perspektif</div>
+        <h1>Ekolleri yalnızca fikir olarak değil, yaşanan dünya olarak oku.</h1>
+        <p class="hero-copy">Her pane bir tarihsel düğüm. Kartlar ise aynı düğümü ekonomi, devlet, savaş, düşünce, toplum ve kamunun gözüyle yan yana açar. Romanlar, gazeteler ve popüler metinler ayrı bir süs değil; teorinin sokakta nasıl göründüğünü yakalayan mercektir.</p>
+      </div>
+      <div class="lens-meter" aria-label="Perspektif mercekleri">
+        <span class="economy">ekonomi</span>
+        <span class="state">devlet</span>
+        <span class="war">askerî</span>
+        <span class="thought">düşünce</span>
+        <span class="society">toplum</span>
+        <span class="public">kamu gözü</span>
+      </div>
+    </header>
+
+    <main class="atlas-layout">
+      <nav class="pane-nav" id="paneNav" aria-label="Pane seçimi"></nav>
+      <section class="pane-stage" id="paneStage" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <script>
+  (function() {
+    'use strict';
+
+    const panes = [
+      {
+        id: 'merkantilizm',
+        title: 'Merkantilizm',
+        period: 'yak. 1500-1750',
+        color: '#d7b46a',
+        summary: 'Devlet, ticaret, savaş ve hazine aynı problemde birleşir: güç için dış ticaret fazlası, deniz, koloni ve vergi kapasitesi.',
+        problem: 'Zenginlik nasıl biriktirilir?',
+        conflict: 'Tüccar, saray, donanma ve sömürge çıkarları aynı masada buluşur.',
+        publicEye: 'Kamu gözünde dünya uzak pazar, gemi, fırsat ve tehlike olarak görünür; Defoe gibi yazarlar ticaret insanını roman kişisine dönüştürür.',
+        cards: {
+          economy: 'Maden stoğu, dış ticaret fazlası, imtiyazlı şirketler, gümrük ve koloni tekelleri öne çıkar.',
+          politics: 'Merkezî monarşi ve bürokrasi ticareti düzenler; iktisat, devlet aklının parçasıdır.',
+          military: 'Donanma, kale, konvoy ve savaş finansmanı ekonomik programın içindedir.',
+          thought: 'Düşünce broşür, rapor ve devlet danışmanlığı formunda ilerler; sistematik teori henüz dağınıktır.',
+          society: 'Tüccar sınıfı yükselir; liman şehirleri, şirket çalışanları, denizciler ve köleleştirilmiş emek aynı ağda yer alır.',
+          public: 'Roman/pamflet hattı: Daniel Defoe, seyahat anlatıları, ticari ahlak, macera ve koloni hayali.'
+        },
+        links: [
+          { label: 'Merkantilizm kitabı', href: '../../merkantilizm/book.html' },
+          { label: 'İktisat haritası B2', href: '../../iktisat-haritasi/book.html#bolum/2' }
+        ]
+      },
+      {
+        id: 'fizyokrasi',
+        title: 'Fizyokrasi',
+        period: 'yak. 1750-1776',
+        color: '#79b7a5',
+        summary: 'Fransa’nın mali tıkanıklığı tarım, toprak ve doğal düzen diliyle çözülmeye çalışılır.',
+        problem: 'Gerçek fazla nereden doğar?',
+        conflict: 'Toprak sahibi çıkarı, reformcu devlet aklı ve Aydınlanma salonları iç içedir.',
+        publicEye: 'Kamu gözünde mesele ekmek, tahıl serbestisi, vergi adaleti ve saray reformudur; roman kadar salon, ansiklopedi ve politik polemik belirleyicidir.',
+        cards: {
+          economy: 'Produit net, tarımsal fazla, tek vergi ve tahıl serbestisi merkezî kavramlardır.',
+          politics: 'Reform yukarıdan beklenir; Quesnay ve Turgot çizgisinde bilgili devlet adamı figürü belirir.',
+          military: 'Yedi Yıl Savaşı sonrası mali kriz, vergi reformunu acil hale getirir.',
+          thought: 'Doğal düzen fikri iktisadı ahlak, hukuk ve yönetim teorisiyle bağlar.',
+          society: 'Köylü, malikâne, soylu ayrıcalığı ve şehir tüketicisi arasındaki gerilim görünür olur.',
+          public: 'Kamusal alan hattı: salonlar, Encyclopédie çevresi, tahıl isyanları, reform broşürleri.'
+        },
+        links: [
+          { label: 'Fizyokrasi kitabı', href: '../../fizyokrasi/book.html' },
+          { label: 'İktisat haritası B2', href: '../../iktisat-haritasi/book.html#bolum/2' }
+        ]
+      },
+      {
+        id: 'klasik',
+        title: 'Klasik İktisat',
+        period: '1776-1870',
+        color: '#7fa5c9',
+        summary: 'Sanayi, iş bölümü, nüfus, rant ve serbest ticaret tek bir politik iktisat dilinde toplanır.',
+        problem: 'Büyüme, bölüşüm ve piyasa düzeni nasıl açıklanır?',
+        conflict: 'Sanayi burjuvazisi, toprak aristokrasisi ve işçi sınıfı arasındaki gerilim teorinin içine girer.',
+        publicEye: 'Kamu gözünde sanayi çağı fabrika, şehir yoksulluğu, reform ve sınıf çatışmasıdır; Dickens ve Gaskell bu atmosferi sezdirir.',
+        cards: {
+          economy: 'Emek-değer, iş bölümü, rant, ücret, kâr ve karşılaştırmalı üstünlük ana düğümlerdir.',
+          politics: 'Parlamento reformu, Corn Laws, serbest ticaret ve liberal devlet tartışması merkezîleşir.',
+          military: 'Napolyon savaşları ve imparatorluk ticareti mali kapasiteyi, borcu ve sanayi talebini etkiler.',
+          thought: 'Smith, Malthus, Ricardo ve Mill iktisadı ahlak felsefesinden ayrılan ama ona bağlı kalan bir disiplin yapar.',
+          society: 'Fabrika, kentleşme, yoksulluk, işçi örgütlenmesi ve orta sınıf ahlakı görünür hale gelir.',
+          public: 'Roman/gazete hattı: Dickens, Elizabeth Gaskell, Engels’in Manchester anlatısı, işçi basını.'
+        },
+        links: [
+          { label: 'Klasik İktisat kitabı', href: '../../klasik-iktisat/book.html' },
+          { label: 'Değer kitabı', href: '../../deger/book.html' },
+          { label: 'İktisat haritası B3', href: '../../iktisat-haritasi/book.html#bolum/3' }
+        ]
+      },
+      {
+        id: 'marx',
+        title: 'Marx ve Artı-Değer',
+        period: '1840-1890 sonrası',
+        color: '#c9784f',
+        summary: 'Klasik iktisadın emek-değer mirası, kârın ve mülkiyetin eleştirisine dönüşür.',
+        problem: 'Değeri emek yaratıyorsa artı kime kalır?',
+        conflict: 'Sermaye sahibi ile ücretli emek arasındaki ilişki teorinin ana sahnesidir.',
+        publicEye: 'Kamu gözünde kapitalizm fabrika disiplini, grev, yoksulluk ve devrim korkusudur; gerçekçi roman bunu iktisat kitaplarından farklı bir dille taşır.',
+        cards: {
+          economy: 'Artı-değer, sömürü, sermaye birikimi, kriz ve meta fetişizmi birlikte düşünülür.',
+          politics: 'Devlet sınıf ilişkilerinden bağımsız değildir; hukuk biçimsel eşitliği korurken maddi eşitsizlik sürebilir.',
+          military: 'Emperyal genişleme, hammadde ve pazar arayışı sermaye birikimiyle bağlanır.',
+          thought: 'Alman felsefesi, Fransız sosyalizmi ve İngiliz iktisadı tek eleştirel sistemde birleşir.',
+          society: 'Proletarya, sınıf bilinci, sendika, parti ve devrim kavramları gündeme gelir.',
+          public: 'Roman/kamu hattı: Zola, Gorki, Dickens sonrası sanayi yoksulluğu, işçi anıları, sosyalist gazete.'
+        },
+        links: [
+          { label: 'Değer B7', href: '../../deger/book.html#bolum/7' },
+          { label: 'Mülkiyet B8', href: '../../mulkiyet/book.html#bolum/8' },
+          { label: 'İktisat haritası B4', href: '../../iktisat-haritasi/book.html#bolum/4' }
+        ]
+      },
+      {
+        id: 'marjinalizm',
+        title: 'Marjinalizm ve Neoklasik',
+        period: '1871-1930',
+        color: '#a996d8',
+        summary: 'Değer, emekten fayda ve tercihe kayar; denge, marjinal karar ve matematiksel form öne çıkar.',
+        problem: 'Fiyat ve değer bireysel tercih üzerinden açıklanabilir mi?',
+        conflict: 'Emek-değer hattının politik sonuçları zayıflarken piyasa düzeni daha teknik bir dil kazanır.',
+        publicEye: 'Kamu gözünde teori daha az romanesk, daha çok uzmanlık ve ders kitabı dünyasına çekilir; ama tüketici, seçim ve rasyonalite dili gündelik hayata sızar.',
+        cards: {
+          economy: 'Marjinal fayda, kıtlık, denge, fiyat ve bireysel tercih açıklamanın merkezine yerleşir.',
+          politics: 'Laissez-faire savunuları teknik piyasa diliyle güçlenir; sosyal reform tartışmaları da devam eder.',
+          military: 'Büyük güç rekabeti ve altın standardı, teorinin sakin denge imgesinin dışında basınç üretir.',
+          thought: 'Jevons, Menger, Walras ve Marshall iktisadı daha formel, daha mikro temelli kurar.',
+          society: 'Tüketici figürü, sınıf figürünün yanında daha görünür hale gelir.',
+          public: 'Kamu hattı: popüler iktisat metinleri, istatistik, uzman bürokrasi, tüketim kültürünün doğuşu.'
+        },
+        links: [
+          { label: 'Değer B8', href: '../../deger/book.html#bolum/8' },
+          { label: 'Değer B9', href: '../../deger/book.html#bolum/9' },
+          { label: 'İktisat haritası B5', href: '../../iktisat-haritasi/book.html#bolum/5' }
+        ]
+      },
+      {
+        id: 'keynes',
+        title: 'Keynesçilik ve Monetarizm',
+        period: '1930-1980 sonrası',
+        color: '#7fa5c9',
+        summary: 'Buhran, savaş, refah devleti, stagflasyon ve piyasa karşı-devrimi modern makro tartışmayı kurar.',
+        problem: 'Piyasa kendi kendine tam istihdam üretir mi?',
+        conflict: 'İşsizlik, enflasyon, devlet harcaması, merkez bankası ve sınıf uzlaşması tartışmanın çekirdeğidir.',
+        publicEye: 'Kamu gözünde ekonomi artık borsa ekranı değil işsizlik kuyruğu, refah devleti, mutfak enflasyonu ve kriz haberidir; Steinbeck gibi yazarlar Buhranı insan yüzüyle gösterir.',
+        cards: {
+          economy: 'Toplam talep, çarpan, faiz, para arzı, enflasyon ve beklentiler makro dilin ana araçları olur.',
+          politics: 'Refah devleti ve planlama ile deregülasyon ve merkez bankası bağımsızlığı karşı karşıya gelir.',
+          military: 'Dünya savaşı ve Soğuk Savaş harcamaları devlet kapasitesini olağanüstü büyütür.',
+          thought: 'Keynes belirsizlik ve talep yetersizliğini; Friedman para arzı ve kural temelli politikayı öne çıkarır.',
+          society: 'Orta sınıf refahı, sendikal pazarlık, tüketim toplumu ve sonra güvencesizlik aynı yüzyılın parçalarıdır.',
+          public: 'Roman/sinema/gazete hattı: Steinbeck, Buhran fotoğrafları, savaş sonrası ev ideali, 1970’ler enflasyon haberleri.'
+        },
+        links: [
+          { label: 'İktisat haritası B7', href: '../../iktisat-haritasi/book.html#bolum/7' },
+          { label: 'İktisat haritası B8', href: '../../iktisat-haritasi/book.html#bolum/8' }
+        ]
+      }
+    ];
+
+    const nav = document.getElementById('paneNav');
+    const stage = document.getElementById('paneStage');
+
+    function esc(value) {
+      return String(value == null ? '' : value)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function paneFromHash() {
+      const id = (location.hash || '').replace(/^#/, '');
+      return panes.find((pane) => pane.id === id) || panes[0];
+    }
+
+    function renderNav(active) {
+      nav.innerHTML = panes.map((pane) => (
+        '<button class="pane-button' + (pane.id === active.id ? ' active' : '') + '" style="--pane-color:' + esc(pane.color) + '" data-pane="' + esc(pane.id) + '">' +
+          '<strong>' + esc(pane.title) + '</strong>' +
+          '<span>' + esc(pane.period) + '</span>' +
+        '</button>'
+      )).join('');
+    }
+
+    function card(title, body, extraClass) {
+      return '<article class="perspective-card ' + (extraClass || '') + '">' +
+        '<h3>' + esc(title) + '</h3>' +
+        '<p>' + esc(body) + '</p>' +
+      '</article>';
+    }
+
+    function renderStage(pane) {
+      const links = pane.links.map((link) => '<a href="' + esc(link.href) + '">' + esc(link.label) + '</a>').join('');
+      stage.innerHTML =
+        '<section class="pane-header" style="--pane-color:' + esc(pane.color) + '">' +
+          '<div>' +
+            '<h2>' + esc(pane.title) + '</h2>' +
+            '<p>' + esc(pane.summary) + '</p>' +
+          '</div>' +
+          '<div class="pane-period">' + esc(pane.period) + '</div>' +
+        '</section>' +
+        '<section class="problem-strip" style="--pane-color:' + esc(pane.color) + '">' +
+          '<div><b>Problem</b><span>' + esc(pane.problem) + '</span></div>' +
+          '<div><b>Çatışma</b><span>' + esc(pane.conflict) + '</span></div>' +
+          '<div><b>Kamu gözü</b><span>' + esc(pane.publicEye) + '</span></div>' +
+        '</section>' +
+        '<section class="perspective-grid" style="--pane-color:' + esc(pane.color) + '">' +
+          card('Ekonomi', pane.cards.economy) +
+          card('Siyaset ve devlet', pane.cards.politics) +
+          card('Askerî ve mali güç', pane.cards.military) +
+          card('Düşünce ve felsefe', pane.cards.thought) +
+          card('Toplum ve gündelik hayat', pane.cards.society) +
+          card('Kamu gözü, romanlar, gazeteler', pane.cards.public, 'public-eye') +
+        '</section>' +
+        '<section class="source-row" aria-label="Derinleşme bağlantıları">' +
+          '<span>Derinleşme</span>' + links +
+        '</section>';
+    }
+
+    function render() {
+      const active = paneFromHash();
+      renderNav(active);
+      renderStage(active);
+      document.documentElement.style.setProperty('--pane-color', active.color);
+    }
+
+    nav.addEventListener('click', (event) => {
+      const button = event.target.closest('[data-pane]');
+      if (!button) return;
+      location.hash = button.dataset.pane;
+    });
+
+    window.addEventListener('hashchange', render);
+    render();
+  })();
+  </script>
+</body>
+</html>
