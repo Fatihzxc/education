@@ -38,6 +38,20 @@ Karşı okuma şudur:
 
 Bu tablo ideolojinin gündelik korku ve umutla nasıl beslendiğini gösterir.
 
+### Krizden doğan fikir cevapları
+
+1914-1945 arasında fikirler sakin teorik tartışmalar gibi işlemedi. İnsanlar savaş yenilgisi, işsizlik, enflasyon, komünizm korkusu, faşist şiddet, sömürge baskısı ve devletin çıplak gücüyle yaşadı. Bu yüzden fikir akımları birer cevap gibi göründü; ama her cevap kendi tehlikesini de taşıdı.
+
+| Fikir dili | Kök sebep | Kimin gözünden makul? | Güçlü karşı fikir | Halktaki iz |
+|---|---|---|---|---|
+| Faşizm | Yenilgi, kriz, sınıf korkusu ve ulusal aşağılanma | Orta sınıf kaygısı, paramiliter çevre, büyük sermayenin bir kısmı | Düzen vaadi hukuk, azınlık hayatı ve insan onurunu yok edebilir | Üniforma, miting, korku, ihbar |
+| Komünizm / Sovyet planlaması | Eşitsizlik, savaş yıkımı ve hızlı sanayileşme ihtiyacı | İşçi, köylü, devrimci kadro, geri kalmış ülke elitleri | Eşitlik vaadi parti devleti ve zorun gölgesinde boğulabilir | Plan, seferberlik, kıtlık, güvenlik aygıtı |
+| Keynesyen müdahale | Talep çöküşü ve kitlesel işsizliğin piyasa tarafından çözülememesi | İşsiz hane, sendika, reformcu devlet, bazı sanayiciler | Devlet harcaması enflasyon, borç ve yanlış yönlendirme riski taşıyabilir | Kamu işi, sosyal güvenlik, bütçe tartışması |
+| Sosyal demokrasi | Kapitalizmi devirmeden emek güvenliği kurma arayışı | İşçi hareketi, reformcu partiler, savaş sonrası seçmen | Uzlaşma dili sermaye gücünü fazla az sorgulayabilir | Sendika, emeklilik, sağlık, toplu pazarlık |
+| Anti-kolonyal milliyetçilik | Savaşta özgürlük adına dövüşen imparatorlukların kolonilere özgürlük vermemesi | Sömürge askeri, yerli aydın, köylü ve şehirli hareketler | Yeni ulus devleti içeride başka dışlamalar üretebilir | Bağımsızlık talebi, grev, isyan, bayrak |
+
+Bu tablo, “insanlar neden böyle fikirlerin peşinden gitti?” sorusunu daha dürüst yapar. Cevap çoğu zaman cehalet değil; korku, umut, aşağılanma, işsizlik, güvenlik ve adalet arzusunun karışımıdır.
+
 ### Aynı savaş herkes için aynı savaş değildi
 
 1914-1945'i tek bir Avrupa cephe hikayesi gibi okumak, dönemin küresel ağırlığını azaltır. Savaş, farklı insanlar için çok farklı biçimlerde yaşandı.

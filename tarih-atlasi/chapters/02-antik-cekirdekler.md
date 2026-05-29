@@ -45,6 +45,20 @@ Bu yüzden yazı hem ufuk açar hem de bağlar. Bir toplum hafıza kazanır, yas
 
 Buradan şu sonuç çıkar: Bilgi her zaman özgürleştirici değildir; bazen yönetilebilir hale getirir. Antik çekirdekleri okurken yazıyı hem insan aklının büyümesi hem de devlet gözünün keskinleşmesi olarak düşün.
 
+### Kanıtın sesi: kim konuşur, kim sessiz kalır?
+
+Antik dünyayı anlamanın zor tarafı şudur: Elimizdeki kanıtların çoğu eşit dağılmamıştır. Saray, tapınak, vergi memuru ve anıt yazıt daha çok konuşur; borçlu köylü, angaryaya giden işçi, kadın, köle ve göçebe daha az iz bırakır. Bu yüzden kanıtı yalnız “bilgi” gibi değil, kimin sesi olduğunu sorarak okumalısın.
+
+| Kanıt türü | Kim konuşur? | Kim görünmez kalır? | Hangi karşı soru sorulmalı? |
+|---|---|---|---|
+| Kil tablet / vergi kaydı | Tapınak, saray, ambar memuru, borç veren | Ürünü veren köylü, borçlu aile, gündelik emekçi | Bu kayıt kimin ihtiyacını ölçüyor: düzen mi, tahsilat mı, geçim mi? |
+| Anıt yazıt | Kral, zafer kazanan elit, rahip sınıfı | Yenilen halk, sıradan asker, taş ustası, vergi verenler | Zafer kimin dilinden anlatılıyor; bedel hangi satırda yok? |
+| Mezar ve eşya | Zengin hane, seçkin savaşçı, statü sahibi kişi | Yoksul, köle, göçebe, kayıtsız kalan topluluklar | Gömü zenginliği toplumun tamamını mı, küçük bir zirveyi mi gösteriyor? |
+| Arkeolojik kalıntı | Ev, ambar, kanal, sur, üretim alanı | Niyet, duygu ve korku çoğu zaman sessiz kalır | Maddi iz hangi gündelik düzeni gösteriyor; kim bu düzeni taşımış olabilir? |
+| Sözlü / ritüel iz | Topluluğun hafızası, mit, tören, kozmik düzen | Kesin tarih ve sayısal ölçek zayıf kalabilir | Bu anlatı düzeni meşrulaştırıyor mu, yoksa acıyı hatırlatıyor mu? |
+
+Bu küçük matris, antik tarihi sarayın gözünden okumaya karşı bir fren görevi görür. Kanıt ne kadar parlaksa, sessiz kalan tarafı sorma ihtiyacı da o kadar büyür.
+
 ## 2.4 "Medeniyet" kelimesine dikkat
 
 Antik tarih çoğu zaman "medeniyetin yükselişi" diye anlatılır. Bu ifade tümüyle yanlış değildir. Şehirler, yazı, hukuk, matematik, takvim, mimari ve uzun mesafe ticaret insan hayatının imkanlarını gerçekten genişletti.

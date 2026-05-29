@@ -84,6 +84,25 @@ Bir adım daha ileri gitmek istersen, her okuma için küçük bir kanıt paketi
 
 Bu paket küçük görünür ama çok güçlüdür. Çünkü seni her seferinde aynı disipline geri çağırır: önce kökü bul, sonra bedeli gör, sonra itirazı dinle.
 
+## 12.7 On dönemlik karşılaştırma panosu
+
+Atlası bitirdikten sonra en iyi öğrenme, bütün dönemleri aynı pano üzerinde yeniden okumaktır. Bu pano sana “hangi dönem daha önemli?” diye sordurmaz; her dönemin hangi kök probleme cevap verdiğini, hangi vaadi öne çıkardığını ve hangi sesi geride bıraktığını gösterir.
+
+| Dönem | Kök problem | Baskın vaat | Karşı fikir | Kamu / halk kaynağı | Ölçek göstergesi | Bugünkü yankı |
+|---|---|---|---|---|---|---|
+| Antik çekirdekler | Tarım fazlası nasıl kayıt ve devlete dönüşür? | Düzen, depolama, hukuk, kozmik meşruiyet | Medeniyet aynı zamanda vergi, angarya ve hiyerarşi üretir | Kil tablet, anıt, arkeoloji, ritüel iz | Ambar, kanal, sur, vergi kaydı | Devlet kapasitesi ve kayıt toplumu |
+| Klasik Avrasya | Büyük imparatorluklar farklı halkları nasıl tutar? | Barış, yol, hukuk, ahlaki düzen | Barış merkez için güven, kenar için yük olabilir | Hukuk metni, kronik, felsefe, halk izi | Yol, ordu, eyalet, vergi | Çok kültürlü yönetim ve hukuk |
+| Dinler ve ticaret ağları | Eski imparatorluklar çözülünce bağlantı nasıl kurulur? | İnanç, hukuk, ticaret güveni | Din güven verirken sınır ve statü de kurabilir | Seyahatname, vaaz, şehir kaydı | Liman, kervan, kitap, vergi | Küresel ağlarda güven ve kimlik |
+| Orta Çağ bölgeleri | Bölgesel büyüme ile uzun bağlantı nasıl birleşir? | Yerel dinamizm, ticaret, bilgi kurumu | Kaynak eşitsizliği bazı bölgeleri sessiz gösterir | Kronik, seyahatname, sözlü iz, arkeoloji | Şehir, veba, ticaret yolu | Merkez dışı tarih yazımı |
+| Okyanus ve barut | Bağlantı neden eşitsiz güçle kuruldu? | Keşif, ticaret, imparatorluk, misyon | Eski ağlara silah, şirket ve zorla girildi | Fetih kroniği, tüccar mektubu, köle tanıklığı | Gümüş, şeker, gemi, barut ordusu | Küresel tedarik ve sömürge mirası |
+| Mali-askerî devlet | Savaş, borç ve vergi temsili nasıl zorladı? | Hak, temsil, reform, ulus | Evrensel hak dili kadınları, köleleri ve kolonileri dışarıda bırakabilir | Dilekçe, gazete, hak bildirisi | Ordu, borç, ekmek fiyatı | Vergi adaleti ve demokratik meşruiyet |
+| Sanayi ve imparatorluk | Üretkenlik neden eşitsizliği büyüttü? | İlerleme, ucuz mal, ulus, teknoloji | Sanayi koloni emeği, fosil enerji ve iş disipliniyle bağlıdır | Roman, grev haberi, rapor | Kömür, pamuk, demiryolu, şehir | Sanayisizleşme ve iklim maliyeti |
+| Dünya savaşları | Modern kapasite neden yıkıma dönebildi? | Güvenlik, ulusal birlik, planlama | Devlet kapasitesi azınlığı, sivili ve muhalifi hedef alabilir | Günlük, radyo, fotoğraf, cephe romanı | Toplam savaş, propaganda, kamp, bomba | Güvenlik devleti ve insan hakları |
+| Soğuk Savaş / kalkınma | Refah, güvenlik ve bağımsızlık nasıl paylaşılır? | Refah devleti, plan, kalkınma, ideolojik güven | İki kutuplu anlatı çevre ülkelerin borç ve darbe deneyimini saklar | Kalkınma planı, darbe haberi, mutfak hesabı | Bomba, borç, okul, fabrika | Kalkınma modeli ve dış bağımlılık |
+| Küreselleşme / çok kutupluluk | Bağlantı neden ortak güvenlik üretmedi? | Verimlilik, dijital özgürlük, tüketici refahı | Bağlantı güvencesizlik, veri sömürüsü ve iklim bedeli üretebilir | Platform yorumu, kriz grafiği, iklim görüntüsü | Konteyner, veri, karbon, göç | Güncel iddia kontrolü gerekir |
+
+Bu pano senin kişisel atlasın gibi çalışır. Bir fikri veya olayı unuttuğunda, önce hangi dönemin kök problemine benzediğini bul. Sonra aynı satırdaki karşı fikri ve halk kaynağını oku. Böyle yapınca tarih ezber değil, düşünme aleti olur.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Sentez bölümü, atlasın dönemleri ve iktisat ekollerini aynı düşünme disiplininde birleştirme ihtiyacından doğar.

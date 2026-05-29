@@ -69,6 +69,21 @@ Bu yüzden dijitalleşmeyi yalnız teknoloji gibi değil, yeni mülkiyet ve emek
 
 Bu tablo güncel dünyayı daha az dağınık hale getirir. Gördüğün haberleri bu beş akıştan birine bağlayabilirsin.
 
+### Güncel iddia kontrol kartı
+
+1991 sonrası bölüm doğal olarak güncel veriye yaklaşır. Bu yüzden burada bir iddiayı okurken tarihini ve ölçüsünü ayrıca kontrol etmek gerekir. “Küreselleşme bitti”, “Çin yükseliyor”, “karbon azalıyor”, “platform emeği özgürlük getirdi” gibi cümleler tarihsiz söylenirse hızla yanıltıcı olabilir.
+
+| Kontrol alanı | Soracağın soru | Neden önemli? |
+|---|---|---|
+| İddia | Tam olarak ne söyleniyor? | Slogan ile ölçülebilir iddiayı ayırırsın |
+| Tarih aralığı | Hangi yıl veya dönem için geçerli? | 1990'lar, 2008 sonrası ve 2020'ler aynı dünya değildir |
+| Gerekli veri | Ticaret hacmi mi, ücret mi, karbon mu, borç mu, göç mü? | Yanlış göstergeyle doğru sonuca gidilmez |
+| Kim etkilenir? | İşçi, hane, şirket, devlet, kırılgan bölge, gelecek kuşak? | Ortalama kazanç bedel dağılımını saklayabilir |
+| Karşı gösterge | Bu iddiayı hangi veri veya tanıklık zorlar? | Doğruya yaklaşmak için kendi iddianı da sınarsın |
+| Güncellik ihtiyacı | Bu bilgi son yıllarda değişmiş olabilir mi? | Güncel ekonomi ve iklim iddiaları eski veriyle taşınamaz |
+
+Bu kart, güncel dünyayı okurken aceleyi yavaşlatır. Mekanizma anlatısı kalıcı olabilir; ama sayı, sıralama ve “en büyük/en yeni” türü iddialar güncel kanıt ister.
+
 ## 11.7 Kamu gözü: platform yorumları, kriz haberi, iklim görüntüsü
 
 Bu dönemde kamu gözü çok parçalıdır. Gazete hâlâ önemlidir, ama sosyal medya, platform yorumları, kriz grafikleri, belgeseller ve kısa video görüntüleri de tarih duygusunu şekillendirir.

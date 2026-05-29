@@ -80,6 +80,20 @@ Bir seyahatnameye bakarken şu soruları sor:
 
 Kamu gözü burada şunu öğretir: İnsanlar yalnız olayları yaşamadı; onları anlamlandırmaya çalıştı. Korkuyu, bereketi, salgını ve yabancıyı bir hikaye içine koydu.
 
+### Kaynak eşitsizliği: sessizlik önemsizlik değildir
+
+Orta Çağ dünyasını karşılaştırırken kaynakların eşit konuşmadığını bilmek çok önemlidir. Bazı bölgeler çok yazılı belge bırakır, bazıları arkeoloji, sözlü hafıza, mimari veya dış gözlem üzerinden görünür. Bu fark, “orada tarih yoktu” anlamına gelmez; yalnızca bizim pencere biçimimizin farklı olduğu anlamına gelir.
+
+| Kaynak zemini | Ne daha kolay görünür? | Ne eksik kalabilir? | Nasıl dengelenir? |
+|---|---|---|---|
+| Çin, Bizans, İslam ve Latin Avrupa yazılı kayıtları | Devlet, vergi, hukuk, şehir ve elit tartışmaları | Köylü, kadın, göçebe, gündelik emek | Mahkeme, vergi, arkeoloji ve halk anlatılarını yan yana oku |
+| Afrika sözlü ve arkeolojik izleri | Ticaret yolları, şehir kalıntıları, maden, sözlü soy hafızası | Dışarıdan bakan seyyahın küçümsemediği iç ses | Sözlü gelenek ile maddi kalıntıyı birlikte değerlendir |
+| Amerika arkeolojisi ve kodeks geleneği | Şehir, tarım, takvim, ritüel ve siyasal merkezler | Fetih sonrası kaynakların bozduğu yerli bakış | Yerli kayıt, arkeoloji ve sömürgeci metni karşılaştır |
+| Seyahatname ve tüccar anlatısı | Yol, pazar, merak, şaşkınlık, fiyat ve mal bilgisi | Anlatıcının önyargısı, abartısı ve çıkarı | “Ne gördü?” kadar “ne anlamadı?” diye de sor |
+| Kronik ve dinî metin | Felaket, zafer, ahlak ve meşruiyet dili | Sıradan geçim ve sınıf farkı | Olayın ahlaki yorumunu maddi koşulla test et |
+
+Bu tablo özellikle Afrika ve Amerika için ufuk açar. Yazılı belge azlığı, tarihsel dinamizmin azlığı değildir. Bazen yalnızca kazanan merkezlerin defterine daha az girmiş bir dünya vardır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1000-1450 dünyası, bölgesel büyüme ile uzun mesafe bağlantıların aynı anda güçlenmesinden doğar.

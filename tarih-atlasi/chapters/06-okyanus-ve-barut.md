@@ -47,6 +47,20 @@ Bu dönemde Avrupa'da egemenlik teorileri, doğal hukuk ve sömürge tartışmal
 
 Bu fikirler soyut bir akademik oyun değildir. Okyanuslarda yeni karşılaşmalar, yerli toplumların statüsü, köle emeği, ticaret tekelleri ve savaş finansmanı bu fikirleri zorlar.
 
+### Fikir hareketleri matrisi: fetih, ticaret ve hak
+
+Bu dönemin fikirlerini anlamak için önce şunu gör: Avrupa yalnız yeni deniz yolları bulmadı; yeni karşılaşmaları meşrulaştıracak, sınırlandıracak veya kâra çevirecek diller de üretti. Aynı olay bir teolog için vicdan meselesi, bir kral için egemenlik meselesi, bir tüccar için imtiyaz meselesi, yerli halk için varoluş meselesidir.
+
+| Fikir dili | Kök sebep | Kimin gözünden makul? | Güçlü karşı fikir | Halktaki iz |
+|---|---|---|---|---|
+| Egemenlik teorisi | Dağınık feodal yetkiler ve din savaşları içinde son söz sorununu çözme | Kral, hukukçu, merkezî devlet | Mutlak egemenlik yerel hakları ve muhalefeti ezebilir | Vergi, ordu, itaat, mahkeme |
+| Doğal hukuk ve Salamanca | Fetih, yerli hakları ve adil savaş sorularının ahlaki baskısı | Teolog, hukukçu, vicdan sahibi yönetici | Hak dili bazen fethi sınırlasa da imparatorluk düzenini tümden sökmez | Vaftiz, zor, mahkeme, toprak kaybı |
+| Merkantilist akıl | Savaş finansmanı, ticaret fazlası, donanma ve hazine ihtiyacı | Devlet adamı, büyük tüccar, şirket imtiyazı sahibi | Ulusal güç dili tüketici, koloni halkı ve zorunlu emeğin bedelini saklayabilir | Gümrük, tekel, pahalı mal, sömürge emeği |
+| Misyon ve medenileştirme dili | Dinî yayılma ile imparatorluk çıkarının iç içe geçmesi | Misyoner, kraliyet, bazı reformcular | Ruh kurtarma dili kültürel yıkımı ve zorlamayı perdeleyebilir | Dil kaybı, okul, din değiştirme, direnç |
+| Kölelik karşıtı ahlak | Atlantik köleliğinin çıplak şiddeti ve tanıklıkların yayılması | Köleleştirilmiş insanlar, abolisyonistler, bazı dinî çevreler | Ticari çıkarlar “ekonomi çöker” diyerek şiddeti savunabilir | Tanıklık, kaçış, isyan, boykot |
+
+Bu matris, fikirleri iyi-kötü etiketiyle hızlıca kapatmaz. Şunu gösterir: Bazı fikirler şiddeti sınırlandırmaya çalışır, bazıları aynı şiddete düzenli bir dil verir; çoğu zaman ikisi aynı metnin içinde bile yan yana durabilir.
+
 ## 6.6 Ölçek hissi: gümüş, şeker, insan
 
 Bu dönemin büyüklüğünü anlamak için üç kelimeyi yan yana tut: gümüş, şeker, insan. Gümüş para ağlarını; şeker plantasyon kapitalizmini; insan ise sömürge ve kölelik bedelini gösterir.

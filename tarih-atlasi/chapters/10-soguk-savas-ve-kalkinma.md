@@ -55,11 +55,40 @@ Yeni bağımsız ülkelerde kalkınmacı devlet başka bir soruya cevap verdi: "
 
 Karşı soru şudur: Devlet kalkınma için gerekli kapasiteyi kuruyor mu, yoksa yeni ayrıcalık ve borç ağları mı üretiyor?
 
+### Kalkınma stratejileri puan kartı
+
+Bu kartı kesin hüküm vermek için değil, modelleri aynı sorularla karşılaştırmak için kullan. Her strateji bir şeyi iyi çözer, başka bir yerde gerilim üretir. İyi okuma, modeli sloganıyla değil, hangi güveni kurduğu ve hangi bedeli taşıdığıyla değerlendirir.
+
+| Strateji | Güvenlik | Büyüme | Özgürlük | Eşitlik | Dış bağımlılık |
+|---|---|---|---|---|---|
+| İthal ikamesi | Yerli üretimi dış şoka karşı koruyabilir | Başlangıç sanayisini büyütebilir | Tüketici seçeneği ve rekabet daralabilir | Sanayi işçisine alan açabilir, ama kent-kır farkı sürebilir | Döviz ve teknoloji ihtiyacı devam eder |
+| İhracatçı sanayileşme | Döviz ve pazar bağlantısı sağlar | Başarılı olursa hızlı öğrenme yaratır | İş disiplini ve düşük ücret baskısı artabilir | Gelir artabilir ama bölüşüm politikaya bağlıdır | Dış talep ve tedarik zincirine bağımlılık büyür |
+| Sovyet planlaması | Ağır sanayi ve askeri güvenlik kurabilir | Hızlı seferberlik sağlayabilir | Siyasal çoğulculuk ve yerel bilgi bastırılabilir | Bazı temel hizmetleri yayabilir, ama parti ayrıcalığı doğabilir | Teknoloji ve verimlilik sınırı birikebilir |
+| Çin devrimi / reformu | Devlet kapasitesi ve uzun vadeli strateji kurar | Reformla yüksek üretim artışı doğurabilir | Siyasal denetim ağır kalabilir | Yoksulluk azalabilir, bölgesel eşitsizlik büyüyebilir | İhracat, enerji ve teknoloji ağlarına bağlıdır |
+| Petrol gelirli devlet | Dış gelirle bütçe ve güvenlik kurabilir | Yatırım finanse edebilir | Rant devleti hesap verebilirliği zayıflatabilir | Dağıtım yapılabilir ama üretken çeşitlenme zayıf kalabilir | Petrol fiyatına ve dış pazara bağımlılık yüksektir |
+| Bağımlılık teorisi | Dış yapıyı görmeye zorlar | Sanayi politikası ihtiyacını açık eder | Aşırı yapısal okuma yerel sorumluluğu azaltabilir | Eşitsiz değişimi görünür kılar | Bağımlılığın nasıl kırılacağı ayrıca kurum ister |
+
+Bu puan kartının amacı şudur: “Piyasa mı devlet mi?” sorusunu daha iyi bir soruya çevirmek. Hangi devlet, hangi piyasa, hangi dünya koşulu, hangi toplumsal bedelle?
+
 ## 10.5 1970'ler kırılması
 
 Petrol şokları, enflasyon, büyüme yavaşlaması ve işsizlik savaş sonrası uzlaşmayı sarstı. Keynesçi talep yönetimi sorgulandı; monetarizm, piyasa disiplini, özelleştirme ve finansal serbestleşme güç kazandı.
 
 Halk için bu dönüşüm teknik değil çok somuttur: fiyatlar artar, iş güvencesi azalır, sendika zayıflar, kamu hizmeti daralır, borç bireyin hayatına daha çok girer.
+
+### Fikir hareketleri matrisi: refah, plan, piyasa, bağımsızlık
+
+Soğuk Savaş'ı yalnız ABD ile SSCB'nin ideolojik kavgası gibi okumak çok dar kalır. Aynı dönemde insanlar “nasıl kalkınacağız?”, “devlet ne kadar planlamalı?”, “piyasa ne kadar serbest olmalı?”, “bağımsızlık sadece bayrak mı?” diye soruyordu.
+
+| Fikir dili | Kök sebep | Kimin gözünden makul? | Güçlü karşı fikir | Halktaki iz |
+|---|---|---|---|---|
+| Keynesçi refah devleti | Buhran ve savaş sonrası kitlelere güvenlik verme ihtiyacı | Ücretli çalışan, sendika, reformcu parti, orta sınıf | Yüksek enflasyon ve bütçe baskısı güveni aşındırabilir | Sağlık, emeklilik, iş güvencesi |
+| Sovyet planlaması | Geri kalmışlığı hızlı sanayileşmeyle aşma ve kapitalizme alternatif kurma arzusu | Devrimci devlet, sanayi işçisi, anti-kapitalist hareket | Planlama özgürlüğü, bilgi akışını ve yerel ihtiyacı bastırabilir | İş garantisi, kıtlık, denetim |
+| Kalkınmacı devlet | Yeni bağımsız ülkelerin sanayi ve teknoloji açığını kapatma isteği | Bürokrat, mühendis, yerli sanayici, ulusal hareket | Koruma rant, yolsuzluk ve verimsizlik üretebilir | Kamu yatırımı, fabrika, vergi, borç |
+| Bağımlılık teorisi | Merkez-çevre ticaretinin eşitsiz kalkınma üretmesi | Latin Amerika aydını, çevre ülke planlamacısı, sol hareket | Yerel sınıflar, kurumlar ve devlet kapasitesi farkları sonucu değiştirir | Anti-emperyalizm, ithal ikamesi, borç tartışması |
+| Monetarizm / neoliberal dönüş | Enflasyon, devlet hantallığı ve kâr sıkışması krizi | Finans çevresi, merkez bankası, ihracatçı sermaye, teknokrat | Risk ve uyum maliyeti işçiye, hane halkına ve çevre ülkelere kayabilir | Özelleştirme, iş güvencesi kaybı, fiyat disiplini |
+
+Bu matris dönemin ana gerilimini gösterir: Her model bir güven türü kurmaya çalışır. Refah devleti sosyal güven, planlama üretim güveni, kalkınmacılık ulusal gelecek güveni, monetarizm para güveni arar. Ama her güven başka bir bedel yaratabilir.
 
 ## 10.6 Ölçek hissi: büyüme, bomba, borç
 

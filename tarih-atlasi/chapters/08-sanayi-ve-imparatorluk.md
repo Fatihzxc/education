@@ -24,6 +24,21 @@ Aslında bu çelişki modern dünyanın kalbidir. İçeride yurttaş sayılan ki
 
 Kontrol sorusu şudur: "Ulusal refah" dediğimiz şey hangi ulus dışı emek ve kaynak akışına dayanıyor?
 
+### Geç sanayileşme ve sanayisizleşme matrisi
+
+Sanayi çağını yalnız “Britanya önce yaptı, diğerleri arkadan geldi” diye okumak eksik kalır. Bazı bölgeler geç sanayileşti, bazıları sanayi baskısı altında eski zanaatını kaybetti, bazıları devlet eliyle sıçramaya çalıştı, bazıları hammadde ve zorunlu emek alanına itildi.
+
+| Bölge | Enerji / sermaye zemini | Devlet kapasitesi | Dış baskı | Emek rejimi | Karşı okuma |
+|---|---|---|---|---|---|
+| Britanya | Kömür, finans, tekstil sermayesi, deniz ticareti | Parlamento, borç piyasası, donanma, patent/hukuk düzeni | Dış baskıdan çok dışa baskı kurma gücü | Fabrika işçisi, koloni hammaddesi, düşük ücret baskısı | Sanayi başarısı yalnız iç erdem değil, küresel kaynak ve pazar bağlantısıdır |
+| Hindistan | Güçlü zanaat ve tekstil mirası, fakat koloni ticaret baskısı | Yerli kapasite sömürge yönetimiyle sınırlanır | İngiliz malı, vergi ve pazar yönlendirmesi | Zanaatkâr çözülmesi, tarımsal gelir baskısı | “Serbest ticaret” eşitsiz güçte sanayisizleştirme doğurabilir |
+| Çin | Büyük iç pazar, zanaat ve tarım yoğunluğu | Qing bürokrasisi geniş ama sanayi dönüşümünde zorlanır | Afyon Savaşları, imtiyazlar, dış ticaret baskısı | Köylü yükü, bölgesel isyanlar, zanaat baskısı | Geri kalma tek kültürel açıklamayla değil, savaş, gümüş, devlet ve dış zorla okunmalı |
+| Japonya | Sınırlı kaynak, ama yoğun devlet seferberliği | Meiji devleti vergi, eğitim, ordu ve sanayi politikasını bağlar | Batı baskısını bağımsız kalma tehdidi olarak okur | Köylü vergisi, fabrika disiplini, askerlik | Başarılı geç sanayileşme de içeride ağır toplumsal maliyet taşır |
+| Osmanlı / Mısır | Tarım, hammadde, dış borç ve sınırlı sanayi çekirdeği | Reformcu ama mali bağımlılıkla sıkışan devlet | Kapitülasyonlar, Avrupa rekabeti, borç idaresi | Köylü vergisi, zorunlu ürün, zanaat baskısı | Modernleşme arzusu dış ticaret ve mali bağımlılık içinde sınırlanır |
+| Afrika kolonileri | Maden, kauçuk, hammadde ve taşıma hatları | Sömürge devleti çıkarma ve denetim için kurulur | Doğrudan işgal, şirket imtiyazı, zor | Zorunlu emek, toprak kaybı, nakit ürün baskısı | “Dünya pazarı” bazı bölgeler için sanayi değil kaynak çekme düzenidir |
+
+Bu matrisi kullanınca sanayi eşitsizliği daha anlaşılır olur. Mesele yalnız kim daha çalışkan veya akıllıydı sorusu değildir; enerji, sermaye, devlet kapasitesi, dış baskı ve emek rejimi aynı anda çalışır.
+
 ## 8.4 İdeolojiler neden sertleşti?
 
 Liberalizm, sosyalizm, milliyetçilik, muhafazakarlık ve anarşizm bu dönemde yeni anlamlar kazandı. Çünkü toplumun kendisi değişti.
@@ -53,6 +68,20 @@ Sanayi çağındaki fikir akımlarını anlamanın en kolay yollarından biri, a
 | Devlet adamı | Milliyetçilik ve korumacılık | Ordu, okul, sanayi ve vergi kapasitesi kurmak ister | Anarşist ve liberal eleştiri devletin baskısını hatırlatır |
 
 Bu küçük sahne şunu öğretir: Fikir akımları havada dolaşan soyut seçenekler değildir. Her biri, birinin acısını, korkusunu veya çıkarını anlamlı hale getirmeye çalışır.
+
+### Fikirlerin bedel matrisi: aynı ilerleme kime ne yaptı?
+
+Sanayi çağında fikirleri yalnız ilkeleriyle değil, bedel dağılımıyla da okumak gerekir. Çünkü “özgürlük”, “ulus”, “ilerleme” ve “medeniyet” gibi kelimeler kulağa güzel gelir; ama bu kelimelerin hangi emek rejimiyle, hangi kaynak akışıyla ve hangi dışlamayla çalıştığı ayrıca sorulmalıdır.
+
+| Fikir dili | Kök sebep | Kimin gözünden makul? | Güçlü karşı fikir | Halktaki iz |
+|---|---|---|---|---|
+| Liberalizm | Girişim, mülkiyet ve ticaret önündeki eski engelleri kaldırma isteği | Sanayici, tüccar, meslek sahibi orta sınıf | Sözleşme özgürlüğü maddi güç eşitsizliğini saklayabilir | Ucuz mal, iş fırsatı, işten atılma korkusu |
+| Sosyalizm / Marksizm | Ücretli emeğin güvencesizliği ve kârın kaynağı sorusu | Fabrika işçisi, sendika, radikal aydın | Sınıf analizi devlet, kültür, cinsiyet ve yerel farkları bazen azaltabilir | Grev, örgütlenme, işçi gazetesi |
+| Milliyetçilik | Kitle ordusu, okul, dil ve pazar birliği kurma ihtiyacı | Devlet adamı, öğretmen, asker, yerli burjuvazi | Ulus dili azınlıkları, göçmenleri ve kolonileri dışlayabilir | Okul, askerlik, bayrak, ortak dil |
+| Emperyal medeniyetçilik | Hammadde, pazar, prestij ve stratejik üstünlük arayışı | İmparatorluk bürokratı, yatırımcı, misyoner | Medeniyet dili zor, ırkçılık ve kaynak aktarımını perdeleyebilir | Zorunlu emek, okul, vergi, toprak kaybı |
+| Feminist ve sosyal reform | Sanayi toplumunda kadın, çocuk ve bakım emeğinin görünmez kalması | Kadın emekçiler, reformcular, bazı işçi hareketleri | Reform dili bazen sınıf ve koloni farkını yeterince görmeyebilir | Eğitim talebi, çalışma saatleri, bakım yükü |
+
+Bu matris sana şu refleksi verir: Bir fikri savunan metni okurken yanında bedel defteri aç. “Bu fikir neyi özgürleştiriyor?” kadar “hangi emeği normalleştiriyor?” diye de sor.
 
 ## 8.5 Halk gözüyle sanayi çağı
 

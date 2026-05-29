@@ -59,6 +59,20 @@ Aydınlanma'yı gerçekten öğrenmek için "akıl kazandı" demek yetmez. O ak�
 
 Bu tablo Aydınlanma'yı küçültmez; onu daha dürüst yapar. Çünkü bir fikrin gücü, yalnız söylediği güzel cümlede değil, o cümlenin kimlere ulaşmadığını görebilmesinde de sınanır.
 
+### Fikir hareketleri matrisi: hak dili hangi kapıyı açtı?
+
+1650-1815 arasında fikirler yalnız salonlarda dolaşmadı; vergi krizine, savaş borcuna, ekmek fiyatına, köleliğe ve temsil kavgasına değdi. Bu yüzden aynı “özgürlük” kelimesi farklı ellerde farklı kapılar açtı.
+
+| Fikir dili | Kök sebep | Kimin gözünden makul? | Güçlü karşı fikir | Halktaki iz |
+|---|---|---|---|---|
+| Liberal hak ve mülkiyet dili | Keyfi vergi, mutlak yönetim ve ticaret engellerine karşı güvence arayışı | Mülk sahibi yurttaş, tüccar, reformcu hukukçu | Mülkiyet şartı geniş halkı ve kadınları siyasetin dışında bırakabilir | Temsil talebi, vergi itirazı, basın |
+| Cumhuriyetçilik | Yozlaşmış saray, borç ve ayrıcalık düzenine karşı erdemli yurttaşlık arayışı | Şehirli yurttaş, devrimci kulüp, milis | Ortak erdem dili muhalefeti “halk düşmanı” diye bastırabilir | Kulüp, bayrak, milis, tören |
+| Muhafazakarlık | Devrimin şiddeti ve toplumsal çözülme korkusu | Toprak sahibi, kilise, düzen arayan halk kesimleri | Düzen savunusu eski ayrıcalıkları koruma aracına dönüşebilir | Gelenek, aile, din, itaat |
+| Abolisyonizm | Köle emeğinin ahlaki dehşeti ve özgürlük dilinin çelişkisi | Köleleştirilmiş insanlar, dinî hareketler, radikal reformcular | Plantasyon çıkarı ekonomik zorunluluk iddiasıyla direnir | Tanıklık, boykot, isyan, yasa kampanyası |
+| Erken kadın hakları dili | Evrensel hak söyleminin kadınları dışarıda bırakması | Eğitimli kadınlar, radikal çevreler, bazı reformcular | “Doğal aile düzeni” argümanı eşitliği sınırlar | Dilekçe, broşür, eğitim talebi |
+
+Bu tabloyu okurken ana ders şu olsun: Hak dili gerçekten dönüştürücüdür; ama kimin hak öznesi sayıldığı her zaman ayrı bir mücadeledir.
+
 ## 7.4 Devrimler: fikir mi, ekmek mi?
 
 Amerikan ve Fransız devrimleri yalnız fikir patlaması değildir. Vergi, borç, savaş ve temsil kriziyle iç içedir. Amerikan kolonileri "temsil yoksa vergi de yok" derken mali egemenlik sorusu açıldı. Fransa'da devlet borcu, vergi eşitsizliği ve ekmek fiyatı devrimi toplumsal hale getirdi.

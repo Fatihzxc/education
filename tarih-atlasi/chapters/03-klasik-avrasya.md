@@ -49,6 +49,20 @@ Yani klasik felsefeleri yalnız "büyük zihinlerin fikirleri" diye okumak eksik
 
 Bu yüzden fikir akımlarının kök sebebini ararken, önce toplumun hangi soruyla sıkıştığını bul.
 
+### Aynı düzen sorusuna beş cevap
+
+Klasik Avrasya'nın en öğretici tarafı şudur: Aynı çağda farklı toplumlar benzer bir probleme bakar, ama aynı cevabı vermez. Problem sade: kalabalık, eşitsiz, savaş riski taşıyan toplum nasıl birlikte tutulacak?
+
+| Fikir dili | Kök sebep | Kimin gözünden makul? | Güçlü karşı fikir | Halktaki iz |
+|---|---|---|---|---|
+| Yunan yurttaşlık ve erdem dili | Polis içinde karar, savaş, mülkiyet ve statü kavgası | Özgür erkek yurttaş, küçük üretici, tartışma meclisi | Yurttaşlık dar tutulduğunda köle, kadın ve yabancı dışarıda kalır | Meclis, mahkeme, askerlik, dışlanma |
+| Roma hukuk dili | Genişleyen egemenlik alanında mülkiyet, sözleşme ve statü düzeni kurma ihtiyacı | Yurttaş, toprak sahibi, yönetici elit, tüccar | Hukuk düzen getirirken köleliği ve eyalet hiyerarşisini de koruyabilir | Vergi, dava, vatandaşlık umudu, statü farkı |
+| Çin Konfüçyüsçü-bürokratik dil | Savaşan devletler ve hanedan düzeni içinde istikrar arayışı | Memur, aile reisi, imparatorluk merkezi | Ahlaki düzen dili itaat, sınav baskısı ve köylü yükünü perdeleyebilir | Vergi, emek yükümlülüğü, aile disiplini |
+| Hint dharma ve kurtuluş dilleri | Kast, krallık, şehirleşme ve acı deneyimini anlamlandırma ihtiyacı | Rahip, kral, tüccar, keşiş, arayış içindeki kişi | Dharma düzeni hiyerarşiyi doğal gösterebilir; kurtuluş dili dünyadaki eşitsizliği geri plana itebilir | Ritüel, kast sınırı, bağış, manastır |
+| Bozkır bağlılık ve hareketli güç dili | Hayvancılık, akın, ticaret ve sınır baskısı içinde birlik kurma ihtiyacı | Kabile lideri, savaşçı, hareketli tüccar | Yerleşik kaynaklar onu “barbarlık” diye küçültür; içerideki siyasetini göremez | Ganimet, göç, pazarlık, sınır tehdidi |
+
+Bu tablo sana şu alışkanlığı kazandırsın: Bir fikri “doğru cevap” gibi değil, belirli bir toplumsal sıkışmanın cevabı gibi oku. O zaman hem fikri ciddiye alırsın hem de onun dışarıda bıraktığı insanları görürsün.
+
 ## 3.4 İmparatorluk barışı kimin barışıydı?
 
 Roma Barışı, Pers yolları, Han düzeni gibi ifadeler bize güvenli ticaret ve uzun mesafe bağlantı anlatır. Gerçekten de büyük imparatorluklar bazen yolları güvenli kıldı, ölçüleri düzenledi, hukuku genişletti, tüccara ve şehirliye daha öngörülebilir bir dünya verdi.
