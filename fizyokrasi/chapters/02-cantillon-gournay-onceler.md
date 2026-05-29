@@ -60,6 +60,19 @@ Cantillon'un Quesnay'e bıraktığı miras üç eksendedir.
 
 Bu üç eksen birlikte alındığında, Cantillon'un *Essai*'sinin neden "fizyokrasinin ilk taslağı" olarak okunabileceği görülür. Quesnay yeni bir okul kurmamıştır; daha çok, Cantillon'un sezgilerini sistematize etmiş, radikalleştirmiş ve siyasi bir program haline getirmiştir.
 
+### Öncesi haritası: fizyokrasi hangi ihtiyaçlardan doğdu?
+
+Fizyokrasi bir anda "toprak üretkendir" diye ortaya çıkmadı. Önce Fransa'da birkaç ayrı sıkışma birikti: para ve balon tecrübesi, ticaret engelleri, köylü yoksulluğu, vergi karmaşası ve sarayın reform arayışı. Aşağıdaki harita bu birikimi tek bakışta tutmak için var.
+
+| Kanal | Getirdiği temel fikir | Hangi probleme cevap arıyordu? | Quesnay'de neye dönüştü? | Karşı soru |
+|---|---|---|---|---|
+| Cantillon | Girişimci, risk, dolaşım, toprağın reel temeli | Law balonu sonrası para ile gerçek servet ayrımı | Tableau'nun dolaşım mantığı ve toprak merkezli değer fikri | Risk alan tüccar neden "steril" sayılacak? |
+| Gournay | Malların ve üretimin serbest akışı | Lonca, gümrük ve izin düzeninin tıkanıklığı | *Laissez-faire, laissez-passer* programı | Serbestlik kimin serbestliği: tüccarın mı, köylünün mü? |
+| Boisguilbert | Tarım ve iç dolaşımın bozulması | Colbertçi kısıtların köylüyü yorması | Tahıl akışının ve tarımsal fazlanın merkezi önemi | Piyasa serbestliği ekmek fiyatını yoksul için artırırsa ne olur? |
+| Vauban | Tek ve sade vergi arayışı | Ayrıcalıklı, parçalı, adaletsiz vergi düzeni | *Impôt unique* fikrinin öncülü | Tek vergi teoride sade, siyasette kime dokunuyor? |
+
+Bu harita şunu anlatır: Fizyokrasi yalnızca "tarımcı bir teori" değildir. Para krizinden, ticaret tıkanıklığından, köylü geçiminden ve devletin vergi çaresizliğinden doğan bir cevaplar birleşimidir.
+
 ## 2.7 Üçüncü kanal: Boisguilbert ve Vauban — Fransız iç-eleştirisi
 
 Cantillon ve Gournay'in yanına, Fransa içinden gelen üçüncü bir damarı eklemek gerekir; aksi takdirde fizyokrasinin neden özellikle **Fransız** bir okul olarak doğduğu eksik kalır. Bu damarın iki adı vardır: Pierre Le Pesant de Boisguilbert (1646-1714) ve Sébastien Le Prestre de Vauban (1633-1707).

@@ -101,6 +101,20 @@ neoklasik iktisat
 
 Bu sentez bugün ders kitaplarında o kadar normal görünür ki tarihsel bir kırılma olduğu unutulur. Talep eğrisi, arz eğrisi, denge fiyatı, marjinal maliyet, tüketici artığı gibi kavramlar sanki hep oradaymış gibi gelir. Oysa bunlar belirli bir tarihsel inşa sürecinin ürünüdür.
 
+### Neden bu dil tuttu?
+
+Marjinalizmin başarısını yalnızca "daha doğru teori geldi" diye anlatmak eksik olur. Bu dil, 19. yüzyıl sonunun kurumları ve ihtiyaçlarıyla da uyumluydu.
+
+| Zemin | Marjinalist dile nasıl alan açtı? | Karşı okuma ne sorar? |
+|---|---|---|
+| Matematikleşen bilim ideali | İktisat daha kesin, ölçülebilir ve model kurulabilir göründü | Ölçülebilen şey önemli olan her şey midir? |
+| Üniversitelerin uzmanlaşması | Politik iktisat daha teknik bir disipline dönüştü | Teknikleşme sınıf ve güç sorularını dışarı mı itti? |
+| İstatistik ve piyasa verisi | Fiyat, talep ve denge kavramları daha işlenebilir hale geldi | Veri kimin hayatını gösteriyor, kimin deneyimini göstermiyor? |
+| Sosyalizm korkusu | Emek-değer yerine tercih ve verimlilik dili daha güvenli göründü | Teori sadece açıklıyor mu, mevcut düzeni de yatıştırıyor mu? |
+| Tüketici figürünün yükselişi | Değer, üretimden çok tercih ve kıtlık üzerinden anlatıldı | Tüketici olmak, işçi veya yurttaş olmaktan daha mı merkezî sayıldı? |
+
+Bu bölümün püf noktası şu: Marjinalizm hem gerçek bir analitik ilerlemedir hem de belirli bir tarihsel ortamın dilidir. Onu ancak iki yönü birlikte tutarsan iyi anlarsın.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** İktisat daha kesin, matematiksel ve mikro temelli bir bilim dili arıyordu.

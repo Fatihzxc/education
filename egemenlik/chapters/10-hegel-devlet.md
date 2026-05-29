@@ -56,6 +56,19 @@ Bu eleştiri kehanet niteliğindedir. 19. yüzyıl Fransa'sının Jakobenliği'n
 
 Ama Hegel'in alternatifi de sorunlu kabul edilebilir: anayasal monarşi, sınırlı temsil, bürokratik egemenlik — modern okuyucuya yetersiz görünebilir. 19-21. yüzyıl gelişmesi, Rousseau'nun radikal demokrasisi ile Hegel'in muhafazakâr anayasacılığı arasında *üçüncü bir yol* — temsili demokrasi, halk seçimleri, kuvvetler ayrılığı — geliştirdi. Bu üçüncü yol, modern demokratik devletin formudur; ama hem Rousseau'cu hem Hegelci unsurları içerir.
 
+### Egemenlik nerede durur?
+
+Hegel bölümünü okurken temel pusula şu olsun: egemenliğin kaynağını nereye koyduğuna göre hem özgürlük hem tehlike tanımın değişir.
+
+| Gelenek | Egemenlik nerede durur? | Özgürlük vaadi | Tehlike | Bugünkü yankı |
+|---|---|---|---|---|
+| Rousseau | Halkın genel iradesinde | Halk kendi yasasını kendi yapar | "Gerçek halk iradesi" adına çoğulculuk ezilebilir | Referandumcu popülizm, doğrudan demokrasi tartışmaları |
+| Hegel | Rasyonel devlette ve kurumlarda | Dağınık çıkarlar ortak etik düzene bağlanır | Bürokrasi kendini halktan üstün görebilir | Uzman devlet, anayasal kurumlar, teknokrasi |
+| Liberal eleştiri | Bireysel haklar ve sınırlı iktidarda | Devlet kişiye müdahale edemez | Ortak sorunlar özel hak diliyle çözülemeyebilir | Anayasa mahkemeleri, hak temelli siyaset |
+| Marxçı eleştiri | Sınıf ilişkilerinin maddi temelinde | Devletin sınıf karakteri görünür olur | Devleti sadece sınıf aracına indirgeme riski | Sermaye-devlet ilişkisi, emek hareketleri |
+
+Bu karşılaştırma Hegel'i daha adil okumayı sağlar. Hegel devleti putlaştıran basit bir düşünür değildir; ama devletin kendi adına konuşma tehlikesini de gerçekten ciddiye almak gerekir.
+
 ## 10.6 Hegel ile Marx: dönüşen miras
 
 Karl Marx (Mülkiyet kitabı Bölüm 8'de işlendi) genç bir Hegelci olarak başladı; ama 1843'te yazdığı *Critique of Hegel's Philosophy of Right* eserinde, hocasından kritik bir yönden ayrıldı.

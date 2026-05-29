@@ -66,6 +66,20 @@ Malthus'un saldırısı şu mantığı izler. Yoksullara nakit/gıda yardımı v
 
 Karl Polanyi 1944 tarihli *The Great Transformation* eserinde Speenhamland-1834 geçişini, "piyasa toplumunun şiddet-kuruluşunun" kritik momentlerinden biri olarak okur. Polanyi'nin tezi şudur: Speenhamland sistemi, kapitalist piyasaya geçişi *geciktiren* aristokratik bir tampon kurumdu — emek-gücünü tam-piyasa metasına dönüştürmeyi engelliyor, kırsal hanenin biyolojik yeniden-üretimini geleneksel cemaat çerçevesinde tutuyordu. 1834 reformu bu tamponu yıkar: emek-gücü artık tek geçim kaynağı olarak piyasaya zorlanır, workhouse kurumsallaşmış bir baskı aracı olarak alternatif "yardım"ı caydırır, ve Britanya kırsalı sanayi proletaryasının kitle kaynağına dönüşür. Polanyi için bu, "kendi-kendini düzenleyen piyasa" (self-regulating market) mitinin pratikteki temel kuruluş aşamasıdır; piyasa toplumu *doğal olarak* gelişmez, *zorla* kurulur, ve Malthus'un teorisi bu zorlamanın entelektüel meşrulaştırma aygıtıdır. Bölüm 8 — klasik iktisadın politik bağlamı — Reform Bill 1832, Chartism ve Factory Acts ile birlikte 1834 yasasının yarattığı politik gerilimi tartışacaktır. Burada altı çizilmesi gereken yapısal nokta: 19. yüzyıl İngiliz sosyal politikasının temel kurumu, Malthusyan analizinin politik öğüde dönüşmüş halidir; ve Polanyi'nin gözlüğünden bakıldığında bu, 20. yüzyıl refah devleti tartışmalarının da yapısal başlangıç noktasıdır.
 
+### Workhouse kimin gözünden neydi?
+
+Poor Laws tartışmasını yalnız "yardım iyi mi kötü mü?" diye okumak çok dar kalır. Aynı kurum, farklı insanlar için bambaşka bir anlama geliyordu.
+
+| Aktör | 1834 reformu ona ne ifade eder? | Neden destekleyebilir? | Neden korkabilir / karşı çıkabilir? |
+|---|---|---|---|
+| Yoksul aile | Yardım için özgürlüğünü ve aile düzenini kaybetme riski | Aç kalmamak için son çare | Workhouse onur kırıcı, ayrıştırıcı ve cezalandırıcıdır |
+| Parish vergi mükellefi | Yoksul yardımının maliyetini azaltma umudu | Vergi yükü hafifleyebilir | Yerel huzursuzluk ve ahlaki tepki büyüyebilir |
+| Toprak sahibi | Kırsal yoksulluğu kontrol etme aracı | İsyanı caydırır, yardım maliyetini düzenler | İşgücünün kopuşunu hızlandırabilir |
+| Sanayici | Emek piyasasının daha serbest hale gelmesi | İşçiler fabrikaya yönelir, ücret baskısı artar | Aşırı sefalet toplumsal patlama yaratabilir |
+| Dickens'ın okuru | Kurumun insan yüzünü görür | "Bilimsel" reformun soğukluğunu sorgular | Romantik acıma yapısal analizin yerine geçebilir |
+
+*Oliver Twist* bu yüzden yalnız edebi bir roman değil, sosyal politikanın halka nasıl göründüğünü anlatan bir mercektir. Malthus ve reformcular sayı, nüfus ve teşvik diliyle konuşurken, Dickens aynı düzenin çocuk bedeninde ve aile hayatında neye dönüştüğünü gösterir.
+
 ## 3.8 Eleştiriler — Marx'tan Sen'e
 
 Malthus'a yöneltilen en sistemli eleştiri, Karl Marx'tan gelir. *Das Kapital*'in birinci cildinde (1867), özellikle yedeği sanayi ordusu ve ücret bölümlerinde, Marx Malthus'a son derece sert hücum eder.^[2] Tezi: Malthus'un nüfus yasası evrensel bir doğa yasası değil, *tarihsel-toplumsal* bir formdur. Her üretim tarzının kendi özgül nüfus yasası vardır; kapitalizmin nüfus yasası, kapitalist birikimin kendi içsel dinamiğinden — sermayenin organik bileşiminin sürekli yükselmesinden — doğar. Kapitalizm bir "*yedek sanayi ordusu*" (industrial reserve army) üretir; bu, fazla emek arzının kurumsal-yapısal bir sonucudur, biyolojik bir kaderin değil. Malthus'un "doğa yasası" görünümü, Marx için bir *ideoloji*'dir: kapitalist düzenin kurumsal şiddetini, doğanın değişmez kuralı olarak sunmak. Friedrich Engels, 1845 tarihli *Die Lage der arbeitenden Klasse in England* (İngiltere'de İşçi Sınıfının Durumu) eserinde benzer bir eleştiri yapmıştı: sömürünün ürettiği yoksulluğu, doğal-demografik bir mekanizmanın kaçınılmaz sonucu olarak göstermek, kapitalin politik bir hizmetidir. Marx'ın deyimiyle, Malthus "kapital'in karşı-devrim peygamberi"dir.

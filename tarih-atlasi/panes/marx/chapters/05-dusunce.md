@@ -48,6 +48,20 @@ Marx'ın eserinin alt başlığı önemlidir: politik iktisadın eleştirisi. Ya
 
 Bu yüzden Marx'ı yalnızca alternatif bir iktisatçı gibi okumak eksiktir. O, iktisadi kategorilerin arkasındaki toplumsal ilişkiyi açmaya çalışan bir eleştirmen olarak da okunmalıdır.
 
+### Marxçı açıklamayı karşı seslerle sınamak
+
+Marx'ı güçlü okumak, onu tartışmasız kabul etmek değildir. Tam tersine, hangi itirazların geldiğini bilmek Marx'ın neyi gerçekten iyi açıkladığını daha netleştirir.
+
+| Bakış | Marx'a ne katılır? | Marx'a ne itiraz eder? |
+|---|---|---|
+| Marxçı | Sınıf, üretim ilişkisi ve artı-değer kapitalizmin kalbidir | İtirazdan çok derinleştirme yapar: kriz, emperyalizm, ideoloji, yeniden üretim |
+| Weberci | Ekonomi önemlidir ama fikirler, din, hukuk ve bürokrasi de tarih yapar | Sınıfı tek anahtar haline getirmenin açıklamayı daraltabileceğini söyler |
+| Kurumsalcı | Mülkiyet, şirket, sendika ve devlet oyunun kurallarını belirler | Kapitalizmi yalnız emek-sermaye çatışmasına indirgememeyi önerir |
+| Kültürel okuma | Tüketim, kimlik, ulus ve arzu da ekonomik hayatı biçimlendirir | İnsanların yalnız sınıf konumuyla davranmadığını hatırlatır |
+| Feminist okuma | Ücretli emek kadar ev içi bakım emeği de sistemi taşır | Marx'ın üretim merkezli dilinin yeniden üretim emeğini eksik gördüğünü söyler |
+
+Bu karşı sesleri yan yana koyunca daha olgun bir Marx okuması çıkar: Marx sana çok güçlü bir anahtar verir, ama her kapıyı tek anahtarla açmaya çalışırsan bazı odaları fark etmezsin.
+
 ## Marx'ı okurken üç katman
 
 Marx metinleri bazen zor gelir, çünkü aynı anda üç katmanda konuşur:

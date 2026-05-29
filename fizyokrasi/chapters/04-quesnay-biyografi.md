@@ -56,6 +56,21 @@ Augustin Cochin'in (Bölüm 10'da merceği detaylandırılacaktır) 20. yüzyıl
 
 Bu biyografik zemin, Bölüm 6'da işlenecek "*ideoloji prototipi*" tezinin somut karşılığıdır. Toprak rantçısı ama aynı zamanda feodal-statü-yorgunu olan kesimin — alt soyluluk, modernleşen bürokrasi, üst burjuvazi — koalisyonu, doğal yasanın evrensel sesi olarak konuşmayı seçmiştir. Marx'ın "ideoloji" dediği şeyin — yükselmekte olan bir sınıf koalisyonunun çıkarının evrensel hakikat olarak teorik kristalleşmesi — en saf erken örneklerinden biri, Quesnay'in entresol'ünde, kralın doktorunun sessiz otoritesi altında dökülmektedir. Bölüm 7'de bu akademinin kurumsal oluşumuna, Bölüm 10'da Cochin merceğine geri döneceğiz.
 
+### Versailles reform laboratuvarı: kim ne görüyordu?
+
+Quesnay'in hikayesini yalnız "büyük düşünür biyografisi" gibi okumamak gerekir. Aynı oda, farklı aktörler için farklı anlamlar taşırdı.
+
+| Aktör | Entresol'de ne arıyordu? | Fizyokrat fikir ona ne vaat ediyordu? | Kör nokta / karşı bakış |
+|---|---|---|---|
+| Quesnay | Ekonomiyi sağlıklı beden gibi modellemek | Akışın doğal yasasını bulmak | Toplum beden kadar uyumlu değildir; çatışma vardır |
+| Pompadour | Saray içinde aydınlanma sermayesi ve reform çevresi | Bilginin krala yakın durması | Patronaj değişince fikirlerin zemini sarsılır |
+| Kral ve maliye çevresi | Gelir, düzen ve reform imkânı | Karmaşık vergiyi sadeleştirme umudu | Ayrıcalıklı sınıflara dokunmadan reform zorlaşır |
+| Mirabeau ve çevre | Yayın, doktrin, okul kurma | Evrensel doğal düzen dili | Evrensel dil, belirli bir koalisyonun çıkarını gizleyebilir |
+| Vergi çiftçileri ve loncalar | Mevcut ayrıcalıkları koruma | Tehdit görürler | Direniş "cehalet" değil, çıkar savunusudur |
+| Köylüler ve kentli tüketiciler | Ekmek, vergi, geçim güvenliği | Dolaylı vergilerin azalması ihtimali | Tahıl serbestliği fiyat şokunu da büyütebilir |
+
+Bu tablo Quesnay'in büyüklüğünü azaltmaz; tersine daha gerçek kılar. Büyük fikirler çoğu zaman bir odada doğar, ama o odanın kapısının dışında bu fikirlerin bedelini taşıyacak insanlar vardır.
+
 ## 4.6 Tableau Économique — kapalı bir kraliyet baskısı
 
 1758. Quesnay altmış dört yaşında, Versailles entresol'ünde, çoktan tanınmış bir saray hekimi, *Encyclopédie* yazarı, yeni doğmakta olan bir okulun düşünsel merkezi. Bu yıl, *Tableau Économique*'in ilk baskısını yapar — ama kamuya açık biçimde değil. Baskı, kraliyet matbaasında son derece sınırlı sayıda gerçekleşti: büyük olasılıkla XV. Louis için kişisel bir kopya ile birkaç saray çevresi mensubu için.^[6]

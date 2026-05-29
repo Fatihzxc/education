@@ -34,6 +34,20 @@ Fizyokrat reformları anlamanın en iyi yollarından biri, her önerinin kimin r
 
 Bu tablo şunu gösterir: Reform yalnızca doğru fikirler listesi değildir. Reform, yerinden oynatılan çıkarların haritasıdır. Fizyokratların devletten beklediği güç de bu yüzden büyüktü.
 
+### Reformun duygu zinciri
+
+Fizyokrat reformu sadece fikir olarak izlersek "akıllı insanlar sistemi sadeleştirmek istedi" sonucuna varırız. Ama onu toplumun içinde izlersek zincir daha karmaşık görünür.
+
+| Aşama | Reformcu göz ne görür? | Halkta veya yerelde ne hissedilir? |
+|---|---|---|
+| Sorun | Vergiler dağınık, üretim tıkalı, tahıl dolaşımı aksıyor | Hayat pahalı, yük adaletsiz, eski düzen yorucu ama tanıdık |
+| Reform | Engeller kalkarsa doğal düzen çalışacak | "Bizi koruyan eski duvarlar da kalkıyor mu?" kaygısı doğar |
+| Ayrıcalığa dokunuş | Soylu, lonca ve memur imtiyazı kırılıyor | Güçlüler direniyor; zayıflar kimin kazanacağını anlayamıyor |
+| Geçiş maliyeti | Uzun vadede üretim ve bolluk artacak | Bugün ekmek pahalıysa uzun vade uzak ve soğuk gelir |
+| Siyasal sonuç | Reform aklı haklı olabilir | Güven kurulmazsa reform haklıyken bile meşruiyet kaybeder |
+
+Buradan şu ders çıkar: Bir reformu anlamak için yalnızca nihai amacına bakmak yetmez. Geçiş sırasında kim korunuyor, kim belirsizliğe bırakılıyor, kim sesini duyurabiliyor? Fizyokrasi bu soruları çok iyi açar.
+
 ## Doğal düzen ve yasal despotizm
 
 Fizyokratlara göre doğal düzen keşfedilebilir bir şeydi. Ekonomi keyfî emirlerle değil, kendi yasalarıyla işler. Devlet bu yasaları bozarsa kıtlık, yoksulluk ve verimsizlik doğar.

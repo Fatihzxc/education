@@ -105,6 +105,20 @@ Sonuçta Magnusson şunu önerir:
 
 Yani merkantilizm kavramının **yapı-bozumu** lazımdır. Tek bir "merkantilizm" yoktur; farklı zamanlarda, farklı yerlerde, farklı sebeplerle gelişen pratiklerin gevşek bir ailesi vardır. Her birini kendi bağlamında okumak, hepsini tek bir sisteme indirgemekten daha aydınlatıcıdır.
 
+### Tarih yazımı matrisi: merkantilizmi kim nasıl gördü?
+
+Bu bölümde asıl öğrenilecek şey yalnız merkantilizmin kendisi değildir; aynı zamanda tarihçinin geçmişi nasıl çerçevelediğidir. Aynı politikalar, bakan kişiye göre hata, devlet inşası, güç stratejisi ya da dil oluşumu olarak görünebilir.
+
+| Okuma | Merkantilizm neydi? | Ne güzel gösterir? | Neyi fazla basitleştirir? |
+|---|---|---|---|
+| Smithçi okuma | Parayı servet sanan yanlış sistem | Para ile reel zenginlik ayrımını berraklaştırır | Devlet kapasitesi ve güvenlik ihtiyacını küçültebilir |
+| Alman Tarih Okulu | Ulus-devlet ve pazar birliği kurma çabası | İç gümrük, bürokrasi ve merkezileşmeyi açıklar | Politikaların tüketici ve yerel toplum maliyetini geri plana iter |
+| Cunningham / güç okuması | Refah değil devlet gücü arayan sistem | Savaş, donanma ve maliye bağını gösterir | Güç ve refahın bazen birlikte düşünüldüğünü kaçırabilir |
+| Heckscher | Birleştirici, korumacı, parasal ve toplumsal sistem | Büyük resmi kurar; dağınık olguları bağlar | Tek sistem hissi vererek yerel farkları düzleştirebilir |
+| Magnusson | Ortak doktrin değil, oluşan iktisat dili | Kavramların nasıl doğduğunu gösterir | Aile benzerliğini fazla gevşetirse açıklama gücü azalabilir |
+
+Bu matris şunu öğretir: Bir tarihsel etiketi kullanırken etiketi kimin kurduğunu da sor. Çünkü bazen kavram, geçmişi açıklamaktan çok, sonraki kazanan fikrin kendini haklı göstermesine hizmet eder.
+
 ## Bugün kelime ne işe yarar?
 
 Magnusson'un eleştirisi haklı çıktığında, "merkantilizm" kelimesini büsbütün atmak mı gerekir? Hayır. Birkaç sebepten dolayı.

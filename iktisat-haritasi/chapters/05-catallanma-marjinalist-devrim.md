@@ -30,6 +30,19 @@ Ama *işlev* niyetten bağımsızdır. Bir teorinin neden *yaygınlaştığını
 
 Doğru cevap, senin de sezdiğin gibi, ikisinin belirli bir oranda birlikteliğidir: gerçek bir analitik atılım, ve aynı zamanda — niyetten bağımsız olarak — emek-değer/sömürü sorusunu kapatan, yükselen sınıf için işlevsel bir manevra. İki katman, en sivri haliyle bile, ayrılamaz. Bu tartışma iktisat tarihçileri arasında hâlâ açıktır; bu kitabın tutumu bir tarafı seçmek değil, tartışmanın *neden* açık olduğunu görünür kılmaktır.^[2]
 
+### Çift kayıt defteri: marjinalizm ne kazandırdı, neyi kapattı?
+
+Marjinalist devrimi sağlıklı okumak için iki kayıt defterini aynı anda açık tutmak gerekir. Birincisi teorinin gerçekten çözdüğü sorunları yazar. İkincisi, bu çözümün hangi eski soruları görünmezleştirdiğini gösterir.
+
+| Alan | Analitik kazanç | Kapanan / zayıflayan soru | Kim için kullanışlı hale gelir? | Karşı denetim |
+|---|---|---|---|---|
+| Değer | Kıtlık ve son birim faydası açıklanır | Üretimde emek ne kadar değer yaratıyor? | Tüketici ve piyasa dengesi merkezli ders kitabı | Ücret-kâr bölüşümü hâlâ üretim noktasında mı belirleniyor? |
+| Fiyat | Talep eğrisi ve denge fiyatı kurulabilir | Fiyatın arkasındaki sınıf gücü geri çekilir | Teknik politika analizi | Aynı fiyat farklı gelir grupları için aynı acıyı mı taşır? |
+| Gelir dağılımı | Her faktör marjinal verimi kadar kazanır denir | Kâr sömürü mü, katkı mı sorusu yumuşar | Sermaye gelirinin meşrulaştırılması | Sermayenin "katkısı" bağımsız ölçülebiliyor mu? |
+| Yöntem | Matematik ve optimizasyon yaygınlaşır | Tarihsel kurumlar ve çatışma arka plana düşer | Üniversiteleşen teknik iktisat | Modelin dışında kalan güç ilişkisi sonucu değiştiriyor mu? |
+
+Bu defter sana bir denge hissi verir: marjinalizm bir hile değildir; ama masum bir ilerleme hikâyesi de değildir. Daha iyi bir fiyat aracı kurarken, iktisadın politik ağırlık merkezini üretimden tercihe taşır.
+
 ## 5.5 Neden mor: ayrı bir soy
 
 Haritada marjinalizmi (ve ardından neoklasik, monetarizm) ayrı bir renge — mor — boyamamın nedeni şudur: bu, klasik-Marx ailesinin *devamı* değil, ondan kopan ayrı bir soydur. Teal aile değeri üretimde, nesnel emekte arar; mor aile değeri tüketimde, öznel faydada ve piyasa dengesinde arar. Çatallanma noktasının iki kolu farklı ailelere aittir: Marx (teal) klasiğin öncülünü sonuna götürür; marjinalizm (mor) öncülün kendisini değiştirir.

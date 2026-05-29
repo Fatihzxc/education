@@ -48,6 +48,20 @@ Ricardo'nun bu modeli sınıf-politik bir okuma sunar (Bölüm 4'te işlendi). 1
 
 Ricardian modelin Smithian'a göre teorik gücü şudur: büyümenin *iç-doğurduğu bir sınır*'ı belirler. Smith dış sınırlar (savaş, kötü hükümet, korumacılık) düşünebilir; Ricardo iç sınırı — sermaye birikiminin kendisi tarafından üretilen rant şişmesi — gösterir. Bu, klasik iktisadın bir politik-iktisat teorisi olarak olgunlaşmasının kritik anıdır.
 
+### Büyüme modelleri: aynı zenginleşme sorusuna beş cevap
+
+Klasik büyüme teorisini zihinde tutmanın en iyi yolu, her düşünürü aynı soruya cevap verirken görmek: "Bir toplum zenginleşirken onu ne taşır, ne durdurur, bedeli kime çıkar?"
+
+| Düşünür / hat | Büyümeyi ne taşır? | Sınır nerede belirir? | Baskın bakış | Karşı soru |
+|---|---|---|---|---|
+| Smith | İşbölümü, pazar genişliği, sermaye birikimi | Pazar daralırsa veya tekel engellerse | Tüccar-sanayici ilerleme iyimserliği | Kaynak, sömürge ve emek disiplini nerede duruyor? |
+| Malthus | Üretim artışı nüfusu besler | Nüfus gıda artışını aşabilir | Geçim ve demografi kaygısı | Yoksulluğu doğa yasası gibi anlatmak politik sorumluluğu gizler mi? |
+| Ricardo | Kâr ve yatırım büyümeyi sürükler | Toprak kıtlığı rantı şişirip kârı daraltır | Sanayi sermayesi ile toprak aristokrasisi çatışması | İşçi bu çatışmada gerçekten kimin yanında? |
+| Mill | Büyüme belirli eşiğe kadar araçtır | Aşırı büyüme yaşam kalitesini bozabilir | Ahlaki-liberal reform bakışı | Büyümeyi kim, hangi kurumlarla yavaşlatabilir? |
+| Marx | Sermaye birikimi sistemi genişletir | Sömürü, kriz ve yoğunlaşma sistemi sarsar | Sınıf çatışması ve üretim ilişkileri | Kriz geçici arıza mı, yoksa sistemin kendi dili mi? |
+
+Bu karşılaştırma basit ama önemlidir. "Büyüme iyi midir?" sorusuna tek cevap yoktur; önce büyümenin hangi mekanizmayla geldiğini, hangi sınırı zorladığını ve hangi toplumsal payları değiştirdiğini görmek gerekir.
+
 ## 6.5 Mill'in seçimli durağan-durumu
 
 John Stuart Mill'in 1848'de yayımladığı *Principles of Political Economy*'sinin dördüncü kitabının altıncı bölümü — *"Of the Stationary State"* — klasik büyüme tartışmasına bambaşka bir tonla katılır^[3]. Mill kendinden önceki klasik geleneğin (Smith'in açık-uçluluğu hariç) pessimizmini paylaşır; büyümenin uzun-vadede durağan-duruma yöneldiğini kabul eder. Ama bu sonuca yaklaşımı, hem Ricardo'dan hem Malthus'tan radikal biçimde farklıdır. Mill durağan-durumu hayıflanılacak bir son olarak değil, *arzu edilen bir hedef* olarak yeniden çerçeveler.

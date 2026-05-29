@@ -52,6 +52,19 @@ Hegel'in çerçevesi Locke'un emek-temelli mülkiyet anlayışından önemli öl
 
 Bu farklar, Hegel'in felsefi sisteminin Locke'tan kaynaklanan modern liberal mülkiyet teorisine bir *eleştirel yeniden-yapılandırma*'sı olduğunu gösterir. Hegel, Locke'un sonuçlarının çoğunu kabul eder — mülkiyet meşrudur, devletten önce gelir, bireysel özgürlüğün temelidir. Ama gerekçeleri Locke'un emek-mixing argümanıyla aynı değildir.
 
+### Aynı ev, dört ayrı mülkiyet hikayesi
+
+Hegel'i kavramak için soyut "kişilik" kelimesini bir ev üzerinden düşünelim. Aynı ev, farklı teorik gözlerde bambaşka anlam taşır.
+
+| Bakış | Ev neyin kanıtı? | Güçlü tarafı | Kör noktası |
+|---|---|---|---|
+| Locke | Emek ve meşru edinim | Kişinin emeğiyle kurduğu bağı ciddiye alır | İlk toprağın kime ait olduğu ve dışlananların hikâyesi zayıf kalabilir |
+| Hegel | Kişiliğin dünyada tanınması | Mülkiyeti yalnız para değil kimlik ve özgürlük meselesi yapar | Mülkü olmayanın kişiliği nasıl tanınacak sorusu açık kalır |
+| Marx | Üretim ilişkileri ve sınıf gücü | Sahiplik ile sömürü arasındaki yapıyı gösterir | Kişisel bağ, hatıra ve mahremiyet boyutu geri planda kalabilir |
+| Kiracı / evsiz | Güvenlik, barınma ve dışlanma | Mülkiyet tartışmasını gündelik ihtiyaçla yüzleştirir | Teoriler çoğu zaman onun deneyimini sonradan ekler |
+
+Bu küçük tablo Hegel'in neden önemli olduğunu gösterir: mülkiyet bazen yalnız ekonomik değer değildir; kişinin dünyada "ben buradayım" diyebilmesidir. Ama aynı tablo Hegel'in sınırını da gösterir: herkesin bu tanınma imkânına sahip olmadığı bir toplumda, kişilik dili eşitsizliği kolayca yumuşatabilir.
+
 ## 9.6 Marx'ın Hegel okuması
 
 Karl Marx (1818-1883), Berlin Üniversitesi'nde felsefe öğrencisiyken (1836-1841), Hegel'in *Philosophy of Right*'ını yoğun olarak okudu. Daha sonra "*genç Hegelci*" (Young Hegelian) hareketinin bir parçası olarak, Hegel'in çerçevesini eleştirdi.

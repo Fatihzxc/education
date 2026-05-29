@@ -104,6 +104,21 @@ Sentetik bir soru: 1990'larda "tarihin sonu" ilan edilen serbest ticaret çağı
 
 Bu beş etken bir araya geldiğinde, 1990'ların serbest ticaretçi konsensüsünün neden 2020'lerde mercantilist sezgiye yer açtığını anlayabiliriz. Smith'in çağı yeniden Colbert'in çağına evrildi — aynı mantığın, modernize edilmiş araçlarla, yeniden ortaya çıkışı.
 
+### Güncel politika kartı: bir müdahaleyi nasıl sorgulamalı?
+
+Bugünkü sanayi politikalarını okurken hemen "iyi" ya da "kötü" diye hüküm vermek yerine, küçük bir kart doldurmak daha sağlıklı olur. Çünkü aynı politika hem gerçek kapasite kurabilir hem de yeni rantlar yaratabilir.
+
+| Soru | Neden soruyoruz? | Örnek cevap türü |
+|---|---|---|
+| Hangi sektör stratejik ilan ediliyor? | Her sektör aynı derecede güvenlik ve öğrenme değeri taşımaz | Çip, batarya, gıda, ilaç, savunma, enerji |
+| Kök sebep ne? | Politika gerçek kırılganlığa mı, yoksa lobi baskısına mı dayanıyor? | Tedarik riski, savaş, iklim, istihdam, teknoloji yarışı |
+| Öğrenme üretir mi? | Koruma ancak kapasite artırıyorsa anlamlıdır | Yerli mühendislik, yan sanayi, Ar-Ge, kalite standardı |
+| Bedeli kim ödüyor? | Sübvansiyon ve tarife görünmez maliyet yaratır | Vergi verenler, tüketiciler, düşük gelirli haneler |
+| Kim dışarıda kalıyor? | Ulusal başarı anlatısı başka ülkelerde kayıp yaratabilir | Hammadde tedarikçileri, göçmen emek, çevre |
+| Çıkış kapısı var mı? | Geçici destek kalıcı ayrıcalığa dönüşebilir | Süre sınırı, performans ölçütü, şeffaf denetim |
+
+Bu kart, bugünkü merkantilist sezgiyi daha adil okumaya yarar. Devletin stratejik davranması bazen gerekir; ama strateji kelimesi, her desteği otomatik olarak doğru yapmaz. Doğru soru şudur: Bu müdahale toplumsal kapasite mi kuruyor, yoksa sadece güçlü aktörlere korunaklı alan mı açıyor?
+
 ## Bu kitabı bitirirken
 
 12 bölüm boyunca mercantilizmi farklı katmanlardan inceledik. Bölüm 1'de terimin doğuşunu ve 20. yüzyıl tarihyazımını gözden geçirdik. Bölüm 2'de para meselesini ve bullionizmi işledik. Bölüm 3'te erken modern devletin inşasını çerçeveledik. Bölüm 4-6'da Mun'un İngiliz okulu, Colbert'in Fransız devletçiliği, Hörnigk'in cameralism'i üzerinden Avrupa mercantilizminin üç ana okulunu inceledik. Bölüm 7-8'de Osmanlı'nın iaşe-fiskalizm-gelenekçilik üçlü çatısını ve İbn Haldun'un dışarıdan bakışını ele aldık. Bölüm 9'da Hume ve Smith'in klasik eleştirisini gördük. Bölüm 10'da sömürge ve şiddet boyutunu — Beckert'in "savaş kapitalizmi" çerçevesini — koyduk. Bölüm 11'de 20. yüzyıl yeniden okumalarının silsilesini izledik. Bu son bölümde ise mercantilist mirasın bugüne uzanan canlı çizgilerini takip ettik.

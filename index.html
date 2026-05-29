@@ -73,6 +73,7 @@
           '<div><b>Baskın bakış</b><span>' + esc(method.dominant || '') + '</span></div>' +
           '<div><b>Karşı fikir</b><span>' + esc(method.counter || '') + '</span></div>' +
           '<div><b>Öğrenme desteği</b><span>' + esc(method.aid || '') + '</span></div>' +
+          '<div><b>Halkta görünüm</b><span>' + esc(method.publicEye || '') + '</span></div>' +
         '</div>' +
         '<div class="card-meta">' +
           '<span>' + t.chapterCount + ' bölüm</span>' +
@@ -82,18 +83,23 @@
     }).join('');
 
     var paneShortcuts = [
-      { title: 'Merkantilizm', period: '1500-1750', color: '#c98a3a', href: 'tarih-atlasi/appendix/panes.html#merkantilizm', bookHref: 'tarih-atlasi/panes/merkantilizm/book.html#bolum/1' },
-      { title: 'Fizyokrasi', period: '1750-1780', color: '#8ab36b', href: 'tarih-atlasi/appendix/panes.html#fizyokrasi', bookHref: 'tarih-atlasi/panes/fizyokrasi/book.html#bolum/1' },
-      { title: 'Klasik İktisat', period: '1776-1870', color: '#65a6b7', href: 'tarih-atlasi/appendix/panes.html#klasik', bookHref: 'tarih-atlasi/panes/klasik/book.html#bolum/1' },
-      { title: 'Marx ve Artı-Değer', period: '1848-1890', color: '#c96d6d', href: 'tarih-atlasi/appendix/panes.html#marx', bookHref: 'tarih-atlasi/panes/marx/book.html#bolum/1' },
-      { title: 'Marjinalizm', period: '1871-1930', color: '#a996d8', href: 'tarih-atlasi/appendix/panes.html#marjinalizm', bookHref: 'tarih-atlasi/panes/marjinalizm/book.html#bolum/1' },
-      { title: 'Keynesçilik', period: '1930-1980+', color: '#7fa5c9', href: 'tarih-atlasi/appendix/panes.html#keynes', bookHref: 'tarih-atlasi/panes/keynes/book.html#bolum/1' }
+      { title: 'Merkantilizm', period: '1500-1750', color: '#c98a3a', href: 'tarih-atlasi/appendix/panes.html#merkantilizm', bookHref: 'tarih-atlasi/panes/merkantilizm/book.html#bolum/1', root: 'Savaş ve hazine', counter: 'Smith-Hume eleştirisi', publicEye: 'Vergi, pahalı mal, askerlik' },
+      { title: 'Fizyokrasi', period: '1750-1780', color: '#8ab36b', href: 'tarih-atlasi/appendix/panes.html#fizyokrasi', bookHref: 'tarih-atlasi/panes/fizyokrasi/book.html#bolum/1', root: 'Toprak ve vergi', counter: 'Sanayi değeri itirazı', publicEye: 'Ekmek, angarya, kıtlık' },
+      { title: 'Klasik İktisat', period: '1776-1870', color: '#65a6b7', href: 'tarih-atlasi/appendix/panes.html#klasik', bookHref: 'tarih-atlasi/panes/klasik/book.html#bolum/1', root: 'Sanayi ve bölüşüm', counter: 'Marx ve korumacılar', publicEye: 'Fabrika, ücret, oy hakkı' },
+      { title: 'Marx ve Artı-Değer', period: '1848-1890', color: '#c96d6d', href: 'tarih-atlasi/appendix/panes.html#marx', bookHref: 'tarih-atlasi/panes/marx/book.html#bolum/1', root: 'Sermaye ve sömürü', counter: 'Marjinal verimlilik', publicEye: 'Uzun işgünü, grev, yoksulluk' },
+      { title: 'Marjinalizm', period: '1871-1930', color: '#a996d8', href: 'tarih-atlasi/appendix/panes.html#marjinalizm', bookHref: 'tarih-atlasi/panes/marjinalizm/book.html#bolum/1', root: 'Tercih ve kıtlık', counter: 'Sınıf ve kurum eleştirisi', publicEye: 'Tüketim, borç, reklam' },
+      { title: 'Keynesçilik', period: '1930-1980+', color: '#7fa5c9', href: 'tarih-atlasi/appendix/panes.html#keynes', bookHref: 'tarih-atlasi/panes/keynes/book.html#bolum/1', root: 'Kriz ve talep', counter: 'Hayek-monetarist itiraz', publicEye: 'İşsizlik, maaş, kamu işi' }
     ];
     paneGrid.innerHTML = paneShortcuts.map(function(pane) {
       return '<article class="pane-shortcut-card" style="--pane-color:' + esc(pane.color) + '">' +
         '<span class="pane-dot" aria-hidden="true"></span>' +
         '<strong>' + esc(pane.title) + '</strong>' +
         '<small>' + esc(pane.period) + '</small>' +
+        '<dl class="pane-shortcut-lens">' +
+          '<div><dt>Kök</dt><dd>' + esc(pane.root) + '</dd></div>' +
+          '<div><dt>Karşı</dt><dd>' + esc(pane.counter) + '</dd></div>' +
+          '<div><dt>Halkta</dt><dd>' + esc(pane.publicEye) + '</dd></div>' +
+        '</dl>' +
         '<div class="pane-shortcut-actions">' +
           '<a href="' + esc(pane.href) + '">Pane’i aç</a>' +
           '<a href="' + esc(pane.bookHref) + '">Mini kitabı aç</a>' +

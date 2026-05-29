@@ -59,6 +59,20 @@ Bu çok önemli bir kapı açar. Çünkü "piyasa böyle" denilen birçok şeyin
 
 Bu tablo bize düşünce tarihini ezber yerine akıl yürütme olarak okumayı sağlar. Her düşünür bir soruya ışık tutar, ama aynı zamanda bazı yerleri gölgede bırakır.
 
+### Kanonik ses ve karşı ses
+
+Bir düşünürün en güçlü cümlesini öğrenmek güzel bir başlangıçtır; ama doğruya yaklaşmak için o cümlenin karşısına hangi itirazın dikildiğini de görmek gerekir.
+
+| Kanonik ses | Ne söylüyor? | Karşı ses neyi hatırlatır? |
+|---|---|---|
+| Smith | Rekabet ve iş bölümü zenginliği artırır | Tekel, koloni ve işçileşme rekabetin herkese aynı işlemediğini gösterir |
+| Malthus | Nüfus baskısı geçim sınırını zorlar | Teknoloji, eğitim, kadınların konumu ve kurumlar nüfus davranışını değiştirir |
+| Ricardo | Rant, ücret ve kâr arasında sert bölüşüm gerilimi vardır | Tarihçi iktisatçı bu soyut modelin yerel kurumları incelttiğini söyler |
+| Mill | Bölüşüm toplumsal kurumlarla değiştirilebilir | Daha radikal eleştiri, mülkiyet ve ücretli emek düzeninin kendisini sorgular |
+| Klasik çizgi | Piyasa eski ayrıcalıklara karşı özgürleştirici olabilir | İşçi, kadın ve koloni deneyimi "özgürlük kimin özgürlüğü?" diye sorar |
+
+Bu matrisi okurken amaç taraf seçmek değildir. Amaç şu beceriyi kazanmaktır: Bir fikrin neyi aydınlattığını görünce, aynı anda neyi gölgede bıraktığını da sorabilmek.
+
 ## Birbirlerine nasıl cevap verdiler?
 
 Bu düşünürleri ayrı ayrı kutular gibi değil, birbirine cevap veren sesler gibi okumak daha öğreticidir.

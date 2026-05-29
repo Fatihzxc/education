@@ -30,6 +30,20 @@ Merkantilist çağda devlet yalnızca emir vermek istemedi; aynı zamanda ülkey
 
 Bu tablo modern devletin neden ekonomiyle bu kadar ilgilendiğini gösterir. Merkantilist müdahale yalnızca "yasak koyma" değildir; sayma, kaydetme ve ülkeyi tek bir iktisadî alan gibi görme çabasıdır.
 
+### Ters açı: devletin gördüğü, yerelin yaşadığı
+
+Aynı politika iki ayrı hikaye gibi yaşanabilir. Merkez için "düzen kurma" olan şey, yerelde bazen yeni vergi, yeni memur, yeni yasak veya eski alışkanlığın kırılması demektir. Bu yüzden merkantilist devleti yalnızca kendi defterinden okumamak gerekir.
+
+| Devletin gördüğü | Yerelde nasıl yaşanır? | Karşı fikir ne sorar? |
+|---|---|---|
+| İç gümrük kalkınca pazar büyür | Bazı şehirler eski gelirini ve pazarlık gücünü kaybeder | Birleşme kimin lehine oldu? |
+| Standart ölçü ve kalite gelir | Zanaatkar eski usulünü değiştirmek zorunda kalır | Standart üretimi mi artırdı, küçük üreticiyi mi sıkıştırdı? |
+| Liman denetimi kaçakçılığı azaltır | Tüccar daha fazla kayıt, harç ve memurla uğraşır | Denetim güvenlik mi, tekel mi üretiyor? |
+| İmtiyazlı şirket dış ticareti örgütler | Küçük tüccar büyük şirketin gölgesinde kalabilir | Ulusal çıkar denen şey hangi grubun çıkarıyla birleşti? |
+| Vergi düzenli hale gelir | Köylü ve kasabalı devleti daha sık kapısında görür | Devletin görünürlüğü adalet mi, baskı mı getirdi? |
+
+Bu tablo şunu hatırlatsın: Merkantilizm yalnızca "devlet müdahalesi" başlığı değildir. Bir tarafta dağınık ülkeyi okunabilir hale getiren merkez vardır; öte tarafta bu okunabilirliğin bedelini günlük hayatında hisseden insanlar vardır.
+
 ## Vergi devleti nasıl kurar?
 
 Bir devleti anlamak istiyorsak şu soruya bakmak çok işe yarar: Vergiyi kim, nasıl, ne kadar düzenli topluyor?

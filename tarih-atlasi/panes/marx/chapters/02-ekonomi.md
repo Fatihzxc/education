@@ -29,6 +29,19 @@ artı-değer oranı = artı emek / gerekli emek
 
 Burada "sömürü" ahlaki bir bağırış olmaktan çıkar, yapısal bir orana dönüşür. İşçi ücretini alır; sözleşme yapılır; piyasa görünürde adildir. Ama üretim sürecinde ücretin karşılığından fazla değer üretilir.
 
+### Aynı fabrika gününü dört gözle okumak
+
+Marx'ın güçlü yanı, bizi dolaşım alanından üretim alanına sokmasıdır. Yine de aynı fabrika gününü başka okullar başka yerden açıklar. Bu karşılaştırma, kavramı ezberlemek yerine tartmayı sağlar.
+
+| Okuma biçimi | Fabrika gününde neyi merkeze alır? | Gücü | Kör noktası |
+|---|---|---|---|
+| Marxçı okuma | İşçinin ücretinin ötesinde yarattığı artı-değer | Üretim ilişkisindeki güç farkını görünür kılar | Girişim riski, bilgi ve koordinasyon tarafını geri plana atabilir |
+| Neoklasik okuma | Ücretin emeğin marjinal katkısına göre oluşması | Fiyat, verimlilik ve seçim dilini netleştirir | Pazarlık gücü ve mülkiyet eşitsizliği kolayca silikleşir |
+| Kurumsal okuma | Sendika, hukuk, işsizlik ve işveren gücü | Ücretin yalnız teknik değil siyasal olduğunu gösterir | Değer teorisi kadar bütünlüklü bir açıklama vermeyebilir |
+| Monopson/pazarlık okuması | İşçinin seçeneklerinin sınırlı olması | "Gönüllü sözleşme"nin her zaman eşit pazarlık olmadığını gösterir | Bütün kapitalist sistemi değil, belirli piyasa aksaklıklarını hedefleyebilir |
+
+Bu tablo Marx'ı zayıflatmak için değil, daha doğru anlamak için var. Eğer karşı fikirleri bilirsen, Marx'ın asıl iddiasının nerede keskinleştiğini daha iyi görürsün: Piyasa eşit görünürken üretim ilişkisi eşitsiz olabilir.
+
 ## Mutlak ve göreli artı-değer
 
 Kapitalist artı-değeri iki ana yolla artırabilir.

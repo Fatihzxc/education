@@ -155,15 +155,15 @@ body.landing {
 }
 .pane-shortcut-grid {
   display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
 }
 .pane-shortcut-card {
-  min-height: 126px;
+  min-height: 216px;
   display: grid;
-  grid-template-rows: auto auto 1fr auto;
-  gap: 5px;
-  padding: 13px 12px;
+  grid-template-rows: auto auto auto 1fr auto;
+  gap: 8px;
+  padding: 14px;
   color: inherit;
   border: 1px solid color-mix(in srgb, var(--pane-color) 45%, var(--border));
   border-radius: 8px;
@@ -185,6 +185,31 @@ body.landing {
   color: var(--text-muted);
   font-family: 'JetBrains Mono', Menlo, monospace;
   font-size: 11px;
+}
+.pane-shortcut-lens {
+  display: grid;
+  gap: 6px;
+  margin: 2px 0 4px;
+}
+.pane-shortcut-lens div {
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr);
+  gap: 8px;
+  align-items: baseline;
+}
+.pane-shortcut-lens dt {
+  color: var(--pane-color);
+  font-family: 'JetBrains Mono', Menlo, monospace;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.pane-shortcut-lens dd {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 12px;
+  line-height: 1.35;
 }
 .pane-shortcut-actions {
   display: grid;

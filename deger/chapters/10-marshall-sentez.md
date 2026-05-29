@@ -38,6 +38,18 @@ Marshall'ın *Principles*'ının bir başka temel ayrımı, *zaman-aralığı*'n
 
 Bu üç aralık ayrımı, modern mikroekonominin temel zaman-kavramıdır. Piyasa-fiyatı analizinin "ne aralıkta" yapıldığı, sonuçları çok değiştirir. Marshall'ın bu inceltimi, Walras'ın eş-zamanlı denge modeline karşı önemli bir gelişmedir.
 
+### Zaman merceği: aynı fiyat neden farklı görünür?
+
+Marshall'ın en öğretici tarafı şudur: bir fiyatın nedenini anlamak için "hangi zaman aralığında bakıyoruz?" diye sormayı öğretir. Çünkü zaman değişince, fiyatı daha çok hangi güç belirliyor sorusunun cevabı da değişir.
+
+| Zaman aralığı | Arzın durumu | Talebin etkisi | Gündelik örnek | Dikkat edilecek kör nokta |
+|---|---|---|---|---|
+| Çok kısa dönem | Mal miktarı sabit | Fiyatı güçlü biçimde oynatır | Gün sonunda balık, maç bileti, ani kıtlık | Panik ve fırsatçılık "denge" diye görünebilir |
+| Kısa dönem | Emek ve hammadde ayarlanır, fabrika sabit | Talep hâlâ güçlüdür ama maliyet devreye girer | Bir tekstil atölyesinin fazla mesaiyle üretimi artırması | İşçinin çalışma süresi ve yorgunluğu grafikte görünmez |
+| Uzun dönem | Fabrika, teknoloji, firma sayısı değişir | Talep ve maliyet birlikte oturur | Yeni rakiplerin piyasaya girmesi | Sermaye girişi herkes için eşit kolaylıkta değildir |
+
+Bu mercek, Marshall'ı daha derinden anlamanı sağlar. Makas metaforu doğru olabilir; ama makasın hangi bıçağının o anda daha baskın göründüğü zamana bağlıdır.
+
 ## 10.4 Tüketici fazlası
 
 Marshall'ın en orijinal kavramlarından biri *tüketici fazlası* (consumer's surplus)'dır:
@@ -69,6 +81,19 @@ Ama Marshall'ın sentezinin sınırları da vardı. Üç tane:
 **(2) Sermaye-yoğunluk sorununun yumuşatılması**. Marshall, Ricardo'dan miras kalan sermaye-yoğunluk problemini tam çözmedi; "ortalama maliyet" kavramı ile kaba bir geçici çözüm önerdi. Bu boşluk, 1960'larda *Cambridge controversy*'nin (Bölüm 11) doğuşunun zeminidir.
 
 **(3) Talep eğrisinin sabitlenmesi**. Marshall, talep eğrisini "verili" alır; tüketicilerin tercihlerinin nereden geldiğini sorgulamaz. Bu soru, 20. yüzyıl sonunda Veblen'den (*conspicuous consumption*) çıkıp, sonra Galbraith'e (*The Affluent Society*, 1958) ve nihayet Sen'in (Bölüm 12) kapabilite yaklaşımına uzanacaktır.
+
+### Değer sorusundan fiyat sorusuna geçiş
+
+Marshall'ın başarısı, çok eski bir soruyu daha kullanışlı bir soruya çevirmesidir. Ama her çeviri gibi burada da kazanç ve kayıp birlikte gelir.
+
+| Eski soru | Marshall sonrası yeni soru | Kazanç | Kayıp / karşı okuma |
+|---|---|---|---|
+| Değer nereden gelir? | Fiyat hangi arz-talep noktasında oluşur? | Ölçülebilir ve öğretilebilir model doğar | Adalet ve sömürü sorusu geriye çekilir |
+| Emek mi fayda mı belirleyici? | Talep ve arz birlikte belirler | Klasik-marjinalist kavga yumuşar | Uzlaşma, üretim ilişkilerindeki çatışmayı örtebilir |
+| Malın gerçek kıymeti nedir? | Piyasa dengesi hangi miktarı üretir? | Politika analizi kolaylaşır | Piyasa dışı değerler: bakım, doğa, kişilik zayıf görünür |
+| Kim ne kadar hak ediyor? | Faktörler hangi marjinal katkıyla gelir alıyor? | Teknik dağılım dili kurulur | Güç, mülkiyet ve pazarlık koşulları dışarıda kalabilir |
+
+Bu yüzden Marshall'ı "sorunu çözdü" diye değil, "sorunu başka bir dile çevirdi" diye okumak daha doğru olur. Yeni dil çok güçlüdür; ama hangi soruları susturduğunu bilerek kullanmak gerekir.
 
 ## 10.6 Pigou ve refah ekonomisi
 

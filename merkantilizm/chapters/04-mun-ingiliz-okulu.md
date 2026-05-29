@@ -55,6 +55,19 @@ Bu argümanın gücü, Adam Smith'in 150 yıl sonra da hâlâ bununla cebelleşm
 
 Heckscher bu yeni şirket biçiminin kurumsal yenilik olduğunu vurgular: "eski birleşik sermayeli şirketlerin en belirgin ve karakteristik özelliği, sermayelerinin tekil konumuydu"^[8]. Tek tüccarın kişisel parası değil, **birleşik bir tüzel varlık** olarak sermaye — bu, ileride modern anonim şirketin kurumsal atasıdır. Mun'un teorisi, bu kurumsal yeniliği savunmak için yazılmıştır.
 
+### Külçe çıkışı: aynı olayın dört ayrı anlamı
+
+EIC'nin Asya'ya gümüş göndermesi küçük bir muhasebe ayrıntısı gibi durabilir. Aslında bütün merkantilist tartışmanın kalbidir. Çünkü aynı gümüş çıkışı, baktığın yere göre bambaşka görünür.
+
+| Bakış | "Gümüş dışarı çıktı" ne demek? | Haklı gördüğü taraf | Kaçırdığı taraf |
+|---|---|---|---|
+| Bullionist | Ulusal hazine eksildi | Kasa ve para güvenliği | Paranın ticaret içinde sermaye gibi dönebileceği |
+| Mun / EIC | Gümüş mal alıp daha yüksek değerle dönecek sermayedir | Şirket ticareti ve toplam dış hesap | Tekel kârının toplumsal maliyeti |
+| Smith | Para araçtır; asıl servet reel mal ve hizmettir | Tüketici refahı ve üretkenlik | Devlet gücü ve uluslararası ödeme siyasetini az görür |
+| Asyalı üretici / yerel toplum | Avrupa gümüşü yerel fiyatları, üretimi ve ticareti etkiler | Küresel dolaşımın çevre tarafı | İngiliz metinlerinde çoğu zaman sadece "ticaret ortağı" gibi görünür |
+
+Bu yüzden Mun'u okurken "altıncı mıydı, değil miydi?" sorusundan daha ileri gitmek gerekir. Asıl mesele, paranın kasa mı, sermaye mi, güç mü, yoksa başka toplumların fiyat düzenini değiştiren küresel bir akış mı olduğudur.
+
 ## Hangi ithalat zararlı, hangisi karlı?
 
 Mun'un ikinci incelik noktası ithalatın türü üzerinedir. Sloganlaşan "ihracat iyi, ithalat kötü" formülünün aksine, Mun ithalatı tek bir kategori olarak görmez. Üç tür ayırır:

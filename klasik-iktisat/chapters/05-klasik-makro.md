@@ -36,6 +36,19 @@ Tartışmanın asıl kalbinde duran soru şudur: **tasarruf otomatik olarak yat�
 
 Ricardo-Malthus tartışmasının yoğunluğu iktisat tarihinin kişisel boyutta da nadir bir arşivini sunar. İki isim 1811'den Ricardo'nun 1823'teki ölümüne kadar **251 mektup** alışveriş etti; aynı odalarda kahve içtiler, birbirlerinin evlerinde misafir oldular, Londra entelektüel çevrelerinde birlikte göründüler — ve neredeyse hiçbir konuda anlaşmadılar. Tartışmanın iki büyük ekseni klasik iktisadın sınıfsal hatlarını ders kitabı netliğinde sergiler. *Birinci eksen* — Tahıl Yasaları — Malthus'un koruma, Ricardo'nun serbest ticaret tutumu üzerinden yürür; arkasında toprak aristokrasisi ile sanayi-finans burjuvazisi arasındaki yapısal çıkar çatışması durur (Bölüm 7'de Manchester School ve Anti-Corn-Law League bağlamında detaylandırılacaktır). *İkinci eksen* — genel kriz tartışması — daha incelikli ama daha derindir: Malthus'a göre talep yetersizliğine bağlı genel kriz yapısal olarak mümkündür; Ricardo'ya göre Say's law geçerli olduğu için sistemik kriz imkânsızdır. Para birikmesi (hoarding) Malthus için reel bir sorun — ekonomiden talep çekilmesi — Ricardo için ise geçici, kendi-kendini düzelten bir dengesizliktir. Çözüm reçeteleri de simetrik biçimde zıttır: Malthus *verimsiz tüketim*in (aristokratik harcama, devlet harcaması dahil) talebi desteklediğini söyler; Ricardo tasarruf-yatırım kanalının bütün geliri üretken biçimde absorbe edeceğini ileri sürer. On iki yıl boyunca dostça-husumetli mektuplaşma, klasik iktisadın iç kalbindeki paradigma çatışmasının canlı arşividir.
 
+### Kriz sorusunu üç katmanda oku
+
+Bu tartışmayı öğrenirken önce en basit soruyu tut: ekonomi ürettiği malları satamaz hale gelebilir mi? Sonra ikinci katmana geç: bu cevap hangi sınıfın işine yarıyor? En son üçüncü katmanı aç: aynı olay sıradan insanın hayatında nasıl görünür?
+
+| Katman | Ricardo-Say çizgisi | Malthus-Sismondi-Keynes çizgisi | Halkın gözüyle soru |
+|---|---|---|---|
+| Mekanizma | Üretim gelir yaratır; gelir harcamaya döner | Gelir tutulabilir; talep eksik kalabilir | Fabrika mal doluyken işçi neden işsiz kalır? |
+| Tasarruf | Tasarruf yatırımın kaynağıdır | Her tasarruf otomatik yatırıma dönüşmeyebilir | Herkes kemer sıkarsa dükkânlar kime satar? |
+| Sınıf dili | Sanayici birikimi ulusal büyümenin motorudur | Aristokrat tüketim bile talep desteği olabilir | "Verimsiz" denen harcama bazen başkasının geliri midir? |
+| Politika | Devlet engelleri kaldırmalı | Devlet talebi destekleyebilir | İşsiz kalan kişi için "dengeye döner" ne kadar teselli eder? |
+
+Bu tablo sana şu alışkanlığı kazandırmalı: Bir makro teori yalnız teknik denklem değildir. Aynı zamanda kriz anında kimin beklemesini, kimin harcamasını, kimin ücret kaybına katlanmasını istediğini de söyler.
+
 ## 5.4 J.S. Mill versiyonu — yumuşak Say's law
 
 John Stuart Mill, klasik iktisadın makro alandaki en sofistike pozisyonunu sunar. *Principles of Political Economy*'nin (1848) Book III, Bölüm XIV'ü — başlığıyla *"Of Excess of Supply"* — Say's law'u kabul eder, ama incelikli bir istisna formüle eder. Tez kabaca şöyledir: uzun-vadede ve normal koşullarda Say's law tam olarak işler, arz kendi talebini yaratır, genel-fazla mantıksal olarak imkânsızdır; ama *commercial crises* — mali bunalım dönemleri — sırasında bireyler aniden eldeki para-stokunu artırmak isterler. Bu likidite-isteği genel bir biçim aldığında, bireyler hem mallara hem mal-vaadlerine (kredi enstrümanlarına) güveni kaybedip ellerindeki parayı tutmayı tercih ederler. Bu durumda mal piyasasında geçici bir genel-fazla — toplam arzın toplam talebi geçtiği bir an — gerçekleşebilir.

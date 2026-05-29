@@ -54,6 +54,19 @@ Bu argüman, sömürge-mülkiyet doktrinine ilk büyük teolojik eleştiri olara
 
 **3. *Sübjektif değer ve mülkiyet*'in birleştirilmesi**. Salamanca düşünürleri, Aquinas'ın "adil fiyat" çerçevesini geliştirirken (Değer kitabı Bölüm 3'te işlendi), mülkiyetin değerinin de sübjektif olduğunu söylediler. Bir tarlanın "değeri", onun üreten emeğinden değil; potansiyel alıcıların ona vermeye razı olduğu fiyattan gelir. Bu, mülkiyetin "kullanımı"nın objektif kategoriler içinde değil; piyasa-katılımcılarının sübjektif değerlemeleri içinde anlam kazandığı anlamına gelir.
 
+### Aynı toprak, dört hukuk gözü
+
+Salamanca'yı anlamak için Yeni Dünya'daki bir toprağı düşünelim. Aynı yer parçası, farklı aktörlerin gözünde bambaşka hukuki anlamlar taşır.
+
+| Bakış | Toprak nasıl görünür? | Hukuki iddia | Güçlü tarafı | Kör noktası / karşı soru |
+|---|---|---|---|---|
+| İspanyol kraliyeti | Keşfedilmiş ve egemenlik kurulabilir alan | *Res nullius* veya fetih hakkı | İmparatorluk idaresi için basit zemin kurar | Orada yaşayanların mülkiyeti neden yok sayılıyor? |
+| Vitoria / Salamanca | Zaten insanlarca kullanılan ve yönetilen yer | Yerli halkların meşru *dominium* hakkı vardır | Sömürge hukukuna içeriden güçlü sınır koyar | Teolojik çerçeve pratik fetih gücünü durdurmaya yetti mi? |
+| Yerli topluluk | Ataların, geçimin, ritüelin ve hayatın toprağı | Kullanım, aidiyet ve siyasal düzen birlikte işler | Mülkiyeti yalnız tapu değil yaşam dünyası olarak gösterir | Avrupa hukuku bu ilişkiyi kendi kategorilerine çevirmekte zorlanır |
+| Tüccar / encomendero | Emek, maden, tarım ve vergi kaynağı | İşletme ve gelir hakkı | Kolonyal ekonominin gerçek motivasyonunu açar | "Medenileştirme" dili ekonomik zorlamayı örtebilir |
+
+Bu tablo Salamanca'nın değerini netleştirir. Okul, sömürge düzenini bütünüyle durduramadı; ama "kimseye ait olmayan toprak" yalanına güçlü bir kavramsal itiraz üretti. Bu itiraz, modern yerli toprak haklarının uzak köklerinden biridir.
+
 ## 4.5 Vitoria ve Locke arasındaki köprü
 
 Salamanca okulunun en kalıcı katkısı, doğal hukuk geleneğini Aquinas'tan Grotius ve Locke'a taşıyan köprüyü kurmasıdır. Bu köprünün ana payandaları şunlardır:
