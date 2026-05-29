@@ -16,6 +16,20 @@ Ama aynı dönem finans krizleri, güvencesiz iş, veri gözetimi, iklim krizi, 
 
 Bu tablo dönemin ana dersini verir: Bağlantı arttıkça adalet sorusu ortadan kalkmaz; daha da büyür.
 
+### Fikir hareketleri matrisi: küreselleşmenin rakip dilleri
+
+1991 sonrası dönemi yalnız olaylar listesi gibi okursan dağınık görünür. Oysa bu dönemde birkaç büyük fikir dili birbirine karşı konuşur. Her biri gerçek bir yaradan doğar; ama her biri başka bir şeyi eksik bırakabilir.
+
+| Fikir dili | Kök sebep | Kimin gözünden makul? | Güçlü karşı fikir | Halktaki iz |
+|---|---|---|---|---|
+| Neoliberal küreselleşme | Kapalı ekonomilerin verimsizliği, enflasyon, borç ve devlet hantallığı | Sermaye, ihracatçı firma, teknokrat reformcu | Piyasa açılması eşitsiz güçlerle gelirse bağımlılığı artırabilir | Özelleştirme, iş güvencesi kaybı, ucuz ithal ürün |
+| Alter-küreselleşme | Ticaret anlaşmalarının emek, çevre ve yerel yaşamı ezmesi | Sendika, çiftçi, yerel hareket, çevreci | Kapanmacılık yoksul ülkelerin ihracat imkanını daraltabilir | Protesto, kooperatif, adil ticaret arayışı |
+| Yeni kalkınmacılık | Serbest piyasanın teknoloji ve sanayi sıçramasını tek başına kuramaması | Geç sanayileşen devlet, stratejik sektör, mühendis-bürokrat | Devlet seçtiği sektörlerde rant ve yolsuzluk üretebilir | Yerli üretim gururu, kamu yatırımı, vergi yükü |
+| Dijital haklar ve veri emeği | Platformların gündelik davranışı ekonomik değere çevirmesi | Kullanıcı, içerik üretici, platform işçisi | Aşırı düzenleme yeniliği ve açık interneti daraltabilir | Hesap kapatma, algoritma görünürlüğü, veri kaygısı |
+| İklim adaleti | Sanayi büyümesinin atmosferde birikmiş bedeli | Ada ülkeleri, genç kuşak, çiftçi, kırılgan bölgeler | Dönüşüm maliyeti kötü tasarlanırsa yoksul haneleri vurabilir | Enerji faturası, sel, kuraklık, yeşil iş umudu |
+
+Bu matrisi kullanınca şunu daha net görürsün: Küreselleşme tartışması tek bir "açık mı kapalı mı?" kavgası değildir. Asıl kavga, bağlantının kurallarını kimin yazacağı, bedeli kimin taşıyacağı ve geleceğin hangi değer etrafında kurulacağı üzerinedir.
+
 ## 11.3 Çin ve çok kutupluluk
 
 Çin'in yükselişi 1991 sonrası dünyanın en büyük dönüşümlerinden biridir. Devlet kapasitesi, küresel pazar, ucuz emek, teknoloji öğrenmesi, altyapı ve uzun vadeli sanayi stratejisi birlikte çalıştı. Bu yükseliş, "piyasa kazanır, devlet geri çekilir" anlatısını zorladı.

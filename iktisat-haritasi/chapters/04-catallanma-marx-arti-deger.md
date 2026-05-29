@@ -36,6 +36,19 @@ Marx için ayrım şuradadır: *bilimsel* klasik iktisat (Petty, Quesnay, Smith,
 
 Bu, Marx'ı diğerlerinden ayıran ilginç bir simetri yaratır. Fizyokrasi ve klasik iktisatta çıkar katmanını biz *deşifre* etmek zorundaydık (doktrin kendini "doğal düzen" ya da "evrensel akıl" olarak sunuyordu). Marx'ta deşifre edilecek bir şey yoktur — teori, bir sınıfın aracı olduğunu açıkça söyler. Ama tam burada iki-katman tezinin inceliği görünür: çıkarını açıkça ilan etmek, analitik içeriği geçersiz kılmaz. Artı-değer kategorisi, emek-gücü/emek ayrımı, sermayenin organik bileşimi — bunlar bir sınıfın propagandası *değil*, hâlâ kullanılan analitik aletlerdir. Marx'ın dürüstlüğü, iki katmanın ayrılamazlığını gizlemek yerine sahnenin ortasına koyar.
 
+### Marx'a en güçlü itirazlar: sömürü mü, katkı mı?
+
+Marx'ı iyi öğrenmek için sadece ona hak vermek yetmez. En güçlü karşı fikirleri de adil biçimde duymak gerekir; çünkü doğruya yaklaşma, sevdiğimiz açıklamanın zorlandığı yeri görmekle başlar.
+
+| Karşı fikir | Marx'ın güçlü gördüğü şey | İtirazın söylediği şey | Kontrol sorusu |
+|---|---|---|---|
+| Marjinalist katkı | Kârın üretim sürecinde emekle bağını | Sermaye, organizasyon ve teknoloji de üretime ek katkı yapar | Katkı bağımsız ölçülebiliyor mu, yoksa gelir dağılımını meşrulaştırıyor mu? |
+| Böhm-Bawerk / zaman tercihi | İşçi bugün ücret alır, ürün sonra satılır | Kâr, bekleme ve risk üstlenmenin karşılığı olabilir | Bekleme gücü kimin elinde, bu güç nasıl oluştu? |
+| Kurumsal pazarlık | Ücret ve kâr sınıf gücüyle bağlantılıdır | Sonuç sadece emek-değer değil, sendika, hukuk ve rekabet kurumlarıyla da belirlenir | Kurumlar değişince sömürü oranı değişiyor mu? |
+| Feminist sosyal yeniden üretim | Ücretli emek kapitalizmin merkezidir | Ev içi bakım, çocuk yetiştirme ve duygusal emek olmadan işçi sınıfı yeniden üretilemez | Marx'ın fabrika sahnesi ev içi emeği ne kadar görüyor? |
+
+Bu itirazlar Marx'ı çöpe atmaz; onu daha keskin kullanmayı öğretir. Marx üretim ilişkisindeki asimetriyi çok güçlü gösterir. Ama risk, zaman, kurum, teknoloji ve bakım emeği sorularını da yanına koyarsan, sömürü tartışması daha derin ve daha dürüst hale gelir.
+
 ## 4.5 Neden teal: aynı ailenin iki ucu
 
 Haritada Klasik ve Marx'ı aynı renge (teal) boyamamın nedeni şudur: ikisi de değeri *üretim tarafında, nesnel bir nicelikte* arar. Smith ve Ricardo için değer emekten gelir; Marx için de öyle — sadece sonucu sınıf-mücadelesine kadar götürür. İkisi de "bir malın değeri, onu üretmek için toplumsal olarak gerekli emek-zamanıdır" ailesindedir. Aralarındaki kavga bir *aile içi* kavgadır: aynı dili konuşan, aynı temel öncülü paylaşan iki taraf.

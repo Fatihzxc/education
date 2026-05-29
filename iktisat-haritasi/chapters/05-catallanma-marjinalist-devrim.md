@@ -12,6 +12,20 @@ Bu hamle, klasiklerin takıldığı eski bir bilmeceyi — su-elmas paradoksu �
 
 Bunun analitik kazancı gerçek ve büyüktür. Talep tarafı ilk kez sistematik biçimde modellenir; optimizasyon (marjda fayda eşitleme) iktisadın merkez aleti olur; ve değer, sınıfsal üretim kategorilerinden bağımsız, herkesin paylaştığı bir tüketici-rasyonalitesi üzerine kurulur. Modern mikroiktisadın bütün makinesi — talep eğrileri, marjinal analiz, denge fiyatı — buradan doğar. Derini kardeş kitap `deger` Bölüm 8-9'da.
 
+### Gündelik piyasa gözü: tercih kimin tercihi?
+
+Marjinalizm "insanlar tercih yapar" dediğinde önemli bir şeyi yakalar: aynı mal herkes için aynı anlamı taşımaz. Ama tercih piyasada ancak ödeme gücüyle görünür hale gelir. Bu yüzden aynı fiyatı beş ayrı gözle okumak gerekir.
+
+| Göz | Aynı piyasada ne görür? | Marjinalizm neyi iyi yakalar? | Neyi ayrıca sormalıyız? |
+|---|---|---|---|
+| Düşük gelirli hane | Ekmek, kira ve fatura arasında zor seçim | Son birimin aciliyetini | İhtiyaç niçin talebe dönüşemiyor? |
+| Varlıklı tüketici | Lüks tüketim veya yatırım tercihi | Tercihler arası ikameyi | Ödeme gücü, ihtiyacı bastırıyor mu? |
+| İşçi | Ücretle satın alma gücü arasındaki mesafe | Fiyat değişiminin refah etkisini | Ücreti belirleyen üretim ilişkisi nerede? |
+| Esnaf / firma | Fiyatı değiştirince talebin kaymasını | Talep esnekliğini | Piyasa gücü ve maliyet baskısı kimde? |
+| Ders kitabı tüketicisi | Temsilî bireyin fayda maksimizasyonu | Modelin temiz mantığını | Temsilî birey kimin hayatını temsil ediyor? |
+
+Bu tablo marjinalizmi küçültmez; onu doğru yere koyar. Son birim fikri güçlüdür, çünkü fiyatların neden değiştiğini açıklar. Ama "tercih" kelimesini duyduğunda şu küçük kontrolü yap: Bu tercih gerçekten özgür bir istek mi, yoksa gelir, borç ve zorunlulukların daralttığı bir seçim mi?
+
 ## 5.3 Kitabın en sivri sorusu
 
 Şimdi bu kitabın merkez tezinin *en keskin* haline geliyoruz. Marjinalist devrim dürüst bir analitik atılım mıydı — yoksa emek-değer teorisini (ve onun Marx'a açtığı "kâr nereden geliyor?" kapısını) kapatan ideolojik bir manevra mı?

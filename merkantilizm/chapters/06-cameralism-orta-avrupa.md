@@ -52,6 +52,21 @@ Bu dokuz kuralın hepsi tek bir öğretiyi yansıtır: **manufactür üretkenli�
 
 Dokuz Kural'ın altıncısı özellikle dikkat çekicidir: takas tercih edilir, çünkü "para çıkışı ucuza alımdan daha tehlikelidir". Bu, bullionist sezginin Cameralist versiyonudur — Bölüm 2'de Bodin'in çürüttüğü mantıktan tam kopmamış bir mantık. Hörnigk'in çağdaşı olan Mun, **akış** mantığıyla (sermaye gibi külçe) bu konuda daha sofistikedir; Hörnigk ise daha klasik bullionist çerçevede kalır. Bu, Cameralism'in İngiliz mercantilizminden kuramsal olarak biraz **daha eski okul** olduğunu gösterir.
 
+### Dokuz kuralın gündelik faturası
+
+Hörnigk'in dokuz kuralı devlet masasından bakınca çok düzenli görünür: kaynakları say, üretimi içeride tut, parayı kaçırma, tüketimi terbiye et. Ama aynı kurallar gündelik hayatta farklı insanlara farklı fatura çıkarır.
+
+| Gözlemci | Ne kazanabilir? | Ne kaybedebilir? | Kontrol sorusu |
+|---|---|---|---|
+| Prens / hazine | Vergi tabanı, askerî kapasite, mali düzen | Yerel direnç ve kaçakçılık baskısı | Devlet gücü gerçekten toplum refahına dönüyor mu? |
+| Şehir zanaatkârı | Yerli üretim koruması, iş imkanı | Sıkı kalite denetimi ve lonca baskısı | Koruma öğrenmeyi mi artırıyor, ayrıcalığı mı koruyor? |
+| Köylü | Savaş sonrası yeniden inşa ve pazar bağlantısı | Vergi, zorunlu üretim ve nüfus politikası | Yeniden inşanın bedelini kim ödüyor? |
+| Tüccar | Devlet destekli sektörlerde fırsat | İthalat yasağı, takas zorunluluğu, hareket kısıtı | Ticaret özgürlüğü ne kadar daralıyor? |
+| Tüketici | Yerli malın yaygınlaşması | Daha pahalı veya daha az çeşitli mal | Ulusal güç için hane bütçesi ne kadar sıkıştırılıyor? |
+| Göçmen / usta | Davet ve istihdam imkanı | Devletin ihtiyaç duyduğu beceriye indirgenme | İnsan mı taşınıyor, beceri mi? |
+
+Bu tablo kameralizmi daha adil okutur. O yalnız "akıllı devlet yönetimi" değildir; savaş sonrası dağılmış bir dünyayı toparlama çabasıdır. Ama toparlama, çoğu zaman insanları orman, maden, vergi defteri ve üretim planı içinde yönetilebilir kalemlere dönüştürür.
+
 ## "Becher amca": Cameralism'in zihinsel tabanı
 
 Hörnigk'in yeğeni olduğu **Johann Joachim Becher** (1635–1682), Cameralism'in entelektüel tabanını koyan figürdür. Speyer'da doğan Becher, kimyager, hekim, iktisatçı, idareci ve bir noktada simyacı olarak hayatını sürdürür. Mainz ve Münih'te saray görevleri yapar, sonra Viyana'ya geçer ve İmparator I. Leopold'un iktisat danışmanı olur.

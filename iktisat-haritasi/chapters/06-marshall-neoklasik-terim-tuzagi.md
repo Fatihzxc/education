@@ -39,6 +39,30 @@ Neoklasik dili anlamanın zor tarafı şudur: çok sade ve temiz görünür. "De
 
 Bu kart neoklasik dili reddetmek için değil, onu doğru yerde kullanmak için var. Model sana mekanizmayı gösterir; ama modelin dışarıda bıraktığı güç ilişkisini ayrıca sormazsan mekanizma, tarafsız gerçekliğin tamamı gibi görünür.
 
+### Sermaye ölçümü testi: katkı gerçekten ölçülebiliyor mu?
+
+"Herkes marjinal katkısı kadar kazanır" cümlesi kulağa çok düzenli gelir. Ama en zor soru şudur: Sermayenin katkısını, kâr oranını zaten varsaymadan ölçebilir miyiz?
+
+Bunu küçük bir mantık testi gibi düşün:
+
+```text
+sermaye miktarını ölçmek istiyorum
+  -> makinelerin ve binaların değerini topluyorum
+  -> bu değer, gelecekte getirecekleri kâra göre fiyatlanıyor
+  -> kâr oranı, sermayenin marjinal verimliliğiyle açıklanıyor
+  -> ama sermaye miktarını ölçerken kâr oranını zaten kullanmış oldum
+```
+
+Cambridge sermaye tartışmasının kalbi budur. Sraffa ve Cambridge UK çizgisi, "sermaye" tek ve bağımsız bir fiziksel miktar gibi ölçülemiyorsa, "sermaye kendi marjinal katkısı kadar kazanır" cümlesinin sanıldığı kadar temiz olmadığını söyler.
+
+| Neoklasik iddia | Karşı test | Neden önemli? |
+|---|---|---|
+| Sermaye üretime katkı yapar | Katkıyı ölçmek için sermayeyi fiyatlamak gerekir | Fiyat, zaten bölüşüm varsayımı taşıyabilir |
+| Kâr, sermayenin marjinal ürünüdür | Marjinal ürünü bulmak için sermaye miktarı lazım | Ölçüm dairesel hale gelebilir |
+| Dağılım teknik sonuçtur | Ücret ve kâr oranı pazarlık, kurum ve güçle değişebilir | Bölüşüm yeniden politikleşir |
+
+Bu testin amacı matematiği reddetmek değildir. Ama "katkı" kelimesinin arkasında ölçüm problemi varsa, dağılımı tamamen doğal ve tarafsız göstermek zorlaşır. Böylece Sraffa'nın itirazı, kuru bir teknik kavga olmaktan çıkar; "kim neyi hak ediyor?" sorusunun kalbine dokunur.
+
 ### Talep, ihtiyaç değil ödeme gücüdür
 
 Arz-talep grafiğinde "talep" kelimesi gündelik dildeki "ihtiyaç" anlamına gelmez. Talep, ödeme gücüyle desteklenmiş istektir. Bu ayrım çok önemlidir; çünkü bir insanın ekmeğe, ilaca veya eve ihtiyacı olabilir, ama parası yoksa o ihtiyaç grafikte güçlü bir talep gibi görünmez.

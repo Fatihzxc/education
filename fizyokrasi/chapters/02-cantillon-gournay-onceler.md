@@ -48,6 +48,19 @@ Bu sezgi 20. yüzyılda "Cantillon etkisi" (*Cantillon effect*) adıyla yeniden 
 
 İktisadi-tarihsel önemini de vurgulamak gerekir: Cantillon bu argümanla aynı zamanda **basit miktar teorisinin** sınırlarını gösterir. Para artışı sadece fiyatları yükseltmez; göreli fiyatları, kaynak dağılımını ve gelir dağılımını değiştirir. Bu, modern para teorisinde "para nötrlüğü" tartışmasının (Hume'un uzun-vade nötrlüğü, Friedman'ın doğal işsizlik oranı, Yeni Keynesyen modeller) öncel formülasyonudur.
 
+### Paranın ilk dokunduğu elde ne değişir?
+
+Cantillon etkisini akılda tutmanın en kolay yolu küçük bir para yürüyüşü kurmaktır. Diyelim ki ekonomiye 100 livre yeni para giriyor ve bu para önce devletin savaş tedarikçilerine ödeniyor.
+
+| Aşama | 100 livre kime dokunuyor? | İlk etki | Kim geride kalıyor? |
+|---|---|---|---|
+| 1 | Devlet tedarikçisi | Daha çok kumaş, at, metal ve kira talep eder | Sabit ücretli işçi henüz zam almadı |
+| 2 | Tedarikçinin alışveriş yaptığı esnaf | Satış artar, bazı fiyatlar yükselir | Ekmek ve kira fiyatı yavaş yavaş hanelere vurur |
+| 3 | Ev sahibi ve rantiyer | Kira veya varlık geliri erken yükselebilir | Nakit geliri sabit olanlar satın alma gücü kaybeder |
+| 4 | Ücretli hane | Ücret pazarlığı daha geç gelir | Fiyatlar önce, ücretler sonra hareket eder |
+
+Buradan çıkan ders çok basit ama çok güçlüdür: Para ekonomiye yağmur gibi eşit yağmaz; dere gibi belirli yataklardan akar. İlk ıslananlar avantaj kazanır, suyun en sona ulaştığı yerlerde ise hayat pahalanmış olabilir. Bu yüzden Cantillon para teorisini yalnız "fiyatlar artar" diye değil, "kim önce kazanır, kim sonra öder?" diye kurar.
+
 ## 2.6 Cantillon'un fizyokratlara mirası: üç eksen
 
 Cantillon'un Quesnay'e bıraktığı miras üç eksendedir.

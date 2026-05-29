@@ -62,6 +62,21 @@ Klasik büyüme teorisini zihinde tutmanın en iyi yolu, her düşünürü aynı
 
 Bu karşılaştırma basit ama önemlidir. "Büyüme iyi midir?" sorusuna tek cevap yoktur; önce büyümenin hangi mekanizmayla geldiğini, hangi sınırı zorladığını ve hangi toplumsal payları değiştirdiğini görmek gerekir.
 
+### Aynı büyüme, farklı sofra
+
+"Ekonomi büyüdü" cümlesi tek başına yeterli değildir. Çünkü toplam çıktı artarken sofraya gelen paylar çok farklı dağılabilir. Basit bir örnek düşünelim: bir ülkenin yıllık ürünü 100'den 130'a çıktı.
+
+| Pay | Başlangıç | Büyümeden sonra | Ne anlatır? |
+|---|---:|---:|---|
+| Ücret | 50 | 56 | İşçinin payı artıyor ama toplam büyümeden az pay alıyor |
+| Kâr | 30 | 45 | Yatırım ve sermaye sahibi daha büyük pay çekiyor |
+| Rant | 20 | 29 | Toprak, konut veya doğal kaynak sahibi büyümeden güçlü pay alıyor |
+| Toplam | 100 | 130 | Ekonomi büyüdü, ama dağılım aynı kalmadı |
+
+Bu örnekte işçi hanesi bazı malları daha ucuza alabilir; bu gerçek bir iyileşmedir. Ama aynı hane daha uzun çalışıyor, kira daha hızlı artıyor veya gıda güvenliği zayıflıyorsa, büyüme onun hayatında karışık hissedilir. Klasik iktisadı güçlü yapan şey tam burada durur: büyümeyi yalnız toplam üretim değil, ücret-kâr-rant paylaşımı olarak okur.
+
+Bu yüzden bir büyüme haberine bakarken küçük bir sofra defteri tut: Ücret ne oldu, kira ne oldu, kâr ne oldu, çalışma zamanı ne oldu, gıda ve enerji güvenliği ne oldu? Bu beş soru olmadan "büyüme" kelimesi fazla parlak ama eksik kalır.
+
 ## 6.5 Mill'in seçimli durağan-durumu
 
 John Stuart Mill'in 1848'de yayımladığı *Principles of Political Economy*'sinin dördüncü kitabının altıncı bölümü — *"Of the Stationary State"* — klasik büyüme tartışmasına bambaşka bir tonla katılır^[3]. Mill kendinden önceki klasik geleneğin (Smith'in açık-uçluluğu hariç) pessimizmini paylaşır; büyümenin uzun-vadede durağan-duruma yöneldiğini kabul eder. Ama bu sonuca yaklaşımı, hem Ricardo'dan hem Malthus'tan radikal biçimde farklıdır. Mill durağan-durumu hayıflanılacak bir son olarak değil, *arzu edilen bir hedef* olarak yeniden çerçeveler.

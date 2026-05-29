@@ -156,6 +156,20 @@ Ama denklem sorgulanırsa? Bu, 20. yüzyıl ortasında patlayan *Cambridge capit
 
 Bu tartışma çoğunluk akımının gözünde sınırlı bir teknik mesele olarak kaldı; ama önemli yapısal sonucu şudur: klasik artık-değer teorisinin neo-Ricardian rehabilitasyonu için kapı açıldı. Sraffa, marjinalist çerçevenin matematik temellerini sorgulayarak, klasik Ricardo-Marx geleneğinin moderne aktarılması için bir teknik araç sundu. Bu, Bölüm 12'de işleyeceğimiz çağdaş yankıların kavramsal ön-koşuludur.
 
+### Aynı ücret bordrosuna iki gözle bakmak
+
+Klasik mirasın ikiye ayrılışını soyut kavramlarla öğrenmek zor olabilir. Aynı ücret bordrosuna bakmak meseleyi somutlaştırır.
+
+| Göz | Bordroda ne görür? | Açıklama gücü | Kör nokta |
+|---|---|---|---|
+| Marxçı okuma | Ücret, işçinin emek-gücünün bedelidir; kâr, artı-değerden gelir | Üretim noktasındaki güç asimetrisini gösterir | Risk, koordinasyon ve teknoloji katkısını küçültebilir |
+| Marjinalist okuma | Ücret ve kâr, emek ile sermayenin marjinal katkılarının fiyatıdır | Fiyatlama ve kaynak tahsisini açıklar | Mülkiyet ve pazarlık gücünü doğal veri gibi alabilir |
+| İşçi | Maaş, kira ve gıda arasında yetip yetmeyen gelir | Teoriyi hayat maliyetine indirir | Firma riski ve yatırım baskısını görmeyebilir |
+| İşveren | Ücret maliyet, kâr ayakta kalma ve yatırım kaynağıdır | Rekabet ve nakit akışı baskısını gösterir | Emeğin yarattığı değeri maliyet kalemine sıkıştırabilir |
+| Ders kitabı okuru | Faktör ödemeleri tablosu | Düzeni basitleştirir | Meşruiyet ve güç sorusunu kenara itebilir |
+
+Bu bordro alıştırması sana şu ayrımı öğretir: Bir teori bazen ödemeyi açıklar, bazen meşruiyeti kurar, bazen de gücü görünür kılar. Doğruya yaklaşmak için "bu tablo bana hangi işi yaptırıyor?" diye sormalısın: hesap mı, savunma mı, eleştiri mi?
+
 ## 11.11 İki mirasçının ortak teknik özelliği: soyutlanma
 
 Yüzeyde Marx ile marjinalistler tam zıt iki teori sunarlar. Daha derin bir okumada ise iki mirasçının paylaştığı bir yapısal özellik vardır: ikisi de klasik politik ekonomiyi **daha bilimsel-soyut** yaptılar. Ama farklı yönlerde.
