@@ -64,6 +64,19 @@ Marshall, tüm tüketiciler için aynı şeyin bir toplam olarak yapılabileceğ
 
 Tüketici fazlası kavramı önemlidir çünkü politik bir araç sağlar. Bir politika değişikliği (örneğin bir vergiyi azaltmak) tüketici fazlasını ne kadar artırır? Bu nicel bir soru haline gelir; politik tercihler arasında karşılaştırma yapılabilir.
 
+### Fiyat etiketi kartı: denge sayısı kimin hayatına nasıl iner?
+
+Marshall'ın arz-talep dili öğreticidir çünkü karmaşık bir pazarı tek grafikte görmeyi sağlar. Ama grafiğin sakin çizgileri, fiyatın hane, işçi, firma ve çevre üzerindeki farklı etkisini kendiliğinden göstermez. Bu yüzden bir denge fiyatı gördüğünde onu küçük bir hayat kartıyla birlikte oku.
+
+| Bakan kişi | Denge fiyatında ne görür? | Öğrenme desteği | Karşı soru |
+|---|---|---|---|
+| Tüketici | Ödeyebildiği fiyat ve tüketici fazlası | Gelirine göre gerçek erişimi hesapla | Fiyat düşük ama kalite, zaman veya borç maliyeti yüksek mi? |
+| İşçi | Üretim artınca mesai ve ücret pazarlığı | Saat, ücret ve yorgunluğu yan yana yaz | Arz artışı kimin bedeninden geçiyor? |
+| Firma | Maliyet, kâr ve kapasite kararı | Kısa dönem / uzun dönem ayrımı yap | Küçük firma sermaye bulamazsa dengeye kim uyum sağlar? |
+| Toplum / çevre | Dışsallık ve görünmeyen maliyet | Fiyata girmeyen bedeli ayrıca not et | Karbon, atık veya bakım emeği grafiğin dışında mı kaldı? |
+
+Bu kart Marshall'ı reddetmez. Tam tersine, onu daha dikkatli kullanır. Denge fiyatı güçlü bir araçtır; ama fiyat etiketinin yanında gelir, emek zamanı, çevresel bedel ve pazarlık gücü de durduğunda daha dürüst konuşur.
+
 ## 10.5 Marshall'ın sentezinin gücü ve sınırı
 
 Marshall'ın sentezi, 1890'lardan 1930'lara kadar — yaklaşık kırk yıl — mikroekonominin standart çerçevesi oldu. Üç sebepten dolayı başarılıydı:

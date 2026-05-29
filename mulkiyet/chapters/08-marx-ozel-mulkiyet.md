@@ -75,6 +75,19 @@ Bu mekanizma, kapitalist mülkiyetin yapısını gerektirir. Sömürü ancak şu
 
 Bu, mülkiyetin politik anlamının çekirdeğidir. Mülkiyet (üretim araçları üzerinde) — *sömürü için zemin yaratır*. Mülkiyetsiz işçi, *zorunlu olarak* emek-gücünü satmak zorundadır; bu zorunluluk, kapitalist sömürünün sosyal temelidir.
 
+### Fabrika kapısı kartı: aynı sözleşme dört gözle nasıl görünür?
+
+Marx'ı anlamanın en iyi yollarından biri fabrika kapısında durmaktır. Hukuk metni orada "özgür sözleşme" görür: işçi emeğini satar, kapitalist ücret öder. Marx ise aynı sahnede görünmeyen bir ön koşul arar: işçi neden kendi üretim aracına sahip değil de bu kapıdan içeri girmek zorunda?
+
+| Göz | Gördüğü şey | Haklı tarafı | Marx'ın kontrol sorusu |
+|---|---|---|---|
+| Liberal hukuk | İki özgür taraf sözleşme yapıyor | Zorla çalıştırma yoksa hukuki biçim önemlidir | Üretim aracı olmayan kişi ne kadar pazarlık gücüne sahip? |
+| Kapitalist | Sermaye risk alıyor ve üretimi örgütlüyor | Makine, hammadde, pazar ve koordinasyon gerçekten gerekir | Bu koordinasyon artığın tamamına el koyma hakkı verir mi? |
+| İşçi | Ücret geçim sağlar ama günün tamamını tüketir | Ücret olmadan hane yaşayamaz | Günün hangi kısmı ücretin karşılığı, hangi kısmı artı-değer? |
+| Sendika / eleştirel okuma | Sözleşme arkasında sınıf gücü var | Tek işçi zayıfken kolektif pazarlık denge kurabilir | Hak kâğıtta mı kalıyor, yoksa işyerinde kullanılabiliyor mu? |
+
+Bu tablo Marx'ın derdini yumuşatmaz; daha anlaşılır yapar. Marx için mesele patronun iyi ya da kötü niyetinden önce, kapıdan girenlerin sahiplik konumudur. Aynı sözleşme, kimin hangi varlığa sahip olduğuna göre bambaşka bir hayat üretir.
+
 ## 8.4 Sermaye birikiminin diyalektiği
 
 Kapitalist sömürünün bir başka boyutu, *birikimin kendi mantığı*'dır. Bir kapitalist artı-değeri toplar ve büyük çoğunluğunu yeniden yatırıma çevirir; çünkü rekabet onu zorlar. Daha çok yatırım → daha çok üretim → daha çok artı-değer → daha çok birikim. Bu, kapitalist mülkiyetin *kendiliğinden büyüme* mantığıdır.

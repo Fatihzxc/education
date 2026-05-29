@@ -59,6 +59,19 @@ Bu, Bölüm 4'te (Mukaddime I/542 üzerinden) işlediğimiz "Laffer eğrisi"nin 
 
 İbn Haldun, "vergi oranı" ile "mülkiyet güvenliği" arasındaki bu çift-yönlü ilişkiyi açıkça kurmaz — ama tüm argümanlarının arkasında bu mantık yatar.
 
+### Vergi defteri: hanedan gücü gündelik hayata nasıl iner?
+
+İbn Haldun'u yalnız hanedanların yükseliş ve çöküş teorisi gibi okursak, halkın yaşadığı kısmı kaçırırız. Devletin vergi iştahı arttığında bu yalnız saray bütçesi meselesi değildir; tarlanın ekilip ekilmemesini, pazara mal götürme cesaretini, ailenin gelecek hesabını değiştirir.
+
+| Dönem | Devletin dili | Üreticinin hissi | Mülkiyet güvenliği | Kontrol sorusu |
+|---|---|---|---|---|
+| Kuruluş | Düşük vergiyle tabanı büyütelim | Emek karşılık buluyor | Görece güçlü | Vergi düzenli ve öngörülebilir mi? |
+| Genişleme | Ordu ve saray için daha çok gelir lazım | Yük artıyor ama düzen hâlâ çalışıyor | Orta | Yeni vergi üretimi artırıyor mu, sadece pay mı çekiyor? |
+| Lüksleşme | Eski geliri yetmez, yeni kaynak bulalım | Tarlayı iyileştirme isteği azalıyor | Zayıflıyor | Üretici yarın ürününe el konmayacağına inanıyor mu? |
+| Çözülme | Zorla tahsilat ve keyfîlik | Kaçma, saklama, eksik üretme | Çok zayıf | Devlet vergi toplarken kendi vergi tabanını yok ediyor mu? |
+
+Bu küçük defter İbn Haldun'un gücünü gösterir: mülkiyet güvenliği soyut bir hukuk ilkesi değildir. İnsan, emeğinin meyvesini elinde tutacağına inanırsa üretir; inanmazsa saklanır, kaçar veya yalnız günü kurtarır.
+
 ## 3.6 Kadın ve aile mülkiyeti
 
 Mukaddime'nin doğrudan değinmediği — ama İslâm hukukunun ait olduğu şekilde işlediği — bir konu, kadınların ve ailelerin mülkiyetidir. İslâm hukukunda, antik Roma hukukundan farklı olarak, evli kadın kendi mülkiyetinin sahibi olarak kalır; erkeğin "patria potestas"ı (Roma'daki ailenin tek hâkimi olarak baba yetkisi) İslâm hukukunda yoktur.

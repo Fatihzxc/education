@@ -87,6 +87,19 @@ Aquinas, Aristoteles'i takip ederek, mübadelede *eşit değer değişimi* öğr
 
 Modern okuyucuya, "iki tarafın eşit fayda görmesi" tezi yabancı gelebilir. Modern iktisatta mübadelenin bizatihi olduğu *iki tarafın da kazandığı* gerekçesidir — Pareto-optimallik kavramının kaynağı. Aristoteles ve Aquinas için durum farklıdır: mübadelede "eşit değer" karşılıklı değişmiyorsa, taraflardan birisi *fazla alıyor* demektir, ve bu adaletsizliktir.
 
+### Agora okuma kartı: aynı takası dört kişi nasıl görür?
+
+Antik değer tartışmasını soyut bırakmamak için bir agora sahnesi düşün. Bir sandaletçi bir çiftçiden tahıl alıyor. Dışarıdan bakınca bu yalnız fiyat pazarlığı gibi görünür. Ama Aristoteles'in dünyasında aynı takas, hane geçimi, yurttaşlık, statü ve adaletle birlikte düşünülür.
+
+| Bakan kişi | Takasta ne görür? | Hangi soru doğar? | Kör nokta / karşı okuma |
+|---|---|---|---|
+| Sandaletçi | Kendi emeğinin tanınmasını | Benim işim çiftçinin işiyle nasıl ölçülecek? | Beceri farkı her zaman saatle ölçülemez |
+| Çiftçi | Tahılın geçim değerini | Ekmek veren ürün ile giyilen ürün nasıl eşitlenir? | Kıtlık anında "adil oran" hızla bozulabilir |
+| Yurttaş topluluğu | Şehrin düzenini | Pazar toplumu birbirini kandırmadan nasıl ayakta kalır? | Köle, kadın ve yabancı bu yurttaşlık sahnesinde eksik kalır |
+| Modern iktisatçı | Fiyat ve karşılıklı kazancı | İki taraf gönüllüyse neden adalet sorusu hâlâ önemli? | Gönüllülük, güç ve ihtiyaç baskısını her zaman göstermez |
+
+Bu kartın amacı Aristoteles'i modern bir fiyat teorisyeni gibi okumamak. O bize daha temel bir soru bırakır: Bir değişim yalnız iki malın oranı değildir; iki insanın, iki ihtiyacın ve bir toplumun adalet duygusunun karşılaşmasıdır.
+
 ## 2.6 Plato'nun ekonomi anlayışı
 
 Aristoteles'in iktisadi düşüncesi, hocası Plato ile karşılaştırıldığında daha pratik ve aşağı-yukarı modern görünür. Plato'nun *Devlet*'inde ekonomi, ideal site-devletinin (*politeia*) bir alt-bölümüdür. Üretim sınıfı (çiftçiler, zanaatkârlar) ideal devletin alt tabakasını oluşturur; üst tabakalar (askerler ve filozof-yöneticiler) üretim ile ilgilenmez.

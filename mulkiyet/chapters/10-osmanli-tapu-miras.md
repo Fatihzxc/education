@@ -107,6 +107,19 @@ Bu değişim, modern bir gözle *modernleşme* olarak görülür; ama eşit dere
 
 Bu değişimin uzun-vadeli sonuçları, modern Türkiye'nin (Cumhuriyet sonrası 1923) toprak yapısının tarihsel temellerini oluşturur. 1924 Köy Kanunu, 1934 Soyadı Kanunu, 1945 Çiftçiyi Topraklandırma Kanunu — hepsi 1858 Kanunnamesinin ortaya çıkardığı yapıyı yeniden şekillendirme çabalarıdır.
 
+### Sicil ve tapu okuma kartı: belge kimi görünür kılar?
+
+Osmanlı mülkiyetini anlamak için belgeye güvenmek gerekir; ama belgenin kimi daha rahat konuşturduğunu da sormak gerekir. Tapu kaydı, şer'iyye sicili, miras defteri ve vergi kaydı aynı toplumu farklı ışıkla gösterir. Biri sahipliği, biri uyuşmazlığı, biri aile içi paylaşımı, biri devletin tahsilat gözünü öne çıkarır.
+
+| Kaynak | Ne gösterir? | Kimin sesi güçlenir? | Kim zayıf görünür? | Nasıl dengelenir? |
+|---|---|---|---|---|
+| Tapu kaydı | Kimin adına kayıt açıldığını | Kayıt yaptırabilen hane, ağa, aracılar | Fiilen kullanan ama kayda girmeyen köylü | Kayıt ile yerel kullanım pratiğini karşılaştır |
+| Şer'iyye sicili | Dava, satış, miras, vekâlet, borç | Mahkemeye gidebilen taraf | Mahkemeye erişemeyen veya susan grup | Aynı aileyi farklı dava türlerinde izle |
+| Miras defteri | Malın aile içinde nasıl bölündüğünü | Mirasçı kadın ve erkeklerin hukuki payı | Sosyal baskıyla hakkını kullanamayan kişi | Hukuki pay ile fiili kullanım farkını sor |
+| Vergi kaydı | Devletin hangi üründen ne beklediğini | Tahsilat düzeni ve idare | Geçim sıkışması, kuraklık, borç | Vergiyi fiyat, ürün ve borçla birlikte oku |
+
+Bu kart özellikle "Osmanlı'da mülkiyet yoktu" gibi hızlı cümlelere karşı işe yarar. Mesele yokluk değil, hakların parçalı dağılımıdır. Kimi hak devlette, kimi köylüde, kimi ailede, kimi mahkemede görünür; doğru okuma bu parçaları tek bir modern kategoriye zorlamadan yan yana koyar.
+
 ## 10.9 Osmanlı sisteminin mülkiyet teorisi tarihindeki yeri
 
 Osmanlı mülkiyet sisteminin Avrupa-merkezli mülkiyet teorisinin yanına koyulması, üç önemli ders öğretir:
