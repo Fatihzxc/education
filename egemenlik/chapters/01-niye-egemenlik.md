@@ -32,6 +32,21 @@ Mülkiyet (önceki kitap) gibi, egemenlik de iki farklı kavramsal yapı içinde
 
 Modern siyasal düşüncenin önemli bir kısmı, bu iki çerçeve arasındaki gerilimi yönetmeye çalışır. Bölümler boyunca bu gerilim sık sık karşımıza çıkacak.
 
+### Halkın gözü: egemenlik günlük hayatta nasıl görünür?
+
+Egemenlik çok büyük bir kelime gibi durur; ama insan onu çoğu zaman küçük kapılarda hisseder. Mahkemeye girdiğinde, vergi ödediğinde, askere çağrıldığında, kimlik gösterdiğinde, polisin yetkisiyle karşılaştığında, internet hesabın kapatıldığında veya bir sınırdan geçemediğinde "son sözü kim söylüyor?" sorusu günlük hayata iner.
+
+| Gündelik sahne | Egemenlik sorusu |
+|---|---|
+| Mahkeme | Hangi hukuk benim için bağlayıcı? |
+| Vergi | Gelirimden pay alma yetkisi kimde? |
+| Askerlik/güvenlik | Bedenim ve zamanım hangi gerekçeyle istenebilir? |
+| Kimlik ve sınır | Kim içeri alınır, kim dışarıda kalır? |
+| Polis ve denetim | Zor kullanma hangi sınırda meşru sayılır? |
+| Platform hesabı | Dijital alanda kuralı devlet mi, şirket mi koyuyor? |
+
+Bu kutu şunu hatırlatsın: Egemenlik yalnız sarayda, mecliste ya da anayasa metninde yaşamaz. En net haliyle, bir insanın "bana bunu kim, hangi hakla söylüyor?" dediği yerde görünür.
+
 ## 1.4 Egemenlik ile devlet ilişkisi
 
 "Egemenlik" ve "devlet" sıkça eş-anlamlı kullanılır; ama ikisi aynı şey değildir. Devlet, egemenliği taşıyan modern kurumdur; ama tarihte egemenlik devlet-dışı kurumlar tarafından da taşınmıştır (kabile, hanedan, imparatorluk).

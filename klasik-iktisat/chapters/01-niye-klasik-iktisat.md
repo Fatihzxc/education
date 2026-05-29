@@ -80,6 +80,20 @@ Birincisi, **nesnel-değer sorunu**. Klasiklerin neredeyse hepsi şu sezgiyle ç
 
 Bu üç iplik kitabın tek bir görüş açısı taşıdığı anlamına gelmez. Tersine: her bölüm bu üç ipliği farklı kavramsal ve tarihsel renklerde işleyecek, okurun kendi sentezini kurmasına alan bırakacaktır.
 
+### Pay defteri: büyüme pastası kimin tabağına gidiyor?
+
+Klasik iktisadı gerçekten anlamak için büyümenin kendisine değil, büyümenin nasıl bölüştüğüne bak. Çünkü klasiklerin dünyasında "ülke zenginleşiyor" cümlesi yeterli değildir. Asıl soru şudur: Bu zenginlik ücret, kâr ve rant arasında nasıl paylaşılıyor?
+
+| Pay | Kim alır? | Her bölümde sorulacak basit soru |
+|---|---|---|
+| Ücret | İşçi | Geçim iyileşiyor mu, yoksa yalnız çalışma disiplini mi artıyor? |
+| Kâr | Sermayedar/sanayici | Yatırım ve büyüme buradan mı besleniyor, yoksa güç burada mı birikiyor? |
+| Rant | Toprak sahibi | Toprak kıtlığı ve mülkiyet, üretmeden gelir yaratıyor mu? |
+| Vergi | Devlet | Kamu düzeni mi finanse ediliyor, yoksa savaş ve borç mu çevriliyor? |
+| Görünmeyen emek | Ev içi, koloni, kayıt dışı emek | Bu üretim hikayesinde kim hiç sayılmıyor? |
+
+Bunu şöyle düşünebilirsin: Pasta büyüyebilir, ama dilimlerin kimin tabağına gittiği değişmiyorsa herkes aynı şeyi yaşamaz. Klasik iktisadın en güçlü tarafı da en sert kör noktası da burada durur.
+
 ## 1.8 Kardeş kitaplarla okuma disiplini
 
 Bu kitabı okurken dört kardeş kitap zaman zaman çağrılacaktır. Okuru hangi sırayla okuduğuna bakılmaksızın parçaları toplayabileceği bir çapraz-bağ ağı vardır. **Smith** için dört bağlantı: merkantilizm/09 (merkantilist sistemin sistematik eleştirisi), fizyokrasi/09 (Paris ziyareti ve fizyokrat mirası), deger/05 (değer teorisinin iç gerilimi), mulkiyet/06 (üçlü gelir dağılım şeması). **Ricardo** için bir bağlantı: deger/06 (emek-değer teorisinin radikalleşmesi). **Marx** için iki bağlantı: deger/07 (değer-fiyat dönüşümü) ve mulkiyet/08 (üretim araçları mülkiyetinin tarihsel-materyalist okuması).

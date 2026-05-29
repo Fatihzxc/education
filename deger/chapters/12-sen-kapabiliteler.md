@@ -205,6 +205,18 @@ Bu tartışma, değer kavramının yirmi beş asırlık tarihinin son sayfasınd
 
 ---
 
+### Mini vaka: aynı kişi, üç ölçü
+
+Kapabilite yaklaşımını anlamanın en iyi yolu, aynı kişiyi üç ayrı ölçüyle okumaktır. Diyelim ki Ayşe aynı gelire sahip iki iş arasında seçim yapıyor.
+
+| Ölçü | Neye bakar? | Ayşe örneğinde neyi görür? | Neyi kaçırabilir? |
+|---|---|---|---|
+| Gelir | Ay sonunda kaç para var? | İki iş aynı maaşı veriyorsa eşit görünür | Sağlık, zaman, güvenlik ve özgürlük farkını görmeyebilir |
+| Fayda | Ayşe ne kadar memnun? | Biri daha huzurlu hissettiriyorsa onu öne çıkarır | İnsanlar baskıya alışmışsa memnuniyet yanıltabilir |
+| Kapabilite | Ayşe gerçekten ne yapabilir, ne olamaz? | İşlerden biri eğitim, sağlık, bakım, itiraz ve gelecek kurma imkanını daraltıyorsa bunu gösterir | Ölçmek daha zordur; demokratik tartışma ister |
+
+Bu yüzden Sen'in hamlesi şudur: Değeri yalnız paraya veya duyguya sıkıştırma. İnsan hayatı, kişinin gerçek seçenekleriyle anlaşılır. "Yapabiliyor mu?" sorusu bazen "kazanıyor mu?" sorusundan daha derindir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Sen’in kapabilite yaklaşımı, gelir ve fayda ölçülerinin insanın gerçekten ne yapabildiğini ve nasıl yaşayabildiğini anlatmakta yetersiz kalmasından doğar.

@@ -54,6 +54,33 @@ makine → üretkenlik → ucuz mal
 
 İki ok birlikte tutulmadığında ya ilerleme romantizmine ya da tek renkli karamsarlığa düşersin.
 
+## 8.6 Ölçek hissi: kömür, pamuk, demiryolu
+
+Sanayi çağının büyüklüğü birkaç somut göstergeyle daha iyi hissedilir. Buradaki amaç kesin sayı ezberi değil, hangi şeylerin tarihi hızlandırdığını görmektir.
+
+| Gösterge | Ne anlatır? | Karşı soru |
+|---|---|---|
+| Kömür tüketimi | İnsan ve hayvan gücünün yanında fosil enerji toplumu büyütür | Enerji bolluğunun çevre bedeli nereye yazıldı? |
+| Pamuk tekstili | Fabrika, kölelik sonrası emek, koloni hammaddesi ve dünya pazarı birleşir | Ucuz kumaşın arkasında kimin emeği var? |
+| Demiryolu | Zaman ve mekân sıkışır; devlet ve piyasa daha derine iner | Hat kimin toprağından geçti, kimin pazarını açtı? |
+| Şehir nüfusu | İşçi sınıfı ve kentsel yoksulluk büyür | Konut, sağlık ve kanalizasyon kim için çözüldü? |
+| Okul ve askerlik | Ulus-devlet insanı ortak dile ve düzene sokar | Yurttaşlık eğitimi ile disiplin nerede ayrılır? |
+
+Bu tablo sanayi çağını yalnız icatlar listesi olmaktan çıkarır. Her teknik yenilik bir toplumsal düzen ister.
+
+## 8.7 Kamu gözü: roman sanayi şehrini nasıl gösterdi?
+
+Sanayi çağının hissini anlamak için romanlar çok işe yarar. Dickens yoksul çocukları, Gaskell fabrika şehrini, Zola maden işçisini, dönemin gazeteleri grevleri ve yoksulluk raporlarını görünür kılar. Bunlar istatistik yerine geçmez; ama istatistiğin soğuk bıraktığı duyguyu taşır.
+
+| Metin/mercek | Ne gösterir? | Teoriye kattığı soru |
+|---|---|---|
+| Dickens çizgisi | Çocuk yoksulluğu, borç, kurumların sertliği | Büyüme ahlaki sorumluluk doğurur mu? |
+| Gaskell çizgisi | Fabrika şehri, işçi-işveren mesafesi | Sınıflar birbirini gerçekten anlayabilir mi? |
+| Zola çizgisi | Maden, beden, tehlike, grev | Enerji çağının bedeni kim? |
+| Gazete ve rapor | Grev, ücret, kaza, konut | Kamuoyu hangi acıyı sayıya dönüştürüyor? |
+
+Bu kamu gözü, klasik ve sosyalist teorileri daha somut yapar. Çünkü "emek" artık soyut kategori değil, yorulan beden ve daralan hayat olur.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Sanayi çağı, enerji, makine, finans, devlet kapasitesi ve küresel hammadde akışının birleşmesinden doğar.

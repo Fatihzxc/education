@@ -51,6 +51,35 @@ Skolastik düşünce, inanç ile aklı barıştırmaya çalışır. İslam düny
 
 Fikirler burada soyut değildir. İnsanlar güvenilir ölçü, adil fiyat, doğru yönetim, iyi hayat ve kurtuluş arar.
 
+## 5.7 Ölçek hissi: bağlantı ne kadar büyüdü?
+
+Bu dönem için kesin tek tablo yapmak zordur; çünkü kaynaklar bölgeden bölgeye çok değişir. Ama zihninde bir ölçek kurmak için yaklaşık bir pusula kullanabiliriz.
+
+| Gösterge | Ne anlatır? | Öğrenme anlamı |
+|---|---|---|
+| Song Çin'inde büyük şehirler | Kaifeng ve Hangzhou gibi merkezler çok kalabalık ve parasallaşmış dünyalar kurdu | "Ortaçağ" yalnız kırsal ve kapalı bir dünya değildir |
+| Moğol imparatorluğu | Avrasya'nın çok geniş kara bağlantılarını tek siyasi şemsiye altında topladı | Bağlantı hem güvenlik hem yıkım üretebilir |
+| Kara Ölüm | Bazı bölgelerde nüfusun çok büyük kısmını yok etti | Demografi, ücret ve toplumsal pazarlık gücünü değiştirir |
+| Sahra ve Hint Okyanusu ticareti | Afrika, İslam dünyası, Hindistan ve Çin arasında mal ve insan akışı kurdu | Avrupa dışı ağlar dönemin ana damarlarıdır |
+| Üniversite, medrese, manastır | Bilgi kurumları kalıcılaşır | Fikir akımları kurum olmadan uzun yaşamaz |
+
+Bu tabloyu bir sayı ezberi gibi değil, "dünya nerelerde yoğunlaşıyordu?" haritası gibi kullan.
+
+## 5.8 Kamu gözü: kronik, seyahatname, söylenti
+
+Bu dönemin kamusal hissini romanlardan çok kronikler, seyahatnameler, vaazlar ve şehir kayıtları taşır. İbn Battuta'nın seyahatleri, Marco Polo anlatıları, Çin kayıtları, Avrupa kronikleri ve veba anlatıları bize yalnız olay değil, şaşkınlık ve korku da verir.
+
+Bir seyahatnameye bakarken şu soruları sor:
+
+| Metin türü | Ne gösterir? | Neye dikkat etmeli? |
+|---|---|---|
+| Seyahatname | Uzak dünyanın nasıl hayal edildiğini | Gezgin çoğu zaman kendi kültürünün gözlüğüyle bakar |
+| Kronik | Savaş, kıtlık, hükümdar ve afet hafızasını | Halkın sesi dolaylı ve seçilmiş olabilir |
+| Vaaz/metin yorumu | İnsanların felaketi hangi ahlaki dille açıkladığını | Hastalık ve yoksulluk günah diliyle örtülebilir |
+| Ticaret kaydı | Mal, fiyat, borç ve ortaklık dünyasını | Sayıların arkasındaki emek görünmeyebilir |
+
+Kamu gözü burada şunu öğretir: İnsanlar yalnız olayları yaşamadı; onları anlamlandırmaya çalıştı. Korkuyu, bereketi, salgını ve yabancıyı bir hikaye içine koydu.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1000-1450 dünyası, bölgesel büyüme ile uzun mesafe bağlantıların aynı anda güçlenmesinden doğar.

@@ -20,7 +20,7 @@ Bu kitabın asıl kazanımı bir kronoloji değil — "şu yıl şu oldu" — bi
 
 Çünkü iki-katman tezinin en rahatsız edici sonucu şudur: **bizim çağımızın iktisadı da konumlanmıştır.** Bugünün hâkim çerçeveleri de — verimlilik, rasyonel beklentiler, "piyasa etkinliği", optimum vergi, merkez bankası bağımsızlığı — birer analitik içerik *ve* birer konum taşır. Onları "nihayet ulaşılmış tarafsız bilim" olarak okumak, tam tarihimizin her aşamasında tekrarlanan Whig hatasıdır. Marjinalistler de kendilerini öyle görüyordu; Keynesçiler de; monetaristler de. Sıra bizde değil sanmak için hiçbir neden yok.
 
-## 8.4 Üç soru: okuma reflexi
+## 8.4 Üç soru: okuma refleksi
 
 O halde mercek nasıl çalıştırılır? Herhangi bir iktisat (ya da politik-iktisat) metnini — klasik bir kitabı da, bugünün bir politika raporunu da — okurken kendinize üç soruyu sorun:
 
@@ -29,6 +29,20 @@ O halde mercek nasıl çalıştırılır? Herhangi bir iktisat (ya da politik-ik
 3. **Anlatının kahramanları sonra ne kurdu?** Galip ekol iktidara geldiğinde nasıl bir düzen kurdu — yoksa yenildi de hangi rakip koalisyon tarafından mı? Doktrinin sonucunu, vaadiyle değil, kurduğu düzenle ölç.
 
 Bu üç soruyu disiplinle sormak, naif okuma (her teori tarafsız bilim) ile sinik okuma (her teori sadece çıkar) arasındaki üçüncü, gerçekçi konumu kurar. Bütün kütüphane bu konumu inşa etmek için yazıldı: kardeş kitapların hepsi 12. bölümlerinde aynı merceği kendi alanına çevirir — değerin, mülkiyetin, egemenliğin, merkantilizmin bugünkü yankılarına.
+
+### Kendi çağını haritaya ekle
+
+Harita geçmişi anlamak için başladı, ama burada kalırsa eksik kalır. Aynı kartı bugünün krizlerine de uygula:
+
+| Bugünkü sorun | Hangi eski ekol yeniden konuşuyor? | Ne işe yarar? | Neyi kaçırabilir? |
+|---|---|---|---|
+| 2008 finans krizi | Keynesçilik, Minsky, kısmen Marx | Talep çöküşü, finansal kırılganlık, devlet müdahalesi | Uzun vadeli üretim ve ekoloji sınırlarını geri plana atabilir |
+| COVID şoku | Keynesçilik, merkantilist tedarik güvenliği | Kamu harcaması, stratejik stok, devlet kapasitesi | Acil durumun kalıcı denetime dönüşme riskini az görebilir |
+| Enflasyon ve faiz | Monetarizm, Keynesçilik, klasik bölüşüm | Para arzı, talep, ücret-kâr gerilimi | Tek değişkene indirgerse hayat pahalılığının sınıfsal etkisini kaçırır |
+| İklim krizi | Fizyokrasi, ekolojik iktisat, mülkiyet/commons | Doğa, rant, ortak kaynak ve sınır fikrini güçlendirir | Teknoloji ve siyasi koalisyon sorununu küçültebilir |
+| Yapay zeka | Değer teorisi, mülkiyet, marjinalizm, Marx | Emek, veri, otomasyon, mülkiyet ve dağılım sorularını açar | İnsan anlamı ve kamusal denetimi salt verimlilik hesabına sıkıştırabilir |
+
+Bu alıştırma seni ezberden çıkarır. Artık "hangi ekol doğru?" diye sormazsın; "hangi sorun için hangi mercek aydınlatıyor, hangi tarafı karanlıkta bırakıyor?" diye sorarsın.
 
 ## 8.5 Son söz
 

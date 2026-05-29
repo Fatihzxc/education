@@ -62,6 +62,21 @@ Somut bir sahne, soyut tasviri yere indirir. Bir tahıl tüccarı, arabasını B
 
 Bu paradoks içinden bakıldığında, fizyokrasinin temel hamleleri artık bir teorisyen kaprisi değil, tarihsel bir zorunluluk gibi okunur. *Laissez-faire* sloganı, soyut bir özgürlük çağrısı değil, otuz iç gümrük noktasını yıkma talebiydi; *impôt unique* önerisi, soyut bir vergi sadeleştirmesi değil, asil ve ruhban muafiyetinin sona erdirilmesiydi; *ordre naturel* iddiası, soyut bir metafizik değil, ayrıcalık ağının "doğal" değil, tarihsel olduğu hatırlatmasıydı. Bölüm 3'te Colbert'in mirasının fizyokratların hedef tahtasında nasıl durduğunu — devlet manüfaktürlerinden iç gümrüklere, tahıl ticareti yasaklarından lonca düzenine — ayrıntıyla göreceğiz; Bölüm 8'de ise Turgot'nun 1774-76 arası bu ayrıcalık ağını idari yoldan sökme girişiminin, ne kadar haklı olursa olsun, hangi güç dengelerine çarparak çöktüğünü inceleyeceğiz. Şu noktada vurgulamak gereken tek şey şudur: fizyokrat program, soyut bir doğal düzen rüyası değil, somut bir tıkanıklığa verilmiş sistematik bir cevaptı.
 
+### Fransa gerilim haritası: aynı ülke, ayrı hayatlar
+
+Fizyokrasiyi zihne yerleştirmenin en kolay yolu, Fransa'yı tek bir bütün gibi değil, birbirine bağlı ama çıkarları farklı aktörler gibi görmektir.
+
+| Aktör | Ne ister? | Neden gerilir? |
+|---|---|---|
+| Köylü | Ürününün daha az vergi ve angaryayla kalmasını | Vergi katmanları ve tahıl kısıtları emeğinin karşılığını azaltır |
+| Soylu/toprak sahibi | Rantını ve muafiyetlerini korumak | Tek vergi önerisi doğrudan toprağa dokunur |
+| Kral/hazine | Borcu çevirmek ve devleti ayakta tutmak | Mevcut sistem para ister ama üretim tabanını da yıpratır |
+| Vergi memuru/tahsildar | Aradaki tahsilat düzeninden pay almak | Reform, aracılık gelirini tehdit eder |
+| Tüccar | İç gümrüklerin kalkmasını ve daha geniş pazar ister | Parçalı ölçü, yasak ve lonca ağı hareketini keser |
+| Şehir halkı | Ucuz ve düzenli ekmek ister | Serbest tahıl ticareti kısa vadede fiyat korkusu doğurabilir |
+
+Bu harita şunu gösterir: Fizyokratların "doğal düzen" dediği şey herkes için aynı anda huzur anlamına gelmiyordu. Bazıları için sadeleşme ve üretkenlikti; bazıları için ayrıcalık kaybı; bazıları içinse ekmek fiyatı konusunda yeni bir belirsizlikti.
+
 ## 1.6 Neden bugün hâlâ okumaya değer?
 
 İktisat tarihi okumalarında fizyokratlar genelde iki yanlış konuma yerleştirilir. Birincisi: "tuhaf bir ara durak" — merkantilizmle Smith arasında, sanayi-öncesi Fransa'da bir süre işe yarayan, sonra tarihin çöplüğüne gönderilmiş bir kuram. İkincisi: "Smith'in habercisi" — fizyokratları yalnızca klasik iktisadın hazırlayıcısı olarak okumak. İki konum da yetersizdir.

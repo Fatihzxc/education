@@ -108,6 +108,19 @@ Bu yapısal göz kazandırırken bir kapanış uyarısını da kaçınılmaz kı
 
 Quesnay'i bugün okumak, klasik iktisat öncesi bir tuhaflığı incelemek değil — şu an olmakta olan bazı tartışmaların kökünü görmektir.
 
+### Ölçek matrisi: tarla, şehir, su, atmosfer
+
+Fizyokratik mirası bugüne taşırken "toprak" kelimesini yalnız tarla gibi düşünme. Bugün rant ve doğal kaynak sorusu farklı ölçeklerde karşımıza çıkar.
+
+| Ölçek | Değer nerede doğuyor? | Rant kime gidiyor? | Zarar nereye yayılıyor? |
+|---|---|---|---|
+| Tarla | Toprak verimi, sulama, yol ve pazar erişimi | Toprak sahibi, aracı, bazen devlet | Toprak yorgunluğu, kırsal yoksulluk |
+| Şehir arsası | Metro, okul, güvenlik, kalabalık ve imar kararı | Arsa sahibi, geliştirici, siyasi ağlar | Kira baskısı, yerinden edilme |
+| Su havzası | Ekosistem, orman, yağış ve koruma emeği | Şirket, belediye, tarım veya enerji aktörü | Kuraklık, kirlilik, bölgesel çatışma |
+| Atmosfer | Fosil enerji kullanımı ve sanayi üretimi | Kirletme hakkını ucuz kullanan sektörler | İklim maliyeti, afet, gelecek kuşak yükü |
+
+Bu tabloyu kullanınca soru berraklaşır: Değer yalnız özel çabadan mı doğuyor, yoksa toplumun ve doğanın ortak zemininden mi yükseliyor? Eğer ikinci cevap ağır basıyorsa, rantın tamamını özel kişiye bırakmak da artık doğal görünmez.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Bugünkü toprak vergisi ve ekoloji tartışması, arazi rantı, kentsel değer artışı, karbon yükü ve ekosistem hizmetlerinin piyasa fiyatlarında görünmez kalmasından doğar.

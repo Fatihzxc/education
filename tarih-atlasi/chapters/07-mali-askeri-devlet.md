@@ -53,6 +53,33 @@ Haiti Devrimi ise özgürlük dilinin en radikal sınavıdır. Avrupa'da haklard
 
 Buradan şu ders çıkar: Fikirler önemli, ama fikirlerin tutuşması için maddi kriz gerekir. Ekmek, vergi ve savaş yoksa devrim dili aynı güçle yayılmaz.
 
+## 7.5 Ölçek hissi: vergi, borç, savaş
+
+Mali-askerî devleti anlamak için "devlet büyüdü" demek yetmez. Devletin büyümesi, daha düzenli gelir ve daha büyük borç kapasitesi demektir. Bu kapasite bazı ülkelerde güçlü parlamenter denetimle, bazılarında ağır toplumsal eşitsizlikle, bazılarında taşra pazarlığıyla kuruldu.
+
+| Ölçek sorusu | Ne gösterir? | Gündelik karşılık |
+|---|---|---|
+| Ordu ne kadar büyüdü? | Savaş artık dönemsel akın değil, sürekli mali yük haline gelir | Askerlik, iaşe, konaklama, yerel tedarik |
+| Vergi kimden alındı? | Devlet kapasitesinin toplumsal adaleti belirir | Köylü yükü, tüketim vergisi, ayrıcalık öfkesi |
+| Borç kimden bulundu? | Finans çevresi ve devlet güveni birbirine bağlanır | Gelecek vergilerin bugünden harcanması |
+| Ekmek fiyatı ne oldu? | Mali kriz toplumsal krize dönüşebilir | Pazar öfkesi, kuyruk, isyan |
+| Hak dili kimi kapsadı? | Devrimin sınırı görünür olur | Kadın, köle, mülksüz ve koloni dışarıda kalabilir |
+
+Bu tablo sana şunu söylesin: Modern devlet yalnız anayasa metninde değil, vergi makbuzunda ve borç defterinde de kurulur.
+
+## 7.6 Kamu gözü: dilekçe, gazete, devrim sahnesi
+
+Bu çağda kamusal alan büyür. Gazeteler, broşürler, kahvehaneler, salonlar, dilekçe defterleri ve meclis konuşmaları siyasal fikri daha geniş kitlelere taşır. Ama herkes aynı ölçüde konuşamaz.
+
+| Kamu metni | Ne taşır? | Kimin sesi eksik kalabilir? |
+|---|---|---|
+| Fransız şikayet defterleri | Vergi, ayrıcalık ve yerel öfkeyi görünür kılar | Kadınların ve en yoksulların sesi dolaylıdır |
+| Devrim gazeteleri | Siyasi dili hızlandırır | Propaganda ile bilgi birbirine karışabilir |
+| Hak bildirileri | Evrensel ilke kurar | Köle, koloni halkı ve kadınlar çoğu zaman dışarıdadır |
+| Kölelik karşıtı anlatılar | Özgürlük dilini plantasyon gerçekliğiyle sınar | Resmi ekonomi dili bu acıyı saklayabilir |
+
+Bu metinleri birlikte okuduğunda devrimlerin yalnız "büyük adamlar" tarafından yapılmadığını görürsün. Devrim, aynı zamanda konuşma hakkının kimde olacağı kavgasıdır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Mali-askerî devlet ve devrimler, savaş finansmanı, vergi adaletsizliği, borç ve temsil krizinin birleşmesinden doğar.

@@ -41,6 +41,34 @@ Bu yüzden dijitalleşmeyi yalnız teknoloji gibi değil, yeni mülkiyet ve emek
 
 İklim adaleti sorusu burada doğar: Tarihsel olarak daha çok salım yapan ülkelerle, bugün büyümek isteyen yoksul ülkeler aynı sorumluluğu mu taşımalı? Bir kömür işçisi, bir ada ülkesi, bir sanayici, bir şehirli tüketici ve bir çiftçi aynı dönüşümü aynı biçimde yaşamaz.
 
+## 11.6 Ölçek hissi: veri, konteyner, karbon
+
+1991 sonrası dünyayı anlamak için üç akışı izle: konteyner, veri ve karbon. Konteyner malın; veri davranışın; karbon ise sanayi düzeninin atmosferde bıraktığı izin sembolüdür.
+
+| Akış | Ne anlatır? | Karşı soru |
+|---|---|---|
+| Konteyner ve tedarik zinciri | Üretim dünyanın farklı parçalarına bölünür | Kriz anında bağımlılık nerede patlar? |
+| Finans akışı | Para çok hızlı hareket eder | Kayıp olduğunda bedeli kim üstlenir? |
+| Veri akışı | Kullanıcı davranışı ekonomik değere dönüşür | Ben hizmet mi alıyorum, veri mi üretiyorum? |
+| Göç akışı | Eşitsizlik ve savaş insanı hareket ettirir | Sınırlar emeği nasıl seçer? |
+| Karbon akışı | Üretim ve tüketim iklim bedeli yaratır | Tarihsel sorumluluk nasıl paylaşılacak? |
+
+Bu tablo güncel dünyayı daha az dağınık hale getirir. Gördüğün haberleri bu beş akıştan birine bağlayabilirsin.
+
+## 11.7 Kamu gözü: platform yorumları, kriz haberi, iklim görüntüsü
+
+Bu dönemde kamu gözü çok parçalıdır. Gazete hâlâ önemlidir, ama sosyal medya, platform yorumları, kriz grafikleri, belgeseller ve kısa video görüntüleri de tarih duygusunu şekillendirir.
+
+| Kamu biçimi | Ne gösterir? | Risk |
+|---|---|---|
+| Platform işçisi anlatısı | Esnekliğin güvencesiz tarafını | Tekil başarı hikayeleri yapısal riski örtebilir |
+| Finans krizi grafiği | Soyut paranın ev ve iş kaybına dönüşmesini | Grafik insan acısını soğutabilir |
+| İklim görüntüleri | Yangın, sel, kuraklık gibi somut bedelleri | Felaket görüntüsü alışkanlık yaratabilir |
+| Sosyal medya | Öfke, dayanışma ve hız | Bilgi ile söylenti karışabilir |
+| Göç hikayeleri | Sınırın insan hayatındaki ağırlığını | Güvenlik dili insanı görünmez kılabilir |
+
+Bu yüzden çağdaş dünyayı okurken yalnız veri değil, verinin kim tarafından nasıl gösterildiği de önemlidir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1991 sonrası dünya, piyasa entegrasyonu, dijital teknoloji, Çin'in yükselişi, finansallaşma ve iklim sınırlarının birlikte çalışmasından doğar.

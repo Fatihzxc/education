@@ -128,6 +128,21 @@ Egemenlik kavramının hikâyesi henüz bitmedi. 21. yüzyıl, yeni cevaplar —
 
 ---
 
+### Ölçek pusulası: karar nerede alındı, etkisi nerede hissedildi?
+
+Bugünkü egemenlik krizini anlamak için güncel bir kararı seç ve şu ölçeklerde izle. Mesela bir veri gizliliği yasası, karbon düzenlemesi, faiz kararı ya da platform yasağı.
+
+| Ölçek | Sorulacak soru |
+|---|---|
+| Beden | Bu karar insanın hareketini, sağlığını, emeğini veya mahremiyetini nasıl etkiliyor? |
+| Şehir | Yerel hizmet, konut, ulaşım veya güvenlik düzeyinde ne değişiyor? |
+| Devlet | Yasa, vergi, mahkeme veya zor kullanma yetkisi kimde kalıyor? |
+| Uluslar-üstü kurum | AB, BM, IMF, WTO veya bölgesel anlaşma kuralı belirliyor mu? |
+| Platform | Şirket standardı, devlet yasasından daha etkili hale geliyor mu? |
+| İklim/gezegen | Etki sınır aşarak başka toplumlara veya gelecek kuşaklara yayılıyor mu? |
+
+Bu pusula, egemenliği "devlet var mı yok mu?" sorusundan kurtarır. Daha iyi soru şudur: Hangi alanda, hangi ölçekte, kimin kararı fiilen işliyor?
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Bugünkü küresel egemenlik sorusu, iklim, platformlar, uluslararası hukuk, AB benzeri yapılar ve çokuluslu şirketler ulus-devlet sınırlarını aştığında doğar.

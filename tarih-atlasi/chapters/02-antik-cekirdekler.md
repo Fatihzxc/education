@@ -87,6 +87,20 @@ Bu yüzden antik fikir akımlarının kökünde üç ana ihtiyaç görürüz:
 
 Bu tablo, antik düşünceyi yalnız "eski insanların inançları" gibi okumaktan korur. İnsanlar doğaya, ölüme, kıtlığa ve iktidara karşı anlam kuruyordu.
 
+## 2.7 Ölçek hissi: erken devlet ne kadar büyüktü?
+
+Antik dünyayı anlamayı zorlaştıran şeylerden biri ölçeği gözde canlandıramamaktır. Bir şehir, bir ambar, bir tapınak ya da bir kanal deyip geçersek, arkasındaki insan sayısını ve emeği kaçırırız. Aşağıdaki tablo kesin rakam vermek için değil, zihinde büyüklük duygusu kurmak için var. Erken dönem sayıları tartışmalıdır; bu yüzden onları yaklaşık birer yön levhası gibi düşün.
+
+| Bölge | Yaklaşık ölçek ipucu | Kayıt/ölçü aracı | Halkın üstündeki yük | Kırılganlık |
+|---|---|---|---|---|
+| Mezopotamya | Uruk gibi şehirler on binlerce insanı bir araya getirebildi | Kil tablet, mühür, ambar kaydı | Tahıl teslimi, kanal bakımı, borç | Kuraklık, tuzlanma, şehirler arası savaş |
+| Mısır | Nil havzası milyonlarca kişilik daha bütünlüklü bir tarım düzeni taşıdı | Nil ölçümü, vergi listesi, yazıcı sınıfı | Angarya, vergi, büyük inşa emeği | Taşkının az ya da fazla gelmesi |
+| İndus | Harappa ve Mohenjo-daro gibi planlı şehirler geniş zanaat ve ticaret ağına işaret eder | Standart ağırlıklar, mühürler | Yönetim biçimi sessiz; yükü dolaylı okuruz | Nehir yön değişimleri, ticaret kopuşu |
+| Erken Çin | Sarı Irmak çevresinde hanedan, bronz, ritüel ve savaş birlikte büyüdü | Kehanet kemiği, ritüel kayıt, haraç | Köylü emeği, askerlik, haraç | Taşkın, sınır savaşı, hanedan krizi |
+| Amerika çekirdekleri | Mısır, patates ve yüksek ova tarımı farklı merkezler doğurdu | Takvim, ritüel kayıt, yerel hiyerarşi | Tarımsal emek, ritüel yükümlülük | İklim dalgalanması, ürün çeşitliliğine bağımlılık |
+
+Bu tablo sana şunu hatırlatsın: Devlet bir fikir olarak doğmaz; önce çok sayıda insanın emeğini aynı ritme sokan bir ölçek problemi olarak belirir. Fikirler de bu ritmin içine yerleşir: düzen, adalet, ölçü ve krallık dili bu yüzden bu kadar erken güç kazanır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Antik çekirdekler, tarım fazlasının kayıt, depolama, savunma ve meşruiyet ihtiyacıyla birleşmesinden doğar.

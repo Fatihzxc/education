@@ -196,6 +196,20 @@ Bu, modern mülkiyet teorisinin pratik bir test alanıdır. Ekolojik commons'ın
 
 ---
 
+### Yeni kaynak pusulası: dışlama mümkün mü, gerekli mi, zararlı mı?
+
+Bugünün mülkiyet sorularında ilk refleksin "kime ait?" olmasın. Önce kaynağın nasıl bir şey olduğunu anla. Çünkü veri, yazılım, atmosfer ve ilaç patenti aynı mülkiyet kalıbına sığmaz.
+
+| Kaynak | Dışlama mümkün mü? | Dışlama gerekli mi? | Dışlama zararlı mı? |
+|---|---|---|---|
+| Yazılım kodu | Lisans ve erişimle mümkün | Bazen üreticiyi finanse etmek için gerekli | Aşırı olursa öğrenme ve yenilik yavaşlar |
+| Kişisel veri | Teknik ve hukuki olarak mümkün | Mahremiyet için gerekli | Şirket tekeline dönüşürse gözetim doğurur |
+| İlaç bilgisi | Patentle mümkün | Ar-Ge finansmanı için savunulur | Hayati ilaca erişimi keserse ağır toplumsal bedel üretir |
+| Atmosfer | Tam dışlama mümkün değil | Ortak sınır koymak gerekli | Kirletme hakkı piyasası adaletsiz dağıtılırsa bedel yoksula kayar |
+| Yerel ortak kaynak | Topluluk kuralıyla mümkün | Aşırı kullanımı engellemek için gerekli | Dışarıdakileri haksızca mahrum bırakabilir |
+
+Bu pusula mülkiyeti daha canlı yapar. Bazı varlıklarda açık erişim yeniliği büyütür; bazılarında açık erişim yıkıma götürür; bazılarında ise özel hak hayat kurtaran bilgiye duvar örer. Doğru cevap kaynağın doğasına bakmadan bulunamaz.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Bugünkü fikri, dijital ve ekolojik mülkiyet sorusu, yazılım, veri, patent, atmosfer ve biyolojik kaynakların klasik sahiplik kalıbına sığmamasından doğar.

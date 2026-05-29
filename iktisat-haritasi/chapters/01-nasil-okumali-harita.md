@@ -97,6 +97,19 @@ Her bölüm bir *sentez*tir, bir kazı değil. Derinini istediğinizde kardeş k
 
 Son olarak, kitabın asıl kazanımı bir liste değil — "şu yılda şu oldu" — bir **refleks**tir. Kitabı bitirdiğinizde, herhangi bir iktisat metnine baktığınızda kendinize üç soruyu sorabilmelisiniz: *Bu yazar hangi yükselen koalisyonun sesini taşıyor? Hangi veriyi öne çıkarıp hangisini görmezden geliyor? "Doğal", "verimli", "rasyonel" dediği şey kimin lehine kurulmuş?* Bu refleksi klasik metinler üzerinde çalıştırmayı öğrenirseniz, onu kendi çağınızın iktisadına da çevirebilirsiniz — Bölüm 8'in son sözü budur.^[4]
 
+Her ekol için aynı küçük okuma kartını doldur:
+
+| Kart satırı | Sorusu | Neden önemli? |
+|---|---|---|
+| Problem | Bu ekol hangi tıkanıklığa cevap veriyor? | Fikri havada bırakmaz; kök sebebi gösterir |
+| Analitik hamle | Hangi yeni kavramı veya modeli getiriyor? | Gerçek açıklama gücünü ayırır |
+| Kazanan koalisyon | Bu fikir kimin dünyasını daha makul gösteriyor? | Teorinin toplumsal konumunu açar |
+| Kör nokta | Hangi emek, sınıf, bölge ya da kurum görünmez kalıyor? | Tek taraflı okuma riskini azaltır |
+| Halktaki karşılık | Ücret, fiyat, vergi, işsizlik veya borç olarak nasıl yaşanıyor? | Teoriyi insan ölçeğine indirir |
+| Ölçek | Hane, firma, devlet, imparatorluk veya dünya pazarı düzeyinde ne değişiyor? | Aynı fikrin farklı ölçekte başka sonuçlar verdiğini gösterir |
+
+Bu kart haritanın pusulasıdır. Bir ekolü ezberlemek yerine, onu hangi yaradan doğduğunu, neyi gerçekten çözdüğünü ve neyi sakladığını görerek yerleştirirsin.
+
 Bir kavramın doğum yerini görmek, dallarının niçin o yöne uzandığını anlamanın tek yoludur. Harita hazır; şimdi düğüm düğüm dolaşalım.
 
 ---

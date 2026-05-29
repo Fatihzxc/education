@@ -72,6 +72,18 @@ Bir dönemi veya fikir akımını okurken şu kısa defteri doldur:
 
 Son satır önemlidir. Öğrenme cümlesi, bilgiyi senin zihninde yerleştirir. Mesela: "Merkantilizm bana devlet gücünün çoğu zaman ticaret ve savaşla birlikte büyüdüğünü, ama bu büyümenin koloni emeği ve halk vergisiyle ödendiğini gösterdi."
 
+Bir adım daha ileri gitmek istersen, her okuma için küçük bir kanıt paketi hazırla:
+
+| Kanıt parçası | Ne arayacaksın? | Neden işe yarar? |
+|---|---|---|
+| 1 sayı/ölçek | Nüfus, fiyat, vergi, ordu, üretim, borç ya da ticaret hacmi | Olayın büyüklüğünü hissettirir; soyut anlatıyı yere indirir |
+| 1 halk sesi | Roman, günlük, dilekçe, mahkeme kaydı, seyahatname, işçi ya da köylü anlatısı | Tarihi yalnız karar vericilerin diliyle okumayı engeller |
+| 1 karşı fikir | Aynı dönemde ya da sonra gelen güçlü itiraz | İlk anlatının kör noktasını açar |
+| 1 kazanan-kaybeden tablosu | Kim güç kazandı, kim maliyet taşıdı? | "Toplum değişti" cümlesini somutlaştırır |
+| 1 bugünkü yankı | Bugünün hangi tartışmasına benziyor? | Bilgiyi ezber olmaktan çıkarıp düşünme aracına çevirir |
+
+Bu paket küçük görünür ama çok güçlüdür. Çünkü seni her seferinde aynı disipline geri çağırır: önce kökü bul, sonra bedeli gör, sonra itirazı dinle.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Sentez bölümü, atlasın dönemleri ve iktisat ekollerini aynı düşünme disiplininde birleştirme ihtiyacından doğar.

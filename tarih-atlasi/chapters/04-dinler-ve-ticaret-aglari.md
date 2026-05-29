@@ -96,6 +96,20 @@ Bu ortamda fikirler üç ihtiyaca cevap verir:
 
 Bu dönemi iyi okumak, din ile ekonomiyi ayırmadan düşünmeyi gerektirir. Çünkü ticaret yolu çoğu zaman hac yolu, ilim yolu ve siyaset yolu ile kesişir.
 
+## 4.8 Üç günlük kayıt: aynı ağı kim nasıl yaşar?
+
+Ticaret ağı haritada çizgi gibi görünür. Ama o çizginin üstünde insanlar vardır. Aynı kervan yolu ya da liman bağlantısı, farklı kişiler için bambaşka anlam taşır.
+
+| Göz | Bir günün kısa kaydı | Bu ses bize ne öğretir? |
+|---|---|---|
+| Tüccar | Muson rüzgarını bekler; gemi gecikirse sermayesi de itibarı da sıkışır | Ticaret özgürlük kadar takvim, borç ve risk demektir |
+| Liman emekçisi | Gelen malı indirir, dili bilmediği insanlarla pazarlık sesleri duyar, ama kazancın çoğunu görmez | Küresel bağlantı çoğu zaman yerel ağır emekle taşınır |
+| Hacı veya öğrenci | Yol üzerinde han, cami, manastır ya da medrese bulur; inanç ve bilgi ağı ona güven verir | Din yalnız fikir değil, yol güvenliği ve kurum ağıdır |
+| Dini azınlık ya da ikinci statülü topluluk | Koruma bulabilir, ticaret yapabilir; ama vergi ve hukuki sınırı her gün hisseder | "Hoşgörü" ve "eşitlik" aynı şey değildir |
+| Katip/çevirmen | Farklı dillerde hesap, mektup ve anlaşma tutar | Bilgi akışı, çoğu zaman görünmeyen aracıların emeğine dayanır |
+
+Bu küçük kayıtları okurken şunu yap: Her ağ için bir kazanan ve bir taşıyıcı ara. Kazanan çoğu zaman metinde görünür; taşıyıcıyı ise sen özellikle aramalısın.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 600-1000 dünyası, eski imparatorluk dengeleri çözülürken din, ticaret ve yazılı bilginin yeni bağlantılar kurmasından doğar.

@@ -174,6 +174,21 @@ Sonraki bölüm — *J.S. Mill ve klasik sentez* — bu çelişkilerle dürüst 
 
 ---
 
+### Aynı teori kime özgürlük, kime disiplin?
+
+Klasik iktisadın politik etkisini anlamak için her büyük öneriyi iki yüzüyle oku. Serbest ticaret, bir grup için özgürleşme; başka bir grup için korumasız kalma olabilir.
+
+| Konum | Teorinin vaat ettiği şey | Yaşanabilecek bedel |
+|---|---|---|
+| Sanayici | Ucuz tahıl, geniş pazar, daha serbest yatırım | İşçi üzerindeki disiplin gücü artabilir |
+| Fabrika işçisi | Büyüyen üretim ve iş imkanı | Uzun saat, düşük ücret, sendika baskısı |
+| Kadın ve ev içi emek | Teoride çoğu zaman görünmez | Yeniden üretim emeği "ekonomi dışı" kalır |
+| Sömürge işçisi/üreticisi | Dünya pazarına dahil olma | Zorla açılmış pazar ve bağımlı üretim |
+| Tüketici | Ucuz ekmek ve ucuz mal | Ucuzluğun bedeli başka işçiye yüklenebilir |
+| Geç sanayileşen ülke | Serbest ticaret vaadi | Öğrenme ve sanayi kurma zamanı kaybedilebilir |
+
+Bu tablo, klasik iktisadı küçültmek için değil, daha doğru görmek için var. Bir teori gerçekten açıklayıcı olabilir; ama açıklayıcı olması, herkes için aynı ölçüde iyi sonuç verdiği anlamına gelmez.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Klasik iktisadın politik bağlamı, Parlamento, tahıl yasaları, sanayi sınıfı, toprak sahipleri, işçiler ve imparatorluk çıkarlarının teoriyle iç içe geçmesinden doğar.

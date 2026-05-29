@@ -22,6 +22,27 @@
     <!-- theme-registry.js doldurur -->
   </main>
 
+  <section class="landing-method" aria-labelledby="landingMethodTitle">
+    <div class="landing-method-head">
+      <span>Okuma pusulası</span>
+      <h2 id="landingMethodTitle">Ana içerikleri tek çizgi gibi değil, kanıt paketi gibi oku</h2>
+    </div>
+    <div class="landing-method-grid">
+      <div>
+        <b>Kök düğümü bul</b>
+        <p>Her kitap önce şu soruya iner: Bu fikir hangi geçim, savaş, vergi, kriz ya da adalet sorununa cevap olarak doğdu?</p>
+      </div>
+      <div>
+        <b>Karşı fikri çağır</b>
+        <p>Bir anlatı ikna edici görünüyorsa hemen karşısına en güçlü itirazı koy. Doğruya yaklaşma burada başlar.</p>
+      </div>
+      <div>
+        <b>Bir sayı, bir ses ara</b>
+        <p>Ölçek için bir istatistik; dönem hissi için işçi, köylü, tüccar, kadın, borçlu ya da göçmen sesi ekle.</p>
+      </div>
+    </div>
+  </section>
+
   <section class="pane-shortcuts" aria-labelledby="paneShortcutTitle">
     <div class="pane-shortcuts-head">
       <span>Dünya Tarihi Atlası</span>
@@ -64,7 +85,7 @@
     var statusLabel = { completed: 'tamamlandı', draft: 'taslak', pending: 'planlandı' };
     grid.innerHTML = themes.map(function(t) {
       var method = t.method || {};
-      return '<a class="theme-card status-' + esc(t.status) + '" href="' + esc(t.slug) + '/book.html">' +
+      return '<article class="theme-card status-' + esc(t.status) + '">' +
         '<h2>' + esc(t.title) + '</h2>' +
         '<p class="card-subtitle">' + esc(t.subtitle) + '</p>' +
         '<p class="card-description">' + esc(t.description || '') + '</p>' +
@@ -72,6 +93,7 @@
           '<div><b>Kök sebep</b><span>' + esc(method.root || '') + '</span></div>' +
           '<div><b>Baskın bakış</b><span>' + esc(method.dominant || '') + '</span></div>' +
           '<div><b>Karşı fikir</b><span>' + esc(method.counter || '') + '</span></div>' +
+          '<div><b>Ölçek</b><span>' + esc(method.scale || '') + '</span></div>' +
           '<div><b>Öğrenme desteği</b><span>' + esc(method.aid || '') + '</span></div>' +
           '<div><b>Halkta görünüm</b><span>' + esc(method.publicEye || '') + '</span></div>' +
         '</div>' +
@@ -79,7 +101,11 @@
           '<span>' + t.chapterCount + ' bölüm</span>' +
           '<span class="status-badge">' + esc(statusLabel[t.status] || t.status) + '</span>' +
         '</div>' +
-      '</a>';
+        '<div class="card-actions">' +
+          '<a class="card-primary" href="' + esc(t.slug) + '/book.html#bolum/1">Mini kitabı aç</a>' +
+          '<a href="' + esc(t.slug) + '/book.html">İçindekiler</a>' +
+        '</div>' +
+      '</article>';
     }).join('');
 
     var paneShortcuts = [

@@ -47,6 +47,33 @@ Bu dönemde Avrupa'da egemenlik teorileri, doğal hukuk ve sömürge tartışmal
 
 Bu fikirler soyut bir akademik oyun değildir. Okyanuslarda yeni karşılaşmalar, yerli toplumların statüsü, köle emeği, ticaret tekelleri ve savaş finansmanı bu fikirleri zorlar.
 
+## 6.6 Ölçek hissi: gümüş, şeker, insan
+
+Bu dönemin büyüklüğünü anlamak için üç kelimeyi yan yana tut: gümüş, şeker, insan. Gümüş para ağlarını; şeker plantasyon kapitalizmini; insan ise sömürge ve kölelik bedelini gösterir.
+
+| Akış | Yaklaşık ölçek duygusu | Ne öğretir? |
+|---|---|---|
+| Amerika gümüşü | 16-17. yüzyıllarda Atlantik'ten Avrupa'ya, oradan Asya'ya büyük miktarda gümüş aktı | Avrupa'nın Asya mallarına erişimi çoğu zaman Amerika madeniyle mümkün oldu |
+| Atlantik köle ticareti | 16. yüzyıldan 19. yüzyıla milyonlarca Afrikalı zorla taşındı | "Küresel ticaret" insan bedeninin metalaşmasıyla iç içedir |
+| Şeker plantasyonları | Karayipler ve Brezilya'da yoğun emek ve ölüm oranı yüksek üretim alanları kuruldu | Ucuz tatlılık, şiddetli çalışma rejimiyle bağlıdır |
+| Barut orduları | Büyük toplar, kaleler ve tüfekli askerler daha pahalı devletler gerektirdi | Askerî teknik mali-bürokratik dönüşüm ister |
+| Misyon ve hukuk tartışmaları | Fetih yalnız kılıçla değil, hak ve din diliyle de meşrulaştırıldı | Fikirler bazen şiddeti sınırlar, bazen ona kılıf olur |
+
+Bu ölçek pusulası, erken modern dünyayı tek bir keşif hikayesinden çıkarır. Bağlantının büyüklüğü kadar bedelinin büyüklüğünü de görürsün.
+
+## 6.7 Kamu gözü: seyahat, fetih anlatısı, köle tanıklığı
+
+Bu dönemde kamunun gözü çoğu zaman seyahatnameler, fetih kronikleri, misyoner raporları, tüccar mektupları ve daha sonra kölelik karşıtı tanıklıklarla oluşur. Avrupa okuru uzak dünyayı çoğu zaman bu metinlerden tanır.
+
+| Metin türü | Ne yapar? | Karşı okuma |
+|---|---|---|
+| Fetih kroniği | Zaferi ve dini görevi öne çıkarır | Yerli toplumun kaybını ve salgını çoğu zaman küçültür |
+| Tüccar mektubu | Kâr, risk, fiyat ve gemi bilgisini taşır | Emeğin zor tarafını görünmez bırakabilir |
+| Misyoner raporu | Ruh kurtarma ve eğitim dilini kurar | Kültürel yıkımı veya zorlamayı perdeleyebilir |
+| Köle tanıklığı | Zorun ve insan kaybının içerden sesini verir | Resmi ticaret dilini ahlaki olarak sarsar |
+
+Bu metinleri birlikte okumak önemlidir. Çünkü tarihi yalnız gemiyi yönetenin defterinden okursan, gemiye zorla bindirilenin dünyası kaybolur.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1450-1650 dünyası, okyanus bağlantıları, barut orduları, gümüş akışı ve sömürgeci zorun aynı anda büyümesinden doğar.

@@ -48,6 +48,34 @@ Petrol şokları, enflasyon, büyüme yavaşlaması ve işsizlik savaş sonrası
 
 Halk için bu dönüşüm teknik değil çok somuttur: fiyatlar artar, iş güvencesi azalır, sendika zayıflar, kamu hizmeti daralır, borç bireyin hayatına daha çok girer.
 
+## 10.6 Ölçek hissi: büyüme, bomba, borç
+
+Soğuk Savaş dünyasında üç ölçek aynı anda çalışır: nükleer yok etme kapasitesi, kitlesel kalkınma umudu ve borç/yardım ilişkileri.
+
+| Ölçek | Ne anlatır? | Gündelik karşılık |
+|---|---|---|
+| Nükleer kapasite | İnsanlık ilk kez kendi yok oluşunu teknik olarak mümkün kıldı | Sığınak, korku, barış hareketi |
+| Refah devleti | Sağlık, eğitim, emeklilik ve iş güvencesi genişledi | Gelecek planı yapılabilir hale geldi |
+| Dekolonizasyon | Çok sayıda yeni devlet uluslararası sahneye çıktı | Bayrak, okul, ordu, planlama, ulusal gurur |
+| Kalkınma kredileri | Altyapı ve sanayi için dış finansman önem kazandı | Borç, döviz, kemer sıkma riski |
+| Petrol şokları | Enerji fiyatı bütün makro düzeni sarstı | Benzin, ısınma, enflasyon, işsizlik |
+
+Bu ölçekleri birlikte tutarsan dönemi daha iyi anlarsın: Aynı çağ hem refah umudu hem yok oluş korkusu hem borç bağımlılığı taşıdı.
+
+## 10.7 Kamu gözü: kalkınma planı, darbe haberi, mutfak hesabı
+
+Soğuk Savaş'ın kamu gözü yalnız lider konuşmaları değildir. Bir ülkede beş yıllık kalkınma planı umut verirken, başka yerde darbe haberi korku yaratır. Bir aile için ideoloji değil maaş, kuyruk, kira ve okul daha somuttur.
+
+| Kamu sahnesi | Ne gösterir? | Hangi teoriye bağlanır? |
+|---|---|---|
+| Kalkınma planı | Devletin geleceği kurma iddiası | Kalkınmacı devlet, planlama |
+| Darbe ve güvenlik haberi | Soğuk Savaş'ın iç siyaseti nasıl sertleştirdiği | Jeopolitik, devlet kapasitesi |
+| Mutfak enflasyonu | Makro politikanın ev hesabına inişi | Keynesçilik, monetarizm |
+| Göçmen işçi hikayesi | Refah merkezlerinin çevre emeğine ihtiyacı | Merkez-çevre, emek piyasası |
+| Popüler kültür | Tüketim rüyası ve ideolojik yarış | Yumuşak güç, refah vaadi |
+
+Bu kamu gözü, Soğuk Savaş'ı harita üzerindeki iki renkli bloktan çıkarır. İnsanlar bu dönemi korku, umut, kuyruk, maaş ve okul üzerinden yaşadı.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Soğuk Savaş ve kalkınma dönemi, güvenlik rekabeti, dekolonizasyon, refah vaadi ve ekonomik yetişme arzusundan doğar.

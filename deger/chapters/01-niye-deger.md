@@ -6,6 +6,19 @@ Bu üç soru aynı sözcüğü kullanır ama bambaşka cevap yapılarına götü
 
 Bu kitap, bu kavganın hikâyesidir. Aristoteles'ten Amartya Sen'e, tabletteki bir cümleden 21. yüzyılın kapabilite yaklaşımına, *değer* sözcüğünün arkasında yatan kavramsal düğüm nasıl çözüldü, nasıl yeniden bağlandı, nasıl tekrar çözüldü — bu okumanın izleği budur.
 
+### Dört anlam kartı: değer derken hangisini söylüyoruz?
+
+Bu kitap soyutlaşmaya çok yatkın. O yüzden daha en başta küçük bir kart oluşturalım. Bir metinde "değer" kelimesini gördüğünde, önce hangi anlamın konuştuğunu ayır.
+
+| Kart | Temel soru | Gündelik örnek | Karşı fikir |
+|---|---|---|---|
+| Kullanım | Bu şey hangi ihtiyacı karşılıyor? | Su, ilaç, barınma, ekmek | Çok yararlı olan şey her zaman pahalı değildir |
+| Değişim | Piyasada neyle değişiliyor? | Kira, döviz, altın, ikinci el telefon | Fiyat, değerin tamamını anlatmaz |
+| Emek | Bunu üretmek için ne kadar insan emeği var? | Ücret pazarlığı, fabrika ürünü, bakım emeği | Emek çok olabilir ama talep yoksa fiyat düşebilir |
+| Adalet | Bu karşılık haklı mı? | Asgari ücret, kira artışı, miras, bakım emeği | Piyasa sonucu adil olmak zorunda değildir |
+
+Bu kartın amacı seni tek bir teoriye bağlamak değil. Tam tersine, her teorinin hangi kapıdan içeri girdiğini görmeni sağlamak. Değer tartışmalarında kafa karışıklığı çoğu zaman insanların aynı kelimeyle farklı soruları cevaplamasından doğar.
+
 ## 1.2 Smith'in açılış paradoksu
 
 Yolculuk için iyi bir başlangıç noktası, Adam Smith'in 1776'da yazdığı bir paragrafdır. *Wealth of Nations*'ın birinci kitabı, dördüncü bölümünde Smith, "değer" sözcüğünün iki tamamen ayrı şeyi işaret ettiğini söyler:

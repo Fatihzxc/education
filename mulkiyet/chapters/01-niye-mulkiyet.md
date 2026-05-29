@@ -151,6 +151,20 @@ Dört düzenlemenin hepsinde "biri tarlaya bir biçimde sahip"tir; ama her birin
 
 Bu matris, kitabın geri kalanı için bir okuma çerçevesi sunar. Her tarihsel düşünür — Aristoteles, Aquinas, Locke, Marx, Hegel, Ostrom — bu matrisin *bir köşesini* öne çıkarmıştır. Locke A'yı; Marx C ve D'yi; Hegel A'yı kişilik-temelli olarak; Ostrom D'yi sistematik olarak. "Mülkiyet teorisi" tartışmaları, çoğu zaman, hangi köşenin *önde* geldiğine dair bir kavgadır.
 
+### Halkın gözü: aynı mülkiyet farklı hayatlar üretir
+
+Haklar demeti soyut görünebilir; ama gündelik sonucu çok somuttur. Aynı ev, aynı tarla ya da aynı yazılım hakkı, kimin nerede durduğuna göre güvenlik veya kırılganlık üretir.
+
+| Kişi/konum | Mülkiyet ona ne sağlar? | Ne risk getirir? |
+|---|---|---|
+| Sahip | Güvenlik, gelir, devretme gücü | Başkasının geçimini kendi kararına bağlama gücü |
+| Kiracı/kullanıcı | Barınma veya üretim imkanı | Tahliye, kira artışı, sözleşme zayıflığı |
+| Komşu/topluluk | Düzen ve sınır açıklığı | Dışlanma, ortak alanın daralması |
+| Devlet | Vergi ve kayıt imkanı | Aşırı müdahale veya rantı koruma riski |
+| Gelecek kuşak | Kaynağın korunmasından fayda | Kısa vadeli özel çıkar yüzünden ortak kaybı devralma |
+
+Bu yüzden "kime ait?" sorusunun yanına her zaman şunu ekle: "Bu aidiyet başkalarının hareket alanını nasıl değiştiriyor?" Mülkiyetin gerçek öğretici tarafı burada açılır.
+
 ---
 
 ## Dört kontrol sorusu

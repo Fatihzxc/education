@@ -44,6 +44,34 @@ Holokost, modern tarihin en karanlık merkezlerinden biridir. Onu yalnız nefret
 
 Bu gerçek rahatsız edicidir: Modern kayıt ve düzen araçları, ahlaki sınır kırıldığında yok etme aracına dönüşebilir. Bu yüzden tarih okurken devlet kapasitesini daima çift yüzlü düşünmek gerekir.
 
+## 9.6 Ölçek hissi: toplam savaş ne demek?
+
+"Toplam savaş" ifadesi ağırdır. Bunu zihinde canlandırmak için birkaç ölçek sorusu sorabiliriz.
+
+| Ölçek | Ne anlatır? | Halktaki karşılık |
+|---|---|---|
+| Milyonlarca asker | Savaş toplumun genç erkek nüfusunu kitlesel biçimde çeker | Cephe, sakatlık, yas, kayıp kuşak |
+| Sivil bombardıman | Cephe ile ev arasındaki sınır kalkar | Sığınak, yangın, göç, travma |
+| Savaş ekonomisi | Fabrika, tarım, bilim ve devlet tek hedefe bağlanır | Karne, uzun mesai, zorunlu çalışma |
+| Propaganda | Devlet yalnız bedeni değil, duyguyu da seferber eder | Düşman imgesi, sansür, korku |
+| Soykırım bürokrasisi | Kayıt, tren, kamp ve hukuk dışılaştırma birleşir | İnsan kimliğinin sistematik silinmesi |
+
+Bu tablo savaş tarihini yalnız cephe haritası olmaktan çıkarır. Modern savaş, toplumun bütün sinirlerine girer.
+
+## 9.7 Kamu gözü: roman, günlük, radyo, fotoğraf
+
+Bu dönemin kamu hafızası çok güçlü metin ve görüntülerle taşınır. Cephe romanları, Buhran anlatıları, günlükler, radyo konuşmaları, propaganda afişleri ve savaş fotoğrafları, insanların olayı nasıl hissettiğini gösterir.
+
+| Mercek | Ne yakalar? | Dikkat |
+|---|---|---|
+| Cephe romanı | Korku, anlamsızlık, arkadaş kaybı | Ulusal kahramanlık anlatısını kırabilir |
+| Buhran romanı | İşsizlik, göç, aile çözülmesi | Krizi insan yüzüyle gösterir |
+| Günlük | Büyük tarihin küçük odadaki karşılığını verir | Tekil deneyim genelleştirilirken dikkat ister |
+| Radyo ve afiş | Devletin duyguyu nasıl yönettiğini gösterir | Propaganda bilgi gibi görünebilir |
+| Fotoğraf | Acıyı gözle görünür kılar | Kadraj da bir seçimdir |
+
+Bu kaynaklar bize şunu öğretir: 1914-1945 yalnız devletlerin değil, insanların sinir sisteminin tarihidir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1914-1945 dönemi, sanayi gücü, ulus-devlet seferberliği, ekonomik kriz ve ideolojik kutuplaşmanın birleşmesinden doğar.

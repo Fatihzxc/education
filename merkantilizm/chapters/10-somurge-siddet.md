@@ -124,6 +124,20 @@ Bu okuma, mercantilizmi ne romantize etmemize ne de basitçe mahkum etmemize izi
 
 Sonraki bölüm — *20. yüzyıl yeniden okumaları* — Heckscher, Magnusson, Reinert, Chang'in mercantilist çağı modern lensten nasıl yeniden okuduğunu sistematik biçimde inceleyecek. Beckert ve Williams da bu modern yeniden okuma geleneğinin parçasıdır. Mercantilizm ölmedi; sürekli yeniden okunarak yaşıyor.
 
+### Halkın gözüyle maliyet defteri
+
+Bu bölümü bitirirken kârı yalnız rakam gibi değil, bedeli olan bir akış gibi izle. Kâr bir yerde toplanıyorsa, çoğu zaman başka bir yerde beden, zaman, toprak veya özgürlük kaybı vardır.
+
+| Göz | Ne kazanır veya kaybeder? | Sorulacak soru |
+|---|---|---|
+| Avrupalı tüketici | Şeker, kahve, pamuklu kumaş gibi mallara daha kolay erişir | Ucuzluk hangi emeğin görünmezleşmesiyle mümkün oldu? |
+| Denizci ve liman emekçisi | Ücret ve iş bulur; ama ölüm, hastalık ve borç riski taşır | Ticaret zincirini kim fiziksel olarak taşıdı? |
+| Köleleştirilmiş insan | Özgürlüğünü, aile bağını ve emeğinin ürününü kaybeder | Kâr nerede, bedel kimin bedeninde? |
+| Vergi mükellefi | Donanma ve savaş maliyetini öder | İmparatorluk herkesin güvenliği mi, bazı şirketlerin kâr düzeni mi? |
+| Sömürge üreticisi | Yerel üretim kalıbı dış talebe göre zorla değişir | Pazar açılması gerçekten gönüllü müydü? |
+
+Bu defter, sömürgeyi ahlaki bir dipnot olmaktan çıkarır. Onu sistemin içine koyar. Böylece "ticaret büyüdü" cümlesini duyduğunda, büyüyen şeyin yanında ezilen şeyi de ararsın.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Sömürge ve şiddet bölümü, erken modern zenginleşmenin yalnız ticaret zekâsı ve devlet kapasitesiyle değil, zorla emek, mülksüzleştirme ve imtiyazlı şirket düzenleriyle de kurulduğu gerçeğinden doğar.

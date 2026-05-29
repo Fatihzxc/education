@@ -143,6 +143,19 @@ Bu çerçevede:
 
 Buradaki strateji şudur: kelimeyi koruyalım, ama hem polemik gücünü (Smith'in karikatürünü) hem de tek-tipleştirici basitliğini (klasik tarihçiliğin hatasını) reddedelim. *"Merkantilizm"* — büyük harf olmasa da bilerek başlattığımız bir kavram — bir tarihsel zenginlik ailesinin bizi davet ettiği bir okuma çerçevesidir.
 
+### Ölçek merceği: aynı politika kime ne olur?
+
+Bu kitabı okurken her politikayı tek bir yerden değil, dört ölçekte izle. Çünkü merkantilist bir karar, devlet katında "güvenlik" gibi görünürken hane içinde "pahalılık", limanda "kâr fırsatı", kolonide "zor ve şiddet" olarak yaşanabilir. Aynı olayın dört ayrı yüzü vardır.
+
+| Ölçek | Soru | Gündelik karşılığı |
+|---|---|---|
+| Hane | Bu politika ekmek, kumaş, tuz ve vergi yükünü nasıl değiştiriyor? | Pahalılık, kıtlık korkusu, geçim hesabı |
+| Liman/tüccar | Hangi rota, şirket ya da mal kârlı hale geliyor? | İmtiyaz, sigorta, gemi riski, tekel |
+| Hazine/devlet | Savaş, donanma ve bürokrasi nasıl finanse ediliyor? | Vergi, borç, gümrük, kamu kredisi |
+| İmparatorluk/koloni | Kaynak ve emek nereden çekiliyor? | Zorunlu emek, kölelik, yerel üretimin bozulması |
+
+Bu kartı yanında tutarsan merkantilizmi yalnız "devlet müdahalesi" diye okumazsın. Devletin güç kazanmasıyla toplumun tamamının rahatlaması aynı şey değildir. Bazen aynı politika bir merkeze güvenlik, başka bir yere bedel getirir.
+
 Sonraki bölümde — *Para nedir, neye yarar?* — bu ailenin en eski ortak sorusunu ele alacağız: değerli madenler. Bullionizm doktrini ne anlama gelir? Bodin'in 1568 makalesi neden modern miktar teorisinin atası sayılır? Fiyat devrimi (1500–1650) Avrupa ve Osmanlı'yı nasıl şekillendirdi? Bu sorulara cevap verirken hâlâ "merkantilizm" kelimesinin nereye oturduğunu sınamaya devam edeceğiz.
 
 ## Dört kontrol sorusu
