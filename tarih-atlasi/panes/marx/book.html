@@ -62,10 +62,10 @@
   'use strict';
   function applyTheme(t) {
     document.documentElement.setAttribute('data-theme', t);
-    localStorage.setItem('marx.theme', t);
+    localStorage.setItem('merkantilizm.theme', t);
     document.getElementById('themeToggle').textContent = t === 'dark' ? '☀' : '🌙';
   }
-  const saved = localStorage.getItem('marx.theme');
+  const saved = localStorage.getItem('merkantilizm.theme');
   applyTheme(saved || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));
   document.getElementById('themeToggle').addEventListener('click', () => {
     const cur = document.documentElement.getAttribute('data-theme');
