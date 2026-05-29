@@ -114,6 +114,20 @@ Bir kavramın doğum yerini görmek, dallarının niçin o yöne uzandığını 
 
 ---
 
+## Kanıt paketi: bu kitabı nasıl çalışacağım?
+
+Bu harita kitabında her ekolü iki gözle okuyacağız. Bir göz "gerçekten neyi açıkladı?" diye soracak. Öteki göz "bu açıklama kimin dünyasını daha doğal gösterdi?" diye soracak. İki gözü birlikte kullanırsan ne teoriyi küçümsersin ne de iktidar ilişkisini kaçırırsın.
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Kök problem | Para, üretim, değer, kâr, kriz, işsizlik, enflasyon | Ekolün hangi yaradan doğduğunu görürsün |
+| Analitik hamle | Yeni kavram, model, denklem, ayrım veya metafor | Teorinin gerçek açıklama gücünü ayırırsın |
+| Taşıyıcı koalisyon | Devlet, tüccar, toprak sahibi, sanayici, işçi, teknokrat | Fikrin neden yükseldiğini tarihsel olarak anlarsın |
+| Karşı fikir | Bir sonraki ekolün itirazı veya aynı dönemin dış sesi | "Galip olan doğruydu" kolaycılığından çıkarsın |
+| Halktaki karşılık | Ücret, fiyat, vergi, işsizlik, borç, ekmek, kira | Teoriyi insan ölçeğine indirirsin |
+
+Bu paket haritanın ana cümlesini korur: Bir fikir hem doğru bir şey görebilir hem de başka bir şeyi perdeleyebilir. İyi okuma, bu iki tarafı aynı anda tutmaktır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Haritanın temel sorunu, iktisat düşüncesini tek çizgili bir zafer hikâyesi gibi okumadan anlamaktır.

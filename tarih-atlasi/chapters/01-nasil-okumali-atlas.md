@@ -150,6 +150,20 @@ Ama bütün karşılaştırmaları bırakmak da çözüm değildir. Tam tersine,
 
 Bu yüzden atlasın görevi okura her şeyi ezberletmek değil, soruları doğru yere koydurmaktır. Büyük resim dediğimiz şey, ayrıntıların yokluğu değil, ayrıntıların nereye bağlandığını görebilmektir.
 
+## Kanıt paketi: bu atlası nasıl çalışacağım?
+
+Atlası okurken her dönemi küçük bir soru dosyası gibi düşün. Amaç "hangi olay önce geldi?" bilgisini ezberlemek değil; bir dönemin hangi maddi baskıdan, hangi güç düzeninden ve hangi karşı deneyimden oluştuğunu anlamaktır.
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir bölge farkı | Aynı dönemde Çin, İslam dünyası, Avrupa, Afrika, Amerika veya Osmanlı ne yaşıyor? | Tek merkezli dünya tarihi anlatısını kırarsın |
+| Bir sayı/ölçek | Nüfus, vergi, şehirleşme, savaş kapasitesi, ticaret hacmi, enerji kullanımı | Büyük dönüşümün ne kadar büyük olduğunu hissedersin |
+| Bir halk sesi | Köylü, asker, göçmen, zanaatkâr, kadın, köle, mülteci, işçi | Tarihi yalnız devlet ve fatih gözünden okumazsın |
+| Bir karşı anlatı | Kazananın metniyle yenilenin, taşranın veya koloninin deneyimini yan yana koy | Doğruya yaklaşmak için tek taraflı hafızayı sınarsın |
+| Bir bugünkü yankı | Devlet kapasitesi, küreselleşme, iklim, göç, tedarik zinciri, güvenlik | Tarihin bugünkü sorulara nasıl bağlandığını görürsün |
+
+Bu paketin kısa kuralı şu: Her bölümde "merkezde kim konuşuyor?" ve "aynı olay kenarda nasıl yaşanıyor?" sorularını birlikte sor.
+
 ## İleri düzey okuma
 
 Temel haritayı kurduktan sonra atlası daha ileri bir soruyla oku: Bir fikir akımı hangi zorunluluğa cevap verirken, hangi zorunluluğu perdeledi?

@@ -54,6 +54,25 @@ Turgot tahıl ticaretini serbestleştirdiğinde teorik gerekçe şuydu: Tahıl s
 
 Bu bize çok temel bir şey öğretir: Piyasa fiyatı ile adalet duygusu her zaman aynı dili konuşmaz. Fizyokratlar fiyat sinyalinin uzun vadeli işlevine baktı. Halk ise "bugün ekmek alabiliyor muyum?" sorusuna baktı.
 
+## Ekmek bütçesi mini hesabı
+
+Bu gerilimi hissetmek için küçük ve temsili bir hane hesabı yapalım. Bu tarihsel veri değil; mantığı görmek için kurulmuş bir öğrenme modeli.
+
+| Durum | Aylık gelir | Gıda/ekmek gideri | Geriye kalan |
+|---|---:|---:|---:|
+| Fiyat artışı öncesi | 100 | 50 | 50 |
+| Ekmek ve temel gıda %20 artarsa | 100 | 60 | 40 |
+
+İlk bakışta gider yalnız 10 birim artmış gibi görünür. Ama düşük gelirli hane için bu, serbest kalan bütçenin 50'den 40'a düşmesi demektir. Yani hareket alanı %20 daralır. Kira, yakacak, borç, hastalık ve çocuk masrafı aynı kalırken ekmek pahalanırsa, teori ne kadar tutarlı olursa olsun hane hayatı sıkışır.
+
+| Göz | Ne görür? | Neden gerilir? |
+|---|---|---|
+| Reformcu fizyokrat | Fiyat serbestliği üreticiyi teşvik eder, tahıl daha doğru yere akar | Kısa vadeli acıyı uzun vadeli düzen adına hafife alabilir |
+| Köylü üretici | Daha iyi fiyat, üretim yapma cesareti ve vergi yükünü taşıma imkanı | Kıtlıkta tahılını ucuza kaptırmak istemez |
+| Şehirli yoksul | Bugünkü ekmek fiyatı ve çocuğun doyup doymaması | Uzun vadeli bolluk vaadi bugünkü açlığı çözmez |
+
+Bu küçük hesap fizyokrasinin kalbindeki zor soruyu açar: Bir reform uzun vadede üretimi artırabilir; ama geçiş döneminin acısını kim taşıyacak? Halkın gözünü anlamadan reformun ahlaki maliyetini anlayamayız.
+
 ## Loncalar ve zanaatkârlar
 
 Fizyokratlar lonca ayrıcalıklarına karşıydı. Onlara göre loncalar üretimi sınırlıyor, giriş engeli yaratıyor, fiyatları bozuyor ve emeğin serbestçe çalışmasını engelliyordu.

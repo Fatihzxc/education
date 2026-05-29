@@ -34,6 +34,19 @@ devlet aşırı genişler → para ve talep şişer → fiyatlar hızlanır → 
 
 Bu tablo bize şunu öğretir: Makro iktisat soyut bir tartışma değildir. İşsizlik kuyruğu, ev kredisi, market fiyatı, kamu borcu, merkez bankası kararı ve seçim sandığı aynı hikâyenin parçalarıdır.
 
+## Kriz teşhis matrisi
+
+Keynesçilik ve monetarizmi ezberlemek yerine kriz teşhisi gibi kullanmak daha öğreticidir. Önce hastalığın ne olduğunu anlamaya çalışırsın; sonra hangi ilacın hangi yan etkiyi doğuracağını sorarsın.
+
+| Kriz belirtisi | Hangi göstergeye bakılır? | Keynesçi refleks | Monetarist itiraz | Bedeli kim öder? |
+|---|---|---|---|---|
+| Düşük talep ve işsizlik | İşsizlik, kapasite kullanımı, yatırım düşüşü | Kamu harcaması ve talep desteğiyle döngüyü kır | Harcama kalıcı açık ve enflasyon beklentisi yaratabilir | Vergi ödeyenler, borçlanan devlet, ama harcanmazsa işsizler |
+| Yüksek enflasyon | TÜFE, ücret-fiyat beklentisi, para/kredi genişlemesi | Çok sert daralma toplumu yaralar; hedefli destek gerekir | Para sıkılaşmadan güven geri gelmez | Borçlular, işsiz kalabilecekler, sabit gelirliler |
+| Stagflasyon | Enflasyon ve işsizlik birlikte yükselir | Sadece talep artırmak yetmeyebilir; arz ve enerji şoku görülmeli | Keynesçi ince ayar başarısız olmuştur | Hem işsizler hem alım gücü düşen haneler |
+| Finansal panik | Banka stresi, kredi donması, varlık fiyatı çöküşü | Devlet son kredi verici ve güven kurucu olmalı | Kurtarma ahlaki tehlike yaratabilir | Tasarruf sahipleri, vergi mükellefi, krediye muhtaç işletmeler |
+
+Bu matris sana şunu kazandırır: "Devlet harcasın mı?" sorusunu tek başına sormazsın. Önce krizin türünü, sonra politikanın bedelini, en sonunda da bu bedelin kimlere dağıldığını sorarsın.
+
 ## Küçük kronoloji
 
 | Tarih | Olay | Neden önemli? |
@@ -90,6 +103,20 @@ Monetarizmin kök sebebi ise başka bir krizdir: 1970'lerde enflasyon, petrol ş
 | Hayekçi çizgi | Bilginin merkezde toplanamaması | Fiyat sinyali tek başına kriz ahlakını çözmez |
 
 Doğruya yaklaşmak için şunu sor: Bu dönemde asıl kırılan güven hangisi, iş ve gelir güveni mi, para ve fiyat güveni mi? Politikanın bedelini kim ödüyor: işsiz kalan mı, enflasyonla birikimi eriyen mi, borcu çeviremeyen mi?
+
+## Kanıt paketi: Keynesçilik ve monetarizmi nasıl çalışacağım?
+
+Bu pane'de iki korku birlikte yürür: işsizlik korkusu ve enflasyon korkusu. İyi okuma, birini seçip ötekini küçümsemek yerine hangi tarihsel anda hangisinin ağır bastığını anlamaktır.
+
+| Kanıt parçası | Keynes/monetarizm pane'inde ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | İşsizlik oranı, enflasyon, faiz, bütçe açığı, kamu borcu | Makro kavramların ev bütçesine nasıl indiğini görürsün |
+| Bir halk sesi | İşsiz aile, sabit gelirli emekli, borçlu hane, küçük işletme, sendika | Politika maliyetini yalnız grafik değil insan hikayesiyle okursun |
+| Bir karşı fikir | Keynes'e karşı Friedman/Hayek, monetarizme karşı Keynes/Minsky | Her politikanın kör noktasını birlikte tartarsın |
+| Bir kazanan-kaybeden tablosu | İşsiz, borçlu, tasarruf sahibi, ihracatçı, devlet, banka | Faiz ve harcama kararının dağılım etkisini görürsün |
+| Bugünkü yankı | 2008, COVID, yüksek enflasyon, merkez bankası bağımsızlığı, mali teşvik | Eski makro kavganın bugün niye geri döndüğünü anlarsın |
+
+Bu paket sana şu disiplini kazandırır: "Devlet harcasın mı?" ya da "Para sıkılaşsın mı?" sorusundan önce, hangi güvenin kırıldığını ve bedelin kimin omzuna yüklendiğini sor.
 
 ## Dört kontrol sorusu
 

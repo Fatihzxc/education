@@ -75,6 +75,21 @@ Bu tablo bize şunu gösterir: Klasik iktisat yalnızca "piyasa" kelimesiyle anl
 
 Bu sayılar bize şunu anlatır: Klasik iktisat soyut bir masa başı uğraşı değildi. Hızla büyüyen şehirlerin, fabrikaların, pahalı ekmeğin ve siyasal reform kavgasının içinden konuşuyordu.^[1]
 
+## Büyüme-bölüşüm pusulası
+
+Klasik iktisadı okurken her büyüme cümlesinin yanına bir bölüşüm sorusu koy. Çünkü "üretim arttı" demek, herkesin aynı oranda rahatladığı anlamına gelmez. Klasiklerin gerçek derinliği burada açılır: toplam ürün büyürken ücret, kâr ve rant farklı yönlere gidebilir.
+
+| Başlık | Kim kazanabilir? | Kim zorlanabilir? | Hangi veriyle kontrol edilir? |
+|---|---|---|---|
+| Ücret | İşçi, özellikle emek talebi güçlüyse | Geçimlik ücret baskısı altındaki emekçi | Reel ücret, çalışma saati, işsizlik |
+| Kâr | Sanayici ve sermaye sahibi | Rekabette geride kalan küçük üretici | Kâr oranı, yatırım, iflas |
+| Rant | Toprak sahibi, özellikle tahıl pahalıysa | İşçi ve şehirli tüketici | Tahıl fiyatı, kira/rant geliri |
+| Ucuz ekmek | İşçi ve sanayici; ücret baskısı hafifler | Toprak sahibi rant kaybedebilir | Corn Laws, gıda fiyatı, ücret payı |
+| Çocuk emeği | Fabrika maliyeti düşebilir | Çocuk, aile ve toplumun gelecek kapasitesi | Fabrika yasaları, eğitim, sağlık |
+| Koloni girdisi | Metropol sanayisi ucuz hammadde bulur | Koloni üreticisi ve yerel geçim düzeni | Ticaret hacmi, hammadde fiyatı, zorla emek kayıtları |
+
+Bu pusula sayesinde klasik iktisadı yalnız "serbest ticaret iyidir" ya da "sanayi büyüdü" diye okumazsın. Her iddianın arkasında şu soru durur: büyümenin hesabı kimin defterinde artı, kimin hayatında eksi yazıyor?
+
 ## Altı kartın görevi
 
 **Ekonomi kartı** iş bölümü, emek-değer, ücret, kâr, rant ve karşılaştırmalı üstünlük kavramlarını açar. Ama bunu ezber olarak değil, şu soruyla yapar: Üretilen zenginlik hangi mekanizmayla artıyor ve kime dağılıyor?
@@ -112,6 +127,20 @@ Ama bu dili yalnızca sanayi burjuvazisinin zafer anlatısı gibi okumak tehlike
 | Serbest ticaret | Rant ayrıcalığını kırabilir | Sanayileşmemiş ülkeyi zayıf uzmanlığa hapsedebilir |
 
 Doğruya yaklaşmak için üç kontrol sorusu kullan: Büyüme kimin gelirini artırıyor? Serbestlik hangi eski ayrıcalığı kırıyor, hangi yeni bağımlılığı kuruyor? Bu anlatıda işçi, kadın, koloni ve yoksul şehirli nerede duruyor?
+
+## Kanıt paketi: klasik iktisadı nasıl çalışacağım?
+
+Klasik iktisadı öğrenirken en büyük tuzak, onu yalnız "serbest piyasa doğdu" diye okumaktır. Daha iyi okuma, büyüme ile bölüşümü aynı defterde tutar.
+
+| Kanıt parçası | Klasik iktisatta ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Ücret, kâr, rant, tahıl fiyatı, fabrika saati, dış ticaret hacmi | Büyümenin kimin payına nasıl dağıldığını görürsün |
+| Bir halk sesi | Fabrika işçisi, kadın emekçi, şehir yoksulu, koloni üreticisi, ucuz ekmek isteyen tüketici | Teorinin soyut sınıflarını gerçek insanlara bağlarsın |
+| Bir karşı fikir | Marx, List, Sismondi, ütopik sosyalistler, Osmanlı okurları | İngiliz merkezli kanonun kör noktalarını açarsın |
+| Bir kazanan-kaybeden tablosu | Sanayici, toprak sahibi, işçi, tüketici, geç sanayileşen ülke | Serbest ticaret ve büyüme dilinin herkese eşit işlemediğini anlarsın |
+| Bugünkü yankı | Küresel ticaret, ücret payı, eşitsizlik, sanayi politikası, tedarik zinciri | Smith ve Ricardo'nun sorularının bugünkü biçimini görürsün |
+
+Bu paketin kısa kuralı şu: "Toplam üretim arttı" cümlesinden sonra hemen "pay kime gitti?" diye sor. Klasik iktisadın gerçek derinliği bu ikinci soruda açılır.
 
 ## Dört kontrol sorusu
 

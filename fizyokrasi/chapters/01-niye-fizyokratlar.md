@@ -137,6 +137,20 @@ Sonraki on bir bölüm o hikâyedir.
 
 ---
 
+## Kanıt paketi: bu kitabı nasıl çalışacağım?
+
+Fizyokrasiyi öğrenirken toprağı yalnız romantik bir kaynak gibi değil, vergi, ekmek, sınıf ve devlet kapasitesiyle bağlı bir düğüm gibi oku. Çünkü "doğal düzen" sözü kulağa sakin gelir; ama o düzeni kurma girişimi insanların hayatına çok farklı biçimlerde dokunur.
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Tahıl fiyatı, vergi yükü, devlet borcu, tarımsal verim | Reform ihtiyacının ne kadar maddi olduğunu anlarsın |
+| Bir aktör | Köylü, toprak sahibi, şehirli yoksul, vergi tahsildarı, kral | Aynı reformun herkese aynı görünmediğini görürsün |
+| Bir model | Tableau, produit net, impôt unique, laissez-faire | Fizyokrat aklın hangi mekanizmayı kurduğunu izlersin |
+| Bir karşı fikir | Sanayi üretimi, Smith, Marx, şehir halkının ekmek korkusu | Toprağı tek kaynak saymanın nerede daraldığını anlarsın |
+| Bugünkü yankı | Toprak değer vergisi, ekolojik iktisat, gıda güvenliği, rant tartışması | Fizyokrat soruların günümüzde nasıl şekil değiştirdiğini görürsün |
+
+Bu paketin kalbi şudur: "Üretken olan nedir?" sorusundan sonra hemen "bu üretkenliğin payı kime kalıyor?" diye sor.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Fizyokrasi, borçlu, ayrıcalıklı ve vergi bakımından dengesiz Fransa’da üretkenliğin gerçek kaynağını bulma arzusundan doğar.

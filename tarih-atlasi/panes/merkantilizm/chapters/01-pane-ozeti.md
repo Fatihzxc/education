@@ -103,6 +103,20 @@ Ama karşı okuma da gerekir. Smith ve Hume çizgisi şunu söyler: Bir ülkenin
 
 Doğruya yaklaşmak için üç soru sor: Bu politika kimin güvenliğini artırıyor? Bedeli kim ödüyor? Anlatıyı yazan taraf hazineyi mi, insan hayatını mı merkeze alıyor?
 
+## Kanıt paketi: merkantilizmi nasıl çalışacağım?
+
+Bu pane'i okurken her bölümden küçük bir kanıt paketi çıkar. Böyle yaparsan merkantilizm soyut bir "devletçilik" etiketi olmaktan çıkar, gözünün önünde çalışan bir tarih makinesine dönüşür.
+
+| Kanıt parçası | Merkantilizmde ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Gümüş akışı, donanma masrafı, gümrük geliri, şirket kârı | Güç isteğinin ne kadar büyük bir mali ölçek istediğini görürsün |
+| Bir halk sesi | Denizci, zanaatkâr, vergi mükellefi, köleleştirilmiş insan, koloni üreticisi | Ulusal çıkar dilinin kimlerin hayatında bedel olduğunu duyarsın |
+| Bir karşı fikir | Hume'un para akışı, Smith'in tekel eleştirisi, Osmanlı iaşeciliği | Altın, ihracat ve güç dilinin sınırını anlarsın |
+| Bir kazanan-kaybeden tablosu | Devlet, tüccar, tüketici, koloni, yerli üretici | Aynı politikanın herkese aynı sonucu vermediğini görürsün |
+| Bugünkü yankı | Sanayi politikası, yaptırım, stratejik ürün, cari açık, rezerv | Eski tartışmanın neden hâlâ ölmediğini yakalarsın |
+
+Bu paketin amacı seni yavaşlatmak değil, düşünceni sağlamlaştırmak. Her satır sana aynı şeyi hatırlatır: Güç anlatısını duyduğunda, onun insan ve maliyet tarafını da ara.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Sürekli savaş, hazine ihtiyacı, okyanus ticareti ve devlet kurma baskısı aynı anda büyüdü.

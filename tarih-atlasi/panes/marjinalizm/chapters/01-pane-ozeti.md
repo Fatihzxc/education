@@ -103,6 +103,20 @@ Ama bu anlatı, çoğu zaman ders kitabını yazan ana akımın gözünden anlat
 
 Doğruya yaklaşmak için şu soruları sor: Model neyi veri kabul ediyor? Tercih başlamadan önce mülkiyet ve gelir nasıl dağılmış? Bu açıklama fiyatı iyi anlatırken adaleti ve gücü dışarıda bırakıyor mu?
 
+## Kanıt paketi: marjinalizmi nasıl çalışacağım?
+
+Marjinalizmi anlamak için yalnız formül değil, bakış değişimini gör: üretimden tercihe, sınıftan bireye, toplam değerden son birime geçilir.
+
+| Kanıt parçası | Marjinalizmde ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Marjinal fayda tablosu, fiyat değişimi, tüketim miktarı, faiz/ücret oranı | "Son birim" fikrini elde tutulur hale getirir |
+| Bir halk sesi | Tüketici, borçlu hane, reklam izleyicisi, küçük esnaf, iş arayan kişi | Tercihin gelir ve güç koşullarından kopuk olmadığını görürsün |
+| Bir karşı fikir | Marx, Sraffa, kurumsalcılar, davranışsal iktisat, feminist iktisat | Rasyonel birey ve marjinal katkı dilinin sınırını açarsın |
+| Bir kazanan-kaybeden tablosu | Tüketici, sermaye sahibi, işçi, borçlu, şirket | Verimlilik dilinin bölüşüm etkisini nasıl gizleyebileceğini anlarsın |
+| Bugünkü yankı | Platform fiyatlaması, algoritmik reklam, davranışsal veri, kredi skoru | Modern ekonomide tercihlerin nasıl yönlendirildiğini fark edersin |
+
+Bu paketin ana cümlesi şu: Marjinalizm bize fiyatın ince mekaniğini öğretir; ama o fiyatın öncesindeki gelir, güç ve kurum düzenini ayrıca sorgulamak gerekir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Emek-değer açıklaması kıtlık, tercih ve günlük fiyat hareketlerini açıklamakta zorlandığında yeni bir değer dili arandı.

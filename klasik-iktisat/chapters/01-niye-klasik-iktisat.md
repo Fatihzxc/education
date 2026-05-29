@@ -125,6 +125,20 @@ Klasik iktisadı Smith, Malthus, Ricardo ve Mill hattıyla öğrenmek iyi bir ba
 
 Bu tablo kanonu reddetmek için değil, daha doğru okumak için var. Kanon bize güçlü sorular verir; kenarda kalan sesler ise o soruların kime göre kurulduğunu gösterir.
 
+## Kanıt paketi: bu kitabı nasıl çalışacağım?
+
+Klasik iktisadı okurken iki defteri aynı anda tut: bir defter üretimin nasıl büyüdüğünü, öteki defter bu büyümenin kimlere nasıl dağıldığını yazsın. Bu ikisini ayırırsan klasik okulun asıl gerilimi kaybolur.
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Reel ücret, kâr oranı, rant, tahıl fiyatı, fabrika saati | Büyümenin bölüşüm sonucunu görürsün |
+| Bir yasa/politika | Corn Laws, Factory Acts, Poor Law, Reform Bill | Teorinin parlamentoda ve fabrikada neye dönüştüğünü izlersin |
+| Bir halk sesi | İşçi, kadın emekçi, çocuk işçi, şehir yoksulu, koloni üreticisi | Verimlilik dilinin gündelik bedelini duyarsın |
+| Bir karşı fikir | Marx, Sismondi, List, ütopik sosyalistler, Osmanlı okurları | İngiliz merkezli kanonun sınırlarını açarsın |
+| Bugünkü yankı | Küresel ticaret, sanayi politikası, ücret payı, eşitsizlik | Klasik soruların bugünkü biçimini yakalarsın |
+
+Kısa kural şu: "Pasta büyüyor" deniyorsa hemen "dilimleri kim alıyor?" diye sor. Klasik iktisadı gerçekten açan anahtar budur.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Klasik iktisat, sanayi kapitalizminin doğuşunda büyüme, bölüşüm, ücret, kâr, rant ve ticaret düzenini aynı anda açıklama ihtiyacından doğar.

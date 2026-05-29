@@ -60,6 +60,20 @@ Bir dış ticaret fazlası tablosu sana yönü gösterir; ama hakkaniyeti tek ba
 
 Bu yüzden merkantilist hesabı okurken iki defter tutmak gerekir. Birinci defter para akışını yazar. İkinci defter bu akışın hangi güç ilişkisiyle kurulduğunu yazar. İkisi birlikte okunmadıkça, kazananın dili bütün hikaye gibi görünür.
 
+## Ulusal çıkar defteri: kim kazanıyor, kim ödüyor?
+
+Merkantilist politikaları anlamanın en sağlam yolu, her kararı iki sütunda tutmaktır. Bir sütunda devletin ve büyük tüccarın gördüğü kazanç durur. Öteki sütunda halkın, koloninin, işçinin veya tüketicinin ödediği bedel durur. Böyle okuyunca "ulusal çıkar" denen şeyin bazen gerçekten ortak güvenlik, bazen de belirli grupların çıkarı olduğunu ayırt etmeye başlarsın.
+
+| Politika | Hazine/tüccar ne kazanır? | Halk/koloni/işçi ne öder? | Kontrol sorusu |
+|---|---|---|---|
+| Değerli maden biriktirme | Dış ödeme gücü ve savaş zamanı esneklik | Fiyat artışı, vergi baskısı, üretim yerine para takıntısı | Para üretim kapasitesine dönüşüyor mu? |
+| Korumacı tarife | Yerli üreticiye öğrenme zamanı | Tüketici daha pahalı mal alabilir | Koruma geçici öğrenme mi, kalıcı ayrıcalık mı? |
+| İmtiyazlı şirket | Uzun mesafeli ticaret, vergi ve deniz gücü | Tekel fiyatı, yerel şiddet, hesap vermeyen şirket gücü | Şirket devletin aracı mı, devlet gibi davranan özel güç mü? |
+| Koloni hammaddesi | Ucuz girdi ve yüksek kâr | Zorla emek, yerel geçimin bozulması, bağımlılık | Kârın görünmeyen kaynağı nerede? |
+| İhracat teşviki | Dış pazarda pay ve döviz girişi | İçeride kıtlık veya ücret baskısı oluşabilir | İhracat başarısı hane refahına yansıyor mu? |
+
+Bu defterin amacı merkantilizmi baştan mahkum etmek değildir. Ama tek cümlelik "devlet güçlendi" anlatısının yanına hemen "bu güç nasıl üretildi?" sorusunu koyar. Tarihi kazananın gözünden çıkarmanın yolu çoğu zaman bu ikinci sorudan geçer.
+
 ## Şirketler neden bu kadar önemliydi?
 
 Bugün şirket dediğimizde akla çoğu zaman özel firma gelir. Ama erken modern imtiyazlı şirketler yalnızca firma değildi. East India Company veya VOC gibi kurumlar hem ticaret yapıyor, hem savaşabiliyor, hem kale kuruyor, hem antlaşma imzalıyor, hem bazı yerlerde vergi topluyordu. Yani şirket ile devlet arasındaki sınır bulanıktı.

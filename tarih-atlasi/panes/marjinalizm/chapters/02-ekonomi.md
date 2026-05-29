@@ -26,6 +26,18 @@ Bu tablo "ekmek önemsizdir" demiyor. Tam tersine, ekmeğin ilk dilimleri çok d
 
 Buradan fiyat teorisine geçiş şöyledir: Eğer bir maldan çok varsa, son birimin faydası düşer. Eğer mal kıtsa ve insanlar onu hâlâ istiyorsa, son birimin faydası yüksek kalır. Fiyat bu gerilimin içinde şekillenir.
 
+## Son 100 lira matrisi
+
+Marjinal faydayı zihinde canlı tutmanın iyi bir yolu, "son 100 lira" sorusudur. Aynı 100 lira herkeste aynı anlamı taşımaz. Çünkü paranın marjinal faydası, kişinin gelirine, borcuna, zorunlu ihtiyacına ve seçme alanına göre değişir.
+
+| Hane durumu | Son 100 lira neye gider? | Marjinal fayda | Tercih ne kadar özgür? |
+|---|---|---|---|
+| Düşük gelirli hane | Ekmek, ulaşım, fatura, çocuk ihtiyacı | Çok yüksek; çünkü temel eksikliği kapatır | Dardır; seçim çoğu zaman zorunluluklar arasındadır |
+| Orta gelirli hane | Birikim, küçük konfor, borç kapatma, eğitim | Orta; hayatı rahatlatır ama varoluşu belirlemez | Daha geniştir; erteleme ve karşılaştırma mümkündür |
+| Yüksek gelirli hane | Lüks tüketim, yatırım, statü harcaması | Daha düşük; son birim hayati değildir | Geniştir; seçenek çok, aciliyet düşüktür |
+
+Bu matris marjinalizmin gücünü de sınırını da gösterir. Gücü şudur: Aynı paranın farklı insanlarda farklı ek fayda yarattığını netleştirir. Sınırı şudur: "Tercih" dediğimiz şey her zaman rahat bir seçim değildir. Bazen tercih, yoksulluğun içindeki en az kötü seçenektir. Bu yüzden marjinal faydayı öğrenirken gelir dağılımını ve zorunlu ihtiyaçları yanında tutmak gerekir.
+
 ## Arz ve talep aynı sahnede
 
 Marshall'ın meşhur makas benzetmesi burada işe yarar: Bir kağıdı makasın hangi ağzı keser? Üst ağız mı, alt ağız mı? Tek başına biri değil; ikisi birlikte keser. Fiyatı da yalnızca talep ya da yalnızca arz açıklamaz. Talep insanların isteğini, arz ise üretim koşullarını ve maliyeti sahneye getirir.[^1]

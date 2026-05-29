@@ -158,6 +158,20 @@ Bu kartı yanında tutarsan merkantilizmi yalnız "devlet müdahalesi" diye okum
 
 Sonraki bölümde — *Para nedir, neye yarar?* — bu ailenin en eski ortak sorusunu ele alacağız: değerli madenler. Bullionizm doktrini ne anlama gelir? Bodin'in 1568 makalesi neden modern miktar teorisinin atası sayılır? Fiyat devrimi (1500–1650) Avrupa ve Osmanlı'yı nasıl şekillendirdi? Bu sorulara cevap verirken hâlâ "merkantilizm" kelimesinin nereye oturduğunu sınamaya devam edeceğiz.
 
+## Kanıt paketi: bu kitabı nasıl çalışacağım?
+
+Bu kitabı okurken her bölümde küçük bir kanıt dosyası aç. Amaç yalnız "merkantilistler ne dedi?" sorusuna cevap vermek değil; o sözün hangi korkudan, hangi çıkar düzeninden ve hangi tarih yazımı çerçevesinden doğduğunu görmektir.
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Gümüş akışı, gümrük geliri, fiyat artışı, savaş borcu | Devletin para kaygısının gerçekten ne kadar baskın olduğunu görürsün |
+| Bir politika | Tarife, ihracat yasağı, tekel şirketi, Navigation Acts | Teorinin somut araca nasıl dönüştüğünü izlersin |
+| Bir halk sesi | Pahalı mal alan tüketici, vergi ödeyen köylü, denizci, koloni halkı | "Ulusal çıkar" denen şeyin gündelik bedelini duyarsın |
+| Bir karşı okuma | Smith-Hume eleştirisi, Alman Tarih Okulu, Magnusson revizyonu, Osmanlı iaşeciliği | Tek bir Smithçi karikatüre ya da tek bir devlet övgüsüne sıkışmazsın |
+| Bugünkü yankı | Sanayi politikası, stratejik sektör, cari açık, rezerv biriktirme | Eski kavganın bugün hangi adlarla geri döndüğünü anlarsın |
+
+Kısa kural şu olsun: Bir metin sana "devlet güçlendi" dediğinde hemen "halk refahı da güçlendi mi, yoksa sadece ödeme ve savaş kapasitesi mi arttı?" diye sor.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** “Merkantilizm” adı, birbirinden farklı erken modern pratikleri tek kavram altında toplama ihtiyacından doğar; sorun hem devletin zenginliği nasıl ölçtüğü hem de tarihçinin bu karmaşayı nasıl adlandırdığıdır.

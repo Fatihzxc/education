@@ -137,6 +137,20 @@ Bir gözlem: matrise dikkatli baktığınızda, "ideal" bir egemenlik konfigüra
 
 ---
 
+## Kanıt paketi: bu kitabı nasıl çalışacağım?
+
+Egemenliği okurken yalnız "kim güçlü?" diye sormak yetmez. Daha öğretici soru şudur: Bu güç hangi hikayeyle meşru gösteriliyor, hangi sınırla durduruluyor ve halk onu günlük hayatta nasıl hissediyor?
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir özne | Kral, halk, devlet, hanedan, bürokrasi, platform | Son sözün kime atfedildiğini görürsün |
+| Bir sınır | Doğal hukuk, anayasa, din, mülkiyet, yaşam hakkı, uluslararası hukuk | Gücün nerede durması gerektiğini anlarsın |
+| Bir zor aracı | Vergi, askerlik, mahkeme, polis, sınır, kimlik | Egemenliğin günlük hayata nasıl indiğini izlersin |
+| Bir karşı fikir | Locke'a karşı Hobbes, Rousseau'ya karşı temsil, Foucault'ya karşı klasik devlet | Tek merkezli iktidar anlatısını sınarsın |
+| Bugünkü yankı | AB, yapay zeka düzenlemesi, dijital platformlar, iklim, göç | Egemenliğin neden artık yalnız ulus-devlet meselesi olmadığını görürsün |
+
+Bu kitabın küçük disiplini şu olsun: Bir otorite "ben karar veririm" dediğinde hemen "hangi hakla, hangi alanda, hangi sınırla?" diye sor.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Egemenlik, siyasal toplulukta son sözü kimin söyleyeceği sorusundan doğar: emir kimden gelir, kime işler, hangi sınırda durur?

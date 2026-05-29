@@ -114,6 +114,20 @@ Ama bu anlatı çoğu zaman reformcu bürokratın, salon aydınının ve toprak 
 
 Doğruya yaklaşmak için şunu sor: Bu reform uzun vadede üretimi artırsa bile kısa vadede kimin geçimini sarsıyor? "Doğal düzen" denen şey gerçekten doğanın sesi mi, yoksa belirli bir sınıfın makul bulduğu düzen mi?
 
+## Kanıt paketi: fizyokrasiyi nasıl çalışacağım?
+
+Fizyokrasi ilk bakışta "toprak üretkendir" cümlesine sıkışabilir. Ama iyi okuma bunun arkasındaki Fransa gerilimini görür: borçlu devlet, vergi ayrıcalığı, ekmek fiyatı, köylü yükü ve reformcu akıl.
+
+| Kanıt parçası | Fizyokraside ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Tahıl fiyatı, vergi yükü, devlet borcu, tarımsal verim | Doğal düzen fikrinin hangi somut tıkanıklıktan doğduğunu görürsün |
+| Bir halk sesi | Köylü, şehirli ekmek alıcısı, vergi memuru, fırıncı, tahıl tüccarı | Modelin soğuk çizgisine gündelik geçim korkusunu eklersin |
+| Bir karşı fikir | Smith'in sanayi itirazı, Marx'ın sınıf okuması, halkın ekmek isyanı | Toprağı tek kaynak saymanın neleri dışarıda bıraktığını anlarsın |
+| Bir kazanan-kaybeden tablosu | Toprak sahibi, köylü, şehirli tüketici, kral, ayrıcalıklı sınıf | Tek vergi ve serbest tahıl önerisinin farklı etkilerini ayırırsın |
+| Bugünkü yankı | Arazi rantı, imar kazancı, karbon, su havzası, ekolojik değer | Toprak sorusunun bugün başka isimlerle geri döndüğünü görürsün |
+
+Bu paketi doldururken ana cümle şu olsun: Bir teori "doğal" dediğinde, önce onun hangi toplumsal yarayı iyileştirmek istediğini, sonra da kimin korkusunu yeterince duymadığını sor.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Tarımsal üretim, ekmek fiyatı, vergi karmaşası ve devlet borcu Fransa'yı sıkıştırıyordu.

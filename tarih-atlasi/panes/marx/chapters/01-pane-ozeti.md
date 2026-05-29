@@ -93,6 +93,20 @@ Ama Marx'ı da tek hakikat sesi gibi okumamak gerekir. Karşı fikirler güçlü
 
 Doğruya yaklaşmak için Marx'ı hem güçlü hem sınırlı oku: Üretim ilişkisini görünür kıldığı yerde çok keskindir; bireysel motivasyon, kültür, kurum ve piyasa bilgisinin çeşitliliğini bazen fazla geri plana itebilir.
 
+## Kanıt paketi: Marx'ı nasıl çalışacağım?
+
+Marx'ı öğrenirken amaç slogan ezberlemek değildir. Amaç, üretim sürecinin içinde saklanan ilişkiyi görmektir: zaman kimin, değer kimin, karar kimin?
+
+| Kanıt parçası | Marx pane'inde ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir sayı | Çalışma saati, ücret, üretim miktarı, kâr oranı, işsizlik | Artı-değer fikrini soyut olmaktan çıkarır |
+| Bir halk sesi | İşçi gazetesi, grev bildirisi, fabrika raporu, roman, mahkeme kaydı | Sınıfı yalnız kategori değil, yaşanan deneyim olarak görürsün |
+| Bir karşı fikir | Liberal sözleşme özgürlüğü, marjinal verimlilik, kurumsal reform, feminist eleştiri | Marx'ın gücünü ve sınırını aynı anda tartarsın |
+| Bir kazanan-kaybeden tablosu | Kapitalist, işçi, işsiz, ev içi emek, koloni işçisi | Sömürü kavramının nerelerde görünür, nerelerde eksik kaldığını anlarsın |
+| Bugünkü yankı | Platform emeği, otomasyon, kira baskısı, tedarik zinciri, sendikasızlaşma | Marx'ın eski sorusunun bugünkü biçimini yakalarsın |
+
+Bu paketi doldururken şunu unutma: Marx'ın en öğretici tarafı öfkesinden önce ayrımıdır. Emek ile emek-gücü, hukukî eşitlik ile maddi güç, ücret ile üretilen değer arasındaki ayrımları netleştirir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Sanayi kapitalizmi üretkenliği artırırken işçi emeğinin artı ürününe kimin el koyduğu sorusu sertleşti.

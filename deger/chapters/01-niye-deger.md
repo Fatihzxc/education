@@ -149,6 +149,20 @@ Aynı tablo, bir kez ek bir senaryo eklediğinizde — diyelim ki çölde 0 bard
 
 ---
 
+## Kanıt paketi: bu kitabı nasıl çalışacağım?
+
+Değer kitabında en büyük tehlike, tek bir cevabı bütün tarih sanmaktır. O yüzden her bölümde "değer" kelimesinin hangi kapıdan konuştuğunu ayır: ihtiyaç mı, piyasa mı, emek mi, adalet mi?
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir kavram ayrımı | Kullanım/değişim, emek/fayda, fiyat/adil karşılık | Aynı kelimenin farklı soruları karıştırmasını engellersin |
+| Bir örnek | Su-elmas, ekmek, kira, ücret, bakım emeği | Soyut teoriyi gündelik hayata indirirsin |
+| Bir ölçü | Emek zamanı, marjinal fayda, piyasa fiyatı, kapabilite | Her okulun neyi ölçü saydığını görürsün |
+| Bir karşı fikir | Aristoteles'e karşı piyasa, Ricardo'ya karşı Menger, marjinalizme karşı Marx/Sen | Tek merkezli değer anlayışının kör noktasını yakalarsın |
+| Bugünkü yankı | Asgari ücret, kira krizi, veri değeri, bakım emeği, sosyal refah | Eski değer kavgasının bugünkü dilini bulursun |
+
+Bu kitabın küçük disiplini şu: Birisi "bu şey değerli" dediğinde hemen "hangi anlamda değerli?" diye sor. Faydalı mı, pahalı mı, emek mi taşıyor, adil mi?
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** “Değer” kelimesi fayda, fiyat, emek ve adalet sorularını aynı anda taşıdığı için iktisat tarihinde sürekli yeniden açılan bir düğüm olur.

@@ -167,6 +167,20 @@ Bu yüzden "kime ait?" sorusunun yanına her zaman şunu ekle: "Bu aidiyet başk
 
 ---
 
+## Kanıt paketi: bu kitabı nasıl çalışacağım?
+
+Mülkiyet kitabını okurken mülkiyeti yalnız "benim/senin" diye düşünme. Daha temel soru şudur: Hangi hak kimde, hangi hak başkasından esirgeniyor ve bu düzen kimin hayatını güvenli, kimin hayatını kırılgan yapıyor?
+
+| Kanıt parçası | Ne arayacaksın? | Neden işine yarar? |
+|---|---|---|
+| Bir hak demeti | Kullanma, gelir alma, dışlama, devretme | Mülkiyetin tek parça değil, parçalı bir kurum olduğunu görürsün |
+| Bir tarihsel örnek | Tarla, vakıf, commons, kira, fikri mülkiyet, veri | Aynı "sahiplik" kelimesinin farklı dünyalar kurduğunu anlarsın |
+| Bir halk sesi | Kiracı, köylü, ortak alan kullanıcısı, miras dışı kalan, gelecek kuşak | Sahibin hakkının başkasının hayatına nasıl değdiğini duyarsın |
+| Bir karşı fikir | Locke'a karşı Rousseau/Marx, özel mülkiyete karşı Ostrom, devlete karşı yerel ortaklık | "Doğal mülkiyet" hissini tarihsel olarak sınarsın |
+| Bugünkü yankı | Konut krizi, patent, platform verisi, iklim ve ortak kaynaklar | Mülkiyet sorusunun 21. yüzyılda neden büyüdüğünü görürsün |
+
+Kısa kural şu: "Kime ait?" sorusundan sonra "kim dışarıda kalıyor?" diye sor. Mülkiyetin adalet tarafı orada görünür.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Mülkiyet, sahiplikten çok daha geniş bir soruya dayanır: kim kullanacak, kim dışarıda kalacak, kim gelir alacak, kim devredebilecek?

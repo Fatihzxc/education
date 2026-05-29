@@ -29,6 +29,19 @@ artı-değer oranı = artı emek / gerekli emek
 
 Burada "sömürü" ahlaki bir bağırış olmaktan çıkar, yapısal bir orana dönüşür. İşçi ücretini alır; sözleşme yapılır; piyasa görünürde adildir. Ama üretim sürecinde ücretin karşılığından fazla değer üretilir.
 
+### İş günü ölçek kutusu: formül bedene nasıl iner?
+
+Yukarıdaki hesap ilk bakışta yalnız bir oran gibi durur: 6 saat / 4 saat. Ama Marx'ı gerçekten anlamak için bu oranı insan bedenine, aileye ve işsizlik korkusuna indirmek gerekir.
+
+| Ölçek | 10 saatlik gün neye dönüşür? | Marxçı soru |
+|---|---|---|
+| Beden | Yorgunluk, sakatlanma riski, dinlenme zamanının daralması | Artı-değer hangi canlı bedenden çekiliyor? |
+| Hane | Eve geç gelme, bakım emeğinin başkasına yüklenmesi, çocukların çalışmaya itilmesi | Fabrika zamanı aile zamanını nasıl yutuyor? |
+| İşsizlik baskısı | "Razı olmazsan başkası çalışır" tehdidi | Sözleşme gerçekten özgür pazarlık mı? |
+| Örgütlenme | Sendika, grev, iş günü sınırı talebi | İşçiler artı-emek süresini nasıl tartışma konusu yapıyor? |
+
+Bu kutu şunu hatırlatır: Artı-değer yalnız muhasebe meselesi değildir. Çalışma gününün uzunluğu, işçinin uyku saatine, çocuğun bakımına, hastalık riskine ve grev cesaretine kadar iner. Teorinin sıcaklığı burada başlar.
+
 ### Aynı fabrika gününü dört gözle okumak
 
 Marx'ın güçlü yanı, bizi dolaşım alanından üretim alanına sokmasıdır. Yine de aynı fabrika gününü başka okullar başka yerden açıklar. Bu karşılaştırma, kavramı ezberlemek yerine tartmayı sağlar.
