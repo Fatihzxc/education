@@ -168,7 +168,19 @@ Kullanıcı verisinin mülkiyet statüsü hakkında üç büyük yargı yetkisin
 | İhlal cezaları | Yıllık küresel cironun %4'üne kadar | $7,500/ihlal | Belirsiz; yüksek |
 | Mülkiyet türü | "*Kişiliğe içkin*" (Hegel-Radin tarzı) | "*Ticari ama korunabilir*" (hibrid) | "*Devlet egemenlik alanı*" |
 
-Aynı bir kullanıcı verisi — örneğin bir kişinin tarama geçmişi — üç farklı yargı yetkisinde *üç farklı mülkiyet kategorisi*'ne giriyor. AB'de hakikatte *kullanıcıya* aittir; ABD'de ticari bir varlık olarak şirkete yakın aittir; Çin'de devlete aittir.
+Aynı kullanıcı verisi — örneğin bir kişinin tarama geçmişi — üç farklı yargı yetkisinde üç farklı denetim mantığına giriyor. AB kişilik hakkı ve kullanıcı denetimini öne çıkarır; ABD ticari kullanım ile tüketici itiraz hakkını birlikte tutar; Çin ise veri egemenliği ve güvenlik denetimini merkeze alır. Bu yüzden burada en doğru soru çoğu zaman “veri kime aittir?” değildir. Daha iyi soru şudur: hangi aktör, hangi yetkiyi, hangi sınırla kullanabiliyor?
+
+### Veri için hak demeti: sahiplikten önce yetkiyi ayır
+
+Klasik mülkiyette “sahip kim?” sorusu çoğu zaman yeterli görünür. Dijital veride ise bu soru hemen bulanıklaşır; çünkü aynı veri bir kişinin mahremiyeti, bir şirketin iş modeli, bir devletin güvenlik alanı ve bir toplumun bilgi altyapısı olabilir. Bu yüzden veriyi tek bir tapu gibi değil, ayrılmış haklardan oluşan bir demet gibi düşünmek öğrenmeyi kolaylaştırır.
+
+| Hak / yetki | Kullanıcı | Şirket | Devlet | Neden önemli? |
+|---|---|---|---|---|
+| Erişim | Kendi verisini görebilmeli ve anlayabilmeli. | Hizmeti sunmak için gerekli olan kısmı işleyebilir. | Hukuki gerekçe varsa talep edebilir. | Görmediğin veri üzerinde gerçek denetim kuramazsın. |
+| Taşıma | Verisini başka hizmete götürebilmeli. | Taşımayı teknik olarak mümkün kılmak zorunda kalabilir. | Standart belirleyebilir. | Taşınabilirlik yoksa kullanıcı fiilen platforma kilitlenir. |
+| Silme | Belirli koşullarda unutulma ya da silme isteyebilir. | Yasal saklama zorunluluğu yoksa silmekle yükümlü olabilir. | Güvenlik veya kamu kaydı gerekçesiyle istisna koyabilir. | Mahremiyetin gerçek olup olmadığı burada sınanır. |
+| İşleme | Açık amaç ve sınırla izin verebilir. | Reklam, analiz veya ürün geliştirme için işlemek ister. | Kritik sektörlerde işlemeyi sınırlayabilir. | Değer çoğu zaman verinin kendisinden değil, işlenmiş halinden doğar. |
+| Paylaşma | Kimle paylaşıldığını bilmek ister. | Ortaklar ve reklam ağlarıyla paylaşma eğilimindedir. | Sınır ötesi aktarımı denetleyebilir. | Güç ilişkisi verinin dolaştığı ağda büyür; tek şirketle sınırlı kalmaz. |
 
 Bu üç-rejim sistemi, küresel dijital şirketler için bir kabus yarattı. Bir Apple, kullanıcı verisini hem GDPR'a hem CCPA'ya hem Çin DSL'e uydurarak işlemek zorunda. Çoğu zaman, en sıkı standart (GDPR) küresel-uygulama olarak benimsenir; ama bu da Çin pazarındaki konumu sarsabilir (Çin yerel-depolama gerektiriyor, bu da Apple'ı yerli sunucularda Apple iCloud verisi tutmaya zorlamıştır — 2018 sonrası).
 

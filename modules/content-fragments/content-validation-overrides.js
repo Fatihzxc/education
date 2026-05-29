@@ -236,13 +236,44 @@
     };
   }
 
-  // J1 — Prefer mined unique quote from quotes-mined.js (window._minedQuotes)
-  // over the generic QUOTE_BY_CONCEPT mapping. Each concept gets its own
-  // semantic_search top-1 distinct passage instead of sharing one of 16
-  // generic quotes.
+  // J1 — Mined quotes are intentionally opt-in. The miner can return readable
+  // but semantically wrong neighbors (title pages, index tails, or a passage
+  // from the wrong source). For the learning UI, a repeated curated quote is
+  // safer than a unique but misleading one.
+  function isReadableMinedQuote(text) {
+    const quote = String(text || '').trim();
+    if (quote.length < 45 || quote.length > 700) return false;
+
+    for (let i = 0; i < quote.length; i += 1) {
+      const code = quote.charCodeAt(i);
+      if (code < 32 && code !== 9 && code !== 10 && code !== 13) return false;
+    }
+
+    const lower = quote.toLowerCase();
+    const badFragments = [
+      '/uni00', 'date due', 'jacketdesign', 'by courtesy', 'nunc cognosco',
+      'resim ler', 'illustration credit', 'library', 'distributedbypublishers',
+      'forewordixcontrast', 'mukaddime ibn haldun', 'koçi bey rîsâlesi'
+    ];
+    if (badFragments.some(fragment => lower.indexOf(fragment) !== -1)) return false;
+
+    const words = quote.split(/\s+/).filter(Boolean);
+    if (words.length < 8) return false;
+
+    const letters = (quote.match(/[A-Za-zÇĞİÖŞÜçğıöşüÂâÎîÛûÉéÈèÀà]/g) || []).length;
+    const spaces = (quote.match(/\s/g) || []).length;
+    if (letters / quote.length < 0.45) return false;
+    if (quote.length > 120 && spaces / quote.length < 0.05) return false;
+    if (/^[A-ZÇĞİÖŞÜ\s\d.,:;'"()\-]+$/.test(quote) && quote.length < 120) return false;
+
+    return true;
+  }
+
   function minedRef(conceptId) {
+    if (window.__ENABLE_MINED_QUOTES__ !== true) return null;
     const mined = window._minedQuotes && window._minedQuotes[conceptId];
     if (!mined || !mined.quote) return null;
+    if (!isReadableMinedQuote(mined.quote)) return null;
     return {
       source: mined.source,
       page: mined.page,

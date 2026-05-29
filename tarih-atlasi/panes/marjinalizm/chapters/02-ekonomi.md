@@ -127,6 +127,7 @@ Bu yüzden en iyi okuma şudur: Marjinalizm iyi bir büyüteçtir, ama tek büy�
 - **Baskın bakış:** Tüketici ve firma kararını modelleyen iktisatçı gözü baskındır.
 - **Güçlü karşı fikir:** Gelir eşitsizliği, tekel gücü ve pazarlık zorunluluğu tercih modelini sınırlar.
 - **Doğruya yaklaşma soruları:** Talep isteği mi satın alma gücünü mü gösteriyor, fiyat kimin gücünü yansıtıyor, marjinal karar hangi kurumsal alanda veriliyor?
+- **Öğrenme desteği:** Tercih-gelir-güç üçgeni kur: her fiyat örneğinde isteği, satın alma gücünü ve pazarlık konumunu ayrı renkle düşün.
 
 ## İleri düzey okuma
 

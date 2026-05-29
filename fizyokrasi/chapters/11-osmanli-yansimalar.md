@@ -8,6 +8,18 @@ O zaman niye bir Osmanlı bölümü? Çünkü fizyokrasinin yansıması doğruda
 
 Bu bölüm o yapısal yansımayı izler. Önce Osmanlı *nasîhatnâme* geleneğinin 16-17. yüzyıl çerçevesini ele alır, sonra Sarı Mehmed Paşa'nın 1714 tarihli *Nesayihü'l-Vüzera*'sını fizyokratik vergi tartışmasıyla yan yana koyar; ardından 19. yüzyıl Tanzimat reformlarının — 1838 *Baltalimanı* Antlaşması, 1858 *Arazi Kanunnamesi*, *iltizam* sisteminin tasfiyesi — yapısal olarak fizyokratik bir çerçevede okunabilirliğini gösterir; nihayet erken Cumhuriyet ve çağdaş Türk tarım iktisadına kadar uzanır.
 
+### Aynı tarımsal-mali sorun iki dünyada nasıl görünür?
+
+Burada dikkatli olmak gerekir: Fransa ile Osmanlı'yı aynı hikâyeye zorla sokmuyoruz. Sadece şu basit soruyu soruyoruz: devletin geliri büyük ölçüde topraktan geliyorsa, üreticiyi ezen aracı katmanlar çoğalıyorsa ve hazine daralıyorsa, farklı siyasi gelenekler aynı sıkışmayı nasıl adlandırır?
+
+| Aktör | Fransa'da görünüm | Osmanlı'da görünüm | Öğrenme notu |
+|---|---|---|---|
+| Üretici köylü | *Cultivateur* ya da üretken sınıf; ürün fazlasının kaynağı. | *Re'âyâ*; vergi tabanının ve düzenin dayanağı. | İki dünyada da köylü kutsal bir özne değil, mali yapının taşıyıcısıdır. Bu yüzden “köylüyü koru” sözü aynı anda hem ahlaki hem hazineci bir sözdür. |
+| Aracı tahsildar | *Fermiers généraux*; vergi çiftliği sistemiyle fazla tahsil eden ara güç. | *Mültezim*; iltizam yoluyla devlet ile köylü arasına giren tahsildar. | Ortak problem, devletin vergi toplamak için aracıya muhtaç kalmasıdır; aracı güçlenince üretici ezilir, hazine de uzun vadede zayıflar. |
+| Merkez maliye | Kraliyet hazinesi borç ve ayrıcalıklar arasında sıkışır. | Bâb-ı Âlî maliyesi savaş, taşra güçleri ve tahsilat sorunları arasında sıkışır. | Devletin ilk bakışı çoğu zaman “geliri nasıl artırırım?” olur; halkın gözünden soru “geçimim nasıl korunur?” diye değişir. |
+| Yerel güçlüler | Toprak sahibi aristokrasi ve ayrıcalıklı kurumlar reformu sınırlar. | Ayan, yerel eşraf ve taşra ağları merkezî denetimi zorlar. | Reform yalnız ekonomik teknik değildir; kimin yerel güç olduğu ve kimin sözünün geçtiği meselesidir. |
+| Şehirli tüketici | Ekmek fiyatı ve tahıl akışı üzerinden siyaseti hisseder. | İaşe düzeni, narh ve kıtlık korkusu üzerinden devleti yargılar. | Kamu gözü burada çok somuttur: teori “verimlilik” diyebilir; halk “ekmek bulunuyor mu?” diye bakar. |
+
 ## 11.2 *Adâlet* ve *re'âyâ-i fakîr*: 16-17. yüzyıl çerçeve
 
 Osmanlı siyasi düşüncesinin Quesnay ile yan yana okunabileceği nokta, fizyokrasi gibi soyut bir iktisat teorisinde değil; *nasîhatnâme* (öğüt-i hükümdar) geleneğinin somut etiğindedir. Bu gelenek, hükümdara yöneticilik üzerine öğüt veren bir edebi-siyasi türdür; Selçuklu döneminden — Nizâmülmülk'ün *Siyâsetnâme*'si (1090 dolayında) — Osmanlı'nın son yüzyıllarına kadar süren bir hattı vardır.

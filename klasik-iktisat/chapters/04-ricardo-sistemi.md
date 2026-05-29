@@ -12,6 +12,17 @@ Ricardo'nun teoriye sistematik ilgisi, 1799 yazında bir tatil sırasında — B
 
 Bu bölüm Ricardo'nun *Principles*'ının on teorik düğümünü açar: diferansiyel rant (4.2), emek-değer'in inceltilmesi ve onunla beraber ortaya çıkan iç-sorunlar (4.3), ücretler-kârlar-rant arasındaki *ters ilişki* mekaniği ve onun durağan-durum kehaneti (4.4), karşılaştırmalı üstünlük teoremi (4.5), Ricardo'nun finans-kapitalisti sınıfsal konumu ve teorisinin politik silah olarak kullanımı (4.6), parasal teori ve *currency principle* (4.7), 1821'de eklenen makineleşme bölümü (4.8), Malthus ile yapılan *general glut* tartışması (4.9), Sraffa'nın 20. yüzyıl rekonstrüksiyonu (4.10), ve mirasının iki ana çizgisi (4.11). *Değer Teorileri* kitabının 6. bölümünde Ricardo'nun emek-değer ve rant temellerini ayrıntılı işledik;^[3] bu bölüm o temele dayanmakta, ama onun ötesine — özellikle ticaret, para ve teknoloji eksenlerine — uzanmaktadır.
 
+### Küçük öğrenme tablosu: ekmek fiyatı artınca kim ne yaşar?
+
+Ricardo'yu anlamanın en kısa yolu, tahıl fiyatındaki artışı bir “fiyat olayı” gibi değil, bütün sınıfları yerinden oynatan bir paylaşım olayı gibi görmektir. Çünkü ekmek yalnızca tüketim malı değildir; işçinin geçim sepetidir, ücret hesabının merkezidir, sanayicinin maliyetidir, toprak sahibinin rantını büyüten zemindir.
+
+| Aktör | İlk etki | Ricardo'nun gördüğü mekanizma | Karşı okuma |
+|---|---|---|---|
+| İşçi | Aynı ekmeği almak için daha yüksek para ücreti gerekir. | Ücret geçim sepetine bağlı olduğu için parasal ücret yükselir; ama bu mutlaka daha iyi yaşam demek değildir. | İşçi yalnızca nüfus yasasına teslim değildir; sendika, siyaset, kadın ve çocuk emeği, yardım ağları ve göç bu tabloyu değiştirebilir. |
+| Sanayici | Ücret maliyeti yükselir. | Kâr oranı sıkışır; çünkü gelir pastasından emeğe giden parasal pay büyür. | Ucuz ekmek politikası yalnızca işçiye değil, sermayeye de nefes aldırır; bu yüzden “serbest ticaret” bazen emek dostu değil sermaye dostu bir araçtır. |
+| Toprak sahibi | Verimli toprağın değeri artar. | Marjinal toprak kötüleştikçe iyi toprakların fark geliri, yani rant, büyür. | Bu gelir üretken çabadan çok kıt mülkiyet konumundan gelir; tam da bu yüzden politik olarak savunulması zordur. |
+| Şehirli tüketici | Gündelik hayat pahalılaşır. | Tahıl fiyatı yalnızca tarımsal piyasayı değil, ücretleri ve sanayi kârını da etkiler. | Halkın gözünde mesele “model” değil, ekmek kuyruğu ve mutfak hesabıdır; teori bu hissi görünmez bırakırsa eksik kalır. |
+
 ## 4.2 Diferansiyel rant — Ricardo'nun en orijinal katkısı
 
 Ricardo'nun *Principles*'ı Ch II'de açtığı *diferansiyel rant teorisi*, yalnızca onun en orijinal katkısı değil, aynı zamanda klasik iktisadın bütününün belkemiklerinden biridir. Smith *Wealth*'te rantı muğlak biçimde — bazen monopolistik bir tahsil, bazen toprağın doğal verimliliğinin bir karşılığı, bazen üç gelir kategorisinin (ücret-kâr-rant) basit bir parçası olarak — ele almıştı. Ricardo bu muğlaklığı tek bir keskin teorik aksiyomla aşar: rant, toprağın *farklı* verimlilik düzeylerinin arasındaki *fark*tır.

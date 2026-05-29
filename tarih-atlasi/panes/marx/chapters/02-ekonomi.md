@@ -125,6 +125,7 @@ Kısa sonuç şu: Artı-değer, kötü niyetli hırsızlığın değil, kapitali
 - **Baskın bakış:** Üretim süreci ve emek-gücü merkezde durur; tüketici tercihi ve girişim riski daha az görünür.
 - **Güçlü karşı fikir:** Neoklasik okuma kârı marjinal verimlilik, risk ve zaman tercihiyle açıklar.
 - **Doğruya yaklaşma soruları:** Artı-değer ölçümü nasıl kuruluyor, rekabet kapitalisti neye zorluyor, ücretli emek dışındaki değer kaynakları nasıl hesaba katılıyor?
+- **Öğrenme desteği:** İş günü şeması çiz: gerekli emek, artı emek, ücret ve kârı aynı çizgide göster; sonra ev içi/bakım emeğini kenara not et.
 
 ## İleri düzey okuma
 

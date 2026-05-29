@@ -109,6 +109,7 @@ Kısa sonuç şu: Klasik iktisadın ekonomi kartı, zenginliği yalnızca üreti
 - **Baskın bakış:** Sanayi kapitalisti ve politik iktisatçı üretkenlik ile birikimi merkeze alır.
 - **Güçlü karşı fikir:** İşçi ve sosyalist eleştiri, üretim artışının adil yaşam üretmediğini söyler; rantçı sınıf da kendi çıkarını savunur.
 - **Doğruya yaklaşma soruları:** Artan ürün kime gidiyor, ücret geçimle mi pazarlık gücüyle mi belirleniyor, rant üretim mi ayrıcalık mı?
+- **Öğrenme desteği:** Ücret-kâr-rant tablosu tut: aynı büyüme olayında işçi, sanayici ve toprak sahibi payını ayrı ayrı işaretle.
 
 ## İleri düzey okuma
 

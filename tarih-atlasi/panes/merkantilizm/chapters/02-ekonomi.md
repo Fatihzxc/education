@@ -120,6 +120,7 @@ Asıl mesele mekanizmayı görmektir: Para nereden geliyor, nereye gidiyor, hang
 - **Baskın bakış:** Hazine ve ticaret bilançosu gözü baskındır; ekonomi çoğu zaman devlet kasasına akan para gibi okunur.
 - **Güçlü karşı fikir:** Para stoku tek başına refah değildir; üretim kapasitesi, iş bölümü ve halkın tüketim imkânı hesaba katılmalıdır.
 - **Doğruya yaklaşma soruları:** Ticaret fazlası kimin geliri oluyor, fiyatları kim ödüyor, para akışı üretim gücüne dönüşüyor mu?
+- **Öğrenme desteği:** Güç-refah terazisi çiz: sol kefeye hazine, donanma ve dış ödeme gücünü; sağ kefeye fiyat, vergi, tüketici ve koloni bedelini yaz.
 
 ## İleri düzey okuma
 

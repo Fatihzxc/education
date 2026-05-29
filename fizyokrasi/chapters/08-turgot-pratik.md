@@ -97,6 +97,17 @@ Turgot'nun düşüşten sonraki yaşamı iki cephede sürdü. Kişisel cephe: Ve
 
 Condorcet'nin *Vie* (1786) metni Turgot'yu fizyokrat ekolünün **şehidi** olarak inşa eder: dürüst ve idealist bir bakan, kalın çıkar gruplarının komplosuyla düşürülmüş, *Aydınlanma*'nın iktisadi formunun büyük "kayıp şansı"^[5]. Bu inşa, sonraki iki yüzyıl Fransız iktisadi liberalizminin kurucu mitlerinden biri olur; 19. yüzyılda Frédéric Bastiat'tan 20. yüzyıl ortasında Jacques Rueff'e kadar Fransız liberalleri Turgot'yu *le grand réformateur manqué* olarak hatırlayacaktır.
 
+### Reform paketi: iyi niyet hangi bedelle gelir?
+
+Turgot'yu yalnız “ilerici reformcu” diye okumak kolaydır; ama öğrenme açısından daha verimli okuma şudur: her reform bir problemi çözerken geçiş maliyetini birilerinin omzuna yükler. Reformun ahlaki niyeti iyi olabilir; fakat halkın ekmeği, lonca ustasının geçimi, köylünün yol yükümlülüğü ve sarayın imtiyazı aynı anda yerinden oynuyorsa siyaset sertleşir.
+
+| Reform | Amaç | Kazanan | Kısa vadede sıkışan | Eksik tampon | Siyasi sonuç |
+|---|---|---|---|---|---|
+| Tahıl ticaretini serbestleştirme | Üreticiyi fiyat sinyaliyle teşvik etmek, arzı büyütmek. | Büyük üretici, tüccar, uzun vadede daha geniş piyasa. | Şehirli yoksul ve ücretli kesim; çünkü ekmek fiyatı hemen hissedilir. | Geçici ekmek desteği, kamu stoku, yavaş geçiş takvimi. | “Doğal düzen” halkın gözünde pahalı ekmek korkusuna dönüşür. |
+| Loncaları kaldırma | Mesleğe giriş engelini kırmak, üretimi serbestleştirmek. | Yeni girişimci, genç zanaatkâr, serbest piyasa yanlıları. | Lonca ustaları ve lonca güvencesine yaslanan kalfalar. | Yeniden eğitim, borç hafifletme, geçiş hakkı. | Ayrıcalık savunusu ile geçim güvenliği aynı cephede birleşir. |
+| *Corvée* yerine para vergisi | Angaryayı kaldırıp yol masrafını parasal ve genel bir yük haline getirmek. | Yol yükünden kurtulan köylü, daha rasyonel maliye. | Vergi muafiyetine alışmış toprak sahibi ve ayrıcalıklı tabaka. | Vergi adaletini anlatacak temsil kanalı. | Reform, imtiyazlı sınıflar için “saldırı” gibi görünür. |
+| Saray harcamalarını kısmak | Hazine açığını azaltmak. | Devlet maliyesi ve reform programının güvenilirliği. | Saray çevresi, emekli maaşı ve bağış ağına bağlı gruplar. | Politik destek koalisyonu. | Reformcu bakan yalnızlaşır; saray desteği erir. |
+
 ## 8.7 Tarihsel "ne olurdu" sorusu
 
 Turgot'nun düşüşü, Fransız 18. yüzyılının en büyük *kontrafaktüeli*ni doğurur. Altı edikt geri alınmamış olsa, Turgot 1776 sonrası altı-on yıl daha görevde kalıp programını derinleştirebilseydi, 1788 mali çöküşü önlenebilir miydi? 1789 Devrimi engellenebilir veya başka bir biçim alabilir miydi?

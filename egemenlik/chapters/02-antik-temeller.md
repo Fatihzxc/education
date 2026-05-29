@@ -99,6 +99,19 @@ Antik egemenlik düşüncesinin sonraki yüzyıllara yedi izi:
 
 Bu yedi iz, sonraki bölümlerde sürekli karşımıza çıkacak. Egemenlik kavramının modern formu, antik temellerin üzerine yapılmış bir yapıdır; o temelleri görmeden modern yapıyı anlamak mümkün değildir.
 
+### Mini matris: antik kavram modern dünyada nasıl yankılanır?
+
+Bu benzetmeleri bire bir eşleştirme gibi okuma. Antik polis, Roma Cumhuriyeti ve modern devlet aynı şey değildir. Ama bazı siyasal teknikler, farklı kıyafetlerle geri döner. Bu matrisi o yüzden kullanıyoruz: kavramı ezberlemek için değil, bugünkü bir olayı gördüğünde “burada hangi eski sorun tekrar ediyor?” diye sorabilmek için.
+
+| Antik kavram | En basit anlamı | Modern yankısı | Benzetmenin sınırı |
+|---|---|---|---|
+| *Politeia* | Çoğunluğun ortak yarara göre yönetmesi. | Anayasal demokrasi ve dengeli temsil fikri. | Antik yurttaşlık dar ve dışlayıcıdır; kadınlar, köleler ve yabancılar bu özgürlüğün dışında kalır. |
+| *Imperium* | Zor kullanma ve ordu komuta yetkisi. | Devletin güvenlik aygıtı, olağanüstü hâl, savaş yetkisi. | Modern devlette bu yetki kâğıt üzerinde hukukla sınırlanır; pratikte sınırın çalışıp çalışmadığı asıl sorudur. |
+| *Potestas* | Resmî makamdan gelen yasal yetki. | Bakanlık, mahkeme, belediye, düzenleyici kurum yetkisi. | Yasal yetki tek başına meşruiyet üretmez; halkın rızası ve denetim yoksa yetki soğuk bir idare gücüne dönüşür. |
+| *Auctoritas* | Saygınlık, gelenek ve sembolik ağırlık. | Lider karizması, anayasa mahkemesi itibarı, kurucu figürlerin mirası. | Saygınlık hukukun yerine geçerse denetlenmeyen kişisel otoriteye kapı açabilir. |
+| Karma rejim | Farklı güçlerin birbirini dengelemesi. | Kuvvetler ayrılığı, iki meclis, yargısal denetim. | Kurumlar kâğıt üzerinde ayrı olup fiilen aynı siyasi merkezden yönetilebilir. |
+| Augustus tekniği | Meşru yetkileri bir kişide toplamak. | Seçilmiş liderin parti, yürütme, güvenlik ve yargı üzerindeki toplam etkisi. | Her güçlü yürütme Augustus modeli değildir; kritik soru yetkilerin denetlenip denetlenemediğidir. |
+
 Sonraki bölüm, ortaçağ Avrupa'sında egemenliğin "iki kılıç" — sivil ve dini — arasındaki paylaşımına geçer. Bu paylaşım, Reformasyon'a kadar Avrupa siyasal düşüncesinin merkezi tartışmasıdır.
 
 ## 2.9 Augustus'un yetki yoğunlaşması — sayısal kurumsal walkthrough

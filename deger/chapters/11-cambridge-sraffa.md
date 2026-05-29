@@ -24,7 +24,17 @@ Sraffa, sonraki 30 yıl boyunca bu alternatifi yavaşça inşa etti. *Production
 
 **Adım 2**: Bu inşadan yola çıkarak neoklasik sentezin temel taşlarından birisini — *agregat sermaye fonksiyonu*nu — eleştirmek. Yani Marshall sentezinin teknik sınırlarını göstermek.
 
-Sraffa'nın matematik aygıtı, on dokuzuncu yüzyılın *Leontief* girdi-çıktı tablosunun bir genelleştirmesidir. Bir ekonomide *n* mal varsa, her bir mal hem girdi hem çıktıdır. Buğday hem ekmek üretimi için girdi, hem de un sektörü çıktı. Demir hem makine üretimi için girdi, hem de çelik sektörü çıktı. Her malın değeri, onu üretmek için kullanılan diğer malların ve emeğin değerine göre belirlenir.
+Sraffa'nın matematik aygıtını anlamanın en pratik yolu, onu 20. yüzyılda Wassily Leontief'in geliştirdiği girdi-çıktı tablolarıyla akraba bir matris dili olarak düşünmektir. Ama amaç aynı değildir: Leontief sektörlerin birbirine ne kadar girdi verdiğini ölçmeye çalışır; Sraffa ise fiyat, ücret, kâr ve üretim koşulları arasındaki mantığı çıplak hale getirir. Bir ekonomide *n* mal varsa, her bir mal hem girdi hem çıktıdır. Buğday hem ekmek üretimi için girdi, hem de un sektörü çıktı. Demir hem makine üretimi için girdi, hem de çelik sektörü çıktı. Her malın değeri, onu üretmek için kullanılan diğer malların ve emeğin değerine göre belirlenir.
+
+### Quesnay → Leontief → Sraffa çizgisi
+
+Bu çizgiyi “aynı teorinin düz ilerlemesi” gibi değil, ekonomiyi tablo ve karşılıklı bağımlılık olarak düşünmenin üç farklı anı gibi okumak daha doğru olur. Hepsinde ortak sezgi şudur: tek tek mallara bakarsan sistemi kaçırırsın; sistemin nasıl döndüğünü görmek için malların, sektörlerin ve gelir paylarının birbirine bağlanışını görmen gerekir.
+
+| Tarih | Figür | Ne yaptı? | Sraffa için anlamı |
+|---|---|---|---|
+| 1758 | Quesnay | *Tableau économique* ile tarım, mülk sahipleri ve steril sınıf arasındaki akışı şema gibi düşündü. | Ekonomiyi dolaşım ve fazla akışı olarak görme sezgisini erken biçimde verdi. |
+| 1930'lar-1941 | Leontief | Girdi-çıktı tablolarıyla sektörlerin birbirinden ne aldığını ve birbirine ne verdiğini ölçülebilir hale getirdi. | Ekonomiyi karşılıklı bağımlı üretim ağı olarak yazmanın modern teknik dilini güçlendirdi. |
+| 1960 | Sraffa | *Production of Commodities by Means of Commodities* ile fiyatları ve kâr oranını üretim koşullarından kurdu. | Değer tartışmasını faydadan değil, üretim yapısı ve bölüşüm ilişkisinden yeniden başlatma imkânı verdi. |
 
 Sraffa'nın çekirdek sorusu: bir ekonomide tüm fiyatlar ve kâr oranı *aynı anda* nasıl belirlenir? Walras'ın eş-zamanlı denklem sistemi gibi görünür; ama Sraffa Walras'tan iki temel noktada ayrılır:
 

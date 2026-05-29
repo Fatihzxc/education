@@ -102,6 +102,7 @@ Eğer bu soruyu sormayı öğrenirsek, yalnızca 18. yüzyıl Fransa'sını değ
 - **Baskın bakış:** Büyük tarım, rant ve yıllık ürün akışı merkezde durur; sanayi ve kent emeği daha az üretken görünür.
 - **Güçlü karşı fikir:** Smith ve sonraki klasikler değer yaratımını emek, iş bölümü ve sanayi üretimiyle genişletir.
 - **Doğruya yaklaşma soruları:** Net ürün gerçekten yalnızca toprakta mı doğuyor, fiyatlar geçim güvenliğini nasıl etkiliyor, ekolojik temel ile insan emeği nasıl birlikte düşünülür?
+- **Öğrenme desteği:** Ürün-rant-vergi akış şeması kur: tarlada doğan fazla nereye gidiyor, köylü ne kadarını tutuyor, devlet neyi alıyor?
 
 ## İleri düzey okuma
 
