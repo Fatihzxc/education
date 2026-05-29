@@ -56,6 +56,19 @@ Bu düşünceyi tek cümleyle şöyle kurabiliriz:
 
 Bu yüzden klasik iktisat iyimser ve karamsar iki sesi aynı anda taşır. Smith'te pazar genişliği ve iş bölümü umut verir. Malthus ve Ricardo'da nüfus, toprak ve rant sınırları gerilim yaratır.
 
+### Mini istatistik okuma: büyüme rakamı neden yetmez?
+
+Klasik iktisadın okura kazandırdığı en iyi alışkanlıklardan biri şudur: Tek bir toplam rakamla yetinme. Diyelim bir ülkede üretim artıyor. Bu iyi bir haberdir; ama hemen ardından "artan gelir kime gitti?" diye sormazsan yarım okuma yapmış olursun.
+
+| Bakılacak gösterge | İlk anlamı | Klasik soru | Genişleten karşı soru |
+|---|---|---|---|
+| Toplam üretim / büyüme | Pasta büyüyor mu? | Birikim devam ediyor mu? | Büyüme ücretlere, kâra ve ranta nasıl bölündü? |
+| Ücret payı | İşçiler üretimden ne kadar pay alıyor? | Geçim ve pazarlık gücü ne durumda? | Ev içi emek ve güvencesiz iş nerede görünüyor? |
+| Kâr oranı | Sermaye yatırım isteğini koruyor mu? | Birikim hızı sürecek mi? | Kâr teknolojiyle mi, ücret baskısıyla mı yükseliyor? |
+| Rant / kira | Konum ve toprak geliri artıyor mu? | Toprak sahibi büyümeden pay alıyor mu? | Barınma ve arazi erişimi kimin için zorlaşıyor? |
+
+Bu küçük istatistik pusulası klasik iktisadı bugüne bağlar. Büyüme rakamı bize hareket olduğunu söyler; bölüşüm rakamları ise bu hareketin kimin hayatını genişlettiğini, kimin hayatını sıkıştırdığını gösterir.
+
 ## Karşılaştırmalı üstünlük: ticaret neden sadece "ucuz olanı al" değildir?
 
 Ricardo'nun karşılaştırmalı üstünlük fikri klasik iktisadın en güçlü araçlarından biridir. En sade haliyle şunu söyler: Bir ülke her şeyi diğer ülkeden daha verimli üretebilse bile, göreli olarak en iyi yaptığı şeye yoğunlaşıp diğer şeyi ithal ederse iki taraf da kazanabilir.

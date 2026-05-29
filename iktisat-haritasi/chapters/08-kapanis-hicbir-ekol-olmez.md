@@ -59,6 +59,20 @@ Bu kitabı bitirdikten sonra elinde tek bir sonuç cümlesi değil, tekrar kulla
 
 Bu defterin amacı seni kararsız bırakmak değildir. Tam tersine, daha sağlam karar vermeni sağlar. Çünkü bir fikrin hem haklı gördüğü yeri hem eksik bıraktığı yeri aynı anda gördüğünde, onu ne putlaştırırsın ne de kolayca çöpe atarsın.
 
+### Haber okuma pusulası: haritayı bugüne nasıl bağlayacaksın?
+
+Bu kitabın en iyi sınavı eski metinlerde değil, bugünkü bir haberde yapılır. Bir merkez bankası kararı, kira krizi, gıda fiyatı, grev, teknoloji yatırımı veya dış ticaret tartışması gördüğünde haritayı açıp küçük bir eşleştirme yap.
+
+| Haberde gördüğün şey | Hangi eski düğüm uyanır? | İlk soru | Karşı soru |
+|---|---|---|---|
+| Faiz ve enflasyon kavgası | Hume, Ricardo, Keynes, Friedman | Para güveni nasıl kuruluyor? | Bedeli işsizliğe ve borçluya mı yıkılıyor? |
+| Kira ve arsa fiyatı | Ricardo, Henry George, fizyokrasi | Rant üretimden mi, konumdan mı geliyor? | Mülkiyet hakkı barınma hakkını sıkıştırıyor mu? |
+| Sendika veya grev | Marx, klasik bölüşüm, kurumsalcılık | Ücret payı nasıl belirleniyor? | Piyasa sözleşmesi gerçek pazarlık gücünü saklıyor mu? |
+| Yerli sanayi çağrısı | Merkantilizm, List, kalkınma iktisadı | Devlet kapasite kuruyor mu? | Koruma kime fırsat, kime pahalı tüketim oluyor? |
+| Yapay zeka yatırımı | Değer teorisi, mülkiyet, marjinalizm | Verimlilik artışı ne yaratıyor? | Veri, emek ve mülkiyet geliri kimin elinde toplanıyor? |
+
+Bu alıştırma haritayı yaşayan bir şeye çevirir. Artık tarih, geride kalmış fikirler listesi olmaz; bugünün cümlelerini çözen bir anahtar demeti olur. Her anahtar bir kapıyı açar, ama hiçbir anahtar bütün evi tek başına gezdirmez.
+
 ## 8.5 Son söz
 
 İktisat, doğa bilimi olamayacağı için *bitmez* — sürekli yeniden okunması gereken bir bilim ve sanattır. Bir denklem doğru çözülebilir; ama hangi denklemin kurulacağı, hangi değişkenin "veri", hangisinin "açıklanacak" sayılacağı, her zaman bir konumdan verilen kararlardır. Bu yüzden harita asla tamamlanmaz; yeni krizler yeni düğümler ekler, eski düğümler yeni biçimlerde geri döner.

@@ -45,6 +45,19 @@ Makro tartışmalar bazen "faiz artsın mı, kamu harcaması artsın mı?" gibi 
 
 Bu defter sana şunu öğretir: Keynesçi veya monetarist olmak yalnız teknik tercih değildir. Her tercih, bir toplumsal acıyı daha görünür, başka bir acıyı daha sessiz yapar.
 
+### Sokaktaki makro kartı: göstergenin arkasındaki hayat
+
+Makroiktisat çoğu zaman büyük sayılarla konuşur: işsizlik, enflasyon, faiz, büyüme, bütçe açığı. Bu sayılar gereklidir; çünkü kalabalık bir ekonomiyi çıplak gözle göremeyiz. Ama sayı tek başına insan hayatını anlatmaz. Aynı enflasyon oranı, borçlu hane, sabit gelirli emekli, ihracatçı şirket ve kiracı için farklı hissedilir.
+
+| Gösterge | İlk bakışta ne söyler? | Sokakta nasıl hissedilir? | Karşı okuma sorusu |
+|---|---|---|---|
+| İşsizlik | Ekonomi iş yaratıyor mu? | Eve giren gelir kesilir, pazarlık gücü düşer | İşsizlik hangi yaş, bölge ve sınıfta yoğunlaşıyor? |
+| Enflasyon | Para alım gücü kaybediyor mu? | Gıda, kira ve ulaşım bütçeyi sıkıştırır | Ortalama fiyat artışı kimin sepetini saklıyor? |
+| Faiz | Para sıkı mı, ucuz mu? | Borç taksiti, kredi erişimi, mevduat geliri değişir | Faiz kararı borçluyu mu, tasarruf sahibini mi koruyor? |
+| Büyüme | Toplam üretim artıyor mu? | Ücret, kâr ve kira farklı yönlere gidebilir | Büyüme paylara nasıl bölünüyor? |
+
+Bu kartın amacı sayıları küçümsemek değil. Tam tersine, sayıları daha iyi okumaktır. Bir makro gösterge gördüğünde hemen ikinci soruyu sor: Bu sayı hangi hayatları aydınlatıyor, hangi hayatları ortalama içinde saklıyor?
+
 ## 7.6 Bugün: kapanmayan salınım
 
 Keynes-monetarizm gerilimi çözülmedi; *salınım* olarak devam ediyor. 2008 küresel finansal krizi monetarist-yeni-klasik çerçeveyi sarstı — kimse krizi öngöremedi, ve çıkış yine Keynesçi araçlarla (kurtarma paketleri, mali teşvik, niceliksel gevşeme) oldu. 2020 pandemisinde devletler tarihte görülmemiş ölçekte harcama yaptı — Keynes geri döndü. Ardından 2021-2023 enflasyon dalgası monetarist soruları (para arzı, faiz) yeniden gündeme getirdi.

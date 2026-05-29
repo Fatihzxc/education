@@ -80,6 +80,19 @@ Marx'ın devlet düşüncesini soyut bırakmamak için üç sahne iyi çalışı
 
 Bu tablo devletin tek renkten oluşmadığını gösterir. Devlet bazen işçiye nefes aldırır, bazen sermayenin düzenini korur, bazen de ikisini aynı anda yapar. Bu yüzden güçlü okuma, devleti ne sadece şeytanlaştırır ne de temiz bir hakem gibi görür; hangi durumda hangi ilişkiyi yeniden ürettiğini sorar.
 
+### Gündelik hukuk pusulası: eşit hak neden eşit güç olmayabilir?
+
+Marx'ın devlet eleştirisini bugüne taşımak için büyük devrim sahneleri aramaya gerek yok. Bazen en öğretici yer, sıradan bir sözleşme veya başvuru formudur. Kâğıt üzerinde herkes aynı hakka sahip olabilir; ama o hakkı kullanmak için para, zaman, bilgi, örgüt ve güven gerekir.
+
+| Gündelik sahne | Kâğıt üzerindeki eşitlik | Maddi güç farkı | Marxçı kontrol sorusu |
+|---|---|---|---|
+| Kira sözleşmesi | Kiracı ve ev sahibi imza atar | Barınma ihtiyacı kiracıyı zayıflatır | Sözleşme gerçekten iki eşit taraf arasında mı? |
+| Platform işi | Çalışan "bağımsız" görünür | Algoritma, puan ve gelir baskısı yön verir | Özgürlük adı altında yeni bir bağımlılık mı var? |
+| Grev hakkı | İşçi örgütlenebilir | İşten atılma, borç ve korku caydırır | Hak kullanılabiliyor mu, yoksa sadece yazılı mı? |
+| Dava hakkı | Herkes mahkemeye gidebilir | Avukat, zaman ve masraf eşitsizdir | Hukuk yolu kimin için erişilebilir? |
+
+Bu pusula şunu gösterir: Marx için mesele hakların yok sayılması değildir. Mesele, hakların hangi maddi koşullarda kullanılabildiğidir. Bu ayrım kurulunca devlet daha berrak görünür: Hak verirken aynı anda mevcut mülkiyet ve güç düzenini de taşıyabilir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Hukuki eşitlik ile maddi eşitsizlik arasındaki fark kapitalist devleti anlamak için açılmalıydı.
