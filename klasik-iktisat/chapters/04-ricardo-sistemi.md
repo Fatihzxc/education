@@ -164,15 +164,15 @@ Ricardo'nun *Principles*'ı, klasik iktisat literatürünün en yoğun-yapılaş
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
-- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
-- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
-- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
-- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+- **Kök sebep:** Ricardo’nun sistemi, tahıl fiyatı, toprak rantı, ücret ve kâr oranı arasındaki gerilimin sanayi kapitalizminin geleceğini belirlemesinden doğar.
+- **Baskın bakış:** Sanayi sermayesine yakın klasik bakış, rantı üretken çabanın ödülü değil, kıt ve verimli toprağa sahip olmanın getirdiği pay olarak görür.
+- **Güçlü karşı fikir:** Toprak sahibi çıkarı, korumacı siyaset ve sonraki marjinalist okuma, Ricardo’nun soyut modelinin talep, tercih ve kurumsal karmaşıklığı azalttığını söyler.
+- **Doğruya yaklaşma soruları:** Tahıl fiyatı yükselince ücret, kâr ve rant nasıl değişiyor? Ricardo’nun modelinde kim tarihsel olarak sıkışıyor, kim payını koruyor?
+- **Öğrenme desteği:** Üç pay grafiği çiz: ücret, kâr, rant. Daha verimsiz toprağa geçildikçe okları nasıl hareket ettireceğini işaretle.
 
 ## İleri düzey okuma
 
-İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+İleri düzeyde Ricardo’nun soyutluğunu hemen eksiklik gibi görme. Soyutlama, tahıl fiyatı ile kâr oranı arasındaki mekanizmayı çok keskin gösterir. Ama aynı soyutlama, işçinin gündelik pazarlık gücünü, devletin tercihlerini ve dünya ticaretindeki eşitsizlikleri geri plana atabilir. Bu yüzden Ricardo’yu hem güçlü bir model hem de dikkatli kullanılacak bir mercek olarak oku.
 
 ## Kaynakça
 

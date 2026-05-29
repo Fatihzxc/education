@@ -124,15 +124,15 @@ Sonraki ve **son bölüm** — *Bugün ne kaldı?* — mercantilist mirasın 21.
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
-- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
-- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
-- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
-- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+- **Kök sebep:** 20. yüzyıl yeniden okumaları, merkantilizmin “aşılmış hata” mı, “devlet kurma mantığı” mı, yoksa “kalkınma stratejisi” mi olduğu tartışmasından doğar.
+- **Baskın bakış:** Klasik liberal ders kitabı çizgisi, merkantilizmi para yanılgısı, korumacılık ve tekelcilik üzerinden geride bırakılmış bir evre gibi anlatır.
+- **Güçlü karşı fikir:** Heckscher, Magnusson, Reinert ve Chang, bu pratiklerin ulusal pazar kurma, iktisat dili geliştirme ve geç sanayileşme için kapasite oluşturma tarafını öne çıkarır.
+- **Doğruya yaklaşma soruları:** Yeniden okuma geçmişi romantikleştiriyor mu, yoksa ders kitabının sildiği işlevleri mi geri getiriyor? Hangi yazar hangi bugünkü tartışmaya cevap arıyor?
+- **Öğrenme desteği:** Dört yorum kartı yap: hata, devlet inşası, iktisat dili, kalkınma aracı. Her tarihçiyi bu kartlardan birine yaklaştır.
 
 ## İleri düzey okuma
 
-İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+İleri düzeyde bu bölümü tarih yazımının politikası olarak oku. Bir dönemi “yanlış teori” diye kapatmak da, “kalkınma reçetesi” diye yüceltmek de bugünün tartışmalarına hizmet eder. Bu yüzden soru yalnız “merkantilizm neydi?” değildir; “bugün kim, hangi amaçla merkantilizmi yeniden çağırıyor?” sorusudur.
 
 ## İlgili görselleştirmeler
 

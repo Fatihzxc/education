@@ -100,15 +100,16 @@ Sıradaki bölüm (8), bu tezlerin pratiğe geçişinin en somut hikâyesini —
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Mirabeau ve fizyokrat ekolü bölümü, bir fikrin yalnız doğru argümanla değil, ağ, dergi, salon, himaye ve ortak dil ile okul haline gelmesinden doğar.
+- **Baskın bakış:** Ekolün kendi sesi, fizyokrasiyi tutarlı ve kurtarıcı bir reform programı gibi anlatır.
+- **Güçlü karşı fikir:** Rakip iktisatçılar ve siyasal muhalifler, bu kapalı dilin gerçek toplumsal karmaşıklığı azalttığını savunur.
+- **Doğruya yaklaşma soruları:** Burada düşünce mi yayılıyor, yoksa bir reform çevresi kendi otoritesini mi kuruyor?
+- **Öğrenme desteği:** Ağ haritası çiz: Quesnay, Mirabeau, Dupont, Turgot, saray ve yayın çevresi.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde ekolü yalnız fikirler toplamı gibi değil, bir iletişim ve ikna makinesi gibi oku. Bir teori yayılırken kavramlar kadar dostluklar, dergiler ve saray bağlantıları da çalışır.
+
 
 ## Kaynakça
 

@@ -110,15 +110,15 @@ Quesnay'i bugün okumak, klasik iktisat öncesi bir tuhaflığı incelemek deği
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Bugünkü toprak vergisi ve ekoloji tartışması, arazi rantı, kentsel değer artışı, karbon yükü ve ekosistem hizmetlerinin piyasa fiyatlarında görünmez kalmasından doğar.
+- **Baskın bakış:** Modern politika dili çoğu zaman büyüme, yatırım ve mülkiyet hakkını öne çıkarır; doğal kaynakların ortak temel oluşu geri plana düşer.
+- **Güçlü karşı fikir:** Arazi değeri vergisi, ekolojik iktisat ve ortak kaynak yönetimi, değerin bir kısmının bireysel çabadan değil toplumdan ve doğadan geldiğini hatırlatır.
+- **Doğruya yaklaşma soruları:** Bir arsanın değeri sahibinin emeğinden mi, şehrin büyümesinden mi geliyor? Karbon ve ekosistem maliyeti kimin defterinde görünmeli?
+- **Öğrenme desteği:** Bugün matrisi kur: arazi değeri vergisi, karbon fiyatı, ekosistem hizmeti, kentsel rant. Her satıra “değer nerede doğuyor, rant kime gidiyor?” sorusunu ekle.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde fizyokrasinin bugünkü değerini birebir politika reçetesi olarak değil, ekonominin doğaya ve yere bağımlılığını hatırlatan bir uyarı olarak oku. Toprak artık yalnız tarla değildir; şehir arsası, atmosfer, su havzası ve ekosistem kapasitesi de aynı büyük soruya bağlanır: doğadan ve toplumdan gelen değeri kim sahipleniyor?
 
 ## Kaynakça
 

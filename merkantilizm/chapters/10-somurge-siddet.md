@@ -126,15 +126,15 @@ Sonraki bölüm — *20. yüzyıl yeniden okumaları* — Heckscher, Magnusson, 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
-- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
-- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
-- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
-- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+- **Kök sebep:** Sömürge ve şiddet bölümü, erken modern zenginleşmenin yalnız ticaret zekâsı ve devlet kapasitesiyle değil, zorla emek, mülksüzleştirme ve imtiyazlı şirket düzenleriyle de kurulduğu gerçeğinden doğar.
+- **Baskın bakış:** İmparatorluk ve ticaret şirketi anlatısı, kâr, hazine ve deniz gücünü öne çıkarır; “ticaret” kelimesi çoğu zaman arkasındaki zor ilişkisini yumuşatır.
+- **Güçlü karşı fikir:** Sömürgeleştirilen halkların, köleleştirilen insanların ve bağımlılık teorilerinin bakışı, bu zenginleşmenin bedelini merkezden değil çevreden okumayı ister.
+- **Doğruya yaklaşma soruları:** Burada mübadele gerçekten gönüllü mü, yoksa hukuki eşitsizlik ve askeri güçle mi kuruluyor? Avrupa’daki refah artışının hangi kısmı başka toplumların kaybına bağlı?
+- **Öğrenme desteği:** Kâr haritası çiz: hammadde nereden geliyor, emek kimin, taşıma kimin elinde, kâr nereye gidiyor, şiddet hangi noktada görünmezleşiyor?
 
 ## İleri düzey okuma
 
-İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+İleri düzeyde sömürgeyi merkantilizmin dışsal bir aşırılığı gibi görme. Erken modern ticaret düzeninin birçok kâr kanalı, zor kullanımı ve hukuki eşitsizliği sistemin içinde taşır. Bu yüzden “ticaret büyüdü” cümlesini duyduğunda hemen ikinci soruyu sor: bu ticaret hangi insanların hareketini, toprağını ve emeğini zorla yeniden düzenledi?
 
 ## İlgili görselleştirmeler
 

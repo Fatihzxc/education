@@ -179,15 +179,16 @@ Bu, modern kalkınma iktisadının önemli bir dersidir. "*Commons özelleştiri
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
-- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
-- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
-- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
-- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+- **Kök sebep:** 20. yüzyıl kurumlar bölümü, mülkiyet haklarının işlem maliyetleri, pazarlık, ortak kaynaklar ve yerel kurallar içinde nasıl çalıştığını açıklama ihtiyacından doğar.
+- **Baskın bakış:** Kurumsal iktisat, mülkiyeti kaynak kullanımını düzenleyen kural seti olarak okur.
+- **Güçlü karşı fikir:** Eleştirel ve ekolojik bakış, verimlilik dilinin güç ve adalet sorununu geri plana atabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Hangi mülkiyet biçimi hangi kaynakta iyi çalışıyor? Verimli olan her zaman adil mi?
+- **Öğrenme desteği:** Kaynak türü tablosu yap: özel mal, ortak kaynak, kamusal mal, kulüp malı; yanına uygun kurum biçimini yaz.
 
 ## İleri düzey okuma
 
-İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+İleri düzeyde Coase ve Ostrom’u aynı basit kurum önemlidir cümlesine sıkıştırma. Biri pazarlık ve hak tahsisini, diğeri yerel kuralların dayanıklılığını görünür kılar.
+
 
 ## Kaynakça
 

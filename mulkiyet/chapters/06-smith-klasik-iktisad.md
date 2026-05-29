@@ -139,15 +139,16 @@ Bu yeniden-okuma haklıdır. Smith'in tarafsız tonu, çoğu zaman tarafsız son
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Smith ve klasik sentez, ticari toplumun zenginliğini para stoğundan çok üretim, işbölümü ve emek üzerinden açıklama ihtiyacından doğar.
-- **Baskın bakış:** Serbest değişim ve doğal özgürlük dili, piyasanın belirli koşullarda düzen kurabileceğini savunur.
-- **Güçlü karşı fikir:** Tekel, sınıf, sömürge ve devlet görevleri bu serbestlik anlatısının sınırlarını gösterir.
-- **Doğruya yaklaşma soruları:** Smith burada gerçekten devletsiz piyasa mı savunuyor, yoksa belirli kurumlarla işleyen bir özgürlük düzeni mi?
-- **Öğrenme desteği:** Dört kutu aç: işbölümü, emek, piyasa, devlet görevi.
+- **Kök sebep:** Smith ve klasik iktisatta mülkiyet sorusu, toprağın özel sahipliğe dönüşmesiyle rantın ve gelir bölüşümünün nasıl doğduğunu açıklama ihtiyacından çıkar.
+- **Baskın bakış:** Klasik bakış, mülkiyeti üretim, piyasa ve gelir paylarıyla birlikte düşünür.
+- **Güçlü karşı fikir:** Marxçı ve kurumsal eleştiri, mülkiyetin yalnız verimlilik değil güç, sınıf ve dışlama ilişkisi olduğunu söyler.
+- **Doğruya yaklaşma soruları:** Mülkiyet üretimi mi artırıyor, yoksa yaratılan değerden pay alma hakkı mı kuruyor?
+- **Öğrenme desteği:** Gelir payları tablosu yap: ücret, kâr, rant. Toprağın sahipliği değişince her pay nasıl etkileniyor?
 
 ## İleri düzey okuma
 
-İleri düzeyde Smith’i sloganlaştırma. Onun sistemi, bireysel çıkarın toplumsal sonuçlarını anlatırken güven, hukuk, eğitim ve kamu işleri gibi piyasa dışı desteklere de dayanır.
+İleri düzeyde Smith’te mülkiyeti piyasanın dışındaki hukuk zemini gibi değil, piyasanın içinde sürekli sonuç üreten bir kurum gibi oku.
+
 
 ## Kaynakça
 

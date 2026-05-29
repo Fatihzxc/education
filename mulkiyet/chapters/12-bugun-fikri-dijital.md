@@ -198,15 +198,16 @@ Bu, modern mülkiyet teorisinin pratik bir test alanıdır. Ekolojik commons'ın
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
-- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
-- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
-- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
-- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+- **Kök sebep:** Bugünkü fikri, dijital ve ekolojik mülkiyet sorusu, yazılım, veri, patent, atmosfer ve biyolojik kaynakların klasik sahiplik kalıbına sığmamasından doğar.
+- **Baskın bakış:** Modern hukuk ve şirket bakışı, yeniliği korumak için sahiplik, patent ve lisans dilini öne çıkarır.
+- **Güçlü karşı fikir:** Açık kaynak, bilgi ortakları ve ekoloji hareketleri bazı kaynakların kapatıldığında toplumsal zarara yol açtığını söyler.
+- **Doğruya yaklaşma soruları:** Bu varlık kopyalanabilir mi, tükenir mi, ortak yaşamı etkiler mi? Özel hak burada yenilik mi, kilitlenme mi üretiyor?
+- **Öğrenme desteği:** Yeni kaynak matrisi kur: veri, yazılım, atmosfer, genetik bilgi. Her biri için dışlama mümkün mü, gerekli mi, zararlı mı?
 
 ## İleri düzey okuma
 
-İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+İleri düzeyde dijital ve ekolojik mülkiyeti eski tarla modeline sığdırmaya çalışma. Bazı kaynaklar kullanıldıkça tükenmez; bazıları ise herkes kullandıkça zarar görür.
+
 
 ## Kaynakça
 

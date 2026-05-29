@@ -153,15 +153,15 @@ Bu, kalıcı bir egemenlik dönüşümünün mü, yoksa geçici bir kriz tepkisi
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** Hobbes’un Leviathan’ı, iç savaş korkusu ve güvensizlik ortamında “insanlar birbirinden korkuyorsa barış nasıl kurulacak?” sorusundan doğar.
+- **Baskın bakış:** Hobbesçu bakış, güvenliği bütün hakların ön koşulu yapar; önce ölüm korkusu durdurulmalı, sonra özgürlük konuşulmalıdır.
+- **Güçlü karşı fikir:** Locke, cumhuriyetçi gelenek ve hak temelli eleştiri, güvenlik adına neredeyse sınırsız yetki vermenin özgürlüğü korumak yerine yutabileceğini söyler.
+- **Doğruya yaklaşma soruları:** İnsanlar korkudan egemene yetki verdiğinde, bu yetki nerede geri alınabilir? Barış sağlayan güç, ne zaman korkunun yeni kaynağı olur?
+- **Öğrenme desteği:** Sözleşme zinciri çiz: korku → rıza → yetki devri → egemen → güvenlik. Her halkada “ne kaybediliyor?” diye sor.
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde Hobbes’u sadece otoriterlik diye okuma. Onun sertliği, iç savaşın bedelini çok ciddiye almasından gelir. Yine de tam bu yüzden tehlikelidir: güvenliği kuran iktidarın kendisi denetlenemez hale gelirse, insanlar doğa durumundan çıkarken korkunun başka bir biçimine girmiş olabilir.
 
 ## Kaynakça
 

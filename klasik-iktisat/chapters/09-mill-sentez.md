@@ -150,15 +150,15 @@ Bölüm 10, klasik iktisadın geç-Osmanlı bağlamına geçer: Sakızlı Ohanne
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
-- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
-- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
-- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
-- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+- **Kök sebep:** Mill’in sentezi, klasik iktisadın üretim yasalarını korurken dağıtım, özgürlük, kadın hakları, eğitim ve işçi kooperatifleri gibi reform alanlarını açma ihtiyacından doğar.
+- **Baskın bakış:** Liberal reformcu bakış, piyasa ve bireysel özgürlüğü savunur ama toplumun gelir dağılımını ve kurumlarını değiştirilebilir görür.
+- **Güçlü karşı fikir:** Sert laissez-faire okuması Mill’in reformculuğunu fazla müdahaleci bulabilir; sosyalist eleştiri ise mülkiyet ve sınıf yapısını yeterince dönüştürmediğini söyler.
+- **Doğruya yaklaşma soruları:** Mill hangi noktada klasik kalıyor, hangi noktada klasik çerçeveyi yumuşatıyor? Üretim “doğal yasa”, dağıtım “toplumsal tercih” ise bu ayrım nerede kırılabilir?
+- **Öğrenme desteği:** Mill sentez tablosu kur: koruduğu klasik ilke, yumuşattığı ilke, açtığı reform alanı, karşıdan gelen itiraz.
 
 ## İleri düzey okuma
 
-İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+İleri düzeyde Mill’i yalnız kapanış figürü gibi okuma. O, klasik iktisadın kendi içinden çıkan bir öz-eleştiridir. Bu yüzden hem mirasçı hem dönüştürücüdür: üretim mekanizmasını klasiklerden alır, ama dağıtım ve özgürlük alanında toplumun bilinçli seçim yapabileceğini daha açık söyler.
 
 ## Kaynakça
 

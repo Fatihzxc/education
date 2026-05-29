@@ -140,15 +140,15 @@ Bölüm 4 İngiliz mercantilizminin **şirket** odaklı yüzünü, Bölüm 5 Fra
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Erken modern dünyada savaş, hazine ihtiyacı, ticaret yolları ve değerli maden kaygısı aynı anda baskı kurar.
-- **Baskın bakış:** Devlet adamı, büyük tüccar ve maliye çevresi daha görünür konuşur; güç ile refah çoğu zaman aynı şey gibi anlatılır.
-- **Güçlü karşı fikir:** Hume-Smith çizgisi, tüketici, küçük üretici ve sömürgeleştirilen halklar bu güç siyasetinin bedelini başka yerden gösterir.
-- **Doğruya yaklaşma soruları:** Bu politika toplumu mu zenginleştiriyor, devleti mi güçlendiriyor? Maliyet kimin üzerinde kalıyor?
-- **Öğrenme desteği:** Güç-refah terazisi kur: hazine, tüccar, üretici, tüketici ve dışarıda bırakılan halk aynı karardan ne kazanıyor?
+- **Kök sebep:** Colbertçilik, XIV. Louis Fransası’nda savaş maliyesi, lüks sanayi, kalite denetimi, donanma ve kraliyet prestijini aynı anda büyütme ihtiyacından doğar.
+- **Baskın bakış:** Versailles ve maliye bürokrasisi, ekonomiyi yukarıdan düzenlenebilir bir üretim makinesi gibi görür; kaliteli mamul, ihracat ve hazine aynı projenin parçalarıdır.
+- **Güçlü karşı fikir:** Liberal eleştiri, yerel üretici, vergi yükü taşıyan halk ve sonraki Smithçi bakış, bu sıkı düzenlemenin pahalı, katı ve ayrıcalık üreten bir sistem olabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Devletin kalite ve sanayi kurması kalıcı üretkenlik mi yaratıyor, yoksa saray-savaş ekonomisinin maliyetini topluma mı yayıyor?
+- **Öğrenme desteği:** Colbert matrisi kur: tarife, kalite/lonca denetimi, manufacture royale, donanma, vergi yükü. Her sütuna kazananı ve maliyeti yaz.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız devlet müdahalesi tartışması gibi okuma. Merkantilist dünya, devlet kapasitesi ile piyasa oluşumunun birlikte doğduğu yerdir; bu yüzden bir politika hem üretimi örgütleyebilir hem de tekel, şiddet ve dışlama üretebilir.
+İleri düzeyde Colbert’i “devletçilik iyidir/kötüdür” ikiliğine sıkıştırma. Buradaki daha derin mesele şudur: piyasa henüz kalite, ölçek ve ihracat ağlarını kendi başına kuramıyorsa, devlet bunları zorla kurabilir mi? Kurarsa bunun bedelini kim öder? Colbert’in gücü de tehlikesi de aynı yerde durur.
 
 ## İlgili görselleştirmeler
 

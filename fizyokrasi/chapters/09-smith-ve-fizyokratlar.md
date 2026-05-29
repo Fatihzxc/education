@@ -104,15 +104,16 @@ Bu uzun yay — Quesnay'den George'a, oradan modern toprak değer vergisi (LVT) 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Smith ve klasik sentez, ticari toplumun zenginliğini para stoğundan çok üretim, işbölümü ve emek üzerinden açıklama ihtiyacından doğar.
-- **Baskın bakış:** Serbest değişim ve doğal özgürlük dili, piyasanın belirli koşullarda düzen kurabileceğini savunur.
-- **Güçlü karşı fikir:** Tekel, sınıf, sömürge ve devlet görevleri bu serbestlik anlatısının sınırlarını gösterir.
-- **Doğruya yaklaşma soruları:** Smith burada gerçekten devletsiz piyasa mı savunuyor, yoksa belirli kurumlarla işleyen bir özgürlük düzeni mi?
-- **Öğrenme desteği:** Dört kutu aç: işbölümü, emek, piyasa, devlet görevi.
+- **Kök sebep:** Smith ve fizyokratlar bölümü, Smith’in doğal düzen, üretkenlik ve serbestlik sorularını fizyokratlardan devralıp toprağın tek üretken kaynak olduğu iddiasını aşmasından doğar.
+- **Baskın bakış:** Klasik anlatı, Smith’i fizyokrasiyi aşan daha geniş sistemin kurucusu gibi gösterir.
+- **Güçlü karşı fikir:** Fizyokrat miras, Smith’in tamamen kopmadığını; bazı temel soruları ve serbestlik dilini onlardan aldığını hatırlatır.
+- **Doğruya yaklaşma soruları:** Smith burada neyi düzeltiyor, neyi miras alıyor? Aşma dediğimiz şey kopuş mu, genişletme mi?
+- **Öğrenme desteği:** Miras-itiraz tablosu kur: doğal düzen, üretkenlik, serbest ticaret, toprak, emek.
 
 ## İleri düzey okuma
 
-İleri düzeyde Smith’i sloganlaştırma. Onun sistemi, bireysel çıkarın toplumsal sonuçlarını anlatırken güven, hukuk, eğitim ve kamu işleri gibi piyasa dışı desteklere de dayanır.
+İleri düzeyde Smith’i tek başına başlayan kurucu gibi okuma. Büyük sentezler çoğu zaman önceki ekollerin hatalarını düzeltirken onların en güçlü sezgilerini de taşır.
+
 
 ## Kaynakça
 

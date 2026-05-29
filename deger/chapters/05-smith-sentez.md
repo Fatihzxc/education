@@ -156,15 +156,16 @@ Bir kelimenin nasıl kullanıldığı, sadece bir filolojik mesele değil; bir p
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Smith ve klasik sentez, ticari toplumun zenginliğini para stoğundan çok üretim, işbölümü ve emek üzerinden açıklama ihtiyacından doğar.
-- **Baskın bakış:** Serbest değişim ve doğal özgürlük dili, piyasanın belirli koşullarda düzen kurabileceğini savunur.
-- **Güçlü karşı fikir:** Tekel, sınıf, sömürge ve devlet görevleri bu serbestlik anlatısının sınırlarını gösterir.
-- **Doğruya yaklaşma soruları:** Smith burada gerçekten devletsiz piyasa mı savunuyor, yoksa belirli kurumlarla işleyen bir özgürlük düzeni mi?
-- **Öğrenme desteği:** Dört kutu aç: işbölümü, emek, piyasa, devlet görevi.
+- **Kök sebep:** Smith’in değer sentezi, kullanım değeri, değişim değeri, emek ölçüsü ve doğal fiyat sorularını aynı metinde tutmaya çalıştığı için doğar.
+- **Baskın bakış:** Klasik üretim bakışı, değerin kaynağını emek ve işbölümü hattında arar.
+- **Güçlü karşı fikir:** Marjinalistler su-elmas paradoksunu son birim faydasıyla çözer; Marx ise Smith’in emek hattını sömürü sorusuna taşır.
+- **Doğruya yaklaşma soruları:** Smith değer derken ölçü mü arıyor, kaynak mı, yoksa piyasa fiyatının etrafında döndüğü merkezi mi?
+- **Öğrenme desteği:** Su-elmas kartı yap: kullanım değeri, değişim değeri, emek ölçüsü, marjinal fayda cevabı.
 
 ## İleri düzey okuma
 
-İleri düzeyde Smith’i sloganlaştırma. Onun sistemi, bireysel çıkarın toplumsal sonuçlarını anlatırken güven, hukuk, eğitim ve kamu işleri gibi piyasa dışı desteklere de dayanır.
+İleri düzeyde Smith’in değer teorisini tek formüle indirme. Smith, modern fiyat teorisi ile klasik bölüşüm teorisi arasında henüz ayrışmamış bir kavşakta durur.
+
 
 ## Kaynakça
 

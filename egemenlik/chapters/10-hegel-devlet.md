@@ -158,15 +158,16 @@ Weber'in tasviri pesimisttir. Bürokrasi, modern özgürlüğü garanti eden bir
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** Hegel’de devlet bölümü, bireysel özgürlük ile sivil toplumun çıkar çatışmaları arasında ortak etik düzenin nasıl kurulacağı sorusundan doğar.
+- **Baskın bakış:** Hegelci bakış, devleti yalnız zor aygıtı değil, özgürlüğün kurumsal ve akılsal biçimi olarak görür.
+- **Güçlü karşı fikir:** Liberal ve Marxçı eleştiri, devletin özgürlük diliyle bürokratik tahakküm veya sınıf çıkarı taşıyabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Devlet bireyin özgürlüğünü gerçekten gerçekleştiriyor mu, yoksa bireyi daha büyük bir bütün içinde eritiyor mu?
+- **Öğrenme desteği:** Üç düzey şeması yap: aile, sivil toplum, devlet. Her düzeyde özgürlük ve bağımlılık nasıl değişiyor?
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde Hegel’i devlete tapınma gibi basitleştirme. Onun için devlet, dağınık çıkarları ortak etik düzene bağlama iddiasıdır; tartışma bu iddianın ne kadar gerçek olduğudur.
+
 
 ## Kaynakça
 

@@ -103,15 +103,15 @@ Geriye dönüp baktığımızda da bir kalıp seçiliyor. Bölüm 3'te işlediğ
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Tableau Économique, ürünün ve paranın sınıflar arasında nasıl dolaştığını tek bakışta gösterme ihtiyacından doğar; amaç ekonominin yeniden üretim mekanizmasını görünür kılmaktır.
+- **Baskın bakış:** Quesnay’in modelci bakışı, toplumu üretici sınıf, mülk sahipleri ve kısır sınıf olarak sadeleştirir; toprağın net artık üreten merkez olduğunu varsayar.
+- **Güçlü karşı fikir:** Sanayi ve emek merkezli eleştiri, “kısır sınıf” denen alanın gerçek üretim kapasitesini ve teknolojik dönüşümünü modelin küçülttüğünü söyler.
+- **Doğruya yaklaşma soruları:** Tableau hangi akışı gerçekten berraklaştırıyor? Hangi sınıfı sadece modelin gereği olarak düşük değerli gösteriyor?
+- **Öğrenme desteği:** Üç sınıflı tablo yap: üretici sınıf, mülk sahipleri, kısır sınıf. Her satıra ödeme, ürün, net artık ve modeldeki rolünü yaz.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde Tableau’yu eski ve garip bir tablo gibi değil, makroekonomik modelleme düşüncesinin erken bir örneği gibi oku. Gücü, karmaşık toplumu okunabilir bir akışa çevirmesidir. Sınırı da aynı yerdedir: okunabilirlik uğruna bazı üretim biçimlerini ve sınıf deneyimlerini fazla basitleştirir.
 
 ## Kaynakça
 

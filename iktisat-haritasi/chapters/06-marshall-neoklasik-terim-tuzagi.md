@@ -42,15 +42,16 @@ Sonraki bölüm, tam o makro sahneye geçer: Büyük Buhran'ın neoklasik dengey
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
-- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
-- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
-- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
-- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+- **Kök sebep:** Marshall ve neoklasik terim tuzağı, klasik maliyet hattı ile marjinal fayda hattının tek sentez gibi sunulmasının neleri aydınlatıp neleri sakladığı sorusundan doğar.
+- **Baskın bakış:** Neoklasik anlatı, sentezi teknik olgunlaşma ve tarafsız bilim dili gibi sunar.
+- **Güçlü karşı fikir:** Sraffa, Keynes ve kurumsal eleştiri bu dengenin sermaye, talep ve güç sorunlarını kapatabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Sentez gerçekten çelişkiyi çözüyor mu, yoksa gerilimi daha kullanışlı bir dile mi taşıyor?
+- **Öğrenme desteği:** Makas ve etiket tablosu yap: klasik miras, marjinal miras, neoklasik ad, kaybolan soru.
 
 ## İleri düzey okuma
 
-İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+İleri düzeyde neoklasik etiketinin tuzağına dikkat et. Etiket hem klasik mirası sahiplenir hem de klasiklerin bölüşüm ve sınıf sorularını daha sessiz bir dile taşır.
+
 
 ## Kaynakça
 

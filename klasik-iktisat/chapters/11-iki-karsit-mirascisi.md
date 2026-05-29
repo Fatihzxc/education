@@ -196,15 +196,15 @@ Bölüm 12, klasik iktisadın 21. yüzyıldaki yankılarını işleyecektir: Sra
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
-- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
-- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
-- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
-- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+- **Kök sebep:** Klasik iktisadın emek, bölüşüm ve fiyat mirası 19. yüzyıl sonunda iki ayrı yola ayrılır: Marx üretim ve sınıf ilişkisini derinleştirir, marjinalistler tercih ve kıtlık sorununu merkeze alır.
+- **Baskın bakış:** Ders kitabı anlatısı bu ayrışmayı çoğu zaman eski teorinin yerini daha yeni teorinin alması gibi sunar.
+- **Güçlü karşı fikir:** Çatallanma okuması, Marx ile marjinalizmin aynı klasik mirastan farklı soruları seçtiğini gösterir; biri sömürüyü, diğeri fiyat ve seçim mekanizmasını görünür kılar.
+- **Doğruya yaklaşma soruları:** Hangi klasik sorun korunuyor, hangisi terk ediliyor? Ayrışma yalnız bilimsel mi, yoksa politik ve sınıfsal bir yön değiştirme de içeriyor mu?
+- **Öğrenme desteği:** Çatallanma matrisi kur: klasik sorun, Marx’ın yanıtı, marjinalist yanıt, dışarıda kalan soru.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+İleri düzeyde bu mirası tek soy çizgisi gibi değil, iki ayrı merceğe bölünen bir kavşak gibi oku. Marx klasik emek ve bölüşüm sorusunu radikalleştirir; marjinalistler değer sorusunu bireysel tercih ve kıtlık alanına taşır. İkisi de bir şeyi aydınlatır, ikisi de bir şeyi gölgede bırakır.
 
 ## Kaynakça
 

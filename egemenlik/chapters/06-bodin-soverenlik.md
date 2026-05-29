@@ -148,15 +148,15 @@ Bodin'in tezi *egemenlik teorisi* açısından da kritiktir. Bir devletin para b
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** Bodin’in soverenlik formülü, Fransa’daki din savaşları ve parçalanmış otorite ortamında “son hukuki karar nerede duracak?” sorusundan doğar.
+- **Baskın bakış:** Merkezi devlet ve hukukçu bakış, egemenliği mutlak, sürekli ve bölünmez bir güç olarak kurar; çünkü dağınık otorite iç savaşı besliyor gibi görünür.
+- **Güçlü karşı fikir:** Anayasal, yerel ve çoğulcu okumalar, bölünmez egemenlik fikrinin düzen sağlarken denetlenemez iktidara kapı açabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Bodin’in “mutlak” dediği güç hangi kaosa cevap veriyor? Bu güç hukukla sınırlı mı kalıyor, yoksa hukuku yapanın kendisi olduğu için sınır bulanıklaşıyor mu?
+- **Öğrenme desteği:** Üç kelimelik kart yap: mutlak, sürekli, bölünmez. Her kelimenin yanına hem çözdüğü sorunu hem doğurduğu riski yaz.
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde Bodin’i “mutlakiyet savunucusu” diye hızlıca kapatma. Onun sert formülü, somut bir korkuya cevap verir: parçalı otorite altında hukuk sürekliliğinin çökmesi. Ama aynı formül başka bir kapı da açar: eğer son karar tek merkezde toplanırsa, o merkezin haksız kararına karşı kim konuşacaktır?
 
 ## Kaynakça
 

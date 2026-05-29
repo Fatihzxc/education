@@ -134,15 +134,16 @@ Worms Concordat'ının uzlaşması teknikti: piskoposların *manevi* atamasını
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Savaş, hukuk, din, vergi ve itaat soruları “son sözü kim söyler?” düğümünde toplanır.
-- **Baskın bakış:** Devlet merkezli anlatı düzen ve güvenliği öne çıkarır; egemenliği çoğu zaman tek merkezde arar.
-- **Güçlü karşı fikir:** Locke, Rousseau, yerel pratikler, Weber ve Foucault egemenliğin sınır, meşruiyet ve ilişki tarafını açar.
-- **Doğruya yaklaşma soruları:** Egemen kim, hangi alanda emir verebiliyor, sınırı nerede başlıyor? İtaat güvenlik mi sağlıyor, yoksa tahakküm mü kuruyor?
-- **Öğrenme desteği:** Üç eksenli harita çiz: özne, kapsam, sınır. Her düşünürü bu üç soruyla yerleştir.
+- **Kök sebep:** İki kılıç doktrini, Ortaçağ’da ruhani otorite ile dünyevi iktidarın aynı toplum üzerinde yetki iddia etmesinden doğar.
+- **Baskın bakış:** Kilise ve imparatorluk dili, egemenliği ilahi düzen içinde paylaştırmaya çalışır.
+- **Güçlü karşı fikir:** Laikleşme ve modern devlet okuması, bu paylaşımlı otoritenin merkezi egemenlik önünde engel olduğunu söyler.
+- **Doğruya yaklaşma soruları:** Son söz Tanrı adına konuşanda mı, kılıcı kullananda mı? İki otorite çatışınca halk nerede duruyor?
+- **Öğrenme desteği:** İki kılıç şeması çiz: ruhani yetki, dünyevi yetki, çatışma alanı, hakemlik iddiası.
 
 ## İleri düzey okuma
 
-İleri düzeyde egemenliği yalnız kralın ya da devletin sahip olduğu bir güç gibi düşünme. Egemenlik bazen hukukta, bazen orduda, bazen bürokraside, bazen de gündelik hayatı yöneten görünmez ilişki ağlarında çalışır.
+İleri düzeyde Ortaçağ’ı egemenliğin yokluğu gibi okuma. Tam tersine, egemenliğin bölünmüş ve hiyerarşik biçimde nasıl düşünüldüğünü gösterir.
+
 
 ## Kaynakça
 

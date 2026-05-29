@@ -150,15 +150,15 @@ Sonraki bölüm, bu felsefi çerçevenin nasıl somut bir biyografide ete kemiğ
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Doğal düzen fikri, ayrıcalıklar ve keyfi müdahalelerle dolu Eski Rejim içinde ekonominin akılla kavranabilir, sade ve evrensel yasaları olabileceği umudundan doğar.
+- **Baskın bakış:** Aydınlanmacı-fizyokrat bakış, mülkiyet, serbest tahıl ticareti, tek vergi ve üretken toprağı “doğanın düzeni” gibi anlatır.
+- **Güçlü karşı fikir:** Tarihsel ve toplumsal eleştiri, “doğal” denen düzenin çoğu zaman belirli bir mülkiyet biçimini ve toprak sahibi çıkarını doğallaştırdığını söyler.
+- **Doğruya yaklaşma soruları:** Bu metinde “doğa” gerçekten gözlenen bir düzen mi, yoksa reformu daha tartışılmaz göstermek için kullanılan güçlü bir dil mi?
+- **Öğrenme desteği:** Doğal düzen şeması çiz: doğa/Tanrı yasası, mülkiyet, serbestlik, vergi, otorite. Her bağlantıda “kim kazanıyor?” diye sor.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde “doğal düzen”i sadece güzel bir Aydınlanma fikri gibi okuma. Bu kavram çift yönlü çalışır: keyfi iktidara karşı aklın ve sadeliğin silahı olabilir; ama aynı anda belirli bir mülkiyet düzenini sanki tartışılamaz doğa yasasıymış gibi de gösterebilir.
 
 ## Kaynakça
 

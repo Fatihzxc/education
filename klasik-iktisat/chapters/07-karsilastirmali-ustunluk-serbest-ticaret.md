@@ -123,15 +123,15 @@ Karşılaştırmalı üstünlük teoremi, klasik iktisadın 70 yıllık politik 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Sanayi, şehirleşme, ücretli emek, tahıl fiyatı ve imparatorluk ticareti yeni bir büyüme-bölüşüm sorusu doğurur.
-- **Baskın bakış:** İngiliz politik iktisadı, üretici sermaye, serbest ticaret ve ilerleme dili güçlü konuşur.
-- **Güçlü karşı fikir:** Marx, korumacı kalkınmacılar, işçi sınıfı ve çevre ülkeler bu evrensellik iddiasını kendi konumlarından sınar.
-- **Doğruya yaklaşma soruları:** Bu teori herkes için mi konuşuyor, yoksa belirli bir tarihsel İngiliz avantajını evrensel dil gibi mi kuruyor?
-- **Öğrenme desteği:** Üç pay tablosu tut: ücret, kâr ve rant aynı değişimden nasıl etkileniyor?
+- **Kök sebep:** Karşılaştırmalı üstünlük tartışması, Britanya’da tahıl yasaları, ucuz gıda, sanayi ücretleri ve ihracatçı sermayenin dünya pazarı ihtiyacından doğar.
+- **Baskın bakış:** Ricardo ve Anti-Corn Law çevresi, serbest ticareti herkesin kazandığı akılcı işbölümü gibi anlatır; bu anlatıda sanayici ve tüketici sesi çok güçlüdür.
+- **Güçlü karşı fikir:** List, korumacı kalkınmacılar, çevre ülkeler ve işçi hareketleri, “serbest” ticaretin eşit olmayan sanayi kapasiteleriyle başladığında güçlü ülkenin düzeni olabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Model iki ülkeyi eşit soyut aktör gibi mi alıyor? Tarihsel başlangıç gücü, donanma, sermaye birikimi ve sömürge ağı tabloya girince sonuç değişiyor mu?
+- **Öğrenme desteği:** Önce iki ülke-iki mal tablosu kur; sonra Corn Laws çıkar matrisi ekle: sanayici, toprak sahibi, işçi ve tüketici aynı serbest ticaretten ne kazanıyor, ne kaybediyor?
 
 ## İleri düzey okuma
 
-İleri düzeyde klasik iktisadı yalnız piyasa özgürlüğünün başlangıcı gibi okuma. Bu düşünce, üretim toplumunun nasıl büyüyeceğini anlatırken aynı anda büyümenin kimler arasında paylaşılacağını da tartışır.
+İleri düzeyde serbest ticareti matematiksel doğruluk ile tarihsel adalet arasında iki kez oku. Ricardo’nun modeli bize çok önemli bir mekanizma gösterir: bazı koşullarda ülkeler farklı alanlarda uzmanlaşarak toplam üretimi artırabilir. Ama modelin dışındaki soru da aynı derecede önemlidir: ülkeler bu modele aynı sanayi gücüyle, aynı finansmanla ve aynı pazarlık imkânıyla mı giriyor?
 
 ## Kaynakça
 

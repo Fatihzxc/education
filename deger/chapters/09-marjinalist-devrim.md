@@ -144,15 +144,15 @@ Bu, marjinalist devrimin paradoksal mirasıdır. Bir tarafta, ekonomi soruların
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
-- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
-- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
-- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
-- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+- **Kök sebep:** Marjinalist devrim, su-elmas paradoksu, değişen fiyatlar ve bireysel tercih yoğunluklarını emek-değer diliyle açıklamanın zorlaştığı yerde doğar.
+- **Baskın bakış:** Jevons, Menger ve Walras çizgisi, değeri toplam faydadan değil son birimin faydasından ve kıtlık koşulundan anlamaya çalışır.
+- **Güçlü karşı fikir:** Klasik ve Marxçı okuma, bu dönüşümün fiyat mekanizmasını aydınlatırken üretim sürecini, sınıf ilişkisini ve tarihsel gücü geri plana ittiğini söyler.
+- **Doğruya yaklaşma soruları:** Son birim fikri hangi paradoksu çözüyor? Çözüm, değerin toplumsal üretim tarafını tamamen dışarıda bırakınca neyi kaybediyor?
+- **Öğrenme desteği:** Su-elmas mini grafiği çiz: toplam fayda ve marjinal faydayı iki ayrı çizgi gibi düşün; fiyatın hangisine daha yakın davrandığını işaretle.
 
 ## İleri düzey okuma
 
-İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+İleri düzeyde marjinalist devrimi yalnız matematikleşme diye okuma. Asıl değişim, “değer nerede doğar?” sorusunun üretim yerinden seçim anına taşınmasıdır. Bu büyük bir açıklama gücü getirir; ama aynı anda emek, sınıf ve mülkiyet gibi üretim alanındaki soruları daha sessiz hale getirebilir.
 
 ## Kaynakça
 

@@ -128,15 +128,16 @@ Bu çerçeve, 21. yüzyıl mülkiyet hukukunun gelişme istikametidir. Sıradan 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
-- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
-- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
-- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
-- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+- **Kök sebep:** Hegel’in kişilik teorisi, bireyin özgürlüğünü dış dünyada tanınabilir hale getirmek için neden mülkiyete ihtiyaç duyduğu sorusundan doğar.
+- **Baskın bakış:** Hegelci bakış, mülkiyeti kişinin iradesini dünyaya yerleştirmesi olarak olumlar.
+- **Güçlü karşı fikir:** Marx ve toplumsal eleştiri, bu özgürlük dilinin sınıfsal eşitsizliği örtebileceğini söyler.
+- **Doğruya yaklaşma soruları:** Bir şeye sahip olmak kişiliği gerçekten özgürleştiriyor mu, yoksa başkalarının özgürlüğünü sınırlıyor mu?
+- **Öğrenme desteği:** Üç adım yaz: kişi, irade, dış nesne. Mülkiyet bu üçü arasında nasıl bağ kuruyor?
 
 ## İleri düzey okuma
 
-İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+İleri düzeyde Hegel’i basit özel mülkiyet savunucusu gibi okuma. Onun için mülkiyet, soyut kişinin dünyada tanınabilir hale gelmesidir; ama bu tanınmanın toplumsal koşulları ayrıca sorgulanmalıdır.
+
 
 ## Kaynakça
 

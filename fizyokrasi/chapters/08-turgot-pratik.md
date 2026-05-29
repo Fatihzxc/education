@@ -155,15 +155,15 @@ Turgot bir kişi olarak fizyokrasinin yarısını bile temsil etmez; ama Avrupa 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Turgot bölümü, fizyokrat fikirlerin ekmek fiyatı, lonca ayrıcalıkları, vergi düzeni ve saray direnciyle pratik siyasete çarptığı noktadan doğar.
+- **Baskın bakış:** Reformcu bakan gözü, serbestleşmeyi ve ayrıcalıkların kırılmasını akılcı, sade ve gerekli bir düzenleme gibi görür.
+- **Güçlü karşı fikir:** Halkın ekmek güvenliği, loncalar, ayrıcalıklı gruplar ve kısa vadeli geçim korkusu, doğru görünen reformun toplumsal bedelini görünür kılar.
+- **Doğruya yaklaşma soruları:** Teoride rasyonel olan reform, geçiş maliyetini kimin omzuna yüklüyor? Ekmek pahalılaşınca “doğal düzen” halk için nasıl hissediliyor?
+- **Öğrenme desteği:** Reform etkisi tablosu yap: amaç, kazanan, kısa vade kaybeden, siyasal direnç, uzun vade beklenti.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde Turgot’yu teorinin pratik sınavı gibi oku. Bir fikir metinde berrak olabilir; fakat ekmek fiyatına, lonca çıkarına ve saray siyasetine değdiğinde başka bir şeye dönüşür. Buradan şu sonuç çıkar: iyi teori, geçiş döneminin acısını kimin taşıyacağını sormadıkça eksik kalır.
 
 ## Kaynakça
 

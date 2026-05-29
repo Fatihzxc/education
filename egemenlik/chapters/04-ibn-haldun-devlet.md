@@ -149,15 +149,16 @@ Modern *fiscal sociology* literatürü — Tilly, Schumpeter, Joseph Strayer, *C
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** İbn Haldun’da devlet teorisi, asabiyye, vergi, hanedan ve şehirleşme döngüsünün egemenliği nasıl kurup sonra nasıl çözdüğü sorusundan doğar.
+- **Baskın bakış:** Hanedan merkezli bakış, egemenliği fetih, bağlılık ve vergi toplama kapasitesiyle açıklar.
+- **Güçlü karşı fikir:** Üretim ve vergi tabanı okuması, devletin kendi gücünü taşıyan toplumu aşırı vergi ve lüksle tüketebileceğini gösterir.
+- **Doğruya yaklaşma soruları:** Egemenlik asabiyyeden mi, vergiden mi, zor gücünden mi besleniyor? Çöküş hangi halkada başlıyor?
+- **Öğrenme desteği:** Hanedan döngüsü çiz: asabiyye, fetih, vergi, lüks, vergi baskısı, çözülme.
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde İbn Haldun’da devleti yalnız siyasal kurum gibi değil, toplumsal enerji ve mali kapasiteyle çalışan canlı bir döngü gibi oku. Gücün kaynağı aynı zamanda çöküşün de başlangıcı olabilir.
+
 
 ## Kaynakça
 

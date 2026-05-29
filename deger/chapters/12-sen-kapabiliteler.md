@@ -207,15 +207,16 @@ Bu tartışma, değer kavramının yirmi beş asırlık tarihinin son sayfasınd
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
-- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
-- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
-- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
-- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+- **Kök sebep:** Sen’in kapabilite yaklaşımı, gelir ve fayda ölçülerinin insanın gerçekten ne yapabildiğini ve nasıl yaşayabildiğini anlatmakta yetersiz kalmasından doğar.
+- **Baskın bakış:** Refah iktisadı çoğu zaman fayda, gelir veya tercih tatminiyle ölçmeye yatkındır.
+- **Güçlü karşı fikir:** Sen, insanın gerçek yaşam imkânlarını merkeze alarak bu ölçüleri sınar.
+- **Doğruya yaklaşma soruları:** Bir insanın durumu parasına göre mi, mutluluğuna göre mi, yoksa gerçek yaşam imkânlarına göre mi değerlendirilmeli?
+- **Öğrenme desteği:** Üç ölçü karşılaştır: gelir, fayda, kapabilite. Aynı kişiyi üçüyle ayrı ayrı oku.
 
 ## İleri düzey okuma
 
-İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+İleri düzeyde Sen’i yalnız sosyal politika eki gibi görme. O, değer sorusunu fiyat ve faydadan çıkarıp insan özgürlüğünün gerçek içeriğine taşır.
+
 
 ## Kaynakça
 

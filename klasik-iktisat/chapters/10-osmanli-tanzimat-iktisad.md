@@ -106,15 +106,16 @@ Sonraki bölüm (Bölüm 11), klasik iktisadın iki karşıt mirasçısını —
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
-- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
-- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
-- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
-- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+- **Kök sebep:** Osmanlı Tanzimat iktisadı bölümü, mali kriz, dış ticaret baskısı, bürokratik reform ve Avrupa iktisat dilinin başka bir devlet sorununa çevrilmesinden doğar.
+- **Baskın bakış:** Batılılaşma ve reform dili, klasik iktisadı ilerlemenin hazır dili gibi sunabilir.
+- **Güçlü karşı fikir:** Osmanlı mali yapısı, esnaf düzeni, kapitülasyonlar ve bağımlılık ilişkileri bu aktarımın düz bir çeviri olmadığını gösterir.
+- **Doğruya yaklaşma soruları:** Klasik iktisat Osmanlı’da aynı problemi mi çözüyor, yoksa başka bir krize ödünç dil mi sağlıyor?
+- **Öğrenme desteği:** Aktarım tablosu kur: İngiliz bağlamı, Osmanlı bağlamı, değişen anlam, kaybolan varsayım.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+İleri düzeyde Osmanlı alımlamasını gecikmiş taklit gibi okuma. Bir fikir başka bir devlete girdiğinde, oradaki maliye, hukuk ve sınıf yapısı tarafından yeniden biçimlendirilir.
+
 
 ## Kaynakça
 

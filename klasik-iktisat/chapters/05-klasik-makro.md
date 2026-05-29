@@ -108,15 +108,15 @@ Bu çoklu hayatta kalış, doktrinin gücünü ve sınırlarını birlikte yans�
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Kriz, işsizlik, talep çöküşü, enflasyon ve para güveni iktisadı piyasa dengesinin ötesinde düşünmeye zorlar.
-- **Baskın bakış:** Keynesçi veya monetarist bakış, istikrarı kuracak ana mekanizmayı kendi tarafında arar: talep yönetimi ya da para disiplini.
-- **Güçlü karşı fikir:** Hayekçi, Marxçı ve kurumsal okumalar hem müdahalenin hem disiplinin farklı toplumsal bedellerini gösterir.
-- **Doğruya yaklaşma soruları:** Sorun talep eksikliği mi, para güveni mi, kâr dinamiği mi, kurumların kırılması mı?
-- **Öğrenme desteği:** Kriz tablosu yap: işsizlik, enflasyon, faiz, kamu harcaması, para arzı.
+- **Kök sebep:** Klasik makro, tasarruf, yatırım, para, ücret esnekliği ve “genel bolluk krizi olur mu?” sorusunu aynı çerçevede düşünme ihtiyacından doğar.
+- **Baskın bakış:** Say Yasası’na yakın klasik çizgi, üretimin kendi talebini yaratacağını ve piyasanın uzun vadede kaynakları çalıştıracağını varsayar.
+- **Güçlü karşı fikir:** Malthus’un genel durgunluk kaygısı ve sonra Keynes, tasarrufun otomatik yatırıma dönüşmeyebileceğini ve talep yetersizliğinin kalıcı işsizlik yaratabileceğini söyler.
+- **Doğruya yaklaşma soruları:** “Uzun vadede denge” cümlesi kısa vadede işsiz kalan insanın hayatını açıklıyor mu? Tasarruf gerçekten her zaman yatırıma mı dönüşüyor?
+- **Öğrenme desteği:** Akış diyagramı kur: gelir → tasarruf → yatırım → üretim → gelir. Her okta “aksarsa ne olur?” diye sor.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu hattı devlet var mı yok mu tartışmasına indirgeme. Asıl kavga, kapitalist ekonomide istikrarın hangi mekanizma tarafından kurulacağıdır.
+İleri düzeyde klasik makroyu Keynes öncesi basitlik gibi görme. Burada çok temel bir güven sorusu vardır: piyasa kendi kendini yeterince hızlı onarır mı? Klasikler çoğu zaman evet der; Malthus ve Keynes hattı ise “bazen hayır, çünkü gelir akışı bir yerde tutulabilir” der. Bu ayrım sonraki bütün kriz teorilerinin kapısını açar.
 
 ## Kaynakça
 

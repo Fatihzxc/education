@@ -40,15 +40,16 @@ Merkantilistten monetariste bu yolculuğun amacı, size "doğru ekol"ü gösterm
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
-- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
-- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
-- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
-- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+- **Kök sebep:** Kapanış bölümü, fikir akımlarının kaybolmadığını; onları doğuran sorunlar geri döndüğünde eski kavramların yeni biçimlerle canlandığını göstermek için vardır.
+- **Baskın bakış:** İlerleme anlatısı eski ekolleri aşılmış basamaklar gibi görür.
+- **Güçlü karşı fikir:** Tarihsel okuma, her ekolün belirli krizlerde yeniden işe yarayan bir mercek taşıdığını gösterir.
+- **Doğruya yaklaşma soruları:** Bugün hangi eski sorun geri döndü? Hangi ekol bu sorunu daha iyi görmemi sağlıyor?
+- **Öğrenme desteği:** Ekol arşivi tut: para krizi, sınıf krizi, talep krizi, ekoloji krizi için hangi mercek işe yarıyor?
 
 ## İleri düzey okuma
 
-İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+İleri düzeyde kapanışı sonuç değil yöntem olarak oku. İktisat düşüncesi, bitmiş cevaplar müzesi değil; tekrar eden sorunlara tutulacak mercekler koleksiyonudur.
+
 
 ## Kaynakça
 

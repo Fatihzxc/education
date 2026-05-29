@@ -131,15 +131,15 @@ Yine de pratik etki sınırlı. Akademik iktisat ders kitapları hâlâ Cobb-Dou
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
-- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
-- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
-- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
-- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+- **Kök sebep:** Cambridge tartışması, “sermaye”nin miktarını fiyat ve kâr oranından bağımsız ölçemiyorsak neoklasik bölüşüm teorisinin temeli neye dayanır sorusundan doğar.
+- **Baskın bakış:** Neoklasik bakış, sermayeyi emek gibi üretim faktörü sayar; ücret ve kârı faktörlerin marjinal katkısıyla açıklamak ister.
+- **Güçlü karşı fikir:** Sraffa ve Cambridge eleştirisi, sermayenin tek bir fiziksel miktar gibi ölçülemediğini; fiyat, kâr oranı ve bölüşüm ilişkilerinin hesabın içine baştan girdiğini savunur.
+- **Doğruya yaklaşma soruları:** Sermaye miktarını fiyatları bilmeden ölçebiliyor muyuz? Ölçemiyorsak “sermayenin marjinal ürünü” dediğimiz şey gerçekten bağımsız bir açıklama mı?
+- **Öğrenme desteği:** Sraffa matrisi kur: girdi-çıktı ilişkisi, ücret-kâr bölüşümü, fiyat sistemi, sermaye ölçümü. Sonra döngü oku ekle: sermaye değeri → fiyatlar → kâr oranı → sermaye değeri.
 
 ## İleri düzey okuma
 
-İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+İleri düzeyde bu tartışmayı teknik ayrıntı diye atlama. Sermayeyi nasıl ölçtüğümüz, kârın doğal üretkenlik payı mı yoksa toplumsal bölüşüm sonucu mu olduğu sorusuna bağlanır. Bu yüzden Cambridge tartışması kuru bir matematik kavgası değil; iktisadın adalet ve güç sorularıyla gizli bağını açığa çıkaran bir çatlağıdır.
 
 ## Kaynakça
 

@@ -50,15 +50,16 @@ Sonraki iki bölüm, klasiğin bıraktığı bombayı iki ayrı yönde patlatan 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Smith ve klasik sentez, ticari toplumun zenginliğini para stoğundan çok üretim, işbölümü ve emek üzerinden açıklama ihtiyacından doğar.
-- **Baskın bakış:** Serbest değişim ve doğal özgürlük dili, piyasanın belirli koşullarda düzen kurabileceğini savunur.
-- **Güçlü karşı fikir:** Tekel, sınıf, sömürge ve devlet görevleri bu serbestlik anlatısının sınırlarını gösterir.
-- **Doğruya yaklaşma soruları:** Smith burada gerçekten devletsiz piyasa mı savunuyor, yoksa belirli kurumlarla işleyen bir özgürlük düzeni mi?
-- **Öğrenme desteği:** Dört kutu aç: işbölümü, emek, piyasa, devlet görevi.
+- **Kök sebep:** Klasik sentez bölümü, zenginliği maden stokundan çıkarıp işbölümü, üretim kapasitesi, emek ve serbest ticaret hattına yerleştirme ihtiyacından doğar.
+- **Baskın bakış:** Ders kitabı anlatısı Smith’i modern iktisadın temiz başlangıcı gibi gösterir.
+- **Güçlü karşı fikir:** Anti-Whig okuma, Smith’in hem merkantilist dili dönüştürdüğünü hem de İngiliz ticari-sınai konumundan konuştuğunu hatırlatır.
+- **Doğruya yaklaşma soruları:** Smith hangi kilidi açıyor, hangi tarihsel avantajı doğal kural gibi gösteriyor?
+- **Öğrenme desteği:** Üç düğümlü harita çiz: işbölümü, emek-değer, serbest ticaret. Her düğümün karşı itirazını yanına yaz.
 
 ## İleri düzey okuma
 
-İleri düzeyde Smith’i sloganlaştırma. Onun sistemi, bireysel çıkarın toplumsal sonuçlarını anlatırken güven, hukuk, eğitim ve kamu işleri gibi piyasa dışı desteklere de dayanır.
+İleri düzeyde Smith’i merkantilizmin basit karşıtı gibi değil, eski ticaret dilini üretim toplumu için yeniden düzenleyen düşünür gibi oku.
+
 
 ## Kaynakça
 

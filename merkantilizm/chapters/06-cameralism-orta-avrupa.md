@@ -125,15 +125,15 @@ Bir sonraki bölüm — *Hume, Smith ve klasik eleştiri* — bu üç modele yap
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Erken modern dünyada savaş, hazine ihtiyacı, ticaret yolları ve değerli maden kaygısı aynı anda baskı kurar.
-- **Baskın bakış:** Devlet adamı, büyük tüccar ve maliye çevresi daha görünür konuşur; güç ile refah çoğu zaman aynı şey gibi anlatılır.
-- **Güçlü karşı fikir:** Hume-Smith çizgisi, tüketici, küçük üretici ve sömürgeleştirilen halklar bu güç siyasetinin bedelini başka yerden gösterir.
-- **Doğruya yaklaşma soruları:** Bu politika toplumu mu zenginleştiriyor, devleti mi güçlendiriyor? Maliyet kimin üzerinde kalıyor?
-- **Öğrenme desteği:** Güç-refah terazisi kur: hazine, tüccar, üretici, tüketici ve dışarıda bırakılan halk aynı karardan ne kazanıyor?
+- **Kök sebep:** Cameralism, Otuz Yıl Savaşı sonrası yıkım, nüfus kaybı, dağınık prenslikler ve zayıf mali kapasite içinde devleti yeniden ayağa kaldırma ihtiyacından doğar.
+- **Baskın bakış:** Prenslik idaresi ve maliye bürokrasisi, halkı, nüfusu, üretimi ve madeni kaynakları hazineyi yaşatan yönetilebilir unsurlar olarak görür.
+- **Güçlü karşı fikir:** Liberal iktisat ve yerel toplum bakışı, bu idare bilgisinin refah üretirken insanları devletin gelir kaynağına indirgeme riskini taşıdığını söyler.
+- **Doğruya yaklaşma soruları:** Kameralist “iyi yönetim” halkın hayatını mı güçlendiriyor, yoksa her şeyi ölçen ve vergileyen bir idari göze mi dönüştürüyor?
+- **Öğrenme desteği:** Karşılaştırma tablosu kur: Colbertçilik, Cameralism, Osmanlı fiskalizmi. Sütunlar: savaş baskısı, nüfus politikası, vergi mantığı, üretim hedefi.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız devlet müdahalesi tartışması gibi okuma. Merkantilist dünya, devlet kapasitesi ile piyasa oluşumunun birlikte doğduğu yerdir; bu yüzden bir politika hem üretimi örgütleyebilir hem de tekel, şiddet ve dışlama üretebilir.
+İleri düzeyde kameralizmi yalnız “Alman merkantilizmi” diye geçme. O, iktisadın üniversite ve bürokrasi içinde devleti yönetme bilgisi olarak kurulmasının önemli bir halkasıdır. Bu yüzden burada ticaret kadar nüfus, orman, maden, vergi defteri ve memur aklı da düşüncenin parçasıdır.
 
 ## İlgili görselleştirmeler
 

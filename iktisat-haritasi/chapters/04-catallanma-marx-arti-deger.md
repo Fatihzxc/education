@@ -42,15 +42,16 @@ Sonraki bölüm, aynı bombayı *etkisizleştiren* yolu izler: marjinalist devri
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
-- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
-- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
-- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
-- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+- **Kök sebep:** Marx çatallanması, klasik emek-değer mirasının ücretli emek, kâr ve sınıf ilişkisini açıklarken radikal bir artı-değer teorisine dönüşmesinden doğar.
+- **Baskın bakış:** Marxçı bakış, piyasa eşitliği perdesinin arkasındaki üretim ilişkisini açar.
+- **Güçlü karşı fikir:** Marjinalist ve liberal çizgi, kârı sömürüden çok üretken katkı, risk ve tercih düzeniyle açıklar.
+- **Doğruya yaklaşma soruları:** Artı-değer açıklaması kapitalizmin hangi gerçeğini gösteriyor, hangi alternatif açıklamaları dışarıda bırakıyor?
+- **Öğrenme desteği:** Çatallanma oku çiz: Ricardo’dan Marx’a giden emek-değer hattı; yanına marjinalist kopuşu ekle.
 
 ## İleri düzey okuma
 
-İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+İleri düzeyde Marx’ı klasik iktisadın dışı değil, onun içindeki bir gerilimin radikalleşmesi olarak oku. Bu yüzden hem mirasçı hem yıkıcıdır.
+
 
 ## Kaynakça
 

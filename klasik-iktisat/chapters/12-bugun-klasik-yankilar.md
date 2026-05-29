@@ -98,15 +98,16 @@ Smith *Wealth of Nations*'ını 1776'da yazdı. Bugün 2026; 250 yıl sonra Smit
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
-- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
-- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
-- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
-- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+- **Kök sebep:** Bugünkü klasik yankılar, ücret, kâr, rant, büyüme ve ticaret tartışmalarının hâlâ klasik iktisadın temel sorularına dönmesinden doğar.
+- **Baskın bakış:** Modern iktisat dili klasik kavramları bazen teknik modellerin içinde görünmezleştirir.
+- **Güçlü karşı fikir:** Eşitsizlik, ekoloji ve kalkınma tartışmaları bölüşüm ve tarih sorularını yeniden merkeze çeker.
+- **Doğruya yaklaşma soruları:** Bugünkü tartışmada klasik soru hangisi: büyüme mi, bölüşüm mü, ticaret mi, rant mı?
+- **Öğrenme desteği:** Güncel haber okurken yanına klasik etiket koy: ücret, kâr, rant, ticaret, büyüme.
 
 ## İleri düzey okuma
 
-İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+İleri düzeyde klasik mirası nostalji gibi değil, temel sorular deposu gibi kullan. Modeller değişir; fakat üretimden doğan pay kavgası biçim değiştirerek sürer.
+
 
 ## Kaynakça
 

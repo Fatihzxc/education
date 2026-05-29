@@ -181,15 +181,16 @@ Bu çerçeve, Marx'ın *Kapital*'ini bir tarihsel-belge olarak değil, *yapısal
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
-- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
-- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
-- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
-- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+- **Kök sebep:** Marx’ın değer eleştirisi, kapitalist üretimde emek-gücünün ücretle satın alınıp ürettiğinden daha azıyla ödenmesi geriliminden doğar.
+- **Baskın bakış:** Marxçı bakış, metanın arkasındaki toplumsal ilişkiyi, soyut emeği ve artı-değer üretimini görünür kılar.
+- **Güçlü karşı fikir:** Marjinalist ve neoklasik eleştiri, kârı sömürüden çok tercih, risk, sermaye katkısı ve üretken koordinasyon üzerinden açıklar.
+- **Doğruya yaklaşma soruları:** Kâr nereden geliyor: üretken örgütlenmeden mi, emek-gücünün ödenmeyen kısmından mı? İkisini nasıl ayırırız?
+- **Öğrenme desteği:** İş günü şeması çiz: gerekli emek zamanı, artı emek zamanı, ücret, kâr.
 
 ## İleri düzey okuma
 
-İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+İleri düzeyde Marx’ı yalnız ahlaki öfke gibi değil, bir değer biçimi analizi gibi oku. Eleştirisi, piyasa eşitliği görünürken üretim alanında eşitsizliğin nasıl kurulduğunu göstermeye çalışır.
+
 
 ## Kaynakça
 

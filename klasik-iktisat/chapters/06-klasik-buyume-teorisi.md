@@ -106,15 +106,16 @@ Klasik iktisadın "karanlık bilim" niteliği — Carlyle'ın 1849'da küçümse
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Sanayi, şehirleşme, ücretli emek, tahıl fiyatı ve imparatorluk ticareti yeni bir büyüme-bölüşüm sorusu doğurur.
-- **Baskın bakış:** İngiliz politik iktisadı, üretici sermaye, serbest ticaret ve ilerleme dili güçlü konuşur.
-- **Güçlü karşı fikir:** Marx, korumacı kalkınmacılar, işçi sınıfı ve çevre ülkeler bu evrensellik iddiasını kendi konumlarından sınar.
-- **Doğruya yaklaşma soruları:** Bu teori herkes için mi konuşuyor, yoksa belirli bir tarihsel İngiliz avantajını evrensel dil gibi mi kuruyor?
-- **Öğrenme desteği:** Üç pay tablosu tut: ücret, kâr ve rant aynı değişimden nasıl etkileniyor?
+- **Kök sebep:** Klasik büyüme teorisi, sermaye birikimi, nüfus, teknoloji, toprak sınırı ve kâr oranının uzun vadede büyümeyi nasıl taşıyacağı sorusundan doğar.
+- **Baskın bakış:** Üretim ve birikim dili, büyümeyi toplumun ana ilerleme ölçüsü gibi kurar.
+- **Güçlü karşı fikir:** Bölüşüm, ekoloji ve kriz eleştirileri büyümenin kime ve hangi bedelle geldiğini sorar.
+- **Doğruya yaklaşma soruları:** Büyüme herkesin yaşamını iyileştiriyor mu, yoksa bazı sınıfların payını büyütürken başkalarını sıkıştırıyor mu?
+- **Öğrenme desteği:** Büyüme zinciri çiz: birikim, emek, toprak, teknoloji, bölüşüm.
 
 ## İleri düzey okuma
 
-İleri düzeyde klasik iktisadı yalnız piyasa özgürlüğünün başlangıcı gibi okuma. Bu düşünce, üretim toplumunun nasıl büyüyeceğini anlatırken aynı anda büyümenin kimler arasında paylaşılacağını da tartışır.
+İleri düzeyde büyüme teorisini yalnız daha fazla üretim hesabı gibi okuma. Klasiklerde büyüme, aynı zamanda kâr oranının, ücretin ve rantın tarihsel kaderidir.
+
 
 ## Kaynakça
 

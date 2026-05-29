@@ -123,15 +123,16 @@ Bu örnekleri okurken bu bölümün dersi hep aklımızda olsun: mercantilist po
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** Erken modern devlet bölümü, daimi ordu, borçlanma, vergi toplama ve gümrük denetimi büyüdükçe iktisadın neden devlet meselesi haline geldiğini açıklar.
+- **Baskın bakış:** Mali-askeri devlet bakışı, düzen ve kapasite kurmayı tarihsel zorunluluk gibi gösterir.
+- **Güçlü karşı fikir:** Yerel ayrıcalıklar, köylüler, loncalar ve vergi yükünü taşıyanlar merkezileşmenin güvenlik kadar baskı da ürettiğini hatırlatır.
+- **Doğruya yaklaşma soruları:** Devlet kapasitesi artınca toplumun imkânı mı büyüyor, yoksa denetim mi yoğunlaşıyor? Hangi özgürlükler azalıyor?
+- **Öğrenme desteği:** Kapasite zinciri çiz: savaş, vergi, borç, bürokrasi, ticaret düzenlemesi, yeni savaş.
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde erken modern devleti yalnız baskıcı aygıt ya da yalnız kalkınmacı aktör gibi okuma. Aynı kurum hem güvenlik ve standartlaşma üretir hem de insanların emek ve mallarını daha sıkı kayıt altına alır.
+
 
 ## İlgili görselleştirmeler
 

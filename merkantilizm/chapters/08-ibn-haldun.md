@@ -131,15 +131,16 @@ Beşincisi, **kalkınma ve geri kalma** üzerine genel kuramsal soru — neden b
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
-- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
-- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
-- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
-- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+- **Kök sebep:** İbn Haldun bölümü, devletin yükseliş ve çöküşünü vergi, emek, şehir ve asabiyye ilişkisiyle açıklayan dışarıdan bir bakış sunduğu için merkantilizm kitabında özel yer tutar.
+- **Baskın bakış:** Modern iktisat tarihi İbn Haldun’u çoğu zaman Avrupa fikirlerinin erken habercisi gibi okumaya yatkındır.
+- **Güçlü karşı fikir:** Mukaddime’nin kendi döngüsel siyaset-iktisat mantığı, onu yalnız “öncü iktisatçı” etiketine indirgemeye direnç gösterir.
+- **Doğruya yaklaşma soruları:** İbn Haldun burada merkantilist akla benziyor mu, yoksa devlet ve üretim ilişkisini tamamen başka bir döngüyle mi açıklıyor?
+- **Öğrenme desteği:** Döngü çiz: asabiyye, fetih, vergi, lüks, üretim isteğinin azalması, çözülme.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+İleri düzeyde İbn Haldun’u modern kavramlarla hemen sahiplenme. Gücü, ekonomi ile siyaseti ayırmamasındadır.
+
 
 ## İlgili görselleştirmeler
 

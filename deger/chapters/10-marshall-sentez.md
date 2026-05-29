@@ -156,15 +156,16 @@ Pigou'nun 1920'deki kalem-kâğıt analizi, bugün dünya enerji politikasının
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
-- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
-- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
-- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
-- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+- **Kök sebep:** Marshall sentezi, emek maliyeti ile marjinal fayda arasındaki çekişmeyi arz-talep dengesi içinde birlikte düşünme ihtiyacından doğar.
+- **Baskın bakış:** Neoklasik sentez bakışı, fiyatı piyasa dengesi ve iki taraflı etkileşim olarak anlatır.
+- **Güçlü karşı fikir:** Cambridge sermaye tartışması ve kurumsal eleştiriler, bu dengenin ölçüm ve güç sorunlarını gizleyebileceğini söyler.
+- **Doğruya yaklaşma soruları:** Makas benzetmesi hangi durumda yeterli, hangi durumda tarih ve güç ilişkisini saklıyor?
+- **Öğrenme desteği:** Makas resmi çiz: bir bıçak talep, biri arz. Kısa dönem ve uzun dönemde hangi bıçak daha baskın?
 
 ## İleri düzey okuma
 
-İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+İleri düzeyde Marshall’ı büyük uzlaştırıcı olarak okurken uzlaşmanın bedelini de sor. Bazı gerilimler çözülmez; daha kullanışlı bir dile taşınır.
+
 
 ## Kaynakça
 

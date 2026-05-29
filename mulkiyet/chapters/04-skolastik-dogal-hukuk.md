@@ -154,15 +154,16 @@ Beş örnek, Aquinas'ın 13. yüzyıl teolojik çerçevesinin yaşayan bir hukuk
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Kıt kaynak, emek, miras, devlet gücü ve dışlama hakkı “kim kullanacak?” sorusunda birleşir.
-- **Baskın bakış:** Modern liberal hukuk çoğu zaman bireysel sahipliği doğal başlangıç gibi anlatır.
-- **Güçlü karşı fikir:** Rousseau, Proudhon, Marx, Osmanlı toprak rejimi ve Ostrom mülkiyetin çoğul ve tarihsel olduğunu gösterir.
-- **Doğruya yaklaşma soruları:** Burada mülkiyet sahip olma mı, kullanma mı, gelir alma mı, dışlama mı? Bu haklar kimden esirgeniyor?
-- **Öğrenme desteği:** Haklar demeti matrisi kur: kullanma, gelir alma, dışlama, devretme aynı kişide mi?
+- **Kök sebep:** Skolastik mülkiyet bölümü, ortak yaratılış fikri ile özel kullanımın pratik gerekliliği arasındaki ahlaki gerilimden doğar.
+- **Baskın bakış:** Skolastik bakış, mülkiyeti düzen ve sorumluluk için meşru görür ama mutlaklaştırmaz.
+- **Güçlü karşı fikir:** Yoksulların hakkı ve ortak kullanım fikri, mülkiyetin ahlaki sınırları olduğunu hatırlatır.
+- **Doğruya yaklaşma soruları:** Mülkiyet doğal mı, pratik bir düzenleme mi? Açlık ve zorunluluk mülkiyet hakkını sınırlar mı?
+- **Öğrenme desteği:** Doğal hukuk şeması kur: ortak yaratılış, özel kullanım, yoksulun hakkı, zorunluluk hali.
 
 ## İleri düzey okuma
 
-İleri düzeyde mülkiyeti nesne ile kişi arasındaki basit bağ gibi değil, insanlar arasındaki bir düzenleme gibi oku. Bir şey “benim” olduğunda yalnız benim durumum değil, başkalarının erişimi de değişir.
+İleri düzeyde skolastik geleneği modern özel mülkiyet savunusunun basit atası gibi okuma. Bu gelenekte mülkiyet meşrudur ama mutlak değildir; ahlaki amaçla sınırlanır.
+
 
 ## Kaynakça
 

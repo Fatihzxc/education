@@ -156,15 +156,15 @@ Bu çerçeve, modern ABD politik tartışmasının önemli bir teorik temelidir.
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
-- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
-- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
-- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
-- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+- **Kök sebep:** Locke’un emek-karışımı teorisi, kişinin kendi bedeni ve emeği üzerinde hakkı varsa doğadaki nesneye emek kattığında nasıl mülkiyet doğacağı sorusundan çıkar.
+- **Baskın bakış:** Liberal doğal hak dili, mülkiyeti devletten önce gelen bireysel özgürlük alanı gibi anlatır: önce beden, sonra emek, sonra sahiplik.
+- **Güçlü karşı fikir:** Rousseau, Marx, yerli halklar ve ortak alan eleştirisi, “emek kattım” cümlesinin önceden var olan kullanım haklarını ve sömürge bağlamını silebileceğini söyler.
+- **Doğruya yaklaşma soruları:** Bir şeye emek katmak onu sahiplenmeye yeter mi? Başkalarına “yeterince ve aynı iyilikte” kaynak kalıyor mu? Önceden ortak kullanılan bir yer gerçekten boş muydu?
+- **Öğrenme desteği:** Locke zinciri çiz: beden → emek → doğa → mülkiyet → devlet. Her okta “hangi varsayım gerekiyor?” diye not düş.
 
 ## İleri düzey okuma
 
-İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+İleri düzeyde Locke’u yalnız bireysel özgürlük teorisyeni gibi değil, toprak edinimi ve sömürge çağı bağlamıyla birlikte oku. Teorinin gücü şurada: mülkiyeti kral bağışından değil, kişinin emeğinden türetir. Gerilimi ise şurada: emeği görünür olan kişinin hakkı anlatılırken, orayı zaten kullanan ama Avrupa hukuk diliyle sahip sayılmayan topluluklar görünmezleşebilir.
 
 ## Kaynakça
 

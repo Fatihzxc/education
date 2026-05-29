@@ -127,15 +127,16 @@ Bu çerçeve, Machiavelli'nin 1513-1531 yazılı eserlerinin 500 yıl sonra hâl
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** Machiavelli bölümü, parçalı İtalya, şehir devletleri, paralı askerler ve sürekli savaş içinde siyasetin neden kutsal ahlak dilinden devlet aklı diline kaydığını gösterir.
+- **Baskın bakış:** Prens ve devlet aklı bakışı, başarıyı ahlaki saflıktan çok düzen kurma, iktidarı koruma ve fırsatı değerlendirme kapasitesiyle ölçer.
+- **Güçlü karşı fikir:** Cumhuriyetçi ve ahlaki eleştiri, yalnız sonuç odaklı siyasetin meşruiyet sınırını aşabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Devleti korumak için yapılan şey nerede zorunluluk, nerede çıplak iktidar arzusu olur?
+- **Öğrenme desteği:** Virtù-fortuna tablosu yap: irade, koşul, fırsat, risk, şiddetin meşruiyet sınırı.
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde Machiavelli’yi kötülük öğretmeni gibi basitleştirme. O, siyaseti süslü ahlak perdelerinden çıkarıp güç, korku, fırsat ve kurum diliyle düşünmeye zorlar.
+
 
 ## Kaynakça
 

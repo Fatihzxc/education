@@ -92,15 +92,15 @@ Bölüm 5, *Tableau Économique*'in mimarisini tüm teknik ayrıntısıyla ele a
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Quesnay’in biyografisi, hekimlik bilgisinin, saray çevresindeki reform arayışının ve dolaşım fikrinin iktisadi modele nasıl dönüştüğünü anlamak için önemlidir.
+- **Baskın bakış:** Saray hekimi ve uzman reformcu gözü, ekonomiyi canlı bir beden gibi düşünür: akış varsa sağlık, tıkanma varsa hastalık vardır.
+- **Güçlü karşı fikir:** Toplum tarihi ve sınıf okuması, bu beden benzetmesinin halkın çatışmalı deneyimini fazla düzenli ve yukarıdan görülen bir sisteme çevirebileceğini söyler.
+- **Doğruya yaklaşma soruları:** Quesnay’in hekimlik merceği ekonomide neyi görünür kılıyor, neyi fazla mekanik ve sakin gösteriyor?
+- **Öğrenme desteği:** Quesnay merceği çıkar: hekimlik, saray, dolaşım, Tableau. Her başlığın iktisadi düşünceye ne kattığını birer cümleyle yaz.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde Quesnay’in hayatını kişisel ayrıntı gibi görme. Onun hekim oluşu, ekonomiyi parça parça değil dolaşan bir sistem olarak düşünmesini sağlar. Ama saray çevresindeki uzman konumu da önemlidir: toplum ona çoğu zaman aşağıdan yaşanan bir mücadele değil, yukarıdan düzenlenebilir bir beden gibi görünür.
 
 ## Kaynakça
 

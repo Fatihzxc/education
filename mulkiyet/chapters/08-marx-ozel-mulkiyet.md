@@ -165,15 +165,16 @@ Bu, Marx'ın 1867'deki *yoğunlaşma tezi*'nin 21. yüzyıl ampirik doğrulamas�
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
-- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
-- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
-- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
-- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+- **Kök sebep:** Marx’ta özel mülkiyet sorusu, üretim araçlarının bir sınıfta toplanmasıyla işçinin geçinmek için emek-gücünü satmak zorunda kalmasından doğar.
+- **Baskın bakış:** Marxçı bakış, özel mülkiyeti üretim sürecindeki sömürünün hukuki zemini gibi okur.
+- **Güçlü karşı fikir:** Liberal ve neoklasik bakış, özel mülkiyeti yatırım, sorumluluk, yenilik ve koordinasyon aracı olarak savunur.
+- **Doğruya yaklaşma soruları:** Özel mülkiyet üretkenliği mi mümkün kılıyor, yoksa üretken emeğin sonucuna el koymayı mı?
+- **Öğrenme desteği:** Üretim araçları şeması çiz: sahip olan, çalışan, ürün, ücret, kâr.
 
 ## İleri düzey okuma
 
-İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+İleri düzeyde Marx’ta mülkiyeti ahlaki kötü niyet meselesi gibi değil, üretim ilişkisinin biçimi gibi oku. Sorun tek tek kapitalistlerin karakterinden önce yapının kendisidir.
+
 
 ## Kaynakça
 

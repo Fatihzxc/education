@@ -122,15 +122,16 @@ Bir sonraki bölüm bu çerçeveye geçer: doğal düzen düşüncesinin 17-18. 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Cantillon ve Gournay bölümü, fizyokrasiden önce girişimci risk, dolaşım, ticaret serbestliği ve piyasa hareketini kavramlaştırma ihtiyacından doğar.
+- **Baskın bakış:** Tüccar, girişimci ve reformcu bürokrat bakışı hareket, risk ve dolaşımı önemser.
+- **Güçlü karşı fikir:** Toprak merkezli fizyokrat çizgi, bu hareketin üretken kaynağını yine tarımsal fazlada arar.
+- **Doğruya yaklaşma soruları:** Ekonomiyi asıl canlandıran girişimci risk mi, toprağın fazlası mı, yoksa ikisinin ilişkisi mi?
+- **Öğrenme desteği:** Öncül kavram listesi tut: girişimci, dolaşım, serbestlik, doğal düzen.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde öncüleri sadece asıl ekole hazırlık diye okuma. Cantillon ve Gournay, fizyokrasinin bazı cevaplarını doğurmadan önce hangi soruların sorulacağını belirler.
+
 
 ## Kaynakça
 

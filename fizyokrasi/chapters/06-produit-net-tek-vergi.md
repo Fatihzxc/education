@@ -108,15 +108,16 @@ Sonraki bölüm — *Le Mercier de la Rivière ve despotisme légal* — *impôt
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
-- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
-- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
-- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
-- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+- **Kök sebep:** Produit net ve tek vergi bölümü, vergi karmaşası ve ayrıcalıklar içinde net artığın kimden ve nasıl vergilendirileceği sorusundan doğar.
+- **Baskın bakış:** Toprak fazlasını merkeze alan reformcu bakış, tek vergiyi adalet ve sadelik aracı gibi sunar.
+- **Güçlü karşı fikir:** Sanayi ve emek merkezli eleştiri, tüm vergi yükünü toprağa bağlamanın üretim çeşitliliğini kaçırabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Tek vergi gerçekten sade ve adil mi, yoksa belirli bir üretkenlik varsayımına fazla mı dayanıyor?
+- **Öğrenme desteği:** Vergi yükü tablosu yap: köylü, toprak sahibi, tüccar, devlet; kim ne ödüyor, kim neyi aktarıyor?
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+İleri düzeyde tek vergiyi teknik maliye önerisi gibi değil, toplumun üretken kaynağını tanımlama iddiası gibi oku. Vergi teorisi burada değer teorisine bağlanır.
+
 
 ## Kaynakça
 

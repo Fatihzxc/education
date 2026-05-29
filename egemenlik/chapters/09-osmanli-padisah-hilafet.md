@@ -173,15 +173,16 @@ Bu örüntü, modern egemenlik sisteminin (Westphalia) *yapısal bir kazanımı*
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** Osmanlı egemenliği bölümü, padişah, hilafet, şeriat, örf, taşra pazarlıkları ve askeri-idari düzenin aynı siyasal yapıda nasıl birleştiğini anlamak için gereklidir.
+- **Baskın bakış:** Modern ulus-devlet gözü, Osmanlı egemenliğini çoğu zaman tek merkezli padişah iktidarı gibi sadeleştirir.
+- **Güçlü karşı fikir:** Osmanlı pratikleri, hukuki, dini, askeri ve yerel otoritelerin birlikte çalıştığı daha katmanlı bir yapı gösterir.
+- **Doğruya yaklaşma soruları:** Padişahın yetkisi nerede mutlak, nerede hukuk, gelenek, ulema ve taşra pazarlığıyla sınırlı?
+- **Öğrenme desteği:** Katman haritası çiz: padişah, ulema, kapıkulu, taşra, cemaatler, örf ve şeriat.
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde Osmanlı egemenliğini Avrupa soverenlik kalıbına zorla sokma. Benzer sorular vardır; fakat cevaplar farklı kurumların birlikte çalışmasıyla kurulur.
+
 
 ## Kaynakça
 

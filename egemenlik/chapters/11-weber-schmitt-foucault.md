@@ -141,15 +141,15 @@ Klasik egemenlik kuramı (Bodin-Hobbes) hazırlıksız: tek-merkezli, toprak-tem
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
-- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
-- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
-- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
-- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+- **Kök sebep:** Weber, Schmitt ve Foucault hattı, modern egemenliği yalnız yasa metninde değil, zor tekeli, istisna kararı ve gündelik yönetim tekniklerinde anlama ihtiyacından doğar.
+- **Baskın bakış:** Weber devleti meşru zor tekeliyle, Schmitt egemeni istisna kararını verenle, Foucault ise iktidarı nüfusu yöneten bilgi ve kurum ağlarıyla düşünür.
+- **Güçlü karşı fikir:** Hukuk devleti, liberal haklar ve demokratik denetim bakışı, zor, istisna ve yönetimsellik analizlerinin meşruiyet sınırını sürekli sorması gerektiğini hatırlatır.
+- **Doğruya yaklaşma soruları:** Egemenlik en çok nerede görünür: polis/ordu gücünde mi, olağanüstü hal kararında mı, okul-hastane-istatistik gibi gündelik yönetim ağlarında mı?
+- **Öğrenme desteği:** Üç mercek tablosu yap: Weber = zor tekeli, Schmitt = istisna, Foucault = yönetimsellik/biyo-iktidar. Her güncel olayı üç mercekle ayrı ayrı oku.
 
 ## İleri düzey okuma
 
-İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+İleri düzeyde modern egemenliği tek merkez arayışıyla sınırlama. Weber sana devletin yoğunlaşmış zor gücünü gösterir; Schmitt krizde hukukun nasıl askıya alınabildiğini; Foucault ise iktidarın yalnız tepede değil, bedeni, nüfusu ve gündelik davranışı düzenleyen ağlarda çalıştığını gösterir. Üçünü birlikte okuyunca modern devlet hem daha anlaşılır hem de daha az masum görünür.
 
 ## Kaynakça
 

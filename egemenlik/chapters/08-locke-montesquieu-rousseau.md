@@ -144,15 +144,15 @@ Bu örüntü, Montesquieu'nun 1748'deki çerçevesinin temel bir sınırını or
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
-- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
-- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
-- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
-- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+- **Kök sebep:** Locke, Montesquieu ve Rousseau hattı, mutlak egemenliğin özgürlüğü yutabileceği korkusundan ve iktidarın nasıl sınırlandırılacağı sorusundan doğar.
+- **Baskın bakış:** Sınırlı iktidar geleneği, egemenliği hak, kuvvetler ayrılığı ve halk iradesiyle denetlemeye çalışır.
+- **Güçlü karşı fikir:** Hobbesçu ve Schmittçi eleştiri, kriz anında çok parçalı veya fazla sınırlı iktidarın karar alamayabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Özgürlüğü koruyan sınır, kriz anında devleti felç eder mi? Halk egemenliği çoğunluğun baskısına dönüşebilir mi?
+- **Öğrenme desteği:** Üçlü karşılaştırma tablosu yap: Locke’un hak sınırı, Montesquieu’nun güç dengesi, Rousseau’nun genel iradesi.
 
 ## İleri düzey okuma
 
-İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+İleri düzeyde sınırlı egemenliği basit bir demokrasi zaferi gibi okuma. Locke iktidarı haklarla sınırlar, Montesquieu gücü güçle dengeler, Rousseau egemenliği halka verir. Ama her çözüm yeni bir soru doğurur: hakları kim yorumlar, dengeyi kim korur, halk iradesi kimin sesiyle konuşur?
 
 ## Kaynakça
 

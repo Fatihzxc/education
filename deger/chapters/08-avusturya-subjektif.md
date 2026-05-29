@@ -175,15 +175,16 @@ Bu çarpışma 100 yıl sonra Cambridge controversy'nin (Bölüm 11) içerikli b
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
-- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
-- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
-- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
-- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+- **Kök sebep:** Avusturya sübjektif değer hattı, değeri üretimde harcanan emekten çok bireyin ihtiyaç sıralaması ve kıtlık deneyimiyle açıklama arzusundan doğar.
+- **Baskın bakış:** Menger ve Avusturya bakışı, bireyin somut durumda hangi ihtiyacı öncelediğini merkeze alır.
+- **Güçlü karşı fikir:** Klasik ve Marxçı okuma, bu tercihler dünyasının arkasındaki üretim koşullarını ve sınıf ilişkilerini dışarıda bıraktığını söyler.
+- **Doğruya yaklaşma soruları:** Değer tamamen bireysel tercih mi, yoksa bu tercihleri mümkün kılan toplumsal üretim de hesaba katılmalı mı?
+- **Öğrenme desteği:** İhtiyaç sıralaması listesi yap: ilk birim, ikinci birim, son birim. Her birimin neden farklı değerlendiğini yaz.
 
 ## İleri düzey okuma
 
-İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+İleri düzeyde sübjektif değeri “her şey kişisel zevktir” diye basitleştirme. Asıl mesele, kıt malların önemini son birimin karşıladığı ihtiyaca göre düşünmektir.
+
 
 ## Kaynakça
 

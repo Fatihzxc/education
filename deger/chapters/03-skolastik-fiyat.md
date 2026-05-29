@@ -143,15 +143,15 @@ Aquinas'ın "adil-fiyat" çerçevesinin modern dönüşümleri her gün karşım
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Para, fiyat ve dış ticaret tartışması, zenginliğin altın stoğu mu yoksa üretim ve alım gücü mü olduğu sorusundan doğar.
-- **Baskın bakış:** Maliye ve ticaret dengesi bakışı parayı devlet gücünün görünür işareti gibi okur.
-- **Güçlü karşı fikir:** Miktar teorisi ve klasik eleştiri, para stokuyla gerçek refah arasındaki farkı açar.
-- **Doğruya yaklaşma soruları:** Burada para amaç mı, araç mı? Fiyat hareketi kimin gelirini yükseltiyor, kimin geçimini zorluyor?
-- **Öğrenme desteği:** Basit bir akış çiz: maden girişi, fiyatlar, ücretler, dış ticaret ve hazine.
+- **Kök sebep:** Skolastik fiyat tartışması, büyüyen ticaret hayatında kâr, ihtiyaç, tefecilik, zorunluluk ve Hristiyan ahlakının aynı pazarda karşılaşmasından doğar.
+- **Baskın bakış:** Aquinas ve Salamanca hattı, fiyatı yalnız arz-talep sonucu değil; ortak tahmin, adalet, niyet ve topluluğun ahlaki düzeni içinde düşünür.
+- **Güçlü karşı fikir:** Modern piyasa teorisi, fiyatı ahlaki niyetten çok bilgi, kıtlık ve karşılıklı rıza sinyali olarak okur; bu yüzden “adil fiyat”ı fazla belirsiz bulabilir.
+- **Doğruya yaklaşma soruları:** Adil fiyat piyasa fiyatıyla aynı şey mi? Zor durumdaki birine yüksek fiyat uygulamak serbest değişim mi, yoksa ahlaki istismar mı?
+- **Öğrenme desteği:** Adil fiyat ölçüt tablosu kur: maliyet, ihtiyaç, ortak tahmin, zorunluluk, tefecilik/ahlaki sınır.
 
 ## İleri düzey okuma
 
-İleri düzeyde parayı yalnız teknik değişim aracı gibi okuma. Para, devletin vergi gücü, piyasanın güven ilişkisi ve halkın gündelik alım gücü arasında duran politik bir kurumdur.
+İleri düzeyde skolastikleri piyasayı bilmeyen ahlakçılar gibi görme. Onlar piyasa gerçekliğini fark ederler; ama şu soruyu da bırakmak istemezler: fiyat serbestçe oluşsa bile, bu serbestlik insanın zorunluluğunu sömürüyorsa hâlâ adil midir? Bu soru modern iktisatta kaybolmaz, sadece başka kelimelerle geri gelir.
 
 ## Kaynakça
 

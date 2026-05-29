@@ -48,15 +48,16 @@ Sonraki bölüm, marjinalizmin tek başına eksik kaldığı yeri — fiyatın h
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
-- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
-- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
-- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
-- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+- **Kök sebep:** Marjinalist çatallanma, emek-değer hattının fiyat, kıtlık ve bireysel tercih değişimlerini açıklamakta zorlandığı yerde güç kazanır.
+- **Baskın bakış:** Marjinalist bakış, birey, kıtlık ve son birim faydasını merkeze alır.
+- **Güçlü karşı fikir:** Marxçı ve tarihsel okuma, bu dönüşümün üretim ve sınıf sorusunu geri plana ittiğini söyler.
+- **Doğruya yaklaşma soruları:** Marjinalizm gerçekten daha iyi açıklama mı, yoksa iktisadın politik dilini teknikleştirme hamlesi mi?
+- **Öğrenme desteği:** Su-elmas örneğini marjinal fayda eğrisiyle düşün; sonra üretim ve sınıf sorusunun nereye gittiğini işaretle.
 
 ## İleri düzey okuma
 
-İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+İleri düzeyde marjinalist devrimi sadece matematikleşme gibi okuma. Asıl değişim, değerin toplumsal üretimden bireysel tercih alanına taşınmasıdır.
+
 
 ## Kaynakça
 

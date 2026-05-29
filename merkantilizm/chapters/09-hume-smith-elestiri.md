@@ -141,15 +141,15 @@ Bu ikili okuma, bu kitabın geri kalanının çerçevesidir. Bölüm 10'da işle
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Para, fiyat ve dış ticaret tartışması, zenginliğin altın stoğu mu yoksa üretim ve alım gücü mü olduğu sorusundan doğar.
-- **Baskın bakış:** Maliye ve ticaret dengesi bakışı parayı devlet gücünün görünür işareti gibi okur.
-- **Güçlü karşı fikir:** Miktar teorisi ve klasik eleştiri, para stokuyla gerçek refah arasındaki farkı açar.
-- **Doğruya yaklaşma soruları:** Burada para amaç mı, araç mı? Fiyat hareketi kimin gelirini yükseltiyor, kimin geçimini zorluyor?
-- **Öğrenme desteği:** Basit bir akış çiz: maden girişi, fiyatlar, ücretler, dış ticaret ve hazine.
+- **Kök sebep:** Hume ve Smith’in eleştirisi, değerli maden biriktirmeyi zenginlik sanan devlet aklının fiyatlar, tüketim ve gerçek üretim kapasitesi karşısında açıklayıcı olmamasından doğar.
+- **Baskın bakış:** Klasik eleştiri, para girişinin fiyatları yükselteceğini, ticaret dengesinin otomatik akışlarla değişeceğini ve servetin asıl olarak yıllık üretimde aranması gerektiğini savunur.
+- **Güçlü karşı fikir:** Tarihselci ve kalkınmacı okuma, Hume-Smith eleştirisinin güçlü bir ülkenin ticaret güveninden konuştuğunu; geç sanayileşen veya askeri baskı altındaki devletler için korumanın hâlâ rasyonel olabileceğini söyler.
+- **Doğruya yaklaşma soruları:** Hume’un fiyat-specie akışı hangi koşullarda işler? Smith’in tekel eleştirisi haklı olsa bile, sanayi kapasitesi olmayan bir ülke serbest ticarete aynı güvenle girebilir mi?
+- **Öğrenme desteği:** İki aşamalı akış çiz: maden girişi → fiyat artışı → ihracat azalması; sonra ikinci satıra “devlet kapasitesi ve sanayi koruması” istisnalarını ekle.
 
 ## İleri düzey okuma
 
-İleri düzeyde parayı yalnız teknik değişim aracı gibi okuma. Para, devletin vergi gücü, piyasanın güven ilişkisi ve halkın gündelik alım gücü arasında duran politik bir kurumdur.
+İleri düzeyde Hume ve Smith’i yalnız “merkantilizmi çürütenler” diye okuma. Eleştirileri gerçekten güçlüdür; çünkü parayı servetin kendisi olmaktan çıkarıp üretim, tüketim ve fiyat hareketlerine bağlarlar. Ama burada bir ikinci soru daha vardır: bir teori yanlış bir saplantıyı düzeltiyorsa bile, her ülkeye aynı politika reçetesini verip veremeyeceğini ayrıca sınamak gerekir.
 
 ## İlgili görselleştirmeler
 

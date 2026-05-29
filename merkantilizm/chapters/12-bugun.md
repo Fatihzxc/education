@@ -120,15 +120,16 @@ Smith 1776'da bir mücadele başlattı; bu mücadele bitmedi, sadece formu deği
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
-- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
-- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
-- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
-- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+- **Kök sebep:** Bugünkü merkantilizm sorusu, sanayi politikası, yaptırımlar, tedarik zinciri ve teknoloji rekabeti eski güç-refah gerilimini geri getirdiği için doğar.
+- **Baskın bakış:** Güncel devletler stratejik sektör ve ulusal güvenlik dilini yeniden öne çıkarır.
+- **Güçlü karşı fikir:** Serbest ticaret, tüketici refahı ve küresel adalet bakışı yeni korumacılığın maliyetlerini sorgular.
+- **Doğruya yaklaşma soruları:** Bugünkü müdahale geçici kapasite mi kuruyor, kalıcı rant mı yaratıyor? Bedeli tüketiciye, işçiye veya dışarıdaki ülkelere mi gidiyor?
+- **Öğrenme desteği:** Güncel örnek kartı yap: sektör, gerekçe, kazanan, kaybeden, uzun vade riski.
 
 ## İleri düzey okuma
 
-İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+İleri düzeyde bugünü eski etiketle kolayca neo-merkantilizm diye kapatma. Benzerlikler kadar farkları da gör: finansal sistem, çokuluslu şirketler ve teknoloji ağları erken modern dünyadan çok daha karmaşık bir sahne kuruyor.
+
 
 ## İlgili görselleştirmeler
 

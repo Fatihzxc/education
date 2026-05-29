@@ -154,15 +154,16 @@ Sonraki bölümde — *İbn Haldun: dışarıdan bir bakış* — bu Osmanlı ç
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
-- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
-- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
-- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
-- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+- **Kök sebep:** Osmanlı iaşecilik-fiskalizm bölümü, şehirlerin beslenmesi, hazine sürekliliği ve geleneksel düzenin korunmasının Avrupa tipi ihracatçı güç mantığından farklı bir telos kurmasından doğar.
+- **Baskın bakış:** Merkezi idare, piyasayı önce halkın geçimi ve hazinenin sürekliliği açısından okur.
+- **Güçlü karşı fikir:** Avrupa merkantilizmi ve modern büyüme dili, bu düzenin ihracat, sanayi atılımı ve sermaye birikimini sınırladığını söyler.
+- **Doğruya yaklaşma soruları:** İaşe düzeni halkı mı koruyor, yoksa üretici ve tüccarın hareket alanını mı daraltıyor? Gelenek kimin güvenliği?
+- **Öğrenme desteği:** Üçlü şema kur: iaşecilik, fiskalizm, gelenekçilik. Her politika hangi sütuna daha yakın?
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+İleri düzeyde Osmanlı’yı Avrupa’nın eksik kopyası gibi okuma. Osmanlı düzeni başka bir telosa, yani büyümeden önce düzen ve geçim güvenliğine yaslanır.
+
 
 ## İlgili görselleştirmeler
 

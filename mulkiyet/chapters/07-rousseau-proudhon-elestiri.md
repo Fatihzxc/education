@@ -143,15 +143,16 @@ Cevap, sadece olguların incelenmesinden çıkmaz; teorik çerçeveden çıkar. 
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
-- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
-- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
-- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
-- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+- **Kök sebep:** Rousseau ve Proudhon’un mülkiyet eleştirisi, özel sahipliğin özgürlük sağlarken nasıl eşitsizlik, dışlama ve bağımlılık üretebildiği sorusundan doğar.
+- **Baskın bakış:** Eleştirel gelenek, mülkiyeti doğal hak değil tarihsel gasp veya toplumsal eşitsizlik kaynağı gibi okur.
+- **Güçlü karşı fikir:** Liberal savunma, mülkiyetin emek, sorumluluk ve kişisel özgürlük için gerekli olduğunu söyler.
+- **Doğruya yaklaşma soruları:** Mülkiyet nerede özgürlük yaratıyor, nerede başkasının yaşam alanını daraltıyor?
+- **Öğrenme desteği:** İki yüz tablosu kur: güvenlik sağlayan mülkiyet, dışlayan mülkiyet.
 
 ## İleri düzey okuma
 
-İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+İleri düzeyde Rousseau ve Proudhon’u yalnız slogan gibi okuma. Asıl soru, bir hak biçiminin nasıl toplumsal bağımlılık ve eşitsizlik üretebildiğidir.
+
 
 ## Kaynakça
 

@@ -175,15 +175,15 @@ Bu tarihsel paradoks, modern "*Doğu / Batı kadın hakları*" söylemini sorgul
 
 ## Dört kontrol sorusu
 
-- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
-- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
-- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
-- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
-- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+- **Kök sebep:** Osmanlı tapu ve miras bölümü, modern “tam özel mülkiyet” kavramının miri arazi, tasarruf hakkı, vakıf ve miras düzenini açıklamakta yetersiz kalmasından doğar.
+- **Baskın bakış:** Modern özel mülkiyet gözü, toprağın devlete ait olup köylüye tasarruf hakkı verilmesini eksik sahiplik gibi okumaya yatkındır.
+- **Güçlü karşı fikir:** Osmanlı hukuki-pratik yapısı, kullanma, gelir alma, devretme ve miras bırakma haklarının tek kişide toplanmadan da düzenlenebildiğini gösterir.
+- **Doğruya yaklaşma soruları:** Burada kimin hangi hakkı var: devletin, köylünün, vakfın, mirasçının? Modern “sahiplik” kelimesi bu dağılımı açıklamaya yetiyor mu?
+- **Öğrenme desteği:** Haklar demeti tablosunu Osmanlı örnekleriyle doldur: miri, mülk, vakıf, tapu, miras. Her satırda kullanma, gelir, dışlama ve devretme haklarını ayır.
 
 ## İleri düzey okuma
 
-İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+İleri düzeyde Osmanlı toprağını modern mülkiyet terazisinde eksik sayma. Farklı hakların farklı aktörlere dağıtılması, başka bir yönetim ve geçim mantığı kurar. Bu mantık bazen esneklik ve süreklilik sağlar, bazen de modern piyasa devrinde belirsizlik ve çatışma üretir.
 
 ## Kaynakça
 
