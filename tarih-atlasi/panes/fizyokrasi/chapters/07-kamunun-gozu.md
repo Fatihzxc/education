@@ -86,6 +86,19 @@ söylenti, hiciv, isyan, destek veya direnç
 
 Bir fikir bu basamaklardan geçerken değişir. İlk yazıldığı yerdeki anlamı ile pazarda duyulduğu anlamı aynı kalmayabilir.
 
+### Kaynak pusulası: hiciv, broşür ve isyan neyi gösterir?
+
+Kamunun gözünü anlamak için tek tür kaynağa yaslanmak yetmez. Resmî metin reformun niyetini anlatır; broşür ikna dilini gösterir; hiciv kibri ve soyutluğu yakalar; isyan ise teorinin bedene, ekmeğe ve korkuya değdiği noktayı görünür kılar.
+
+| Kaynak türü | Bize ne gösterir? | Neyi tek başına gösteremez? | Nasıl okunmalı? |
+|---|---|---|---|
+| Resmî edikt | Devletin gerekçesi ve reform tasarımı | Halkın bunu nasıl hissettiğini | Dilindeki "kamu yararı" iddiasını yük dağılımıyla karşılaştır |
+| Broşür | İkna çabası, slogan, düşman tarifi | Gerçek fiyat ve ücret hareketini | Kime seslendiğini ve kimi suçladığını sor |
+| Hiciv | Teorinin abartısını ve toplumsal alayını | Reformun çözmek istediği gerçek sorunu | Güldüğü şeyin arkasındaki korkuyu ara |
+| İsyan kaydı | Açlık, söylenti, güven kırılması | Uzun vadeli üretim hesabını | Şiddeti yalnız panik diye değil, bilgi eksikliğine tepki diye de oku |
+
+Böyle okuyunca halk sesi "teorinin dışında" kalmaz. Tam tersine, teori toplumla karşılaştığında nerede incindiğini gösterir. Bu da okura daha adil bir pusula verir: Reform metnini ciddiye al, ama pazardaki söylentiyi de küçümseme.
+
 ## Osmanlı karşı-penceresi
 
 Osmanlı dünyasında fizyokrasi birebir aynı biçimde dolaşmadı. Ama benzer meseleler vardı: tarım, iaşe, vergi, devletin düzeni, fiyat ve kıtlık korkusu. Osmanlı risale ve nasihat geleneği çoğu zaman "doğal düzen" değil, "eski düzenin bozulması" diliyle konuştu.

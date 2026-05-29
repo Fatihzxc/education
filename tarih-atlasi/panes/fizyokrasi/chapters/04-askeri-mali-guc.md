@@ -18,6 +18,19 @@ Mekanizma şuydu:
 
 Bu kötü döngü fizyokratların gözünde düzeltilmesi gereken ana problemdi. Onlara göre devletin hazine sorunu yalnızca "daha çok vergi koyalım" diyerek çözülemezdi. Çünkü kötü vergi, kaynağı kurutabilirdi.
 
+### Yaklaşık ölçek: savaş borcu ekmek ve vergiye nasıl iner?
+
+Bu mali baskıyı gözünde canlandırmak için kesin rakam ezberlemeye gerek yok; önce akışı görmek daha öğreticidir. Devlet uzun savaşlara girince ödeme yalnız cephede yapılmaz. Borç faizi, tedarik sözleşmesi, askerî maaş, tahıl alımı ve vergi toplama maliyeti yıllarca bütçeye yapışır. Bu yüzden savaş bitse bile savaşın hesabı bitmez.
+
+| Büyük kalem | Devlet defterindeki hali | Halkın gündelik hayatındaki karşılığı | Kontrol sorusu |
+|---|---|---|---|
+| Borç faizi | Her yıl ödenmesi gereken sabit yük | Yeni vergi ihtiyacı, daha sert tahsilat | Faiz kime ödeniyor, yük kimden toplanıyor? |
+| Ordu iaşesi | Askerin ekmeği, yem, nakliye | Tahıl talebi ve yerel fiyat baskısı | Cephe ihtiyacı şehir ekmeğini sıkıştırıyor mu? |
+| Vergi aracılığı | İltizamcı, tahsildar, yerel muafiyet | Halk ne ödediğini göremez, güvensizlik artar | Devlete gidenle yolda kalan aynı mı? |
+| İç gümrük ve geçiş yükleri | Gelir yaratma aracı | Pazara giden ürün pahalanır | Kısa vadeli gelir uzun vadeli üretimi kırıyor mu? |
+
+Buradan şu sonuç çıkar: Fizyokratların vergi sadeleştirme isteği sadece "daha temiz bir teori" değildi. Savaş devletinin ağır faturası, ekmek fiyatı ve köylünün ödeme gücü aynı zincire bağlanmıştı. Zincirin bir halkasını düzeltmeden ötekini anlamak zordu.
+
 ## Mali döngü: sorun nerede sıkışıyor?
 
 Bu bölümü bir akış diyagramı gibi okumak kolaylaştırır:

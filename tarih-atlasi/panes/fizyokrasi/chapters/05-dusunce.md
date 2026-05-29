@@ -42,6 +42,19 @@ Burada "doğal" kelimesinin cazibesi büyüktür. Çünkü bir şeye doğal dedi
 
 Ama bu dilin tehlikesi de buradadır. Bir düşünür kendi politikasını doğanın yasası gibi sunarsa, karşı çıkanların deneyimini küçümseyebilir. Ekmek pahalılaştığında halkın korkusu "doğal düzeni anlamadılar" diye geçiştirilemez.
 
+### Karşı okuma: Doğal düzen kimin düzeniydi?
+
+"Doğal" kelimesi insana güven verir; çünkü sanki herkesin üstünde duran tarafsız bir hakikati anlatır. Ama tarih okurken bu kelimeyi biraz yoklamak gerekir. Bir düzen doğal görünüyorsa, bu bazen gerçekten temel bir mekanizmayı yakaladığı içindir; bazen de bir grubun çıkarı "herkes için iyi" gibi konuştuğu içindir.
+
+| Soru | Fizyokrat cevap | Karşı okumanın hatırlattığı şey |
+|---|---|---|
+| Üretim nerede doğar? | Toprak net ürün yaratır | Sanayi, zanaat ve ticaret de dönüşüm gücü taşır |
+| Devlet ne yapmalı? | Engel kaldırmalı, doğal akışı açmalı | Engel kaldırmak bile bir güç kullanımıdır; kimin engeli kalkıyor? |
+| Halk neden itiraz eder? | Eski alışkanlık ve cehalet yüzünden | Bazen geçim korkusu gerçek bir bilgi biçimidir |
+| Model neyi gösterir? | Ekonominin dolaşımını | Dolaşımın içindeki zor, cinsiyet, koloni ve sınıf farkını zayıf gösterir |
+
+Bu yüzden doğru okuma iki şeyi birlikte tutar: Fizyokratlar eski ayrıcalıkların ekonomiyi boğduğunu iyi gördüler. Ama kendi "doğal" düzenlerini kurarken, o düzenin herkese aynı güveni vermeyeceğini yeterince derin düşünmediler. İyi soru şudur: Bir teori bana düzeni gösteriyor mu, yoksa düzen adına bazı insanların korkusunu sessizleştiriyor mu?
+
 ## Laissez-faire ne demekti?
 
 `Laissez-faire, laissez-passer` genelde "bırakınız yapsınlar, bırakınız geçsinler" diye çevrilir. Bugün çoğu kişi bunu "devlet hiçbir şeye karışmasın" gibi anlar. Fizyokrat bağlamında daha dikkatli okuyalım.

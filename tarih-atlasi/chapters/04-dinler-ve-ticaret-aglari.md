@@ -58,6 +58,20 @@ Ticaretin güzel tarafı ufuk açmasıdır. Bir liman şehrinde farklı diller, 
 
 Bu yüzden ticareti ne romantikleştir ne de küçümse. O, bağlantının hem ışığı hem gölgesidir.
 
+### Ölçek hissi: ağın yükünü kim taşıdı?
+
+Ticaret ağı haritada zarif bir çizgi gibi durur. Ama o çizginin çalışması için çok sayıda insanın emeği, bilgisi ve riski gerekir. Bir baharatın limandan pazara gelmesi yalnız tüccarın cesaretiyle olmaz; denizcinin zamanı, hamalın sırtı, katibin hesabı, rehberin yolu, kölenin bedeni ve yerel üreticinin ürünü bu ağın içindedir.
+
+| Ağın görünür yüzü | Görünmeyen taşıyıcı | Öğrenme sorusu |
+|---|---|---|
+| Uzak mesafe tüccarı | Denizci, kervancı, rehber, hamal | Kâr kimin adına yazılıyor, risk kimin bedeninde kalıyor? |
+| Liman şehri zenginliği | Depo işçisi, tercüman, küçük satıcı | Şehir büyürken kim kira, vergi ve fiyat baskısı yaşıyor? |
+| Bilginin yayılması | Katip, çevirmen, öğretmen, öğrenci | Bilgi hangi dillerden geçiyor, kim bu geçişte görünmüyor? |
+| Dinî ağ | Hacı, vaiz, hukukçu, azınlık cemaati | Aidiyet güven mi veriyor, sınır mı çiziyor? |
+| Lüks mal | Üretici köy, maden işçisi, köle emeği | Parlak nesnenin arkasındaki zor nerede? |
+
+Bu tablo okurun ufkunu açsın: Ağ deyince sadece bağlantıyı değil, bağlantının bedelini de düşün. Dünya birbirine bağlandıkça bazı insanların ufku genişledi; bazı insanların emeği daha uzak pazarlara bağlanıp daha görünmez hale geldi.
+
 ## 4.5 Avrupa: karanlık değil, başka bir örgütlenme
 
 Batı Avrupa bu dönemde Roma ölçeğini kaybetti. Şehir hayatı bazı bölgelerde daraldı, para ekonomisi zayıfladı, yerel lordluklar ve kilise kurumları öne çıktı. Bu yüzden eski tarih yazımı bu döneme "karanlık" demeyi sevdi.

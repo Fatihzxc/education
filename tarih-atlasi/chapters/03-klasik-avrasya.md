@@ -81,6 +81,19 @@ Karşı okuma şöyle çalışır:
 
 Bu sorular imparatorlukları basitçe kötülemez. Sadece barış kelimesinin içinde güç ilişkisi olduğunu gösterir.
 
+### Ölçek hissi: yol, vergi ve askerlik düzeni nasıl taşır?
+
+İmparatorlukları anlamanın zor yanı ölçektir. Haritada büyük bir renk gördüğümüzde düzen tek parça sanılır. Oysa o renk, binlerce küçük temasla ayakta durur: köprüden geçen tüccar, tahıl kaydını tutan katip, sınırda bekleyen asker, vergisini getiren köylü, yerel elitin merkeze bağlılık yemini...
+
+| İmparatorluk aracı | Merkez için anlamı | Yerel hayattaki karşılığı | Karşı soru |
+|---|---|---|---|
+| Yol | Orduyu ve haberi hızlandırır | Tüccara fırsat, köylüye asker geçişi | Yol güvenlik mi getiriyor, talep ve yük mü? |
+| Vergi kaydı | Geliri öngörülebilir kılar | Hane, ürün ve emek görünür hale gelir | Görünür olmak koruma mı, daha kolay tahsilat mı? |
+| Yerel elit | Yönetimi ucuza taşır | Halk merkezle değil aracıyla karşılaşır | Aracı halkı mı koruyor, merkezi mi güçlendiriyor? |
+| Askerlik | Sınırı ve düzeni tutar | Aileden işgücü eksilir, köy yük taşır | Barışın bedelini kim ödüyor? |
+
+Bu ölçek hissi şunu öğretir: İmparatorluk yalnız saraydan yönetilmez. Her yol, kayıt ve garnizon, büyük siyaseti küçük hayatlara indirir. Bu yüzden "imparatorluk barışı" derken, barışın hangi ellerle taşındığını ve hangi omuzlara yüklendiğini de sormalıyız.
+
 ## 3.5 Bozkır: dışarıdaki değil, sistemin parçası
 
 Eski tarih kitapları bozkır halklarını çoğu zaman "barbar istilacı" gibi anlatır. Bu bakış yerleşik imparatorlukların gözüdür. Oysa bozkır dünyası Avrasya sisteminin dışı değil, onun hareketli parçasıdır.

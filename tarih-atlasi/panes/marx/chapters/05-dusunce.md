@@ -40,6 +40,20 @@ kriz ve sınıf mücadelesi
 
 Bu akışta her kavram bir sonrakine kapı açar. Meta ile başlar, çünkü kapitalist toplumda zenginlik metalar yığını gibi görünür. Değer sorusu açılır. Değer emekle bağlanır. Emek-gücü özel meta olarak belirir. Artı-değer buradan çıkar. Birikim ve kriz de bu çekirdekten büyür.
 
+### Kavramdan sahneye: formül gündelik hayatta nerede görünür?
+
+Marx'ın kavramları bazen fazla soyut gelir. O yüzden her kavramı küçük bir sahneye indirmek iyi olur. Kavram soyut kalırsa ezber olur; sahneye inerse "bunu insanlar nasıl yaşadı?" sorusu açılır.
+
+| Kavram | En sade anlam | Gündelik sahne | Karşı okuma sorusu |
+|---|---|---|---|
+| Meta | Satılmak için üretilmiş şey | Vitrindeki kumaş, pazardaki kömür, fabrika ürünü | Bu nesnenin arkasında hangi emek görünmüyor? |
+| Emek-gücü | İşçinin satabildiği çalışma kapasitesi | İşe giren dokuma işçisi, günlük ücret pazarlığı | İşçi gerçekten özgür mü, yoksa geçim zoruyla mı satıyor? |
+| Artı-değer | İşçinin ürettiği değerin ücretini aşan kısmı | Uzayan iş günü, hızlanan makine, düşen mola | Kâr sadece risk ödülü mü, yoksa güç ilişkisi mi? |
+| Sermaye birikimi | Kârın yeniden üretimi büyütmesi | Yeni makine, daha büyük fabrika, rakibin batması | Büyüme herkesin hayatını mı genişletiyor? |
+| Kriz | Sistem kendi bolluğu içinde tıkanır | Depoda mal, işsiz işçi, daralan talep | Sorun üretim azlığı mı, yoksa bölüşüm ve talep mi? |
+
+Bu tablo Marx'ı daha insani okumaya yardım eder. Marx formül kurarken aslında işçinin günü, patronun hesabı, makinenin hızı ve pazarın daralması gibi somut şeyleri birbirine bağlıyordu. Bu yüzden kavramı gördüğünde hemen sahnesini sor: "Bu fikir sokakta, fabrikada, evde veya pazarda nerede görünür?"
+
 ## Marx bilim mi yapıyor, eleştiri mi?
 
 Marx'ın eserinin alt başlığı önemlidir: politik iktisadın eleştirisi. Yani Marx yalnızca "benim iktisat teorim daha doğru" demez. Klasik iktisadın kullandığı kategorilerin kendisini sorgular.
