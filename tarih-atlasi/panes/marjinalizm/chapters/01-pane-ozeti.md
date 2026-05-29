@@ -123,6 +123,7 @@ Bu paketin ana cümlesi şu: Marjinalizm bize fiyatın ince mekaniğini öğreti
 - **Baskın bakış:** Ders kitabı, uzman ve model kurucu iktisatçı gözü güçlüdür.
 - **Güçlü karşı fikir:** Marxçı ve kurumsalcı okuma emek, mülkiyet, sınıf ve tarihsel gücün geri plana itildiğini söyler.
 - **Doğruya yaklaşma soruları:** Model neyi veri kabul ediyor, tercih öncesi gelir ve mülkiyet nasıl dağılıyor, denge dili krizi sakinleştiriyor mu?
+- **Öğrenme desteği:** Model varsayım kartı çıkar: tercih, gelir, mülkiyet, bilgi, rekabet. Her soruda hangisi veri kabul edilmiş diye işaretle.
 
 ## İleri düzey okuma
 

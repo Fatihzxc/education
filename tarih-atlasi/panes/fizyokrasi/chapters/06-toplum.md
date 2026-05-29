@@ -109,6 +109,7 @@ Kısa sonuç şu: Fizyokrasi toprağı merkeze koydu; ama biz onu okurken topra�
 - **Baskın bakış:** Tarımı yücelten dil köylüyü üretken sınıf diye öne çıkarır, ama köylünün iç farklarını düzleştirebilir.
 - **Güçlü karşı fikir:** Büyük kiracı, küçük köylü, gündelikçi ve şehirli tüketici aynı tarımsal serbestleşmeyi aynı şekilde yaşamaz.
 - **Doğruya yaklaşma soruları:** Üretken denen sınıf içinde kim kazanıyor, kim risk taşıyor, ekmek fiyatı ve vergi yükü hane hayatını nasıl değiştiriyor?
+- **Öğrenme desteği:** Kırsal hane tablosu kur: büyük kiracı, küçük köylü, gündelikçi, şehirli tüketici. Her satıra risk, gelir, vergi ve ekmek fiyatı etkisini yaz.
 
 ## İleri düzey okuma
 

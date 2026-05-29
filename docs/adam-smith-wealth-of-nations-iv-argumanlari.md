@@ -467,6 +467,14 @@ Gerçek katkılar:
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Smith IV. Kitap'ta merkantilist ayrıcalık, ticaret tekeli, sömürge düzeni ve üretici çıkarının kamu yararı gibi sunulmasına karşı çıkar.
+- **Baskın bakış:** Tüketici refahı, sermayenin verimli kullanımı ve ayrıcalıksız rekabet dili güçlüdür.
+- **Güçlü karşı fikir:** Bebek sanayi koruması, post-kolonyal eleştiri ve güç asimetrisi Smith'in gönüllü ticaret varsayımını sınar.
+- **Doğruya yaklaşma soruları:** Smith burada kanıt mı sunuyor, varsayım mı kuruyor, yoksa polemik mi yapıyor? Ucuz malın bedeli nerede birikiyor?
+- **Öğrenme desteği:** Her argümanı üç etikete ayır: analitik iddia, değer yargısı, retorik hamle. Karışınca Smith olduğundan daha basit görünür.
+
 ## İleri düzey okuma: Smith'in en güçlü tarafı aynı zamanda sınırı olabilir
 
 İleri düzeyde IV. Kitap'ı şöyle okuyabilirsin: Smith, ayrıcalıklı üretici çıkarına karşı tüketiciyi ve genel refahı savunur. Bu hamle çok güçlüdür, çünkü devletin belirli tüccar ve şirket gruplarına verdiği imtiyazları görünür kılar. Yani Smith bize şunu öğretir: "Ulusal çıkar" diye sunulan şey bazen çok dar bir grubun kârıdır.

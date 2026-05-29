@@ -100,6 +100,7 @@ Kısa sonuç şu: Proletarya, Marx'ta yalnızca acı çeken sınıf değil, kapi
 - **Baskın bakış:** Proletarya ve örgütlenme merkezde görünür; sınıf içinde cinsiyet, etnisite, beceri ve göç farkları gölgede kalabilir.
 - **Güçlü karşı fikir:** Liberal okuma bireysel hareketliliği, sendika dışı deneyimler ve kimlik mücadeleleri başka çatışma eksenlerini öne çıkarır.
 - **Doğruya yaklaşma soruları:** Ortak çıkar gerçekten ortak bilinç üretiyor mu, kim sınıfın içinde sessiz kalıyor, bakım emeği ve ev içi yeniden üretim nasıl hesaba katılıyor?
+- **Öğrenme desteği:** Sınıf içi farklar matrisi kur: beceri, cinsiyet, göç, etnisite, sendika gücü. “İşçi sınıfı”nı tek ses gibi okumamayı sağlar.
 
 ## İleri düzey okuma
 

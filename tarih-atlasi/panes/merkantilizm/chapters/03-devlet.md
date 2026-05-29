@@ -92,6 +92,7 @@ Bugün de benzer bir şey yaşıyoruz. Devletler tedarik zincirlerini, enerji ba
 - **Baskın bakış:** Merkezî devletin düzen kurucu gözü baskındır; yerel özerklik ve küçük üretici kaygısı daha az duyulur.
 - **Güçlü karşı fikir:** Devletin birleştirdiği piyasa aynı zamanda baskı, tekel ve ayrıcalık üretebilir.
 - **Doğruya yaklaşma soruları:** Devlet hangi engeli kaldırıyor, hangi yeni bağımlılığı kuruyor, düzen kimin hayatını kolaylaştırıyor?
+- **Öğrenme desteği:** Düzen ve bağımlılık tablosu kur: standart ölçü, gümrük, imtiyaz, tekel. Her satırda kolaylaşan şeyi ve bedel ödeyen grubu yaz.
 
 ## İleri düzey okuma
 

@@ -117,6 +117,7 @@ Bu yer değiştirme iktisadı daha temiz ve öğretilebilir kıldı. Ama toplums
 - **Baskın bakış:** Seçen birey ve tüketici figürü baskındır; işçi, borçlu ve bakım emeği taşıyan kişi geride kalabilir.
 - **Güçlü karşı fikir:** Veblen, Marxçı ve feminist okuma tercihlerin statü, sınıf ve cinsiyet ilişkileriyle biçimlendiğini söyler.
 - **Doğruya yaklaşma soruları:** Tercih gerçekten özgür mü, gelir sınırı seçimi nasıl daraltıyor, tüketim statü ve reklamla nasıl kuruluyor?
+- **Öğrenme desteği:** Tercih öncesi koşullar tablosu kur: gelir, borç, reklam, statü, zaman, bakım yükü. Seçim başlamadan önce zemini gör.
 
 ## İleri düzey okuma
 

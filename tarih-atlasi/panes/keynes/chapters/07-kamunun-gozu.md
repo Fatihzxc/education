@@ -118,6 +118,7 @@ Bu dört malzeme birlikte olduğunda Keynesçilik ve monetarizm yalnızca politi
 - **Baskın bakış:** Roman işsizliği ve göçü, televizyon/gazete enflasyon ve kriz paniğini görünür kılar; her mecra kendi çerçevesini taşır.
 - **Güçlü karşı fikir:** Roman dramatize edebilir, gazete siyasal taraf tutabilir, uzman dili insan acısını soğutabilir.
 - **Doğruya yaklaşma soruları:** Bu hissiyat hangi veriyle karşılaştırılmalı, haber kimin çıkarıyla yazılmış, uzman terimi ev bütçesinde neye denk geliyor?
+- **Öğrenme desteği:** Ev bütçesi çeviri defteri tut: işsizlik oranı, faiz, enflasyon, kamu harcaması. Her teknik terimin mutfakta neye dönüştüğünü yaz.
 
 ## İleri düzey okuma
 

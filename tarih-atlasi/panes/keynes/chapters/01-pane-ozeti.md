@@ -124,6 +124,7 @@ Bu paket sana şu disiplini kazandırır: "Devlet harcasın mı?" ya da "Para s�
 - **Baskın bakış:** Keynesçilik işsiz kalan hane ve talep akışını, monetarizm fiyat istikrarı ve para güvenini merkeze alır.
 - **Güçlü karşı fikir:** Her iki taraf da diğerinin kör noktasını gösterir: talep yönetimi enflasyon, sıkı para işsizlik üretebilir.
 - **Doğruya yaklaşma soruları:** Hangi güven kırıldı, politika bedelini kim ödüyor, kriz talep mi arz mı para mı kurum krizi mi?
+- **Öğrenme desteği:** Kriz teşhis kartı yap: işsizlik, enflasyon, güven, borç. Her politika için hangi satır iyileşiyor, hangisi bozuluyor diye işaretle.
 
 ## İleri düzey okuma
 

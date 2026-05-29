@@ -103,6 +103,7 @@ Bu üçü birlikte olduğunda tarih daha canlı olur. Çünkü artık yalnızca 
 - **Baskın bakış:** Uzman ve istatistikçi dili baskındır; sıradan insanın deneyimi teknik terime çevrilebilir.
 - **Güçlü karşı fikir:** Roman, tanıklık ve eleştirel gazetecilik sayıların sakladığı statü, arzu ve güvencesizliği gösterir.
 - **Doğruya yaklaşma soruları:** İstatistik hangi deneyimi ölçüyor, hangi duyguyu ölçemiyor, gazete/roman kimin sınıf gözünü taşıyor?
+- **Öğrenme desteği:** Sayı-duygu çift defteri tut: bir istatistik seç, yanına bir hane hikâyesi veya roman sahnesi koy. İkisi birbirini düzeltir.
 
 ## İleri düzey okuma
 

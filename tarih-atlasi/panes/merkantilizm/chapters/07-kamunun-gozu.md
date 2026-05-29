@@ -82,6 +82,7 @@ Ve belki en temel ders şudur: Her iktisadî düzen kendi hikâyesini de üretir
 - **Baskın bakış:** Gazete ve macera anlatısı çoğu zaman tüccarın, denizcinin ve imparatorluğun heyecanını taşır.
 - **Güçlü karşı fikir:** Bu metinler şiddeti romantikleştirebilir; koloni halkı, köle emeği ve savaş mağdurları başka bir hikâye anlatır.
 - **Doğruya yaklaşma soruları:** Anlatı kimin macerası, kimin felaketi, hangi veri veya tanıklık bu duyguyu dengeler?
+- **Öğrenme desteği:** Macera-felaket iki sütunu aç: aynı yolculuğu bir tüccar, bir gemici, bir köleleştirilmiş kişi ve bir tüketici gözünden yeniden yaz.
 
 ## İleri düzey okuma
 

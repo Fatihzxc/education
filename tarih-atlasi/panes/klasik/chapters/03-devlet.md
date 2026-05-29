@@ -98,6 +98,7 @@ Kısa sonuç şu: Klasik iktisatta devlet, piyasanın dışında duran bir figü
 - **Baskın bakış:** Reformcu liberal göz, devleti ayrıcalıkları kaldıran hakem gibi görür.
 - **Güçlü karşı fikir:** Piyasa ancak hukuk, zor, mülkiyet ve imparatorluk altyapısıyla kurulur; devlet hiçbir zaman gerçekten yok değildir.
 - **Doğruya yaklaşma soruları:** Devlet hangi ayrıcalığı kırıyor, hangi mülkiyet düzenini koruyor, piyasa özgürlüğünden kim yararlanıyor?
+- **Öğrenme desteği:** Devletin görünen ve görünmeyen işleri tablosu kur: kaldırdığı engel, koruduğu mülkiyet, kullandığı zor, sessiz bıraktığı grup.
 
 ## İleri düzey okuma
 

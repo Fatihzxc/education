@@ -86,6 +86,7 @@ Bu tablo devletin tek renkten oluşmadığını gösterir. Devlet bazen işçiye
 - **Baskın bakış:** Devlet, mülkiyet ve sınıf ilişkilerini yeniden üreten kurum olarak görünür.
 - **Güçlü karşı fikir:** Liberal ve demokratik okuma devletin hak, temsil ve reform kapasitesini daha bağımsız görür.
 - **Doğruya yaklaşma soruları:** Devlet hangi mülkiyet biçimini koruyor, hangi haklar gerçekten kullanılabilir, reform sınıf ilişkisini dönüştürüyor mu?
+- **Öğrenme desteği:** Hak-kullanım tablosu kur: kâğıt üzerindeki hak, onu kullanmak için gereken kaynak, engel, sınıfsal sonuç.
 
 ## İleri düzey okuma
 

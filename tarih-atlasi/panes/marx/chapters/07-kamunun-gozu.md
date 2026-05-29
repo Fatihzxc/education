@@ -91,6 +91,7 @@ Kısa sonuç şu: Marx'ın kamusal yüzü, artı-değer formülünün insan haya
 - **Baskın bakış:** İşçi ve sosyalist anlatı sömürüyü görünür kılar; burjuva gazetesi aynı olayı düzen tehdidi diye çerçeveleyebilir.
 - **Güçlü karşı fikir:** Roman acıyı yoğunlaştırabilir, parti gazetesi propagandaya kayabilir, resmî istatistik deneyimin duygusunu silebilir.
 - **Doğruya yaklaşma soruları:** Metnin sahibi kim, işçi kendi sesiyle mi konuşuyor, anlatı hangi veri ve karşı tanıklıkla dengelenebilir?
+- **Öğrenme desteği:** Tanıklık denge kartı yap: işçi sesi, patron gazetesi, resmî istatistik, roman sahnesi. Aynı olayı dört kaynaktan tart.
 
 ## İleri düzey okuma
 

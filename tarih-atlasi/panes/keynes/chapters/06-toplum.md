@@ -137,6 +137,7 @@ Bu matris refah devleti hikayesini genişletir. Merkezde güvenlik olarak görü
 - **Baskın bakış:** Keynesçi anlatıda ücretli orta sınıf ve sosyal haklar, monetarist dönüşte fiyat istikrarı ve esnek piyasa öne çıkar.
 - **Güçlü karşı fikir:** Refah devleti herkes için eşit işlemedi; piyasa disiplini ise riski bireyin omzuna yıkabilir.
 - **Doğruya yaklaşma soruları:** Risk kim tarafından taşınıyor, ücret mi borç mu tüketimi sürüklüyor, sendikasız ve güvencesiz çalışan nerede duruyor?
+- **Öğrenme desteği:** Risk taşıyıcı tablosu kur: devlet, işveren, hane, sendika, merkez bankası. Kriz anında yük hangi aktöre kayıyor?
 
 ## İleri düzey okuma
 

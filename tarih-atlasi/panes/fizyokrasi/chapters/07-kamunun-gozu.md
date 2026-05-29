@@ -110,6 +110,7 @@ Kısa sonuç şu: Kamunun gözü teorinin düşmanı değildir. Teorinin eksik g
 - **Baskın bakış:** Salon metni ve reform broşürü uzun vadeli düzeni anlatır; pazar kuyruğundaki insan bugünü sorar.
 - **Güçlü karşı fikir:** Roman, söylenti ve isyan dili reformun görmediği korkuyu anlatabilir; ama onlar da abartı ve panik taşıyabilir.
 - **Doğruya yaklaşma soruları:** Halkın korkusu hangi fiyat/vergi verisiyle karşılaştırılmalı, gazete kimin sesini taşıyor, reformun dili halka tepeden mi geliyor?
+- **Öğrenme desteği:** Ekmek günü kaydı tut: fiyat, söylenti, resmi açıklama, halk tepkisi. Dört satırı yan yana okuyunca kamunun gözü daha canlı görünür.
 
 ## İleri düzey okuma
 

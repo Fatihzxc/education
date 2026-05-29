@@ -123,6 +123,7 @@ Bu paketin amacı seni yavaşlatmak değil, düşünceni sağlamlaştırmak. Her
 - **Baskın bakış:** Devlet adamı ve büyük tüccar gözü daha güçlü konuşur; liman, gümrük ve donanma merkezde görünür.
 - **Güçlü karşı fikir:** Smith-Hume çizgisi zenginliği metal stokuna değil, üretim ve refaha bağlar; sömürge eleştirisi ise bedeli uzak coğrafyalarda arar.
 - **Doğruya yaklaşma soruları:** Kim güçleniyor, kim görünmez kalıyor, "ulusal çıkar" denen şey herkes için aynı anlama mı geliyor?
+- **Öğrenme desteği:** Ulusal çıkar kartı yap: devlet, tüccar, üretici, tüketici, koloni halkı. Aynı politikayı her aktörün gözünden bir cümleyle yaz.
 
 ## İleri düzey okuma
 

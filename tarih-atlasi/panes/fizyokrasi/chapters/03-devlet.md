@@ -100,6 +100,7 @@ Kısa sonuç şu: Fizyokratlar güçlü devleti özgürlüğün düşmanı olara
 - **Baskın bakış:** Aydınlanmış reformcu devlet gözü baskındır; halkın pazardaki korkusu ve yerel koruma ihtiyacı geri planda kalabilir.
 - **Güçlü karşı fikir:** Tepeden reform doğru mekanizma görse bile siyasal meşruiyet ve geçim güvenliği olmadan kırılganlaşır.
 - **Doğruya yaklaşma soruları:** Reform kime danışıyor, kimi korumasız bırakıyor, vergi sadeleşince ayrıcalık gerçekten kırılıyor mu?
+- **Öğrenme desteği:** Reform akış kartı yap: sorun, önerilen çözüm, kazanan, geçiş maliyeti, meşruiyet açığı. Böylece “doğru fikir” ile “uygulanabilir fikir”i ayırırsın.
 
 ## İleri düzey okuma
 

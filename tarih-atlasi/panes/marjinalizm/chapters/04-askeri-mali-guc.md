@@ -104,6 +104,7 @@ Bu kırılma marjinalizm açısından şunu gösterir: Piyasa dengesi fikri gü�
 - **Baskın bakış:** Model piyasayı sakin bir uyum alanı gibi görür; devletlerarası güç rekabeti dışarıda kalabilir.
 - **Güçlü karşı fikir:** Tarihsel politik iktisat, fiyatların arkasında borç, donanma, koloni ve güvenlik zorunu arar.
 - **Doğruya yaklaşma soruları:** Denge hangi güç koşulunda kuruluyor, para düzeni kime disiplin uyguluyor, stratejik karar fiyat sinyaliyle açıklanabilir mi?
+- **Öğrenme desteği:** Denge ve güç gölgesi çiz: modelin içindeki fiyatları bir renkle, dışarıda kalan borç, donanma, koloni ve güvenlik baskısını başka renkle göster.
 
 ## İleri düzey okuma
 

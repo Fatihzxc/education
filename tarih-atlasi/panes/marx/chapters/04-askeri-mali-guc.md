@@ -112,6 +112,7 @@ Kısa sonuç şu: Sermaye büyürken yalnızca üretimi değil, mekânı, devlet
 - **Baskın bakış:** Emperyalizm ve zor, sermayenin genişleme mantığıyla birlikte okunur.
 - **Güçlü karşı fikir:** Jeopolitik, milliyetçilik ve devlet güvenliği yalnızca sermaye ihtiyacına indirgenemez.
 - **Doğruya yaklaşma soruları:** Hangi savaş veya sömürge hamlesi sermaye akışıyla bağlanıyor, hangisi stratejik korkuyla açıklanıyor, yerel aktörlerin payı ne?
+- **Öğrenme desteği:** Sermaye akışı haritası çiz: hammadde, emek, pazar, finans, zor. Her okta hangi devlet veya şirketin devreye girdiğini not et.
 
 ## İleri düzey okuma
 

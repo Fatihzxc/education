@@ -102,6 +102,7 @@ Kısa sonuç şu: Klasik iktisadı anlamak, yalnızca büyüme mantığını de�
 - **Baskın bakış:** Üretkenlik ve ilerleme dili güçlüdür; beden yorgunluğu, bakım emeği ve mahalle hayatı kolayca geri düşer.
 - **Güçlü karşı fikir:** İşçi basını, kadın hareketi ve sosyalist eleştiri verimliliğin insanî bedelini gösterir.
 - **Doğruya yaklaşma soruları:** Hangi emek ücretli diye görünür, hangi emek ev içinde saklı kalır, ilerleme kimin hayatını gerçekten iyileştirir?
+- **Öğrenme desteği:** Emek görünürlük tablosu yap: fabrika işçisi, çocuk, kadın, ev içi bakım emeği, koloni emeği. Hangisi ücrette görünüyor, hangisi görünmüyor?
 
 ## İleri düzey okuma
 

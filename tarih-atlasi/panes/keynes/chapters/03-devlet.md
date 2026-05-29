@@ -101,6 +101,7 @@ Bu tablo bize sıcak bir akıl verir: Devlet meselesi ideolojik sloganla bitmez.
 - **Baskın bakış:** Keynesçi devlet talebi ve sosyal güvenliği, monetarist devlet kuralı ve merkez bankası güvenilirliğini savunur.
 - **Güçlü karşı fikir:** Devlet olmadan kriz derinleşebilir; fakat sınırsız devlet müdahalesi para ve bütçe güvenini aşındırabilir.
 - **Doğruya yaklaşma soruları:** Devlet bugün kimi koruyor, yarına hangi borcu bırakıyor, kurallar kriz anında esneklik tanıyor mu?
+- **Öğrenme desteği:** Devlet terazisi çiz: bir kefeye istihdam ve sosyal güvenliği, diğer kefeye enflasyon, borç ve para güvenini koy.
 
 ## İleri düzey okuma
 

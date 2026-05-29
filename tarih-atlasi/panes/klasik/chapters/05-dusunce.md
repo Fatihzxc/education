@@ -107,6 +107,7 @@ Klasiklerin gücü burada: Bize her ekonomik mekanizmanın arkasından bölüş�
 - **Baskın bakış:** Eğitimli erkek reformcu ve iktisatçı sesi baskındır; işçi, kadın ve koloni deneyimi dolaylı girer.
 - **Güçlü karşı fikir:** Marx klasiklerin kavramlarını kapitalizme karşı çevirir; romantik ve sosyalist eleştiriler insanın piyasa içinde daraldığını söyler.
 - **Doğruya yaklaşma soruları:** Bu düşünür hangi toplumsal korkuya cevap veriyor, hangi sınıfın dilini makulleştiriyor, kendi teorisinin sınırını nerede görüyor?
+- **Öğrenme desteği:** Düşünür kartı yap: cevap verdiği sorun, temel varsayım, güç aldığı sınıf, dışarıda kalan ses, en güçlü karşı fikir.
 
 ## İleri düzey okuma
 

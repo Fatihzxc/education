@@ -456,6 +456,14 @@ Mill bu soruların çoğunu görür ama radikal sonuçlardan çekinir:
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Fransız Devrimi, savaş, tahıl fiyatı, nüfus baskısı, fabrika şehirleri ve yoksulluk klasik okulun sorularını sertleştirdi.
+- **Baskın bakış:** Malthus, Ricardo ve Mill aynı geleneğin içinde konuşur; ama toprak, sermaye, reform ve özgürlük sorunlarını farklı sınıf konumlarından görür.
+- **Güçlü karşı fikir:** Marx ve işçi hareketi, klasiklerin bölüşüm gerilimini gördüğünü ama sömürü ve güç ilişkisini yeterince açmadığını söyler.
+- **Doğruya yaklaşma soruları:** Bu düşünür hangi krize cevap veriyor, ücret-kâr-rant geriliminde kimi koruyor, kendi modelinde kim sessiz kalıyor?
+- **Öğrenme desteği:** Üçlü karşılaştırma kartı yap: Malthus = sınır/kıtlık, Ricardo = bölüşüm/rant, Mill = sentez/reform. Her karta karşı itirazı ekle.
+
 ## İleri düzey okuma: klasik okulun içindeki çatlak okulun kendisidir
 
 Klasik iktisadı ileri düzeyde okurken en önemli nokta şudur: Bu okul tek parça değildir. Malthus, Ricardo ve Mill aynı geleneğin içinde durur; ama aynı dünyayı aynı yerden görmezler. Bu yüzden klasik iktisadın gücü, hazır cevap vermesinden değil, kapitalizmin temel gerilimlerini açıkta bırakmasından gelir.

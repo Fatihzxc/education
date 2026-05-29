@@ -90,6 +90,7 @@ Kısa sonuç şu: Marx'ın düşünce kartı, felsefenin soyut hareketini fabrik
 - **Baskın bakış:** Tarihsel materyalist ve sınıf merkezli bakış baskındır.
 - **Güçlü karşı fikir:** Fikirlerin, dinin, ulusun, cinsiyetin ve kültürün göreli özerkliği Marxçı indirgemeye karşı hatırlatılır.
 - **Doğruya yaklaşma soruları:** Bu açıklama hangi alanı maddi temele bağlıyor, hangi alanın kendi gücünü azaltıyor, sınıf analizi nerede aydınlatıyor?
+- **Öğrenme desteği:** Temel-üst yapı not kartı yap: maddi ilişki, kurum, fikir, duygu. Her örnekte hangisinin belirlediğini değil, hangisinin baskınlaştığını ara.
 
 ## İleri düzey okuma
 

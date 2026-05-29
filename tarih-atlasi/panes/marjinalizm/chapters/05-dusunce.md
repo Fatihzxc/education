@@ -121,6 +121,7 @@ Bu bölümün püf noktası şu: Marjinalizm hem gerçek bir analitik ilerlemedi
 - **Baskın bakış:** Jevons-Walras hattında formel model, Menger hattında öznel değer, Marshall hattında öğretilebilir sentez öne çıkar.
 - **Güçlü karşı fikir:** Tarihçi ve eleştirel iktisatçı, bu yöntemlerin sınıf, kurum ve güç sorularını daralttığını söyler.
 - **Doğruya yaklaşma soruları:** Bu düşünür neyi ölçülebilir kılıyor, neyi soyutluyor, aynı sonuç farklı yöntemlerle nasıl değişiyor?
+- **Öğrenme desteği:** Yöntem kartı yap: neyi ölçüyor, hangi varsayımla ölçüyor, neyi dışarıda bırakıyor, hangi karşı fikir bunu açığa çıkarıyor?
 
 ## İleri düzey okuma
 

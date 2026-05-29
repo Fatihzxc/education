@@ -97,6 +97,7 @@ Bir okur için pratik yöntem şu olabilir: Önce Smith veya Ricardo'da kavramı
 - **Baskın bakış:** Roman bazen orta sınıf vicdanıyla konuşur; gazete ise sahibi ve okur kitlesinin sınıfına göre çerçeve kurar.
 - **Güçlü karşı fikir:** Edebiyat acıyı görünür kılarken bazı mekanizmaları kişisel ahlaka indirger; iktisadi veri ise duyguyu soğutabilir.
 - **Doğruya yaklaşma soruları:** Bu metin kimi konuşturuyor, kimi susturuyor, roman duygusu ücret/fiyat/çalışma saati verisiyle nasıl karşılaştırılır?
+- **Öğrenme desteği:** Roman-veri çift okuması yap: bir sahne seç, yanına ücret, çalışma saati, kira veya ekmek fiyatı notu koy. Duygu ve mekanizma birlikte dursun.
 
 ## İleri düzey okuma
 

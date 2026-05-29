@@ -441,6 +441,14 @@ Daha sonra ne olacaktır?
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Marx, klasik iktisadın emek, değer, kâr ve sınıf kavramlarını sonuna kadar götürünce kapitalizmin iç gerilimlerinin açığa çıktığını savunur.
+- **Baskın bakış:** Emek, sınıf mücadelesi, artı değer ve tarihsel kapitalizm merceği baskındır.
+- **Güçlü karşı fikir:** Liberal, kurumsalcı, feminist ve kültürel okumalar sınıfın yanında hukuk, kimlik, devlet kapasitesi ve bakım emeğini de hesaba katmak ister.
+- **Doğruya yaklaşma soruları:** Marx burada analitik teşhis mi yapıyor, tarihsel kehanet mi kuruyor? Hangi ilişkiyi görünür kılıyor, hangi farkı fazla hızlı tek nedene bağlıyor?
+- **Öğrenme desteği:** İki sütunlu defter tut: “Marx'ın açtığı mekanizma” ve “karşı okumanın hatırlattığı sınır”. Böylece ne teslim olursun ne de aceleyle kapatırsın.
+
 ## İleri düzey okuma: Marx'ın iki mirasını ayırmadan tartışma bulanıklaşır
 
 Marx'ı ileri düzeyde okurken en önemli ayrım şudur: Marx'ın kapitalizm analizi ile Marx adına kurulan siyasal projeler aynı şey değildir. Bu ayrım yapılmazsa tartışma hemen kilitlenir. Bir taraf "Sovyetler kötüydü, Marx bitti" der; diğer taraf "Marx haklıydı, pratikler sapmaydı" der. İkisi de meseleyi fazla hızlı kapatır.

@@ -88,6 +88,7 @@ Bu yüzden "neoklasik dönem devletsiz dönemdir" demek yanıltıcı olur. Daha 
 - **Baskın bakış:** Verimlilik, piyasa aksaklığı ve hakem devlet dili öne çıkar.
 - **Güçlü karşı fikir:** Adalet, tarihsel haksızlık ve sınıf gücü yalnızca aksaklık kategorisiyle yakalanamayabilir.
 - **Doğruya yaklaşma soruları:** Müdahale verimliliği mi adaleti mi hedefliyor, piyasa hangi hukukla kurulmuş, dışarıda kalan zararları kim taşıyor?
+- **Öğrenme desteği:** Müdahale pusulası yap: verimlilik, adalet, güç, dışsallık. Her devlet kararını bu dört gerekçeyle ayrı ayrı dene.
 
 ## İleri düzey okuma
 

@@ -103,6 +103,7 @@ Hazineyi doldurmak yetmez. Hazineyi doldururken toplumu taşıyan zemini çöker
 - **Baskın bakış:** Maliye reformcusu devletin sürdürülebilir gelirini arar; vergi yükünü taşıyan köylü ve şehirli ayrı deneyimler yaşar.
 - **Güçlü karşı fikir:** Toprak rantını vergilendirmek adil görünebilir, ama uygulama gücü ve siyasal direnç sonucu belirler.
 - **Doğruya yaklaşma soruları:** Vergi gerçekten artığın olduğu yere mi gidiyor, yük kimden kime kayıyor, savaş maliyeti hangi sınıfı zorluyor?
+- **Öğrenme desteği:** Borç-vergi-rant şeması çiz: savaş borcu nerede doğuyor, vergi kimden çıkıyor, rant kimin elinde kalıyor, direnç hangi kurumdan geliyor?
 
 ## İleri düzey okuma
 

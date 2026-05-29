@@ -134,6 +134,7 @@ Bu paketi doldururken ana cümle şu olsun: Bir teori "doğal" dediğinde, önce
 - **Baskın bakış:** Reformcu bürokrat, salon aydını ve toprak rantını merkez alan göz daha çok konuşur.
 - **Güçlü karşı fikir:** Şehirli yoksul ve zanaatkâr için serbestleşme geçim güvencesini sarsabilir; klasik iktisat sanayinin üretkenliğini hatırlatır.
 - **Doğruya yaklaşma soruları:** Doğal düzen kimin düzeni, kısa vadeli bedeli kim ödüyor, üretim artışı halkın sofrasına nasıl dönüyor?
+- **Öğrenme desteği:** Üç katmanlı kart çıkar: tarla, vergi, ekmek. Her katmanda kim kazanıyor, kim korkuyor, kim susturuluyor diye ayrı ayrı yaz.
 
 ## İleri düzey okuma
 

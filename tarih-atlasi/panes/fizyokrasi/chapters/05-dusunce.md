@@ -86,6 +86,7 @@ Kısa sonuç şu: Fizyokrat düşünce bize ekonominin görünmeyen bağlantıla
 - **Baskın bakış:** Hekim, model kurucu ve ansiklopedi çevresi aklı öne çıkar; halkın deneyimi tabloya dolaylı girer.
 - **Güçlü karşı fikir:** Model ekonomiyi aydınlatırken sanayi, zor, koloni ve gündelik geçim korkusunu sadeleştirip dışarıda bırakabilir.
 - **Doğruya yaklaşma soruları:** Tablo neyi görünür yapıyor, neyi soyutluyor, doğal yasa dediği şey hangi tarihsel çıkarla örtüşüyor?
+- **Öğrenme desteği:** Tableau büyüteci kullan: her kavram için “hangi akışı gösteriyor?” ve “hangi sesi kısıyor?” diye iki kısa not yaz.
 
 ## İleri düzey okuma
 

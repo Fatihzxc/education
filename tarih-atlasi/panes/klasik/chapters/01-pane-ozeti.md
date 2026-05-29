@@ -148,6 +148,7 @@ Bu paketin kısa kuralı şu: "Toplam üretim arttı" cümlesinden sonra hemen "
 - **Baskın bakış:** İngiliz sanayi ve reform dünyasının dili güçlüdür; imparatorluk, kadın emeği ve koloni çoğu zaman kenarda kalır.
 - **Güçlü karşı fikir:** Marx, işçi hareketi ve kalkınmacı korumacılık klasik serbestlik anlatısına itiraz eder.
 - **Doğruya yaklaşma soruları:** Büyüme kime akıyor, serbest ticaret kimin konumundan söyleniyor, ucuz ekmek ile ücretli emek arasındaki bağ ne?
+- **Öğrenme desteği:** Büyüme-bölüşüm haritası yap: üretim artışı, ücret, kâr, rant, koloni girdisi. Her okta kazananı ve görünmeyen bedeli işaretle.
 
 ## İleri düzey okuma
 

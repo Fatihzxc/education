@@ -113,6 +113,7 @@ Bu paketi doldururken şunu unutma: Marx'ın en öğretici tarafı öfkesinden �
 - **Baskın bakış:** Marx açıkça emek ve sınıf mücadelesi tarafından konuşur; bu taraflılık gizli değil, yöntemin parçasıdır.
 - **Güçlü karşı fikir:** Liberal sözleşme özgürlüğünü, marjinalizm öznel değeri, kurumsalcılık reform imkânlarını öne çıkarır.
 - **Doğruya yaklaşma soruları:** Sözleşen tarafların maddi gücü eşit mi, kâr hangi mekanizmadan doğuyor, sınıf dışındaki etkenler tabloyu nasıl değiştiriyor?
+- **Öğrenme desteği:** Sözleşme ve güç tablosu yap: hukuki özgürlük, maddi zorunluluk, ücret, kâr, pazarlık gücü. Aynı olayı iki gözle oku.
 
 ## İleri düzey okuma
 

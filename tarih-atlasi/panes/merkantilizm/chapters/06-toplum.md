@@ -91,6 +91,7 @@ Tam resim, hepsini aynı anda tutmaya çalışmaktır.
 - **Baskın bakış:** Tüccar, devlet ve liman şehri daha görünürdür; köleleştirilmiş emek, gemici ve küçük üretici geride kalır.
 - **Güçlü karşı fikir:** Ulusal zenginlik artarken toplumun alt kesimleri daha güvencesiz, daha zorlanmış veya daha sessiz hale gelebilir.
 - **Doğruya yaklaşma soruları:** Büyüme kimin bedenine yükleniyor, kim yerinden ediliyor, kim "çalışkan nüfus" diye araçsallaştırılıyor?
+- **Öğrenme desteği:** Emek bedeni haritası yap: denizci, zanaatkâr, köleleştirilmiş emek, küçük üretici, asker. Güç artışı kimin bedeninden geçiyor?
 
 ## İleri düzey okuma
 

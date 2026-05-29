@@ -114,6 +114,7 @@ Bu tablo üç düşünürü yumuşatır. Her biri bir korkuyu ciddiye alır: iş
 - **Baskın bakış:** Keynes güven ve talep, Friedman para ve kural, Hayek fiyat sinyali ve bilgi tarafından konuşur.
 - **Güçlü karşı fikir:** Her düşünür diğerinin görmediği riski gösterir; hiçbirinin tek başına bütün krizleri açıklaması beklenmemeli.
 - **Doğruya yaklaşma soruları:** Sorun bilinmeyen gelecek mi geciken politika mı dağınık bilgi mi, hangi teori hangi krizde zayıflıyor?
+- **Öğrenme desteği:** Üç düşünür, üç soru tablosu yap: Keynes için güven, Friedman için para kuralı, Hayek için bilgi. Aynı krizi üç satırda tekrar oku.
 
 ## İleri düzey okuma
 

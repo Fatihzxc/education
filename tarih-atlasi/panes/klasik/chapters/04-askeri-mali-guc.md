@@ -108,6 +108,7 @@ Kısa sonuç şu: Klasik iktisat barışçı serbest ticaret dili kurdu; ama bu 
 - **Baskın bakış:** İngiliz mali ve deniz gücü serbest ticareti güvenle savunabilecek konumdadır.
 - **Güçlü karşı fikir:** Geç sanayileşen ülkeler ve koloniler için serbest ticaret bağımlılığı kalıcılaştırabilir.
 - **Doğruya yaklaşma soruları:** Ticaret teorisi hangi güç koşulunda söyleniyor, donanma ve finans bu "özgürlüğü" nasıl koruyor, borç yükünü kim taşıyor?
+- **Öğrenme desteği:** Güç koşulu kartı çıkar: donanma, kredi, sanayi kapasitesi, koloni ağı. Serbest ticaret iddiasını bu dört koşul varsa/yoksa diye test et.
 
 ## İleri düzey okuma
 

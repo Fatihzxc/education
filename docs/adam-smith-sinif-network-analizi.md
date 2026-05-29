@@ -363,6 +363,14 @@ Her büyük iktisat teorisi *yükselmekte olan bir sınıfın ihtiyacının teor
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Smith'in düşüncesi İskoç Aydınlanması, ticari toplum, üniversite ağı, himaye ilişkileri ve imparatorluk ekonomisinin kesişiminden doğar.
+- **Baskın bakış:** Eğitimli İskoç reformcunun gözü güçlüdür; piyasayı ahlaki düzen, hukuk ve ölçülü devletle birlikte düşünür.
+- **Güçlü karşı fikir:** Sınıf-ağ okuması fikri “çıkarın kuklası”na indirmemeli; ama işçi, kadın, koloni ve köleleştirilmiş emek seslerinin eksikliğini de saklamamalı.
+- **Doğruya yaklaşma soruları:** Smith hangi kurumlarla besleniyor, hangi sınıf korkusuna cevap veriyor, hangi deneyimleri doğrudan görmüyor?
+- **Öğrenme desteği:** Her fikir için kişi-kurum-para-sınıf zinciri kur; sonra aynı fikrin analitik doğruluğunu ayrıca test et.
+
 ## İleri düzey okuma: Smith'i neye indirgemeden eleştirelim?
 
 Burada daha zor ama çok verimli bir ayrım var. Smith'i eleştirmek, onu "yanlış" ilan etmek değildir. Daha doğru soru şudur: Smith hangi düzeyde haklı, hangi düzeyde eksik, hangi düzeyde sonradan başka güçler tarafından kullanıldı?

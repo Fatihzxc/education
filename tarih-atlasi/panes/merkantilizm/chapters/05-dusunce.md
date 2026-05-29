@@ -86,6 +86,7 @@ Ve bu yüzden onu öğrenmek yalnızca geçmiş bir teoriyi öğrenmek değildir
 - **Baskın bakış:** Broşür yazarı, tüccar danışman ve bürokrat sesi baskındır; teori çoğu zaman politika tavsiyesi olarak konuşur.
 - **Güçlü karşı fikir:** Tek doktrin varmış gibi anlatmak yanıltır; merkantilizm farklı çıkarların gevşek bir ailesidir.
 - **Doğruya yaklaşma soruları:** Bu metin kime öğüt veriyor, hangi çıkarı doğal gösteriyor, hangi deneyimi teori dışına itiyor?
+- **Öğrenme desteği:** Yazar konumu kartı çıkar: kim yazıyor, kime öğüt veriyor, hangi ticaret çıkarına yakın, hangi halk deneyimi metne girmiyor?
 
 ## İleri düzey okuma
 

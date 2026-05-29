@@ -96,6 +96,7 @@ Bu yüzden son soru yalnızca "ordu nasıl ödenir?" değil. Aynı zamanda şudu
 - **Baskın bakış:** Savaş devleti ve imparatorluk rekabeti öne çıkar; vergi veren halkın ve zorla çalıştırılanların sesi geride kalabilir.
 - **Güçlü karşı fikir:** Güç kapasitesi büyürken toplumsal maliyet ve sömürge şiddeti refah anlatısını bozabilir.
 - **Doğruya yaklaşma soruları:** Orduyu kim finanse ediyor, şirket imtiyazı kamu gücü mü özel kâr mı, güvenlik kimin güvenliği?
+- **Öğrenme desteği:** Savaş bütçesi haritası çiz: vergi, borç, şirket imtiyazı, donanma, koloni. Para ve zor oklarını ayrı renklerle göster.
 
 ## İleri düzey okuma
 

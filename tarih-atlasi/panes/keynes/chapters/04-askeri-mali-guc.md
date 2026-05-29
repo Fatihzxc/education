@@ -114,6 +114,7 @@ Bu tablo, askerî-mali kartın neden gerekli olduğunu anlatır: Ekonomi politik
 - **Baskın bakış:** Ulusal devlet ve merkez bankası kararları merkezde görünür; sömürge sonrası ülkelerin para bağımlılığı daha az duyulabilir.
 - **Güçlü karşı fikir:** Savaş harcaması talep yaratabilir ama refah harcamasıyla aynı toplumsal anlamı taşımaz.
 - **Doğruya yaklaşma soruları:** Harcama sosyal güvenlik mi askerî kapasite mi kuruyor, dolar/borç düzeni kime alan açıyor, maliyet hangi sınıfa veya ülkeye aktarılıyor?
+- **Öğrenme desteği:** Harcama etiketi tablosu kur: savaş, altyapı, sosyal güvenlik, dış borç. Her satıra finansman kaynağını ve toplumsal sonucunu yaz.
 
 ## İleri düzey okuma
 
