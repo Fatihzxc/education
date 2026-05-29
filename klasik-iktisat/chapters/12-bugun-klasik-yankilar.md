@@ -70,6 +70,20 @@ Bir muhasebe yapalım. Klasik politik-iktisadın temel kavramsal varlık-defteri
 - **Stationary state**: Bölüm 6 ve Bölüm 9'da gördüğümüz Mill'in pozitif vizyonu, klasik damarın ana kolunda gözden düştü; 1970'ler ekolojik iktisat damarında Daly üzerinden geri döndü.
 - **Klasik para teorisi** (*quantity theory*): Bölüm 5'te işlediğimiz Ricardo-Hume hattı, marjinal sentezde modifiye edildi, sonra Milton Friedman'ın 1956-1976 arası *monetarism*'inde modern formuyla geri döndü. Friedman *A Monetary History of the United States* (1963, Anna Schwartz ile birlikte) yapıtında klasik *MV = PT* mantığını ABD verisi üzerinden yeniden inşa etti. Bu damar 1980'lerde merkez bankacılığında etkin oldu (Volcker disinflasyonu), sonra 2000'ler sonrası gözden düştü (sıfır faiz tabanı sorunları), 2021-2024 enflasyon dalgasıyla kısmen yeniden gündeme geldi.
 
+### Bugünkü haber pusulası: klasik soru nerede saklı?
+
+Klasik iktisadı bugün okumanın pratik faydası şudur: Haberleri daha yavaş ve daha derinden okumayı öğretir. Bir başlık "büyüme arttı", "enflasyon düştü", "ihracat yükseldi" veya "teknoloji yatırımı geldi" dediğinde, klasik mercek hemen pay, sınıf, rant, emek ve devlet sorularını çağırır.
+
+| Haber başlığı | Klasik soru | Görünmeyen taraf | Küçük öğrenme görevi |
+|---|---|---|---|
+| Büyüme arttı | Ücret, kâr ve rant payı nasıl değişti? | Büyümeden pay alamayan haneler | Kişi başı gelir ile emek payını yan yana koy |
+| Konut fiyatı yükseldi | Bu üretken kazanç mı, rant mı? | Kiracı ve ilk ev alacak gençler | Arsa değeri ile inşaat maliyetini ayır |
+| Yeni fabrika açıldı | Sermaye birikimi kime iş, kime güç veriyor? | Taşeron işçi ve yerel çevre | İstihdam, ücret ve vergi teşvikini birlikte oku |
+| İthalat ucuzladı | Tüketici kazancı sanayi kapasitesini nasıl etkiliyor? | Öğrenme aşamasındaki yerli üretici | Kısa vade fiyat ile uzun vade kapasiteyi karşılaştır |
+| Enflasyon düştü | Para istikrarı kimin gelirini koruyor? | Borçlu hane ve sabit ücretli | Fiyat, faiz ve ücret zamanlamasını izle |
+
+Bu pusula teoriyi gündelik haberle bağlar. Klasik okuma, sayıya bakıp sevinmek ya da korkmakla yetinmez; sayının toplumun farklı katlarına nasıl indiğini sorar.
+
 ## 12.7 Türkiye'de klasik mirasın bugünü
 
 Türkiye'de iktisat eğitimi 100+ yıldır neoklasik-Keynesyen sentez üzerine kurulu. Bölüm 10'da işlediğimiz Sakızlı Ohannes, Münif Paşa, Mehmed Cavid Bey hattı — Tanzimat sonrası klasik iktisadın Osmanlı'ya geç ve eksik girişi — Cumhuriyet sonrasında bir kanon haline gelmedi; 1930'lar Kadrocular özelliğinde Sovyet planlama modeli, 1950-1980 arası kalkınma iktisadı ve ithal ikamesi, 1980 sonrası Washington Consensus reçeteleri farklı dönemlerde resmi söylemi şekillendirdi. Klasik politik-iktisadi mercekliği bilinçli olarak kullanan akademik damarlar her zaman azınlık oldu.

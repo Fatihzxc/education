@@ -105,6 +105,19 @@ Bullionist hat 1840'larda *currency school* ile *banking school* arasındaki iki
 
 Yasallaşmanın etkisi devasadır. Altın standardı — 1844'ten 1914 Birinci Dünya Savaşı'na kadar global olarak, ardından 1925-1931 ara dönüşle, 1944 Bretton Woods'ta dolar-altın endeksli haliyle 1971 Nixon kopuşuna kadar — klasik para teorisinin enstitüel hayatıdır. 20. yüzyılda klasik miktar teorisi Milton Friedman'ın "The Quantity Theory of Money: A Restatement" (1956) makalesi ve sonraki çalışmalarıyla modern *monetarizm* olarak yeniden formüle edilir (Bölüm 12'de ayrıntılı işlenecek). Friedman'ın slogan haline gelen iddiası — "*Inflation is always and everywhere a monetary phenomenon*" — Ricardo'nun 1810 tezinin doğrudan halefidir. Klasik makronun para teorisi, böylece, Keynesyen müdahaleciliğe karşı 20. yüzyıl monetarist karşı-devriminin ideolojik cephaneliğini oluşturur.
 
+### Banknot ve ekmek kartı: para teorisi sokakta nasıl duyulur?
+
+Klasik para tartışması banknot, altın rezervi ve banka bilançosu diliyle anlatılır; ama onun gündelik karşılığı çok sadedir: Aynı ücretle daha az ekmek alıyorsan, para meselesi artık hayat meselesidir. Bu yüzden para teorisini yalnız merkez bankasının defterinde değil, pazar sepetinde de okumak gerekir.
+
+| Para meselesi | Teknik dil | Gündelik karşılık | Karşı okuma sorusu |
+|---|---|---|---|
+| Banknot ihracı | Para arzı genişliyor | Fiyatlar ücretlerden önce hareket edebilir | İlk etki kimin cebine giriyor? |
+| Altın standardı | Konvertibilite güven sağlar | Fiyat istikrarı için kredi sıkışabilir | Güven kimin için güven, işsiz için ne? |
+| Banka kredisi | Ticari senet ve likidite | Esnaf borçla mal döndürür | Kredi kesilirse üretim mi, spekülasyon mu durur? |
+| Enflasyon | Paranın satın alma gücü düşer | Ekmek, kira ve yakıt bütçeyi ezer | Suç yalnız parada mı, yoksa arz ve güç ilişkilerinde mi? |
+
+Bu kart klasik miktar teorisini küçültmez; onu hayata indirir. Para bazen uzun vadede nötr gibi anlatılır, ama kısa vadede kimin önce fiyatla, kimin sonra ücretle karşılaştığı çok gerçektir.
+
 ## 5.8 Keynes 1936 kopuşu ve klasik makronun mirası
 
 *The General Theory of Employment, Interest and Money* (1936) klasik makroyu sistematik olarak parçalar. Keynes'in saldırısı dört cephede yürür. Birincisi: Say's law reddedilir. *Effective demand* — etkin talep — kavramı klasik makro evrenine yabancıdır; Keynes ekonominin tasarruf-yatırım dengesinin tam istihdamı değil, tam istihdamın altında bir denge noktasını oluşturabileceğini gösterir; toplam talep yetersizliği geçici bir konjonktür değil yapısal bir denge olabilir. İkincisi: tasarrufun yatırıma otomatik dönüşümü reddedilir. Faiz oranı tasarruf-yatırım piyasasında değil, para piyasasında (likidite tercihi vs. para arzı) belirlenir; dolayısıyla tasarruf artışının faizi düşürüp yatırımı çekme garantisi yoktur. Üçüncüsü: *paradox of thrift* — tasarruf paradoksu — bireysel tutumluluğun toplumsal düzeyde tam tersi etki yaratabileceğini gösterir; herkesin aniden daha fazla tasarruf etmesi toplam talebi, sonra üretimi, sonra da toplam tasarrufu düşürür. Klasik *parsimony* mantığının makro düzeydeki tersinmesidir bu. Dördüncüsü: ücret-fon doktrinini zaten 1869'da Mill terk etmişti; Keynes ücret esneksizliğinin makro denge için bağımsız bir değişken olduğunu sistematize eder.

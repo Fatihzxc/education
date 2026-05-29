@@ -68,6 +68,19 @@ Locke'un dehası, bu noktada özel mülkiyetin meşruiyet zincirini *insan-yapı
 
 Bu hamle, Locke'u sonraki Marksist eleştirinin merkezi hedefi yapar. Eğer büyük servet birikimi "insan anlaşmasına" dayanıyorsa, başka bir anlaşma onu sınırlandırabilir. Marx'ın Bölüm 8'de işleyeceği "özel mülkiyetin tarihselliği" tezi, doğrudan Locke'un para argümanına bir cevaptır.
 
+### Para proviso kartı: sınır kalkınca adalet ne olur?
+
+Locke'un ilk dünyasında doğa bir sınır koyar: meyve çürür, tahıl bozulur, insan kullanabileceğinden fazlasını alırsa israf eder. Para bu sınırı değiştirir; çünkü çürümez, saklanır, birikir. Bu yüzden "para yalnız değişim aracı" değildir; mülkiyetin ahlaki sınırını da yeniden yazar.
+
+| Locke'un sınırı | Para gelmeden önce | Para geldikten sonra | Kontrol sorusu |
+|---|---|---|---|
+| Kullanma sınırı | İhtiyaçtan fazlası çürür | Fazla ürün paraya çevrilir | Birikim meşruysa sınırı ne belirler? |
+| Başkasına yeterince bırakma | Ortak doğa hala erişilebilir görünür | En iyi kaynaklar erken sahiplenilebilir | Geç gelenlere gerçekten "aynı iyilikte" ne kaldı? |
+| Rıza | İnsanlar parayı ortak kabul eder | Servet eşitsizliği de bu kabule bağlanır | Para kabulü, eşitsizliği kabul etmek anlamına gelir mi? |
+| Emek bağı | Mülkiyet emekle başlar | Servet emekten kopup finansal birikime dönebilir | Emekten doğan hak, miras ve faizle nasıl büyüyor? |
+
+Bu kart Locke'un inceliğini gösterir: o, büyük serveti kaba kuvvetle değil, rıza ve para üzerinden açıklamaya çalışır. Ama tam burada karşı okuma başlar; rıza gerçekten serbest mi, yoksa oyuna sonradan girenlerin başka seçeneği kalmadığı için mi kabul ediliyor?
+
 ## 5.6 Locke'un politik bağlamı: çitleme ve Amerika
 
 Locke'un mülkiyet teorisi, salt felsefi bir egzersiz değildir. 17. yüzyıl sonu İngiltere'sinde iki güncel politik soruna doğrudan müdahaledir:

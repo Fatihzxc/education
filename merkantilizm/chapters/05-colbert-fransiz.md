@@ -47,6 +47,20 @@ Yani denetim ağı şehirle sınırlı değildir; kasaba ve köylere kadar uzan�
 
 Bu pratik düzeyde **Smith'in eleştirisinin** en güçlü hedefi olacaktır. Smith için tüm bu tüzükler, üreticinin doğal yeteneğine ve girişkenliğine devletin engellemesi anlamına gelir. Hangi malın nasıl üretileceğine **piyasa** karar vermelidir; devletin merkezi tüzükleri, ihtiyaç değişimine uyum sağlayamaz, sürekli düzeltme gerektirir, yolsuzluğa zemin verir. *Wealth of Nations* Kitap IV'ün bu pasajları, açıkça Colbertism'i hedef alır.
 
+### Kalite mührü kartı: standart kime güven, kime yük?
+
+Colbert'in kalite tüzüklerini yalnız "devlet müdahalesi" diye okumak eksik olur. Bir standart bazen piyasaya güven verir: alıcı kumaşın, camın ya da ipeğin belli bir kaliteyi taşıdığını bilir. Ama aynı standart küçük üretici için giriş engeline, denetçi için ceza yetkisine, saray için prestij aracına dönüşebilir.
+
+| Bakış | Standart ne işe yarar? | Bedel nerede doğar? | Kontrol sorusu |
+|---|---|---|---|
+| Devlet | Ulusal markayı ve ihracat kalitesini kurar | Denetim ağı pahalı ve sertleşebilir | Kalite mi korunuyor, itaat mi isteniyor? |
+| Büyük atölye | Pazar güveni ve kraliyet siparişi kazanır | Kurala uyum maliyeti yükselir | Destek kimlere erişiyor? |
+| Küçük üretici | Bazen öğrenme ve ölçü kazandırır | Esneklik azalır, ceza riski artar | Standart yükseltme mi, dışlama mı? |
+| Tüketici | Daha güvenilir ürün alabilir | Fiyat artışıyla karşılaşabilir | Kalite artışı bütçeye nasıl yansıyor? |
+| Smithçi eleştiri | Aşırı tüzüğün girişimi boğduğunu söyler | Serbest piyasa kaliteyi her zaman korumayabilir | Piyasa disiplini tek başına yeterli mi? |
+
+Bu kart Colbert'i ne kahraman yapar ne karikatür. Devlet kalite kurabilir; ama kaliteyi kuran el aynı anda ayrıcalık, maliyet ve suskunluk da üretebilir.
+
 ## Dış cephe: 1664 ve 1667 tarifeleri
 
 Colbert'in dış ticaret politikası iki büyük tarife reformuyla şekillenir. 1664 tarifesi nispeten ılımlıdır: bazı yabancı mamulleri üzerinde orta düzey gümrük, bazı stratejik ham maddelerde Fransa'ya giriş kolaylığı. Ama 1667'de daha agresif bir tarife gelir — özellikle Hollanda mamulleri (kumaş, dokuma, deri eşya) üzerinde **çok yüksek** gümrük tarifeleri konulur. Hedef nettir: Fransa'nın iç pazarını Hollanda'nın hâkim olduğu mamul ithalattan korumak ve yerli manufactures royales'in büyümesine alan açmak.

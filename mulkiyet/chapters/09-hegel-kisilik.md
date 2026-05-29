@@ -42,6 +42,19 @@ Hegel için sözleşme (Knox çevirisinde §§72-81), iki tarafın *karşılıkl
 
 Bu çerçeve önemli bir sonuç doğurur: mülkiyet, kişiliğin yansıması olsa da, *yalıtık* değildir. Bir kişi tek başına mülkiyet sahibi olamaz; mülkiyet, başkalarıyla olan ilişkiler — özellikle başkalarının onun mülkiyetini *tanıması* — aracılığıyla gerçekleşir. Bu, mülkiyetin *toplumsal* boyutunun Hegel'deki kavramsal kabulüdür.
 
+### Tanınma merdiveni: mülkiyet kişiyi nasıl görünür kılar?
+
+Hegel'in "kişilik" fikrini en basit haliyle şöyle düşünebiliriz: İnsan yalnız içinden isteyen bir varlık değildir; dünyada iz bırakmak, başkaları tarafından tanınmak ister. Mülkiyet bu tanınmanın yollarından biridir. Ama her merdiven gibi, kimin çıkabildiğini ve kimin aşağıda kaldığını sormak gerekir.
+
+| Basamak | Hegelci anlam | Gündelik örnek | Kritik soru |
+|---|---|---|---|
+| Sahiplenme | "Bu benim irademin dış dünyadaki izi" | Bir oda, bir araç, bir tarla | Sahiplenme başkasını dışlıyor mu? |
+| Kullanma | Mülk, iradenin devam eden pratiği olur | Evi yaşamak, tarlayı işlemek | Kullanamayanın sahipliği ne kadar gerçek? |
+| Devretme | Mülkiyet tam hak biçimine yaklaşır | Satmak, bağışlamak, miras bırakmak | Devredemiyorsan gerçekten sahip misin? |
+| Tanınma | Başkaları hakkını kabul eder | Tapu, sözleşme, mahkeme kararı | Tanınma hukuki mi, toplumsal mı, ikisi de mi? |
+
+Bu merdiven Hegel'i sıcak bir soruya bağlar: Mülkiyet yalnız eşya tutmak değildir; kişinin dünyada ciddiye alınma biçimlerinden biridir. Ama mülksüzlerin nasıl tanınacağı sorusu açık kalır.
+
 ## 9.5 Hegel ile Locke arasındaki gerilim
 
 Hegel'in çerçevesi Locke'un emek-temelli mülkiyet anlayışından önemli ölçüde ayrılır. İki yönden:

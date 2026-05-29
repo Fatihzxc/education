@@ -67,6 +67,19 @@ Osmanlı mahkeme kayıtları, 15. yüzyıldan itibaren binlerce kadının kendi 
 
 Bu fark, modern Müslüman toplumların kadın hakları tartışmalarında önemli bir kavramsal kaynaktır. Hukuken kadın mülkiyeti uzun bir tarihe sahip; çağdaş kısıtlamalar (eğer varsa) hukuki değil, sosyal pratiklerden geliyor.
 
+### Kadın mülkiyeti okuma kartı: hukuk hakkı verir, toplum kullandırır mı?
+
+Osmanlı kadın mülkiyetini anlamak için iki şeyi birlikte tutmak gerekir. Birincisi, hukuk kadınlara kendi adlarına mülk edinme, satma, vakıf kurma ve dava açma imkanı tanır. İkincisi, bu hakkın kullanımı aile baskısı, yerel güç, mahkemeye erişim ve vekalet ilişkileriyle şekillenir.
+
+| Alan | Hukuki imkan | Gündelik eşik | Kontrol sorusu |
+|---|---|---|---|
+| Miras | Kadının belirli payı vardır | Payı fiilen alabilmek aile pazarlığına bağlı olabilir | Hukuki pay gerçekten teslim edilmiş mi? |
+| Alım-satım | Kadın kendi adına işlem yapabilir | Vekil, şahit ve mahkeme masrafı gerekir | Kayıtta görünen irade kimin iradesi? |
+| Vakıf | Kadın vakıf kurabilir ve gelir tahsis edebilir | Servet sahibi kadınlar daha görünürdür | Yoksul kadınların sesi hangi belgede kalır? |
+| Evlilik | Mal evlilikle otomatik kocaya geçmez | Sosyal kontrol harcamayı etkileyebilir | Hak var ama kullanma alanı ne kadar geniş? |
+
+Bu kart bize dengeli bir okuma verir. Osmanlı hukukunda kadın mülkiyeti güçlü bir damar taşır; ama her güçlü hukuki imkan gibi, onu gerçekten anlamak için mahkeme kaydı ile ev içi güç ilişkisini birlikte okumak gerekir.
+
 ## 10.6 Müsadere — devletin mülke el koyma hakkı
 
 Osmanlı mülkiyet sisteminin Avrupa'dan farklı bir başka boyutu, *müsadere* (devletin özel mülke el koyma) doktrinidir. Padişah, özellikle yüksek devlet memurları için, herhangi bir resmi suçlama olmaksızın mülklerine el koyma hakkına sahipti.

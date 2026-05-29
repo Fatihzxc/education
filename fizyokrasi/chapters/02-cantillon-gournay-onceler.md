@@ -112,6 +112,19 @@ Gournay çevresinin yaptığı üç şey vardır:
 
 **Üçüncüsü, kadro yetiştirme.** Gournay çevresinden geçen genç adamlar arasında Turgot (1727-1781), Morellet (1727-1819), Dupont de Nemours (1739-1817) vardır. Sonradan fizyokrasinin politik yüzü olacak bu figürler Gournay'in salonunda eğitildi. Quesnay'in Versailles çevresi ile Gournay'in Paris çevresi 1750'ler sonu - 1760'lar başında iç içe geçti; Mirabeau (Quesnay'in en yakın çırağı) Gournay ile yazışıyor, Turgot her iki gruba girip çıkıyordu. Fransa'da fizyokrasinin sosyolojik altyapısı bu iki çevrenin füzyonudur.
 
+### Çeviri atölyesi kartı: fikir kitapta mı, çevrede mi doğar?
+
+Gournay'i anlamak için yalnız "hangi kitabı yazdı?" diye sormak yetmez; çünkü onun etkisi daha çok çevre kurmasındadır. Bazen bir fikir, tek bir büyük eserden değil, tercüme masalarından, mektuplardan, salon konuşmalarından ve bürokratik şikayetlerden doğar.
+
+| Taşıyıcı | Ne taşıdı? | Kimin gözünü güçlendirdi? | Kör nokta |
+|---|---|---|---|
+| Çeviri | İngiliz ticaret tartışmalarını Fransızcaya açtı | Reformcu bürokrat ve tüccar | İngiliz koşullarını Fransa'ya fazla kolay aktarabilir |
+| Salon | İnsanları, kelimeleri ve gündemi bir araya getirdi | Genç Turgot ve Dupont gibi kadrolar | Halkın ve köylünün sesi dolaylı kalır |
+| Mektup | Sahadaki gümrük, lonca ve izin şikayetlerini taşıdı | İdare içinde reform isteyenler | Şikayet edenler çoğunlukla ticari aktörlerdir |
+| Slogan | *Laissez-faire* fikrini kolay hatırlanır yaptı | Serbest dolaşım savunucuları | Serbestlik herkes için aynı anda iyi olmayabilir |
+
+Bu kart Gournay'in gücünü daha iyi gösterir: O, yalnız bir yazar değil, fikirlerin dolaşım kanalıdır. Ama aynı zamanda şunu da sordurur: Bir çevrenin duyduğu sesler kimlerdir, duymadığı sesler kimlerdir?
+
 ## 2.9 *Laissez-faire, laissez-passer* — sloganın belirsiz kökeni
 
 Gournay'e atfedilen meşhur slogan — *laissez faire, laissez passer* ("yapılsın, geçilsin") — modern iktisadi liberalizmin parolası olacaktır. Ama atfın kendisi, iktisat tarihinin en tartışmalı söylem kökenlerinden biridir.
