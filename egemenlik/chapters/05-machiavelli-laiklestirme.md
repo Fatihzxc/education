@@ -125,6 +125,18 @@ Bu çerçeve, Machiavelli'nin 1513-1531 yazılı eserlerinin 500 yıl sonra hâl
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
+- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
+- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
+- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
+- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+
+## İleri düzey okuma
+
+İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+
 ## Kaynakça
 
 [^1]: Machiavelli, N. (1532). *Il Principe*. İlk basım Roma. Türkçe çeviri: Nazım Güvenç (Anahtar Kitaplar, 1994); H. Kazım Kabaağaç (Türkiye İş Bankası Kültür Yayınları, 2008). Bu kitap kb-mcp'de bulunmamakta; bu bölümün argümanları doğrudan public-domain metinden ve Quentin Skinner *Machiavelli: A Very Short Introduction* (1981) gibi referanslardan inşa edilmiştir.

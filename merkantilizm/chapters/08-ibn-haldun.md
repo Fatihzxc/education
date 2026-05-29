@@ -129,6 +129,18 @@ Beşincisi, **kalkınma ve geri kalma** üzerine genel kuramsal soru — neden b
 
 İbn Haldun bir merkantilist değildir; merkantilizmin de bir eleştirmeni değildir. O, merkantilist tartışmaların **doğmasından çok önce** yaşar. Ama Mukaddime, hem Osmanlı gelenekçiliğinin entelektüel kaynaklarından biri olarak hem de modern iktisat tarihçiliğinin geç tanıdığı bir ön-figür olarak, bu kitabın anlatısında merkezi bir köprüdür. Sonraki bölümde — *Hume, Smith ve klasik eleştiri* — merkantilizmin Batı tarafından 18. yüzyılda bilinçli olarak demolanmasına döneceğiz. Smith'in yaptığı işin tam olarak ne kadar **yıkıcı** ve ne kadar **inşacı** olduğunu, ancak hem Mun'u (Bölüm 4) hem Genç-İbn Haldun çizgisini (Bölüm 7-8) görmüş okur fark eder.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
+- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
+- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
+- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
+- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+
 ## İlgili görselleştirmeler
 
 İbn Haldun'un fikirlerini ve Mukaddime'nin alımlanışını ekteki playground'da takip edebilirsin:

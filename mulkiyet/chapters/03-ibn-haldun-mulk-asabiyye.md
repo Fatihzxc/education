@@ -128,6 +128,18 @@ Bu paralellik, neden 21. yüzyıl iktisat tarihçiliğinin İbn Haldun'u modern 
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
+- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
+- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
+- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
+- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+
 ## Kaynakça
 
 *Pagination notu*: Mukaddime alıntıları, Süleyman Uludağ'ın Dergâh Yayınları çevirisinin 3-ciltlik baskısının sayfa numaralarıyla verilmiştir. Köşeli parantez içindeki ikinci sayfa numarası (`[indeks PDF p. X]`), `iktisat-kb` veritabanında yer alan 2-parçaya bölünmüş PDF taramasındaki konumdur; iki numaralandırma arasında sistematik bir kayma vardır. (Aynı not *Değer* kitabı Bölüm 4 için de geçerlidir.)

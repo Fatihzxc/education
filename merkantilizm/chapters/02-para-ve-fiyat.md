@@ -113,6 +113,18 @@ Para meselesi merkantilist tartışmaların hareket noktasıdır ama tek başın
 
 Sonraki bölümde — *Erken modern devletin doğuşu* — bu büyük dönüşüme döneceğiz. Mercantilist düşüncenin pratik motoru olan **mali kapasite**, **sürekli ordu** ve **ticaret-devlet ittifakı** üçlüsünü Heckscher ve Reinert'in çerçevelerinde inceleyeceğiz. Para meselesi orada **hazine bekası** boyutuyla geri dönecek; ve mercantilist politikaların neden bir teknik para teorisi değil, daha geniş bir **devlet inşa projesi** olduğunu daha berrak göreceğiz.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Para, fiyat ve dış ticaret tartışması, zenginliğin altın stoğu mu yoksa üretim ve alım gücü mü olduğu sorusundan doğar.
+- **Baskın bakış:** Maliye ve ticaret dengesi bakışı parayı devlet gücünün görünür işareti gibi okur.
+- **Güçlü karşı fikir:** Miktar teorisi ve klasik eleştiri, para stokuyla gerçek refah arasındaki farkı açar.
+- **Doğruya yaklaşma soruları:** Burada para amaç mı, araç mı? Fiyat hareketi kimin gelirini yükseltiyor, kimin geçimini zorluyor?
+- **Öğrenme desteği:** Basit bir akış çiz: maden girişi, fiyatlar, ücretler, dış ticaret ve hazine.
+
+## İleri düzey okuma
+
+İleri düzeyde parayı yalnız teknik değişim aracı gibi okuma. Para, devletin vergi gücü, piyasanın güven ilişkisi ve halkın gündelik alım gücü arasında duran politik bir kurumdur.
+
 ## İlgili görselleştirmeler
 
 Para, bullion ve fiyat devrimi etrafındaki tartışmayı ekteki playground'da gezerek somutlaştırabilirsin:

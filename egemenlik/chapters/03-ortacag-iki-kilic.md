@@ -132,6 +132,18 @@ Worms Concordat'ının uzlaşması teknikti: piskoposların *manevi* atamasını
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Savaş, hukuk, din, vergi ve itaat soruları “son sözü kim söyler?” düğümünde toplanır.
+- **Baskın bakış:** Devlet merkezli anlatı düzen ve güvenliği öne çıkarır; egemenliği çoğu zaman tek merkezde arar.
+- **Güçlü karşı fikir:** Locke, Rousseau, yerel pratikler, Weber ve Foucault egemenliğin sınır, meşruiyet ve ilişki tarafını açar.
+- **Doğruya yaklaşma soruları:** Egemen kim, hangi alanda emir verebiliyor, sınırı nerede başlıyor? İtaat güvenlik mi sağlıyor, yoksa tahakküm mü kuruyor?
+- **Öğrenme desteği:** Üç eksenli harita çiz: özne, kapsam, sınır. Her düşünürü bu üç soruyla yerleştir.
+
+## İleri düzey okuma
+
+İleri düzeyde egemenliği yalnız kralın ya da devletin sahip olduğu bir güç gibi düşünme. Egemenlik bazen hukukta, bazen orduda, bazen bürokraside, bazen de gündelik hayatı yöneten görünmez ilişki ağlarında çalışır.
+
 ## Kaynakça
 
 [^1]: Augustinus, *De Civitate Dei* (413-426), Kitap XIV-XV. "İki şehir" doktrinin orijinal metni. Türkçe çeviri: Erkan Akay (Pan Yayıncılık).

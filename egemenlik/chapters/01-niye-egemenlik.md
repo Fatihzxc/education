@@ -122,6 +122,18 @@ Bir gözlem: matrise dikkatli baktığınızda, "ideal" bir egemenlik konfigüra
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Egemenlik, siyasal toplulukta son sözü kimin söyleyeceği sorusundan doğar: emir kimden gelir, kime işler, hangi sınırda durur?
+- **Baskın bakış:** Devlet merkezli anlatı, düzen ve güvenlik ihtiyacını egemenliğin ana gerekçesi yapar.
+- **Güçlü karşı fikir:** Sınırlı iktidar, halk egemenliği, yerel pratikler ve Foucaultcu ilişki okuması tek merkezli anlatıyı sınar.
+- **Doğruya yaklaşma soruları:** Kim emrediyor, hangi alanda emrediyor, hangi sınırla emrediyor? İtaat güvenlik mi sağlıyor, yoksa tahakküm mü kuruyor?
+- **Öğrenme desteği:** Üç soru matrisi kur: özne, kapsam, sınır.
+
+## İleri düzey okuma
+
+İleri düzeyde egemenliği yalnız bir makamın sahip olduğu yetki gibi okuma. Egemenlik, itaatin hangi gerekçeyle kabul edildiğini de anlatır. Bu yüzden soru yalnız “kim güçlü?” değildir; “bu gücü meşru gösteren hikâye nedir?” sorusu da aynı derecede önemlidir.
+
 ## Kaynakça
 
 [^1]: Bu giriş bölümünün dipnotları minimaldir; sonraki bölümler her bir düşünüre detaylı atıflar verir. Egemenlik kavramının tarihi için genel referanslar: Quentin Skinner, *The Foundations of Modern Political Thought* (1978, 2 cilt); Daniel Lee, *The Right of Sovereignty: Jean Bodin on the Sovereign State and the Law of Nations* (2021).

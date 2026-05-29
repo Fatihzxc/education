@@ -42,6 +42,18 @@ Son bölüm mercekleri toparlar: hiçbir ekol ölmediğine göre, harita aslınd
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Kriz, işsizlik, talep çöküşü, enflasyon ve para güveni iktisadı piyasa dengesinin ötesinde düşünmeye zorlar.
+- **Baskın bakış:** Keynesçi veya monetarist bakış, istikrarı kuracak ana mekanizmayı kendi tarafında arar: talep yönetimi ya da para disiplini.
+- **Güçlü karşı fikir:** Hayekçi, Marxçı ve kurumsal okumalar hem müdahalenin hem disiplinin farklı toplumsal bedellerini gösterir.
+- **Doğruya yaklaşma soruları:** Sorun talep eksikliği mi, para güveni mi, kâr dinamiği mi, kurumların kırılması mı?
+- **Öğrenme desteği:** Kriz tablosu yap: işsizlik, enflasyon, faiz, kamu harcaması, para arzı.
+
+## İleri düzey okuma
+
+İleri düzeyde bu hattı devlet var mı yok mu tartışmasına indirgeme. Asıl kavga, kapitalist ekonomide istikrarın hangi mekanizma tarafından kurulacağıdır.
+
 ## Kaynakça
 
 [^1]: John Maynard Keynes, *The General Theory of Employment, Interest and Money* (Macmillan, 1936). Say Yasası'nın reddi, etkin talep, likidite tercihi ve tasarruf paradoksu için. Say Yasası'nın klasik kökeni ve Keynes'in onu nasıl çökerttiği kardeş kitap `klasik-iktisat`, Bölüm 5 (klasik makro); 1817 Ricardo-Malthus *general glut* tartışmasının bu çatışmanın atası olduğu da oradadır.

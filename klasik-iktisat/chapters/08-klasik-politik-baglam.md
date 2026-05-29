@@ -159,6 +159,18 @@ Sonraki bölüm — *J.S. Mill ve klasik sentez* — bu çelişkilerle dürüst 
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Sanayi, şehirleşme, ücretli emek, tahıl fiyatı ve imparatorluk ticareti yeni bir büyüme-bölüşüm sorusu doğurur.
+- **Baskın bakış:** İngiliz politik iktisadı, üretici sermaye, serbest ticaret ve ilerleme dili güçlü konuşur.
+- **Güçlü karşı fikir:** Marx, korumacı kalkınmacılar, işçi sınıfı ve çevre ülkeler bu evrensellik iddiasını kendi konumlarından sınar.
+- **Doğruya yaklaşma soruları:** Bu teori herkes için mi konuşuyor, yoksa belirli bir tarihsel İngiliz avantajını evrensel dil gibi mi kuruyor?
+- **Öğrenme desteği:** Üç pay tablosu tut: ücret, kâr ve rant aynı değişimden nasıl etkileniyor?
+
+## İleri düzey okuma
+
+İleri düzeyde klasik iktisadı yalnız piyasa özgürlüğünün başlangıcı gibi okuma. Bu düşünce, üretim toplumunun nasıl büyüyeceğini anlatırken aynı anda büyümenin kimler arasında paylaşılacağını da tartışır.
+
 ## Kaynakça
 
 

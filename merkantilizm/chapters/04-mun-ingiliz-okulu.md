@@ -90,6 +90,18 @@ Smith'in eleştirisini de küçümsemek gerekmez: paranın servet olmadığı, a
 
 Bir sonraki bölümde — *Colbert ve Fransız devletçiliği* — aynı mercantilist hedefin farklı bir kurumsal yapıda nasıl şekillendiğini göreceğiz. Mun'da şirket ve parlamento yasaları öne çıkarken, Colbert'te kraliyet idaresi, kalite tüzükleri ve manufactures royales belirleyici olur. İki yaklaşımın karşılaştırılması, "merkantilizm" denen şeyin neden tek tip değil **bir aile** olduğunu açıkça gösterecek.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Erken modern dünyada savaş, hazine ihtiyacı, ticaret yolları ve değerli maden kaygısı aynı anda baskı kurar.
+- **Baskın bakış:** Devlet adamı, büyük tüccar ve maliye çevresi daha görünür konuşur; güç ile refah çoğu zaman aynı şey gibi anlatılır.
+- **Güçlü karşı fikir:** Hume-Smith çizgisi, tüketici, küçük üretici ve sömürgeleştirilen halklar bu güç siyasetinin bedelini başka yerden gösterir.
+- **Doğruya yaklaşma soruları:** Bu politika toplumu mu zenginleştiriyor, devleti mi güçlendiriyor? Maliyet kimin üzerinde kalıyor?
+- **Öğrenme desteği:** Güç-refah terazisi kur: hazine, tüccar, üretici, tüketici ve dışarıda bırakılan halk aynı karardan ne kazanıyor?
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümü yalnız devlet müdahalesi tartışması gibi okuma. Merkantilist dünya, devlet kapasitesi ile piyasa oluşumunun birlikte doğduğu yerdir; bu yüzden bir politika hem üretimi örgütleyebilir hem de tekel, şiddet ve dışlama üretebilir.
+
 ## İlgili görselleştirmeler
 
 Mun ve İngiliz okulu etrafındaki figürleri ekteki playground'da derinlemesine inceleyebilirsin:

@@ -131,6 +131,18 @@ Buradaki strateji şudur: kelimeyi koruyalım, ama hem polemik gücünü (Smith'
 
 Sonraki bölümde — *Para nedir, neye yarar?* — bu ailenin en eski ortak sorusunu ele alacağız: değerli madenler. Bullionizm doktrini ne anlama gelir? Bodin'in 1568 makalesi neden modern miktar teorisinin atası sayılır? Fiyat devrimi (1500–1650) Avrupa ve Osmanlı'yı nasıl şekillendirdi? Bu sorulara cevap verirken hâlâ "merkantilizm" kelimesinin nereye oturduğunu sınamaya devam edeceğiz.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** “Merkantilizm” adı, birbirinden farklı erken modern pratikleri tek kavram altında toplama ihtiyacından doğar; sorun hem devletin zenginliği nasıl ölçtüğü hem de tarihçinin bu karmaşayı nasıl adlandırdığıdır.
+- **Baskın bakış:** Adam Smith ve onu izleyen iktisat tarihi geleneği, önceki politikaları “mercantile system” diye bir karşı-kategoriye yerleştirir.
+- **Güçlü karşı fikir:** Schmoller, Heckscher ve Magnusson bu etiketin tek bir doktrin değil; devlet kurma, ticaret dili ve iktisat düşüncesi ailesi olabileceğini gösterir.
+- **Doğruya yaklaşma soruları:** Bir kavram açıklamak için mi kullanılıyor, yoksa rakibi basitleştirmek için mi? Terimi kim kuruyor, kim bu terimin içinde kayboluyor?
+- **Öğrenme desteği:** Terim arkeolojisi yap: Smith, Heckscher ve Magnusson’u üç ayrı okuma merceği gibi düşün.
+
+## İleri düzey okuma
+
+İleri düzeyde burada terimin kendisini de bir tarihsel olay gibi oku. “Merkantilizm” kelimesi yalnız geçmişi adlandırmaz; Smith’in serbest ticaret anlatısını daha ikna edici kılan bir karşı sahne de kurar. Bu yüzden kelimeyi kullanırken iki şeyi aynı anda tutmak gerekir: evet, ortak bir aile benzerliği vardır; ama bu aileyi tek bir sert doktrine çevirmek geçmişi fazla düzleştirir.
+
 ## İlgili görselleştirmeler
 
 Terimin doğuşu ve 20. yüzyıl tarihyazımını farklı bir açıdan keşfetmek için ekteki playground'a göz atabilirsin:

@@ -153,6 +153,18 @@ Bu matris, kitabın geri kalanı için bir okuma çerçevesi sunar. Her tarihsel
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Mülkiyet, sahiplikten çok daha geniş bir soruya dayanır: kim kullanacak, kim dışarıda kalacak, kim gelir alacak, kim devredebilecek?
+- **Baskın bakış:** Modern hukuk ve piyasa dili çoğu zaman tam özel mülkiyeti normal, doğal ve en açık biçim gibi sunar.
+- **Güçlü karşı fikir:** Plato’dan Marx’a, Osmanlı toprak düzeninden Ostrom’a kadar pek çok çizgi, ortak, sınırlı, parçalı ve tarihsel mülkiyet biçimlerinin de güçlü olduğunu gösterir.
+- **Doğruya yaklaşma soruları:** Burada mülkiyet tek hak mı, yoksa haklar demeti mi? Hangi hak kimde, hangi hak başkasından esirgeniyor?
+- **Öğrenme desteği:** Dört hak sütunu kur: kullanma, gelir alma, dışlama, devretme. Her örneği bu sütunlara yerleştir.
+
+## İleri düzey okuma
+
+İleri düzeyde mülkiyeti “bir şey kime ait?” sorusuyla sınırlama. Daha derin soru, bu aidiyetin başkalarının hareket alanını nasıl düzenlediğidir. Çünkü mülkiyet yalnız sahibini tanımlamaz; dışarıda kalanların dünyasını da yeniden çizer.
+
 ## Kaynakça
 
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 81. Aristoteles'in Plato'nun ideal devlet/komünal mülkiyet tezini reddetmesi; özel mülkiyetin "doğal" olduğu argümanı *Politika* II.5'te işlenir.

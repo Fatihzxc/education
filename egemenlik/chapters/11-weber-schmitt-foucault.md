@@ -139,6 +139,18 @@ Klasik egemenlik kuramı (Bodin-Hobbes) hazırlıksız: tek-merkezli, toprak-tem
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
+- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
+- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
+- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
+- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+
+## İleri düzey okuma
+
+İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+
 ## Kaynakça
 
 [^1]: Max Weber, *Politik als Beruf* (Münih, 1919). Türkçesi: *Sosyoloji Yazıları* içinde "Meslek Olarak Siyaset", Hürriyet Vakfı Yayınları. Weber'in tanımı modern siyaset sosyolojisinin başlangıç noktası kabul edilir; yöntem üzerine bkz. Joseph Schumpeter, *History of Economic Analysis*, s. 815-820 (Weber'in çağdaşı olarak yöntem tartışması).

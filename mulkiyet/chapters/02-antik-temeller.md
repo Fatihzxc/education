@@ -121,6 +121,18 @@ Bu tarih önemli bir ders sunar. Aristoteles'in 2350 yıl önce yaptığı gözl
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Kıt kaynak, emek, miras, devlet gücü ve dışlama hakkı “kim kullanacak?” sorusunda birleşir.
+- **Baskın bakış:** Modern liberal hukuk çoğu zaman bireysel sahipliği doğal başlangıç gibi anlatır.
+- **Güçlü karşı fikir:** Rousseau, Proudhon, Marx, Osmanlı toprak rejimi ve Ostrom mülkiyetin çoğul ve tarihsel olduğunu gösterir.
+- **Doğruya yaklaşma soruları:** Burada mülkiyet sahip olma mı, kullanma mı, gelir alma mı, dışlama mı? Bu haklar kimden esirgeniyor?
+- **Öğrenme desteği:** Haklar demeti matrisi kur: kullanma, gelir alma, dışlama, devretme aynı kişide mi?
+
+## İleri düzey okuma
+
+İleri düzeyde mülkiyeti nesne ile kişi arasındaki basit bağ gibi değil, insanlar arasındaki bir düzenleme gibi oku. Bir şey “benim” olduğunda yalnız benim durumum değil, başkalarının erişimi de değişir.
+
 ## Kaynakça
 
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 81. Aristoteles'in Plato'nun ideal devlet/komünal mülkiyet tezini sistematik biçimde reddetmesi; *Politika* II.5'in temel argümanları.

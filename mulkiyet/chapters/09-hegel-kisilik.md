@@ -126,6 +126,18 @@ Bu çerçeve, 21. yüzyıl mülkiyet hukukunun gelişme istikametidir. Sıradan 
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
+- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
+- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
+- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
+- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+
+## İleri düzey okuma
+
+İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+
 ## Kaynakça
 
 [^1]: Hegel, G.W.F. (1820). *Grundlinien der Philosophie des Rechts*, §§34-71 (*Abstract Right*). İngilizce çeviri: T.M. Knox (1942), *Philosophy of Right*, Oxford University Press. Bu eser kb-mcp'de bulunmamakta; bu bölümün argümanları ikincil literatür (özellikle Allen Wood'un *Hegel's Ethical Thought* 1990) üzerinden ve doğrudan public-domain metinden inşa edilmiştir.

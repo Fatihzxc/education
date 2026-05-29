@@ -139,6 +139,18 @@ Tarihsel düzeyde — Smith'in spesifik politika tavsiyeleri (serbest ticaret, �
 
 Bu ikili okuma, bu kitabın geri kalanının çerçevesidir. Bölüm 10'da işleyeceğimiz **sömürge ve şiddet** boyutu, Smith'in 1776 eleştirisinin bile tamamen açıklayamadığı bir karanlığı gösterir — köleliğin, plantasyon emeğinin, dünya pamuk-tekstil zincirinin tarihi (Beckert'in *Empire of Cotton*). Bölüm 11 ve 12'de 20. yüzyıl yeniden okumaları ve modern endüstri politikası tartışmalarına bakacağız. Smith'in 1776'da kurduğu serbest ticaret ideali, hâlâ akademik söylemin bir parçası; ama tarihsel kayıt karmaşıktır.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Para, fiyat ve dış ticaret tartışması, zenginliğin altın stoğu mu yoksa üretim ve alım gücü mü olduğu sorusundan doğar.
+- **Baskın bakış:** Maliye ve ticaret dengesi bakışı parayı devlet gücünün görünür işareti gibi okur.
+- **Güçlü karşı fikir:** Miktar teorisi ve klasik eleştiri, para stokuyla gerçek refah arasındaki farkı açar.
+- **Doğruya yaklaşma soruları:** Burada para amaç mı, araç mı? Fiyat hareketi kimin gelirini yükseltiyor, kimin geçimini zorluyor?
+- **Öğrenme desteği:** Basit bir akış çiz: maden girişi, fiyatlar, ücretler, dış ticaret ve hazine.
+
+## İleri düzey okuma
+
+İleri düzeyde parayı yalnız teknik değişim aracı gibi okuma. Para, devletin vergi gücü, piyasanın güven ilişkisi ve halkın gündelik alım gücü arasında duran politik bir kurumdur.
+
 ## İlgili görselleştirmeler
 
 Hume-Smith eleştirisini ekteki playground'da kavram ve birincil eserler üzerinden takip edebilirsin:

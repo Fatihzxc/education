@@ -137,6 +137,18 @@ Bu yeniden-okuma haklıdır. Smith'in tarafsız tonu, çoğu zaman tarafsız son
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Smith ve klasik sentez, ticari toplumun zenginliğini para stoğundan çok üretim, işbölümü ve emek üzerinden açıklama ihtiyacından doğar.
+- **Baskın bakış:** Serbest değişim ve doğal özgürlük dili, piyasanın belirli koşullarda düzen kurabileceğini savunur.
+- **Güçlü karşı fikir:** Tekel, sınıf, sömürge ve devlet görevleri bu serbestlik anlatısının sınırlarını gösterir.
+- **Doğruya yaklaşma soruları:** Smith burada gerçekten devletsiz piyasa mı savunuyor, yoksa belirli kurumlarla işleyen bir özgürlük düzeni mi?
+- **Öğrenme desteği:** Dört kutu aç: işbölümü, emek, piyasa, devlet görevi.
+
+## İleri düzey okuma
+
+İleri düzeyde Smith’i sloganlaştırma. Onun sistemi, bireysel çıkarın toplumsal sonuçlarını anlatırken güven, hukuk, eğitim ve kamu işleri gibi piyasa dışı desteklere de dayanır.
+
 ## Kaynakça
 
 [^1]: Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book I, Chapter VIII, s. 97. ElecBook Classics. Toprağın özel mülkiyet haline gelmesinin emek ücreti üzerindeki etkisi.

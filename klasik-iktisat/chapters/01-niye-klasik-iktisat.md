@@ -96,6 +96,18 @@ Sonraki on bir bölüm boyunca klasiklerin bu yedi soruyu *nasıl* sorduğunu iz
 
 Bir kavram ağacının kökünü görmek, dallarının niye o yöne uzandığını anlamanın tek yoludur. Klasik iktisat, kapitalizmin teorik kökünün ilk sistematik kazısıdır. Kitap, o kazının on iki günlük yolculuğudur.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Klasik iktisat, sanayi kapitalizminin doğuşunda büyüme, bölüşüm, ücret, kâr, rant ve ticaret düzenini aynı anda açıklama ihtiyacından doğar.
+- **Baskın bakış:** İngiliz kanonu Smith-Ricardo-Mill hattını merkez alır ve çoğu zaman ilerleme, serbest ticaret ve üretici sermaye diliyle konuşur.
+- **Güçlü karşı fikir:** Kadınlar, işçiler, koloniler, korumacı kalkınmacılar ve Marx bu kanonun dışında kalan maliyetleri ve görünmeyen emekleri gösterir.
+- **Doğruya yaklaşma soruları:** “Klasik” dediğimiz şey doğal merkez mi, yoksa sonradan kurulmuş bir kanon mu? Kim içeride, kim dışarıda kalıyor?
+- **Öğrenme desteği:** Kanon haritası yap: içeridekiler, kenardakiler, sonradan itiraz ederek içeri girenler.
+
+## İleri düzey okuma
+
+İleri düzeyde “klasik” kelimesini tarafsız bir kalite etiketi gibi okuma. Bir düşünceye klasik demek, onun hangi sorularını merkeze alacağımızı ve hangi sesleri kenarda bırakacağımızı da belirler. Bu kitap bu yüzden hem teoriyi hem de teorinin kurduğu sahneyi izler.
+
 ## Kaynakça
 
 

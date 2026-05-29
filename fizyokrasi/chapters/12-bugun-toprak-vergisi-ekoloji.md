@@ -108,6 +108,18 @@ Bu yapısal göz kazandırırken bir kapanış uyarısını da kaçınılmaz kı
 
 Quesnay'i bugün okumak, klasik iktisat öncesi bir tuhaflığı incelemek değil — şu an olmakta olan bazı tartışmaların kökünü görmektir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
+- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
+- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
+- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
+- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+
 ## Kaynakça
 
 

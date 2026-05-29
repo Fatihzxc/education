@@ -40,6 +40,18 @@ Sonraki bölüm, aynı bombayı *etkisizleştiren* yolu izler: marjinalist devri
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
+- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
+- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
+- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
+- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+
+## İleri düzey okuma
+
+İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+
 ## Kaynakça
 
 [^1]: Karl Marx, *Das Kapital, Band I* (1867); emek/emek-gücü ayrımı ve artı-değer için özellikle 4-7. kısımlar, yedek sanayi ordusu için "Kapitalist Birikimin Genel Yasası" bölümü. Türkçe: *Kapital, Cilt I* (çeşitli baskılar). Artı-değerin emek-değer teorisinden türetiminin ayrıntılı işlenişi kardeş kitap `deger`, Bölüm 7; üretim araçları mülkiyetinin tarihsel-materyalist okuması `mulkiyet`, Bölüm 8.

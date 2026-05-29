@@ -164,6 +164,18 @@ Son iki bölüm çerçeveyi tamamlar. Bölüm 11 fizyokrasinin Devrim sonrası k
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Fransa’da tarım, vergi adaletsizliği, borç ve ekmek fiyatı aynı siyasal-ekonomik sıkışmayı büyütür.
+- **Baskın bakış:** Reformcu seçkinler, saray çevresi ve toprağı üretkenliğin merkezi sayan bakış öne çıkar.
+- **Güçlü karşı fikir:** Sanayi, emek, kentli yoksullar ve klasik/Marxçı eleştiri değerin yalnız topraktan doğmadığını hatırlatır.
+- **Doğruya yaklaşma soruları:** Doğal düzen denen şey doğanın sesi mi, yoksa belirli bir mülkiyet düzeninin dili mi? Kim rahatlıyor, kim dışarıda kalıyor?
+- **Öğrenme desteği:** Akış şeması çiz: toprak ürünü, rant, vergi, üretici sınıf ve kısır sınıf nerede duruyor?
+
+## İleri düzey okuma
+
+İleri düzeyde fizyokrasiyi yalnız “tarım önemlidir” cümlesiyle kapatma. Asıl gerilim, iktisadi düzenin kendiliğinden bir doğa yasası gibi mi, yoksa siyasal olarak kurulmuş bir mülkiyet düzeni gibi mi okunacağıdır.
+
 ## Kaynakça
 
 

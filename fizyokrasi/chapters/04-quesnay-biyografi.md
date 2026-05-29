@@ -90,6 +90,18 @@ Bu zamansal kavşak, biyografik bir anekdotun ötesinde anlam taşır. Quesnay 1
 
 Bölüm 5, *Tableau Économique*'in mimarisini tüm teknik ayrıntısıyla ele alır: üç sınıflı şema, *produit net* kavramının türetimi, zikzaklı akış mantığı ve modern milli muhasebenin Quesnay'e olan kavramsal borcu. Bölüm 6, *impôt unique* tezinin neden Quesnay'in sisteminden zorunlu olarak çıktığını gösterir. Bölüm 7, Mirabeau-Dupont-Le Mercier-Baudeau dörtlüsünün okul olarak inşasını anlatır. Bölüm 8, Turgot'nun bakanlığını ve doktrinin pratik sınavını işler. Bu dört bölüm birlikte, Méré'nin küçük toprak sahibi oğlunun, Versailles entresol'ünden bir kıtaya yayılan iktisadi düşünce sisteminin kurucusu haline gelişinin yapısal kanıtıdır. Yapı şimdi tamamlanmaya hazır; ama önce, kurucunun kendi başyapıtının iç mimarisine girmek gerekir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
+- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
+- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
+- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
+- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+
 ## Kaynakça
 
 

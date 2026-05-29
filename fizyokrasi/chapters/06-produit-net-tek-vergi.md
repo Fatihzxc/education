@@ -106,6 +106,18 @@ Soru bugün de cevapsızdır. Dijital ekonomide *konum rantı* (network effects,
 
 Sonraki bölüm — *Le Mercier de la Rivière ve despotisme légal* — *impôt unique*'in politik karşılığını, yani fizyokratların "aydınlanmış mutlakiyetçilik" doktrinini ele alacak. Bölüm 8 ise bu doktrinin Turgot tarafından kısa, başarısız ve öğretici uygulamasını izleyecek. Bu bölümde gördüğümüz teorik zarafetin Eski Rejim'in toplumsal gerçekliği karşısında nasıl ezildiğini orada daha yakından göreceğiz.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Toprak, vergi, dolaşım ve reform soruları üretkenliğin kaynağını görünür kılma ihtiyacından doğar.
+- **Baskın bakış:** Fizyokrat ve reformcu bakış, ekonomiyi doğal düzen ve akışlar halinde sadeleştirir.
+- **Güçlü karşı fikir:** Sanayi, emek ve halkın geçim güvenliği bu sade modelin dışarıda bıraktıklarını hatırlatır.
+- **Doğruya yaklaşma soruları:** Model neyi berraklaştırıyor, neyi basitleştiriyor? Toprak merkezli bakış kimin dünyasını doğal gösteriyor?
+- **Öğrenme desteği:** Akış oku çiz: üretim, rant, vergi, tüketim ve yeniden üretim.
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümü yalnız tarım savunusu gibi okuma. Burada ekonomi, ilk kez büyük bir dolaşım sistemi gibi modellenir; modelin gücü de sınırı da bu sadeleştirmededir.
+
 ## Kaynakça
 
 

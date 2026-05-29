@@ -50,6 +50,18 @@ Merkantilizmden fizyokrasiye ilk kopuş, böylece, haritanın geri kalanının d
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Her ekol, önceki açıklamanın çözemediği fiyat, kriz, sınıf, devlet veya para sorunundan doğar.
+- **Baskın bakış:** Ders kitabı çizgisi fikirleri ilerleme zinciri gibi anlatır; güç ve sınıf katmanı kolayca arkada kalır.
+- **Güçlü karşı fikir:** Anti-Whig okuma, her teoriyi hem çözdüğü problem hem de meşrulaştırdığı düzen açısından sınar.
+- **Doğruya yaklaşma soruları:** Bu geçiş hangi gerçek soruna cevap verdi? Hangi sınıfın veya devlet biçiminin dünyasını daha makul gösterdi?
+- **Öğrenme desteği:** Soy ağacı çiz: her ekolün çözdüğü soruyu ve geride bıraktığı kör noktayı yan yana yaz.
+
+## İleri düzey okuma
+
+İleri düzeyde haritayı doğru teoriye doğru yürüyüş gibi değil, farklı tarihsel baskılara verilmiş cevapların birikimi gibi oku. Bir ekol eskidiğinde bile, doğduğu sorun geri geldiğinde yeniden konuşmaya başlar.
+
 ## Kaynakça
 
 [^1]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Kitap IV, "Of the Mercantile System". "Merkantilizm"in tek-yazarlı bir ekol değil, sonradan inşa edilmiş bir kategori olduğu tezi için: Lars Magnusson, *Mercantilism: The Shaping of an Economic Language* (Routledge, 1994). Merkantilist literatürün dağınıklığı ve ortak sezgileri için kardeş kitap `merkantilizm`, özellikle Mun (Bölüm 4) ve Colbert (Bölüm 5).

@@ -13,6 +13,7 @@
  *   description     1-2 sentence card body (longer than subtitle)
  *   chapterCount    integer, used for "N bölüm" badge
  *   status          'completed' | 'draft' | 'pending'
+ *   method          root/counter-reading hints displayed on the landing card
  *   primaryAuthors  array of strings (used for search hints, not displayed)
  *
  * Expose: window.MerkantilizmThemes
@@ -28,6 +29,12 @@
       description: 'Osmanlı ve Batı perspektifinden, Mun ve Colbert\'ten Genç ve İbn Haldun\'a uzun-form okuma.',
       chapterCount: 12,
       status: 'completed',
+      method: {
+        root: 'Savaş devleti, hazine ihtiyacı, okyanus ticareti ve gümrük rekabeti aynı anda büyür.',
+        dominant: 'Devlet adamı ve büyük tüccar sesi güçlüdür; güvenlik ve güç, refahtan ayrı düşünülmez.',
+        counter: 'Smith-Hume çizgisi, altını servet sanmanın ve tekelleri korumanın toplumu fakirleştirdiğini söyler.',
+        aid: 'Güç-refah terazisiyle oku: her politika kime güvenlik, kime maliyet getiriyor?'
+      },
       primaryAuthors: ['Mun', 'Smith', 'Colbert', 'Genç', 'Pamuk', 'İbn Haldun'],
     },
     {
@@ -37,6 +44,12 @@
       description: 'Doğal düzen, toprak, akış — Quesnay\'in Tableau\'sundan Turgot reformlarına, Smith\'in mirasından bugünkü ekolojik iktisada.',
       chapterCount: 12,
       status: 'draft',
+      method: {
+        root: 'Fransa’da vergi adaletsizliği, tarımsal üretim, borç ve ekmek fiyatı aynı düğümde sıkışır.',
+        dominant: 'Toprağı üretken kaynağın merkezi sayan reformcu saray çevresi ve toprak sahibi bakışı öne çıkar.',
+        counter: 'Smith, Marx ve sanayi çağının iktisatçıları değerin yalnız tarımdan doğmadığını gösterir.',
+        aid: 'Akış şemasıyla oku: ürün, rant, vergi ve tüketim hangi halkadan geçiyor?'
+      },
       primaryAuthors: ['Cantillon', 'Quesnay', 'Mirabeau', 'Turgot', 'Du Pont de Nemours', 'Smith', 'Marx', 'Henry George'],
     },
     {
@@ -46,6 +59,12 @@
       description: '1776 Wealth of Nations\'tan 1870 marjinal devrime — bir okulun yükselişi ve dağılışı; Smith, Malthus, Ricardo, Mill, Marx, klasik makro, büyüme, Osmanlı alımlaması.',
       chapterCount: 12,
       status: 'draft',
+      method: {
+        root: 'Sanayi, şehirleşme, ücretli emek, tahıl yasaları ve imparatorluk ticareti yeni bir düzen sorusu doğurur.',
+        dominant: 'Üretici sermaye, serbest ticaret ve ilerleme dili güçlü konuşur; kanon çoğu zaman İngiliz deneyimini merkez alır.',
+        counter: 'Marx, korumacı kalkınmacılar ve Osmanlı okurları bu evrensellik iddiasını kendi konumlarından sınar.',
+        aid: 'Bölüşüm tablosuyla oku: ücret, kâr ve rant aynı büyümeden ne kadar pay alıyor?'
+      },
       primaryAuthors: ['Smith', 'Malthus', 'Ricardo', 'J.S. Mill', 'Marx', 'Engels', 'Jevons', 'Walras', 'Menger', 'Mehmed Cavid Bey', 'Sraffa', 'Piketty'],
     },
     {
@@ -55,6 +74,12 @@
       description: 'Emek-değer, marjinalizm, kapabiliteler — değerin antik kökeninden 21. yüzyıla.',
       chapterCount: 12,
       status: 'completed',
+      method: {
+        root: 'İnsanlar “bir şey neye değer?” derken fayda, emek, fiyat ve adaleti aynı kelimeye sığdırmaya çalışır.',
+        dominant: 'Kimi dönem üretici/emek, kimi dönem tüketici/tercih, kimi dönem adalet dili baskın hale gelir.',
+        counter: 'Emek-değer, marjinal fayda, Sraffa ve Sen birbirinin kör noktasını gösteren karşı okumalar sunar.',
+        aid: 'Üçlü ayrımla oku: kullanım değeri, değişim değeri ve adil değer aynı şey mi?'
+      },
       primaryAuthors: ['Aristoteles', 'Aquinas', 'Smith', 'Ricardo', 'Marx', 'Menger', 'Jevons', 'Marshall', 'Sen'],
     },
     {
@@ -64,6 +89,12 @@
       description: 'Sahiplik, ortak alan, emek-mixing, hukuksal kurum — mülkiyetin yirmi beş asırlık seyri.',
       chapterCount: 12,
       status: 'completed',
+      method: {
+        root: 'Toprak, emek, miras, devlet ve ortak kaynaklar “kim kullanacak, kim dışlanacak?” sorusunda birleşir.',
+        dominant: 'Liberal hukuk çoğu zaman bireysel sahipliği doğal başlangıç gibi anlatır.',
+        counter: 'Rousseau, Proudhon, Marx, Osmanlı toprak rejimi ve Ostrom mülkiyetin tarihsel ve çoğul olduğunu gösterir.',
+        aid: 'Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama ve devretme her zaman birlikte mi?'
+      },
       primaryAuthors: ['Aristoteles', 'Aquinas', 'İbn Haldun', 'Locke', 'Smith', 'Marx', 'Hegel', 'Proudhon', 'Ostrom'],
     },
     {
@@ -73,6 +104,12 @@
       description: 'Egemenliğin antik kökeninden modern devlete — Bodin, Hobbes, Hegel, Weber, Schmitt, Foucault hattı.',
       chapterCount: 12,
       status: 'completed',
+      method: {
+        root: 'Savaş, hukuk, din, vergi ve itaat soruları “son sözü kim söyler?” düğümünde toplanır.',
+        dominant: 'Devlet merkezli anlatı düzen ve güvenliği öne çıkarır; egemenliği çoğu zaman tek merkezde arar.',
+        counter: 'Locke, Rousseau, Osmanlı pratikleri, Weber ve Foucault egemenliğin sınır, meşruiyet ve ilişki tarafını açar.',
+        aid: 'Üç eksenli haritayla oku: özne kim, kapsam ne, sınır nerede?'
+      },
       primaryAuthors: ['Aristoteles', 'İbn Haldun', 'Machiavelli', 'Bodin', 'Hobbes', 'Locke', 'Rousseau', 'Hegel', 'Weber', 'Schmitt', 'Foucault'],
     },
     {
@@ -82,6 +119,12 @@
       description: 'Bir soy ağacı ve tek bir mercek: her teorik geçiş hem analitik ilerleme hem sınıf-meşrulaştırması. Merkantilizm, fizyokrasi, klasik, Marx, marjinalizm, neoklasik, Keynes, monetarizm — sentez ve eleştiri.',
       chapterCount: 8,
       status: 'draft',
+      method: {
+        root: 'Her yeni ekol, önceki açıklamanın çözemediği fiyat, sınıf, kriz veya devlet sorunundan doğar.',
+        dominant: 'Ders kitabı çizgisi teorileri ilerleme zinciri gibi anlatır; sınıf ve güç katmanı kolayca görünmez kalır.',
+        counter: 'Anti-Whig okuma, her teoriyi hem açıklama gücü hem meşrulaştırdığı düzen açısından sınar.',
+        aid: 'Soy ağacıyla oku: bir ekol hangi soruyu çözdü, hangi soruyu perdeledi?'
+      },
       primaryAuthors: ['Quesnay', 'Smith', 'Ricardo', 'Marx', 'Jevons', 'Menger', 'Walras', 'Marshall', 'Keynes', 'Friedman', 'Hayek'],
     },
     {
@@ -91,6 +134,12 @@
       description: 'Tarihi tek çizgi gibi değil, bölge x dönem x mercek matrisi olarak okuma denemesi: ekonomi, devlet, savaş, düşünce, din, teknoloji ve ekoloji aynı tabloda.',
       chapterCount: 12,
       status: 'draft',
+      method: {
+        root: 'Bölgeler aynı anda farklı ekoloji, savaş, ticaret, din ve devlet kapasitesi baskıları altında değişir.',
+        dominant: 'Tek çizgili dünya tarihi çoğu zaman Avrupa merkezli kronolojiyi doğal akış gibi sunar.',
+        counter: 'Bölgesel ve karşılaştırmalı okuma, aynı dönemde farklı toplumların farklı zorunluluklarla düşündüğünü gösterir.',
+        aid: 'Matrisle oku: bölge, dönem, ekonomi, siyaset, savaş ve gündelik hayatı aynı anda işaretle.'
+      },
       primaryAuthors: ['İbn Haldun', 'Braudel', 'McNeill', 'Bayly', 'Pomeranz', 'Tilly', 'Hodgson', 'Abu-Lughod'],
     },
   ];

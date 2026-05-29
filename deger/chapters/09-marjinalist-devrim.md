@@ -142,6 +142,18 @@ Bu, marjinalist devrimin paradoksal mirasıdır. Bir tarafta, ekonomi soruların
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
+- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
+- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
+- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
+- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+
+## İleri düzey okuma
+
+İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+
 ## Kaynakça
 
 [^1]: Walras, L. (1874). *Eléments d'économie politique pure*, 20me Leçon, s. 234. "Üretim denklemleri" — üretim faktörleri ile mal-talebi arasındaki eş-zamanlı denklemler.

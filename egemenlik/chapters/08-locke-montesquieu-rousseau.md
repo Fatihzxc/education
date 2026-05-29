@@ -142,6 +142,18 @@ Bu örüntü, Montesquieu'nun 1748'deki çerçevesinin temel bir sınırını or
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
+- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
+- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
+- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
+- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+
+## İleri düzey okuma
+
+İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+
 ## Kaynakça
 
 [^1]: Locke, J. (1690). *Two Treatises of Government*. Mülkiyet kitabı Bölüm 5'te detaylı işlendi. *Of Civil Government* II §§87-89, 95-99, 134-142 — sosyal sözleşme, yasama yetkisinin sınırları, ayaklanma hakkı.

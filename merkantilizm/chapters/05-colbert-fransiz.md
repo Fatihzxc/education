@@ -138,6 +138,18 @@ Bu paralellikleri kurmak Colbert'i ister romantize etmek ister yermek anlamına 
 
 Bölüm 4 İngiliz mercantilizminin **şirket** odaklı yüzünü, Bölüm 5 Fransız mercantilizminin **bürokrasi** odaklı yüzünü işledi. Sıradaki bölüm — *Cameralism ve Orta Avrupa* — üçüncü bir varyantı ele alacak: Habsburg-Alman geleneğinde **devlet maliyesi merkezli** mercantilist çerçeve. Hörnigk'in 1684'teki *Österreich über alles, wann es nur will*'i ve Cameralizm okulunun teorisyenleri, Avrupa mercantilizminin Doğu Avrupa-Orta Avrupa boyutunu temsil ederler. Bu üç model — İngiliz, Fransız, Cameralist — Avrupa mercantilizminin pratik formlarının zenginliğini gösterir. Bölüm 7'de işlediğimiz Osmanlı sistemi, bu zenginliğin dışında, **kendi başına bir model** olarak duruyordu — şimdi Cameralism üzerinden, Avrupa içindeki çeşitliliğin son boyutunu görelim.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Erken modern dünyada savaş, hazine ihtiyacı, ticaret yolları ve değerli maden kaygısı aynı anda baskı kurar.
+- **Baskın bakış:** Devlet adamı, büyük tüccar ve maliye çevresi daha görünür konuşur; güç ile refah çoğu zaman aynı şey gibi anlatılır.
+- **Güçlü karşı fikir:** Hume-Smith çizgisi, tüketici, küçük üretici ve sömürgeleştirilen halklar bu güç siyasetinin bedelini başka yerden gösterir.
+- **Doğruya yaklaşma soruları:** Bu politika toplumu mu zenginleştiriyor, devleti mi güçlendiriyor? Maliyet kimin üzerinde kalıyor?
+- **Öğrenme desteği:** Güç-refah terazisi kur: hazine, tüccar, üretici, tüketici ve dışarıda bırakılan halk aynı karardan ne kazanıyor?
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümü yalnız devlet müdahalesi tartışması gibi okuma. Merkantilist dünya, devlet kapasitesi ile piyasa oluşumunun birlikte doğduğu yerdir; bu yüzden bir politika hem üretimi örgütleyebilir hem de tekel, şiddet ve dışlama üretebilir.
+
 ## İlgili görselleştirmeler
 
 Colbert'in Fransız devletçiliğini ekteki playground'da kurumlar ve olaylar üzerinden somutlaştırabilirsin:

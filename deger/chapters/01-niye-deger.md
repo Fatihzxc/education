@@ -136,6 +136,18 @@ Aynı tablo, bir kez ek bir senaryo eklediğinizde — diyelim ki çölde 0 bard
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** “Değer” kelimesi fayda, fiyat, emek ve adalet sorularını aynı anda taşıdığı için iktisat tarihinde sürekli yeniden açılan bir düğüm olur.
+- **Baskın bakış:** Her okul kendi merkezini öne çıkarır: kimi emek ve üretimi, kimi fayda ve tercihi, kimi de insanın gerçek yaşam imkânını.
+- **Güçlü karşı fikir:** Rakip değer teorileri, tek bir merkezin her şeyi açıklayamayacağını gösterir; emek-değer marjinal faydayı, marjinal fayda emek-değeri, Sen ise ikisini de yaşam imkânı açısından sınar.
+- **Doğruya yaklaşma soruları:** Bu metin değer derken hangi soruyu cevaplıyor: ne işe yarar, neye değişilir, ne kadar emek ister, ne adildir?
+- **Öğrenme desteği:** Dört anlam kartı aç: kullanım, değişim, emek, adalet. Her bölümde hangisinin ağır bastığını işaretle.
+
+## İleri düzey okuma
+
+İleri düzeyde değer tartışmasını teknik fiyat teorisi gibi değil, toplumun neyi önemli saydığına dair derin bir kavga gibi oku. Bir şeyin değeri sorulduğunda aslında insan emeğinin, ihtiyacın, kıtlığın ve adalet duygusunun nasıl tartılacağı sorulur.
+
 ## Kaynakça
 
 [^1]: Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book I, Chapter IV, s. 48. ElecBook Classics edisyonu.

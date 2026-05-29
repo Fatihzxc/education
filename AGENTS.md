@@ -16,6 +16,7 @@ Uygulama standardı:
 - "Çünkü", "bu yüzden", "buradan şu sonuç çıkar", "bunu şöyle düşünebiliriz" gibi akıl yürütme bağlarını görünür kıl.
 - Pane/mini kitap bölümlerinde temel anlatım kurulduktan sonra ayrıca **"İleri düzey okuma"** katmanı ekle. Bu katman daha derin mekanizmayı, görünmeyen varsayımı, teori içi gerilimi veya tarihsel-politik sonucu açmalı; akademikleşmeden okuru bir seviye yukarı taşımalıdır.
 - Fikir akımlarını anlatırken ayrıca **"Kök sebep ve karşı okuma"** merceği kullan. Her ana pane/bölüm okura en az şu dört şeyi görünür kılmalı: fikri doğuran maddi-siyasal-toplumsal problem, bu fikrin kimin gözünden makul göründüğü, ona güçlü biçimde itiraz eden karşı fikir, ve okurun doğruya yaklaşmak için soracağı açık kontrol soruları.
+- Ana sayfa kitap kartları da yalnızca link listesi gibi kalmamalı; her kitap için kök sebep, baskın bakış, karşı fikir ve öğrenme desteği kısa bir okuma pusulası olarak görünmelidir.
 - Kazananların, devletlerin, sömürgeci güçlerin, sınıf olarak güçlü olanların veya sonradan ders kitabını yazanların bakışını varsayılan hakikat gibi sunma. Anlatıda hangi tarafın sesi baskınsa bunu açıkça işaretle; görünmeyen tarafın ne söyleyebileceğini de ekle.
 - Roman, gazete, halk anlatısı, gündelik hayat ve kamunun gözü gibi malzemeleri yalnızca süs olarak değil, dönemin nasıl hissedildiğini anlamak için kullan.
 - Skill'in teknik olarak bulunmadığı CLI'larda aynı standardı elle uygula ve gerekirse review notunda bunu belirt.

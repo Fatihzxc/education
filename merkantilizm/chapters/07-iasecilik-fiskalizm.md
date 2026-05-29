@@ -152,6 +152,18 @@ Buradan çıkan ders bugün bile geçerlidir. Modern sanayi politikası, gıda g
 
 Sonraki bölümde — *İbn Haldun: dışarıdan bir bakış* — bu Osmanlı çerçevesinin **arka planındaki teorik düşünür** olan İbn Haldun'a döneceğiz. Mukaddime, hem Osmanlı düşüncesini etkilemiş hem de 20. yüzyılda Schumpeter ve Reinert tarafından "iktisat tarihinin gerçek başlangıcı" olarak yeniden keşfedilmiştir. İbn Haldun'un asabiyye, ümran, vergi-devlet döngüsü kavramları, Genç'in üç ilke modelinin entelektüel ön tarihini sunar.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Osmanlı ve İbn Haldun hattında ekonomi, devlet, vergi, geçim ve toplumsal düzen birbirinden ayrılmadan düşünülür.
+- **Baskın bakış:** Modern Avrupa merkezli okuma, bu deneyimi çoğu zaman gecikmiş veya eksik uyarlama gibi görmeye yatkındır.
+- **Güçlü karşı fikir:** Kendi kurumları içinden okuma, farklı telosların yani farklı amaç düzenlerinin mümkün olduğunu gösterir.
+- **Doğruya yaklaşma soruları:** Burada aynı problem mi çözülüyor, yoksa Avrupa kavramıyla görünmeyen başka bir amaç mı var?
+- **Öğrenme desteği:** Karşılaştırma tablosu kur: Avrupa kavramı, Osmanlı/İbn Haldun karşılığı, değişen amaç.
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümleri Avrupa çizgisinin kenar notu gibi okuma. Başka kurumlar aynı iktisadi soruyu farklı bir düzen, geçim ve meşruiyet anlayışıyla cevaplayabilir.
+
 ## İlgili görselleştirmeler
 
 Genç'in üçlü çerçevesini ekteki playground'da kavram kavram inceleyebilir, modern yansımalarına bakabilirsin:

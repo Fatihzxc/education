@@ -154,6 +154,18 @@ Bu çerçeve, modern ABD politik tartışmasının önemli bir teorik temelidir.
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
+- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
+- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
+- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
+- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+
+## İleri düzey okuma
+
+İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+
 ## Kaynakça
 
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 142. Locke'un mülkiyet teorisinin özeti: her insanın kendi bedenine sahip olması üzerinden emek-mixing argümanı. Locke'un *Two Treatises of Government* (1690) metni kb-mcp'de bulunmadığı için bu bölüm büyük ölçüde Schumpeter'ın özeti + ikincil literatür üzerinden inşa edilmiştir.

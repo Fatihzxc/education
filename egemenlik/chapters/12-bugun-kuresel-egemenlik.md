@@ -128,6 +128,18 @@ Egemenlik kavramının hikâyesi henüz bitmedi. 21. yüzyıl, yeni cevaplar —
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
+- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
+- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
+- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
+- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+
+## İleri düzey okuma
+
+İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+
 ## Kaynakça
 
 [^1]: Karl Polanyi, *The Great Transformation* (1944), Boston: Beacon Press. Türkçesi *Büyük Dönüşüm*, İletişim Yayınları. Polanyi'nin "çifte hareket" tezi: piyasanın yayılması, kaçınılmaz olarak toplumun kendini koruma karşı-hareketini doğurur. 2008 krizi ve sonrası bu tezin canlılığını gösterdi; bkz. ayrıca Dani Rodrik, *The Globalization Paradox* (2011) ve *Straight Talk on Trade* (2017).

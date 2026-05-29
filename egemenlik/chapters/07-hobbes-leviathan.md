@@ -151,6 +151,18 @@ Bu, kalıcı bir egemenlik dönüşümünün mü, yoksa geçici bir kriz tepkisi
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
+- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
+- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
+- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
+- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+
+## İleri düzey okuma
+
+İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+
 ## Kaynakça
 
 [^1]: Hobbes, T. (1651). *Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civill*. London. Public domain metni gutenberg.org'da bulunmaktadır. Türkçe çeviri: Semih Lim (Yapı Kredi Yayınları, 1993). Bu kitap kb-mcp'de bulunmamakta; bu bölümün argümanları doğrudan public-domain metinden ve ikincil literatürden — özellikle Quentin Skinner *Reason and Rhetoric in the Philosophy of Hobbes* (1996) — inşa edilmiştir.

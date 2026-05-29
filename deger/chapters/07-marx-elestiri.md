@@ -179,6 +179,18 @@ Bu çerçeve, Marx'ın *Kapital*'ini bir tarihsel-belge olarak değil, *yapısal
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
+- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
+- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
+- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
+- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+
+## İleri düzey okuma
+
+İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+
 ## Kaynakça
 
 [^1]: Marx, K. (1867). *Capital: A Critique of Political Economy — Volume I*, Bölüm I.1, s. 18. Mübadelenin kullanım-değerden tam soyutlanma olduğu tezi; "ortak olan ne ise o değerdir" argümanının açılışı.

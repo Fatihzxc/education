@@ -48,6 +48,18 @@ Sonraki iki bölüm, klasiğin bıraktığı bombayı iki ayrı yönde patlatan 
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Smith ve klasik sentez, ticari toplumun zenginliğini para stoğundan çok üretim, işbölümü ve emek üzerinden açıklama ihtiyacından doğar.
+- **Baskın bakış:** Serbest değişim ve doğal özgürlük dili, piyasanın belirli koşullarda düzen kurabileceğini savunur.
+- **Güçlü karşı fikir:** Tekel, sınıf, sömürge ve devlet görevleri bu serbestlik anlatısının sınırlarını gösterir.
+- **Doğruya yaklaşma soruları:** Smith burada gerçekten devletsiz piyasa mı savunuyor, yoksa belirli kurumlarla işleyen bir özgürlük düzeni mi?
+- **Öğrenme desteği:** Dört kutu aç: işbölümü, emek, piyasa, devlet görevi.
+
+## İleri düzey okuma
+
+İleri düzeyde Smith’i sloganlaştırma. Onun sistemi, bireysel çıkarın toplumsal sonuçlarını anlatırken güven, hukuk, eğitim ve kamu işleri gibi piyasa dışı desteklere de dayanır.
+
 ## Kaynakça
 
 [^1]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776). Smith'in beş-cilt mimarisinin, işbölümü-değer-dağılım zincirinin ve Glasgow tüccar çevresiyle bağının ayrıntılı analizi kardeş kitap `klasik-iktisat`, Bölüm 2; Mısır Yasaları, Anti-Corn-Law League ve serbest ticaretin sınıf-politikası Bölüm 7-8'dedir.

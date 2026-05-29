@@ -122,6 +122,18 @@ Sonraki on bir bölüm o hikâyedir.
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Fizyokrasi, borçlu, ayrıcalıklı ve vergi bakımından dengesiz Fransa’da üretkenliğin gerçek kaynağını bulma arzusundan doğar.
+- **Baskın bakış:** Reformcu seçkinler ve saray çevresindeki uzmanlar, toprağı ekonominin canlı kaynağı gibi görür; düzenin akılla sadeleştirilebileceğine inanır.
+- **Güçlü karşı fikir:** Sanayi, emek, kentli yoksullar ve Marxçı/klasik eleştiri, değeri yalnız topraktan türetmenin modern üretimi daralttığını söyler.
+- **Doğruya yaklaşma soruları:** Toprak gerçekten tek üretken kaynak mı, yoksa dönemin Fransa’sında en görünür ve en vergilenebilir kaynak olduğu için mi öne çıkıyor?
+- **Öğrenme desteği:** Bir Fransa gerilim haritası kur: köylü, soylu, kral, vergi memuru, tüccar ve ekmek fiyatı aynı tabloda dursun.
+
+## İleri düzey okuma
+
+İleri düzeyde fizyokratları yalnız tarım romantikleri gibi okuma. Onlar, karmaşık ayrıcalıklar toplumunda tek ve okunabilir bir iktisadi düzen bulmaya çalışırlar. Bu arayış hem öğreticidir hem de risklidir: karmaşayı azaltır, ama bazı sınıfların ve üretim biçimlerinin sesini de kısabilir.
+
 ## Kaynakça
 
 

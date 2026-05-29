@@ -141,6 +141,18 @@ Cevap, sadece olguların incelenmesinden çıkmaz; teorik çerçeveden çıkar. 
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Mülkiyetin bireysel hak, ortak kaynak, kişilik, kurum ve dışlama gücü olarak farklılaşması temel gerilimi doğurur.
+- **Baskın bakış:** Modern hukuk ve piyasa dili sahipliği düzen, yatırım ve özgürlük şartı gibi anlatır.
+- **Güçlü karşı fikir:** Ortak alan, eşitsizlik, sınıf ve ekoloji eleştirileri mülkiyetin dışlama ve tahakküm tarafını görünür kılar.
+- **Doğruya yaklaşma soruları:** Bu hak kimi koruyor, kimi dışarıda bırakıyor? Kaynak özel hakka mı, ortak yönetime mi daha uygun?
+- **Öğrenme desteği:** Haklar demeti matrisiyle oku: kullanma, gelir alma, dışlama, devretme.
+
+## İleri düzey okuma
+
+İleri düzeyde mülkiyet biçimini kaynağın doğasıyla birlikte düşün. Toprak, yazılım, atmosfer ve ortak otlak aynı dışlama mantığıyla yönetildiğinde farklı türden zararlar doğurur.
+
 ## Kaynakça
 
 [^1]: Rousseau, J.-J. (1755). *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*, II. kısım açılış pasajı. Public domain metni gutenberg.org'da bulunmaktadır. Bu kitap kb-mcp'de yer almamakta; bu bölümün argümanları ikincil literatür (Hirschman 1977 *Passions and Interests* dahil) üzerinden ve doğrudan public-domain metinden inşa edilmiştir.

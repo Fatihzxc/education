@@ -123,6 +123,18 @@ Bu tablo, mercantilizmin **tek bir doktrin değil bir aile** olduğunu (Bölüm 
 
 Bir sonraki bölüm — *Hume, Smith ve klasik eleştiri* — bu üç modele yapılan **18. yüzyıl eleştirisini** ayrıntılı ele alacak. Hume'un price-specie-flow mekanizması, Smith'in *Wealth of Nations* Kitap IV polemikleri, ve bu eleştirilerin ne ölçüde tüm mercantilist modelleri vurduğunu, ne ölçüde sadece bullionist katmana isabet ettiğini değerlendireceğiz.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Erken modern dünyada savaş, hazine ihtiyacı, ticaret yolları ve değerli maden kaygısı aynı anda baskı kurar.
+- **Baskın bakış:** Devlet adamı, büyük tüccar ve maliye çevresi daha görünür konuşur; güç ile refah çoğu zaman aynı şey gibi anlatılır.
+- **Güçlü karşı fikir:** Hume-Smith çizgisi, tüketici, küçük üretici ve sömürgeleştirilen halklar bu güç siyasetinin bedelini başka yerden gösterir.
+- **Doğruya yaklaşma soruları:** Bu politika toplumu mu zenginleştiriyor, devleti mi güçlendiriyor? Maliyet kimin üzerinde kalıyor?
+- **Öğrenme desteği:** Güç-refah terazisi kur: hazine, tüccar, üretici, tüketici ve dışarıda bırakılan halk aynı karardan ne kazanıyor?
+
+## İleri düzey okuma
+
+İleri düzeyde bu bölümü yalnız devlet müdahalesi tartışması gibi okuma. Merkantilist dünya, devlet kapasitesi ile piyasa oluşumunun birlikte doğduğu yerdir; bu yüzden bir politika hem üretimi örgütleyebilir hem de tekel, şiddet ve dışlama üretebilir.
+
 ## İlgili görselleştirmeler
 
 Cameralism ve Habsburg-Alman geleneğini ekteki playground'da somut metin ve kavramlarla derinleştirebilirsin:

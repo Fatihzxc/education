@@ -162,6 +162,18 @@ Ricardo'nun *Principles*'ından sonra klasik iktisat iki ana çizgide ilerler �
 
 Ricardo'nun *Principles*'ı, klasik iktisat literatürünün en yoğun-yapılaştırılmış metni olmakla kalmaz; sonraki iki yüz yıllık iktisat tarihinin bir matrisini sağlar. Marx onu radikalleştirdi, Mill onu liberalleştirdi, marjinalistler onu terketti, Sraffa onu rehabilite etti — ama her durumda *Principles*'ın 1817'deki bina taşları (emek-değer, diferansiyel rant, ücret-kâr-rant ters ilişkisi, karşılaştırmalı üstünlük, *currency principle*) modern iktisadi düşüncenin bir parçası olarak hâlâ canlıdır. Ricardo borsadan teoriye geçen bir adamdı; ama o teori, bugün hâlâ konuşulan bir teoridir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
+- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
+- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
+- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
+- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+
+## İleri düzey okuma
+
+İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+
 ## Kaynakça
 
 

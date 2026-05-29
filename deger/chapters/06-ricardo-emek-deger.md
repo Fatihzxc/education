@@ -166,6 +166,18 @@ Bu modern uzantılar, Ricardo'nun 1817'deki üç-toprak modelinin doğrudan toru
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek, ücret, kâr, rant ve üretim araçları arasındaki gerilim klasik düşünceyi sınıf ve sömürü sorusuna taşır.
+- **Baskın bakış:** Emek ve üretim ilişkileri merkezli bakış, fiyatların arkasındaki toplumsal düzeni görünür kılar.
+- **Güçlü karşı fikir:** Marjinalist, liberal ve kurumsal okumalar değeri tercih, risk, sermaye ve koordinasyon üzerinden açıklamaya çalışır.
+- **Doğruya yaklaşma soruları:** Kâr nereden geliyor? Üretken örgütlenmeden mi, mülkiyet gücünden mi, ödenmeyen emekten mi?
+- **Öğrenme desteği:** Paylaşım şeması çiz: ürün, ücret, kâr, rant ve artı pay.
+
+## İleri düzey okuma
+
+İleri düzeyde emek-değer hattını yalnız eski bir fiyat teorisi gibi okuma. Bu hat, üretimin sonucunun kimler arasında ve hangi güç ilişkisiyle paylaşıldığını sormamızı sağlar.
+
 ## Kaynakça
 
 [^1]: Ricardo, D. (1817). *On the Principles of Political Economy and Taxation*, Chapter I, s. 1. Açılış cümlesi; emek-değer teoremini Smith'in dağınık formülasyonundan daha sıkı bir teoreme dönüştürür.

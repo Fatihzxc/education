@@ -90,6 +90,18 @@ Malthus'tan iki yüzyıl sonra, onun sorusunu — *bir toplumun büyüme arzusu,
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Yoksulluk, gıda üretimi ve nüfus artışı arasındaki gerilim sınır düşüncesini doğurur.
+- **Baskın bakış:** Nüfus baskısı dili, yoksulluğu doğal sınır ve davranış sorunu gibi açıklamaya yatkındır.
+- **Güçlü karşı fikir:** Dağılım, teknoloji, kadın emeği ve kurumlar odaklı eleştiri, yoksulluğu yalnız nüfusla açıklamayı reddeder.
+- **Doğruya yaklaşma soruları:** Doğa gerçekten sınır mı koyuyor, yoksa toplumsal eşitsizlik doğa diliyle mi anlatılıyor?
+- **Öğrenme desteği:** Üç eğri düşün: nüfus, gıda, teknoloji/kurumlar.
+
+## İleri düzey okuma
+
+İleri düzeyde Malthus’u karikatür gibi okuma. Onun gücü sınırsız iyimserliği frenlemesindedir; zayıflığı ise toplumsal düzenin değişebilirliğini çoğu zaman yeterince açmamasındadır.
+
 ## Kaynakça
 
 

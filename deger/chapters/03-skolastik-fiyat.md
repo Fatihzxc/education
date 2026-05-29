@@ -141,6 +141,18 @@ Aquinas'ın "adil-fiyat" çerçevesinin modern dönüşümleri her gün karşım
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Para, fiyat ve dış ticaret tartışması, zenginliğin altın stoğu mu yoksa üretim ve alım gücü mü olduğu sorusundan doğar.
+- **Baskın bakış:** Maliye ve ticaret dengesi bakışı parayı devlet gücünün görünür işareti gibi okur.
+- **Güçlü karşı fikir:** Miktar teorisi ve klasik eleştiri, para stokuyla gerçek refah arasındaki farkı açar.
+- **Doğruya yaklaşma soruları:** Burada para amaç mı, araç mı? Fiyat hareketi kimin gelirini yükseltiyor, kimin geçimini zorluyor?
+- **Öğrenme desteği:** Basit bir akış çiz: maden girişi, fiyatlar, ücretler, dış ticaret ve hazine.
+
+## İleri düzey okuma
+
+İleri düzeyde parayı yalnız teknik değişim aracı gibi okuma. Para, devletin vergi gücü, piyasanın güven ilişkisi ve halkın gündelik alım gücü arasında duran politik bir kurumdur.
+
 ## Kaynakça
 
 [^1]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.77 A.1, s. 3589. Adil-fiyat sorusunun açılışı: "Bir şeyi değerinden fazlaya satmak meşru mudur?"

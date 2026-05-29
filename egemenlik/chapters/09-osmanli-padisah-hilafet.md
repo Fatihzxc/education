@@ -171,6 +171,18 @@ Bu örüntü, modern egemenlik sisteminin (Westphalia) *yapısal bir kazanımı*
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Düzen, savaş, hukuk ve güvenlik sorusu düşünceyi devlet ve egemenlik problemine taşır.
+- **Baskın bakış:** Devletin kendi bakışı güvenlik, süreklilik ve karar alma ihtiyacını merkeze koyar.
+- **Güçlü karşı fikir:** Sınırlı iktidar, yerel toplum, bireysel hak ve iktidar-ağı eleştirileri devlet merkezli sesi dengeler.
+- **Doğruya yaklaşma soruları:** Kim karar veriyor, hangi hakla karar veriyor, kararın bedeli kime çıkıyor?
+- **Öğrenme desteği:** Üçlü şema kur: karar veren, kararın alanı, kararı sınırlayan güç.
+
+## İleri düzey okuma
+
+İleri düzeyde devleti yalnız baskı aygıtı ya da yalnız düzen sağlayıcı olarak okuma. Aynı kurum hem güvenlik üretir hem de insanların hayatını ölçülebilir, vergilendirilebilir ve yönetilebilir hale getirir.
+
 ## Kaynakça
 
 [^1]: Türk-Moğol egemenlik geleneği ve Türk-İslâm sentezi için klasik referans: Halil İnalcık, *Osmanlı'da Devlet, Hukuk ve Adalet* (2000); Cemal Kafadar, *Between Two Worlds: The Construction of the Ottoman State* (1995). İnalcık-Quataert *Economic and Social History* kb-mcp'de mevcut.

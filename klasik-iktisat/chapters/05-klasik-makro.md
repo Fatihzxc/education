@@ -106,6 +106,18 @@ Bu çoklu hayatta kalış, doktrinin gücünü ve sınırlarını birlikte yans�
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Kriz, işsizlik, talep çöküşü, enflasyon ve para güveni iktisadı piyasa dengesinin ötesinde düşünmeye zorlar.
+- **Baskın bakış:** Keynesçi veya monetarist bakış, istikrarı kuracak ana mekanizmayı kendi tarafında arar: talep yönetimi ya da para disiplini.
+- **Güçlü karşı fikir:** Hayekçi, Marxçı ve kurumsal okumalar hem müdahalenin hem disiplinin farklı toplumsal bedellerini gösterir.
+- **Doğruya yaklaşma soruları:** Sorun talep eksikliği mi, para güveni mi, kâr dinamiği mi, kurumların kırılması mı?
+- **Öğrenme desteği:** Kriz tablosu yap: işsizlik, enflasyon, faiz, kamu harcaması, para arzı.
+
+## İleri düzey okuma
+
+İleri düzeyde bu hattı devlet var mı yok mu tartışmasına indirgeme. Asıl kavga, kapitalist ekonomide istikrarın hangi mekanizma tarafından kurulacağıdır.
+
 ## Kaynakça
 
 

@@ -40,6 +40,18 @@ Sonraki bölüm, tam o makro sahneye geçer: Büyük Buhran'ın neoklasik dengey
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
+- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
+- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
+- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
+- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+
+## İleri düzey okuma
+
+İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+
 ## Kaynakça
 
 [^1]: Alfred Marshall, *Principles of Economics* (Macmillan, 1890). Arz-talep makası, kısmi denge ve kısa/uzun dönem ayrımının kavram bazında işlenişi kardeş kitap `deger`, Bölüm 10 (Marshall sentezi). Marjinalizmden Marshall'a geçiş için ayrıca `klasik-iktisat`, Bölüm 11.

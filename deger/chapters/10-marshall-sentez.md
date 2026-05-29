@@ -154,6 +154,18 @@ Pigou'nun 1920'deki kalem-kâğıt analizi, bugün dünya enerji politikasının
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek ve maliyet açıklamaları, fiyatların tercih, kıtlık ve son birim değeriyle değişmesini açıklamakta zorlanınca marjinal ve neoklasik hat güçlenir.
+- **Baskın bakış:** Birey, tercih, kıtlık ve denge dili iktisadın yeni merkezine yerleşir.
+- **Güçlü karşı fikir:** Klasik, Marxçı ve kurumsal eleştiri üretim, sınıf ve sermaye ölçümü sorunlarının geri plana itildiğini söyler.
+- **Doğruya yaklaşma soruları:** Bu açıklama fiyat mekanizmasını ne kadar aydınlatıyor, üretim ve güç ilişkisini ne kadar gölgeliyor?
+- **Öğrenme desteği:** Makas veya marjinal fayda çizimi yap: son birim, talep, arz, fiyat.
+
+## İleri düzey okuma
+
+İleri düzeyde marjinalist dönüşümü yalnız bilimsel ilerleme gibi değil, iktisadın merkezinin üretimden seçime kayması gibi oku. Bu kayma, hangi soruların görünür kalacağını değiştirir.
+
 ## Kaynakça
 
 [^1]: Marshall, A. (1890). *Principles of Economics*, s. 407. Talep ve arz eğrilerinin kesişim noktası olarak fiyat oluşumu; "iki bıçaklı makas" metaforunun matematiksel açıklaması.

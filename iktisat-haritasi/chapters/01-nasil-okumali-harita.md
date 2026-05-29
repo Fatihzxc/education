@@ -101,6 +101,18 @@ Bir kavramın doğum yerini görmek, dallarının niçin o yöne uzandığını 
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Haritanın temel sorunu, iktisat düşüncesini tek çizgili bir zafer hikâyesi gibi okumadan anlamaktır.
+- **Baskın bakış:** Ders kitabı anlatısı teorileri birbirini aşan temiz basamaklar gibi gösterir; böylece güç, sınıf ve tarihsel bağlam çoğu zaman arka plana çekilir.
+- **Güçlü karşı fikir:** Anti-Whig okuma, her teorinin kendi çağındaki sorunlara ve güç ilişkilerine cevap verdiğini söyler.
+- **Doğruya yaklaşma soruları:** Bu ekol hangi problemi çözdü, hangi problemi görünmezleştirdi, kimin dünyasını makul hale getirdi?
+- **Öğrenme desteği:** Her bölüm için iki satır tut: analitik ilerleme ve sınıf/güç işlevi.
+
+## İleri düzey okuma
+
+İleri düzeyde haritayı zaman çizelgesi değil, gerilim haritası gibi oku. Aynı fikir hem gerçek bir açıklama gücü taşıyabilir hem de belirli bir düzeni meşrulaştırabilir. Bu ikisini aynı anda görebildiğinde, “kim haklıydı?” sorusundan “hangi sorun, hangi cevabı doğurdu?” sorusuna geçersin.
+
 ## Kaynakça
 
 [^1]: Joseph A. Schumpeter, *History of Economic Analysis* (ed. Elizabeth Boody Schumpeter, Oxford University Press, 1954). Schumpeter'in "analiz tarihi" (history of *analysis*) ile "düşünce tarihi" (history of *thought*) ayrımı, fikirleri tek tek doğru/yanlış diye tartmak yerine analitik aletlerin gelişimini izleme çağrısının kaynağıdır. Tamamlayıcı bir popüler giriş: Robert L. Heilbroner, *The Worldly Philosophers* (Simon & Schuster, 1953; Türkçesi *İktisat Düşünürleri*).

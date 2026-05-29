@@ -124,6 +124,18 @@ Bu okuma, mercantilizmi ne romantize etmemize ne de basitçe mahkum etmemize izi
 
 Sonraki bölüm — *20. yüzyıl yeniden okumaları* — Heckscher, Magnusson, Reinert, Chang'in mercantilist çağı modern lensten nasıl yeniden okuduğunu sistematik biçimde inceleyecek. Beckert ve Williams da bu modern yeniden okuma geleneğinin parçasıdır. Mercantilizm ölmedi; sürekli yeniden okunarak yaşıyor.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Geçmiş fikirler bugünkü adalet, kalkınma, şiddet, refah ve özgürlük tartışmalarında yeniden anlam kazanır.
+- **Baskın bakış:** Güçlü kurumların ve ders kitaplarının dili, çoğu zaman düzenin kendini nasıl anlattığını öne çıkarır.
+- **Güçlü karşı fikir:** Karşı tarih, sömürge deneyimi, kapabilite yaklaşımı ve güncel krizler bu düzenin bedellerini başka gözlerden gösterir.
+- **Doğruya yaklaşma soruları:** Bugüne taşınan kavram kime imkân açıyor, kimin deneyimini hâlâ görünmez bırakıyor?
+- **Öğrenme desteği:** Güncel bağlantı kartı yap: eski kavram, bugünkü örnek, kazanan, kaybeden, açık soru.
+
+## İleri düzey okuma
+
+İleri düzeyde bugüne bağlanan bölümleri sonuç yazısı gibi değil, kavramların dayanıklılık testi gibi oku. Bir fikir bugünde işe yarıyorsa, hangi koşulda işe yaradığını da sormak gerekir.
+
 ## İlgili görselleştirmeler
 
 Sömürge merkantilizminin kurumlarını ve şiddet yapılarını ekteki playground'da somut olarak inceleyebilirsin:

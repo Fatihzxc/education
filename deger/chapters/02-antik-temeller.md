@@ -152,6 +152,18 @@ Bu üç örnekte ortak olan, Aristoteles'in tezhinin modern bir yankısıdır: e
 
 ---
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** İnsanlar fayda, emek, fiyat ve adaleti çoğu zaman aynı “değer” kelimesine yükler; gerilim buradan doğar.
+- **Baskın bakış:** Döneme göre bazen üretici ve emek, bazen tüketici ve tercih, bazen de adalet dili baskın hale gelir.
+- **Güçlü karşı fikir:** Emek-değer, marjinal fayda, Sraffa ve Sen birbirinin eksik bıraktığı tarafı görünür kılar.
+- **Doğruya yaklaşma soruları:** Burada değer bir şeyin yararı mı, piyasadaki fiyatı mı, üretim maliyeti mi, yoksa adil karşılığı mı?
+- **Öğrenme desteği:** Üç sütun aç: kullanım değeri, değişim değeri, adil değer. Her düşünürü bu üç sütunda konumlandır.
+
+## İleri düzey okuma
+
+İleri düzeyde değer tartışmasını fiyatın nasıl oluştuğu sorusuna indirgeme. Değer teorisi, toplumun hangi emeği, hangi ihtiyacı ve hangi yaşam biçimini önemli saydığını da açığa çıkarır.
+
 ## Kaynakça
 
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, indeks girişi "Aristotle", s. 1226. Chrematistik'i "doğal-olmayan bir kazanç biçimi" olarak Aristoteles'in *Politika* I'de tanımlamasına atıfta bulunur.

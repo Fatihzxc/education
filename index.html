@@ -63,10 +63,17 @@
     }
     var statusLabel = { completed: 'tamamlandı', draft: 'taslak', pending: 'planlandı' };
     grid.innerHTML = themes.map(function(t) {
+      var method = t.method || {};
       return '<a class="theme-card status-' + esc(t.status) + '" href="' + esc(t.slug) + '/book.html">' +
         '<h2>' + esc(t.title) + '</h2>' +
         '<p class="card-subtitle">' + esc(t.subtitle) + '</p>' +
         '<p class="card-description">' + esc(t.description || '') + '</p>' +
+        '<div class="card-method" aria-label="Okuma pusulası">' +
+          '<div><b>Kök sebep</b><span>' + esc(method.root || '') + '</span></div>' +
+          '<div><b>Baskın bakış</b><span>' + esc(method.dominant || '') + '</span></div>' +
+          '<div><b>Karşı fikir</b><span>' + esc(method.counter || '') + '</span></div>' +
+          '<div><b>Öğrenme desteği</b><span>' + esc(method.aid || '') + '</span></div>' +
+        '</div>' +
         '<div class="card-meta">' +
           '<span>' + t.chapterCount + ' bölüm</span>' +
           '<span class="status-badge">' + esc(statusLabel[t.status] || t.status) + '</span>' +
