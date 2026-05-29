@@ -1,0 +1,13 @@
+{
+  "title": "Marjinalizm ve Neoklasik Pane'i",
+  "subtitle": "Marjinal fayda, tercih, denge, uzmanlık ve kamunun gözü",
+  "chapters": [
+    { "num": 1, "slug": "01-pane-ozeti", "title": "Pane Özeti — Marjinalizmi nasıl hayal etmeli?", "subtitle": "Değer sorusunun üretimden son birime doğru kayışı", "estWords": 1700, "status": "draft" },
+    { "num": 2, "slug": "02-ekonomi", "title": "Ekonomi — Marjinal fayda neyi değiştirdi?", "subtitle": "Kıtlık, tercih, fiyat ve dengeyi en temelden kurmak", "estWords": 1900, "status": "draft" },
+    { "num": 3, "slug": "03-devlet", "title": "Devlet — Teknik piyasa dili siyaseti nasıl etkiledi?", "subtitle": "Laissez-faire, reform, hakem devlet ve refah iktisadı", "estWords": 1800, "status": "draft" },
+    { "num": 4, "slug": "04-askeri-mali-guc", "title": "Askerî ve Mali Güç — Denge çağında güç nerede duruyordu?", "subtitle": "Altın standardı, imparatorluk, borç, bütçe ve savaş hazırlığı", "estWords": 1800, "status": "draft" },
+    { "num": 5, "slug": "05-dusunce", "title": "Düşünce — Jevons, Menger, Walras, Marshall", "subtitle": "Aynı devrimin dört ayrı kapısı", "estWords": 1900, "status": "draft" },
+    { "num": 6, "slug": "06-toplum", "title": "Toplum — Tüketici, uzman, sınıfın geri çekilişi", "subtitle": "Bireysel seçim dili gündelik hayata nasıl sızdı?", "estWords": 1900, "status": "draft" },
+    { "num": 7, "slug": "07-kamunun-gozu", "title": "Kamunun Gözü — Ders kitabı, istatistik, tüketim kültürü", "subtitle": "Romanlar, gazeteler ve uzman raporlarında yeni iktisat dili", "estWords": 2000, "status": "draft" }
+  ]
+}
