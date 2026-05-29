@@ -118,6 +118,20 @@ Sübjektif değer "herkes ne isterse o değerlidir" gibi gevşek bir cümle değ
 
 Bu tablo Avusturya okulunu daha adil okumayı sağlar. Gücü, bireyin bilgi ve tercih anını ciddiye almasıdır. Sınırı ise, tercihlerin hangi gelir, güç ve kurum dünyasında oluştuğunu bazen fazla hızlı geçmesidir.
 
+### Tercih kimin gerçek hareket alanı içinde doğuyor?
+
+Sübjektif değer teorisi bize çok kıymetli bir şey öğretir: Değer, insanın somut ihtiyacından ve seçtiği son birimden kopuk değildir. Ama tercih kelimesini fazla geniş kullanırsak, mecburiyetleri tercih gibi görme tehlikesi doğar. Bu yüzden her tercih cümlesinin altına küçük bir hareket alanı testi koymak gerekir.
+
+| Sınır | Tercihi nasıl şekillendirir? | Avusturya okumasının gücü | Karşı okuma sorusu |
+|---|---|---|---|
+| Gelir | Seçenekleri daha baştan daraltır | Kıt kaynakla sıralama yapmayı açıklar | Kıtlık kişisel mi, sınıfsal mı? |
+| Borç | Bugünkü arzuyu gelecekteki yükle bağlar | Zaman tercihini görünür kılar | Faiz ve zorunluluk tercihi ne kadar özgür bırakıyor? |
+| Reklam | İhtiyacı arzu gibi hissettirebilir | Bireyin değer atfetme anını izler | Arzu içeriden mi doğdu, yoksa üretildi mi? |
+| Tekel / piyasa gücü | Alternatifleri azaltır | Değerin kişiye göre değiştiğini gösterir | Seçenek yoksa tercih neyi ölçer? |
+| Toplumsal baskı | Saygınlık, cinsiyet ve statü harcamayı etkiler | Öznel anlamı ciddiye alır | Öznel değer toplumsal normlardan bağımsız mı? |
+
+Bu test Avusturya okulunu reddetmez. Tam tersine, onu daha güçlü kullanır: önce kişinin neyi değerli bulduğunu anlarız; sonra bu değerin hangi sınırlar içinde oluştuğunu sorarız.
+
 ## 8.9 Avusturya okulu vs Marksist gelenek: değer kavramı tarihinin çatallanması
 
 19. yüzyıl sonunda, değer kavramının tarihi iki kola ayrılır:

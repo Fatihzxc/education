@@ -51,6 +51,19 @@ Mali kapasitenin inşası sadece "daha çok vergi al" meselesi değildir. Bu in�
 
 Mercantilist politikalar bu yeni mali yapıya hem **araç** hem de **meşruiyet** sağlar. Araç olarak: gümrük hatları, lonca kayıtları, kraliyet imtiyazları, ticari şirket monopolleri — hepsi devlete somut, izlenebilir gelir kaynakları üretir. Meşruiyet olarak: "ulusun zenginleşmesi için devlet ekonomiye yön verir" söylemi, vergi yüklerinin artışını siyasi olarak kabul edilebilir kılar.
 
+### Vergi kapasitesi defteri: devlet gücü kimin sırtında kuruldu?
+
+"Devlet kapasitesi" kulağa soyut ve temiz bir kavram gibi gelir. Ama en basit haliyle şudur: Devlet artık kimin ne ürettiğini, nereden geçtiğini, ne kadar borçlu olduğunu ve gerektiğinde nasıl zorlayacağını daha iyi bilir. Bu bilgi devlet için güçtür; halk için ise bazen güvenlik, bazen de ağırlaşan yük demektir.
+
+| Gözlem yeri | Devlet açısından anlamı | Gündelik hayatta nasıl hissedilir? | Karşı okuma sorusu |
+|---|---|---|---|
+| Hane kaydı | Vergi tabanı görünür olur | Aile artık defterde bir satırdır | Kayıt adalet mi getiriyor, yoksa yeni baskı mı? |
+| Nakit vergi | Hazine daha esnek gelir toplar | Köylü pazara çıkıp para bulmak zorunda kalır | Para ekonomisine geçiş kimin lehine hızlanıyor? |
+| Gümrük hattı | Ticaret izlenebilir ve vergilenebilir | Tüccar yol, köprü ve kapı maliyetiyle yaşar | Gelir toplamak ticareti boğuyor mu? |
+| Askeri harcama | Sürekli ordu finanse edilir | Vergi ile savaş aynı defterde birleşir | Güvenlik vaadi yükü meşru kılmaya yetiyor mu? |
+
+Bu defter bize şunu hatırlatır: erken modern devlet yalnızca sarayda kurulmadı. Pazar yerinde, vergi memurunun defterinde, köylünün nakit arayışında ve tüccarın gümrük hesabında kuruldu.
+
 ## İç gümrüklerin kalkması: ulusal pazarın doğuşu
 
 Heckscher'in "merkantilizm bir birleştirici sistemdir" tezi (Bölüm 1'de tanıttığımız) tam bu noktada somut hâl alır. 16. yüzyılın başında Avrupa'nın çoğu yerinde bir tüccar, bir bölgeden başka bir bölgeye mal taşırken **çok sayıda iç gümrüğe** rastlardı — şehir gümrüğü, senyörlük gümrüğü, köprü vergisi, yol vergisi, pazar resmi. Fransa'da 18. yüzyıla kadar yüzlerce iç gümrük noktası vardı; Almanya'da Ren nehri üzerinde tek bir yolculukta 30'dan fazla gümrük çekilirdi.

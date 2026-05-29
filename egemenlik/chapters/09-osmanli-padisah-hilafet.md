@@ -81,6 +81,20 @@ Osmanlı egemenliğini yalnızca "padişah mutlak güç sahibiydi" diye öğreni
 
 Bu harita bize daha olgun bir okuma verir: Osmanlı'da egemenlik tek merkezli bir iddia taşıyordu, ama tek kanallı bir makine gibi işlemiyordu. Merkez, hukuk, din, bürokrasi ve taşra arasında sürekli kurulan bir dengeydi.
 
+### Katmanlı egemenlik halkın adalet arayışında nasıl görünürdü?
+
+Bir sistemin egemenliğini anlamanın iyi yollarından biri şudur: Haksızlığa uğradığını düşünen insan nereye gider? Osmanlı'da cevap tek kapılı değildi. Kadı mahkemesi, yerel aracı, merkezî dilekçe, cemaat temsilcisi ve kimi zaman askeri-bürokratik güç aynı adalet haritasının parçalarıydı.
+
+| Sorun | İlk gidilen kapı | Merkeze bağlanan hat | Görünmeyen gerilim |
+|---|---|---|---|
+| Vergi şikayeti | Kadı, ayan veya yerel görevli | Divan / merkezî emir | Devlet gelir ister; halk ölçü ve adalet ister |
+| Mülkiyet anlaşmazlığı | Kadı mahkemesi | Şeri kayıt ve kanunname dili | Hukuk düzeni ile yerel güç dengesi çakışabilir |
+| Asker / görevli baskısı | Kadı veya şikayet dilekçesi | Padişahın adalet iddiası | Merkez koruyucu da olabilir, tahsilatçı da |
+| Cemaat meselesi | Cemaat önderi ve kadı | Millet düzeni / merkezî tanıma | Topluluk özerkliği bireyin sesini kısabilir |
+| Taşra güç mücadelesi | Ayan, sancak görevlisi, kadı | Atama ve azil yetkisi | Yerel aracı hem korur hem bağımlılık yaratır |
+
+Bu harita, "mutlak padişah" cümlesini daha dikkatli kurmamızı sağlar. Evet, merkez son söz iddiası taşır; ama adalet arayışı çoğu zaman katman katman ilerler ve her katmanda ayrı bir pazarlık doğar.
+
 ## 9.6 Devşirme: bürokratik egemenliğin orijinal formu
 
 Osmanlı egemenliğinin bir başka özgün boyutu, *devşirme* sistemiydi. Bu sistem, 14. yüzyıl sonundan itibaren, padişahın kişisel hizmetinde olan bürokrasinin (özellikle yeniçeri ordusunun ve enderun mektebinden çıkan yüksek devlet memurlarının) Hristiyan Balkan köylüleri arasından küçük yaşta toplanıp Müslüman olarak yetiştirilmesi pratiğiydi.

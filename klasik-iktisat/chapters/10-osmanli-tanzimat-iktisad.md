@@ -58,6 +58,20 @@ Bu söylemsel kapatma önemlidir. Smith'in *Wealth of Nations*'ının dördünc�
 
 Fizyokrasi cildinin 11. bölümüyle karşılaştırma burada aydınlatıcıdır: fizyokratik *ordre naturel* fikri Osmanlı'ya yalnızca *Mecelle*'nin (1869-1876) kavramsal mimarisinde — toprak, mülkiyet ve doğal hak kategorilerinde — paralel bir biçim olarak görünebildi; doğrudan bir kanal bulamadı. Klasik iktisadın "doğal düzen" söylemi ise Düyun-u Umumiye aracılığıyla *kurumsal* bir kanal buldu. Fizyokrasinin yapısal-paralel etkisi vs klasik iktisadın doğrudan-kurumsal etkisi karşıtlığı, bu iki bölümün karşılaştırılması üzerinden açıkça izlenebilir.
 
+### Teknik maliye dili taşrada nasıl hissedildi?
+
+Düyun-u Umumiye'yi yalnızca "borç idaresi" diye okumak eksik kalır. Merkezde bu, mali disiplin ve borç güvenilirliği diliydi. Taşrada ise aynı dil tuzda, tütünde, ipekte, damgada ve vergi tahsilinde hissedilen somut bir düzen haline geliyordu.
+
+| Aktör | Teknik dilde adı | Gündelik karşılığı | Karşı okuma sorusu |
+|---|---|---|---|
+| Alacaklı | Borç servisi ve güvenilir gelir | Gelirin önce dış borca ayrılması | Mali düzen kimin güvenini koruyor? |
+| Osmanlı bürokratı | İntizam-ı mali ve müvazene | Bütçeyi tutturma baskısı | Disiplin egemenliği güçlendiriyor mu, daraltıyor mu? |
+| Tütün üreticisi | Reji, tahsilat, tekel | Ne ekeceği ve kime satacağı daha sıkı denetlenir | Piyasa özgürlüğü kimin için var? |
+| Vergi veren hane | Düzenli gelir tabanı | Devlet daha görünür, tahsilat daha ısrarlı olur | Vergi adaleti mi, tahsilat başarısı mı ölçülüyor? |
+| Taşra tüccarı | Mali rasyonalite | Damga, geçiş, ruhsat ve kayıt maliyeti | Kayıt düzeni ticareti kolaylaştırıyor mu, pahalılaştırıyor mu? |
+
+Bu kart bize klasik iktisadın Osmanlı'ya yalnız kitapla gelmediğini gösterir. Bazen bir fikir, önce derslikte değil, vergi defterinde ve borç taksitinde yaşanır.
+
 ## 10.6 Çeviriler ve dergi-ağı
 
 Ders kitabı ve bürokratik kanalın yanında üçüncü bir damar daha vardı: çeviri-dergi ağı. Bu ağ, kitap-uzunluğunda çevirilerden çok, dergilerde yayımlanan makaleler, kısmi çeviriler ve özetler üzerinden işliyordu.

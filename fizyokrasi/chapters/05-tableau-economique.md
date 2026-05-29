@@ -74,6 +74,20 @@ tarımsal üretim
 
 Bu yardımın amacı Quesnay'ı ezberletmek değil. Şunu göstermek: Model, toplumdaki karmaşık hayatı üç büyük düğüme indirerek akışı görünür yapar. Ama tam da bu yüzden dikkatli okunmalıdır. Bir tablo akışı berraklaştırırken bazı sesleri de kısabilir: küçük köylünün pazarlık gücü, zanaatkârın üretkenliği, kadın emeği, koloni malları ve ekmek fiyatından korkan şehirli halk modelin kenarında kalır.
 
+### Modelin kenarında kalanlar: tablo neyi duyamaz?
+
+*Tableau* büyük resmi gösterir; bu onun gücüdür. Ama büyük resim bazen küçük hayatların sesini azaltır. Bu yüzden modeli okurken yalnızca okları değil, okların dışında kalan insanları da düşünmek gerekir.
+
+| Kenarda kalan ses | Modelde neden kısılır? | O ses ne sorardı? | Öğrenme desteği |
+|---|---|---|---|
+| Küçük köylü | "Üretici sınıf" içinde erir | Net ürün kimin elinde kalıyor? | Rant, vergi ve geçim payını ayrı renklerle çiz |
+| Zanaatkâr | "Kısır sınıf" etiketiyle değeri küçülür | Biçim vermek neden üretim sayılmıyor? | Ham madde ile mamul arasındaki beceriyi işaretle |
+| Kadın emeği | Hane içi emek piyasada görünmez | Yemek, bakım ve yeniden üretim akışın neresinde? | Tabloya görünmeyen emek satırı ekle |
+| Şehirli halk | Ekmek fiyatı modelin sakin döngüsünde kaybolur | Dolaşım bozulursa ilk kim aç kalır? | Buğday fiyatı, ücret ve kira ilişkisini izle |
+| Koloni / dış kaynak | Sistem çoğu kez ulusal döngü gibi görünür | Girdi nereden geliyor, bedeli kim ödüyor? | Haritanın dışına hammadde oku çiz |
+
+Bu kartın amacı Quesnay'ı bugünden haksızca yargılamak değil. Daha iyi okuma şudur: Model bize dolaşımı öğretir; karşı okuma ise dolaşımın kimin emeğini ve korkusunu sessizleştirdiğini gösterir.
+
 ## 5.5 "Neden steril?" — Quesnay'ın metafiziği
 
 *Tableau*'nun en sık eleştirilen, hatta yer yer alay konusu yapılan kısmı sanayi-zanaat-ticaretin "steril" ilan edilmesidir. Smith 1776'da bu noktayı eleştirinin merkezine koyacaktır (Bölüm 9);^[3] Marx 19. yüzyılda — fizyokratlara karşı olağanüstü saygısına rağmen — sanayinin değer üretmediği iddiasının ampirik olarak savunulamayacağını açıkça belirtecektir (Bölüm 10). Peki Quesnay neden buna inandı?

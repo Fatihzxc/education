@@ -119,6 +119,20 @@ Bugünkü sanayi politikalarını okurken hemen "iyi" ya da "kötü" diye hükü
 
 Bu kart, bugünkü merkantilist sezgiyi daha adil okumaya yarar. Devletin stratejik davranması bazen gerekir; ama strateji kelimesi, her desteği otomatik olarak doğru yapmaz. Doğru soru şudur: Bu müdahale toplumsal kapasite mi kuruyor, yoksa sadece güçlü aktörlere korunaklı alan mı açıyor?
 
+### Müdahale kime öğrenme, kime fatura?
+
+Bir sanayi politikası konuşulurken çoğu zaman büyük kelimeler öne çıkar: strateji, bağımsızlık, teknoloji, milli çıkar. Bunlar boş kelimeler değildir; ama tek başına yeterli de değildir. Çünkü aynı müdahale bir tarafta öğrenme ve kapasite kurarken, başka tarafta fiyat artışı, vergi yükü veya dış bağımlılık üretebilir.
+
+| Etki alanı | İyi ihtimal | Kötü ihtimal | Okurun soracağı şey |
+|---|---|---|---|
+| Firma | Öğrenir, ölçek kazanır, yan sanayi kurar | Destek garantisine alışıp verimsizleşir | Performans ölçütü var mı? |
+| İşçi | Nitelikli iş ve ücret pazarlığı doğar | Geçici iş, düşük ücret ve sendikasızlık kalır | Kapasite emeğin hayatına dönüyor mu? |
+| Tüketici | Uzun vadede yerli rekabet ve arz güvenliği kazanır | Kısa vadede pahalı ürün ve sınırlı seçenekle karşılaşır | Bedel kimden, ne kadar süreyle isteniyor? |
+| Devlet | Kritik alanda bağımsız hareket alanı açar | Lobi ve şirket kurtarma düzenine sıkışır | Denetim kamuya açık mı? |
+| Dış dünya | Yeni tedarik ortaklıkları kurulur | Zayıf ülkeler hammadde rolüne itilir | Ulusal başarı başkasının bağımlılığına mı yaslanıyor? |
+
+Bu tablo, müdahaleyi otomatik kötüleştirmez. Sadece sıcak soruyu ortaya koyar: "Bu politika gerçekten öğrenme mi üretiyor, yoksa faturayı görünmez yerlere mi dağıtıyor?"
+
 ## Bu kitabı bitirirken
 
 12 bölüm boyunca mercantilizmi farklı katmanlardan inceledik. Bölüm 1'de terimin doğuşunu ve 20. yüzyıl tarihyazımını gözden geçirdik. Bölüm 2'de para meselesini ve bullionizmi işledik. Bölüm 3'te erken modern devletin inşasını çerçeveledik. Bölüm 4-6'da Mun'un İngiliz okulu, Colbert'in Fransız devletçiliği, Hörnigk'in cameralism'i üzerinden Avrupa mercantilizminin üç ana okulunu inceledik. Bölüm 7-8'de Osmanlı'nın iaşe-fiskalizm-gelenekçilik üçlü çatısını ve İbn Haldun'un dışarıdan bakışını ele aldık. Bölüm 9'da Hume ve Smith'in klasik eleştirisini gördük. Bölüm 10'da sömürge ve şiddet boyutunu — Beckert'in "savaş kapitalizmi" çerçevesini — koyduk. Bölüm 11'de 20. yüzyıl yeniden okumalarının silsilesini izledik. Bu son bölümde ise mercantilist mirasın bugüne uzanan canlı çizgilerini takip ettik.

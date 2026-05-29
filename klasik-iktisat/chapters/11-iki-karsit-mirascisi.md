@@ -144,6 +144,19 @@ Jevons, Menger ve Walras'ın 1871-74 arası birbirlerinden habersizce aynı çek
 
 Karl Polanyi'nin *Büyük Dönüşüm* (1944) yapıtında öne sürdüğü tez de bu noktada belirir: marjinalizm sadece bir teknik gelişme değil, *politik bir cevap*tı. 1848 Avrupa devrimleri, 1864 Birinci Enternasyonal'in kuruluşu, 1867 *Kapital*'in çıkışı, 1871 Paris Komünü — bunların hepsi 1870'lerin entelektüel ortamında bir "tehlike" olarak yaşanıyordu. Marjinal mantığın klasik-sınıf kategorilerini analitik olarak görünmez kılması, bu politik ortamda *teknik bir gelişme*den fazlasıydı: sosyalist meydan okumaya karşı, sınıf-üstü bir bilim olarak iktisadı yeniden kuran bir hamleydi. Polanyi'nin formülasyonu kararsızlık taşır — marjinalistlerin niyetinin sosyalizmi durdurmak olduğunu söylemez — ama mantıksal sonucunun bu yönde işlediğini iddia eder. Bu yorum tartışmalıdır; Joseph Schumpeter *History of Economic Analysis*'te (1954) marjinal devrimi büyük ölçüde içsel-teorik bir gelişme olarak okur. İki okuma birbirini dışlamaz: bir teori hem içsel-mantıksal nedenlerle hem politik konjonktüre uygun olduğu için yayılabilir.
 
+### Aynı entelektüel kırılma gazete, fabrika ve derslikte nasıl göründü?
+
+Marx ile marjinalizmi yalnız yazar adlarıyla öğrenirsek, kırılmanın neden bu kadar büyük olduğunu kaçırırız. Asıl mesele şudur: 1870'lerde iktisat teorisi, hem fabrikadaki ücret kavgasına hem gazetelerdeki sosyalizm korkusuna hem de üniversitedeki "bilim olma" arzusuna aynı anda cevap arıyordu.
+
+| Sahne | Marxçı miras neyi görünür kılar? | Marjinalist miras neyi görünür kılar? | Kontrol sorusu |
+|---|---|---|---|
+| Fabrika | Emek süresi, disiplin ve artı-değer | Ücretin son işçinin katkısıyla açıklanması | Ücreti kim belirliyor: üretim ilişkisi mi, marjinal katkı mı? |
+| Gazete | Sınıf çatışması ve sosyalist meydan okuma | Düzenin teknik ve tarafsız görünmesi | Teori toplumsal korkuya cevap mı veriyor? |
+| Derslik | Kapitalizmin tarihsel yapısını çözmek | Ekonomiyi matematiksel yasa diliyle kurmak | Bilimsellik hangi soruları dışarıda bırakıyor? |
+| Hane bütçesi | Geçim ücreti ve hayat maliyeti | Tüketici tercihi ve fayda hesabı | Tercih, geçim baskısından bağımsız mı? |
+
+Bu sahne kartı iki tarafı basitleştirmek için değil, sorunun ağırlığını hissettirmek için var. Kırılma yalnız "emek mi fayda mı?" tartışması değildir; toplumun kendisini hangi dille anlayacağı tartışmasıdır.
+
 ## 11.10 Marjinal devrimin politik-ekonomi anlamı
 
 Marjinalistlerin mantığının politik sonucu Avusturya okulu üzerinden değil, ama özellikle Amerikalı John Bates Clark'ın *Distribution of Wealth* (1899) yapıtında berraklaşır^[6]. Mantık şudur: değer üretimden değil tüketici tercihinden kaynaklanırsa, üretim faktörleri (emek, sermaye, toprak) **aynı analitik düzlemde**dir. Her birinin marjinal verimliliği vardır; her biri marjinal verimliliğine göre ödenir; sınıflar arasında *yapısal* asimetri yoktur.

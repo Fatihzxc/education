@@ -118,6 +118,19 @@ Worms Concordat'ının uzlaşması teknikti: piskoposların *manevi* atamasını
 
 **Modern paralel: 1979 İran Devrimi**. Ayetullah Humeyni, *velayet-i fakih* (din âliminin yöneticiliği) doktrini ile sivil ve dini egemenliği yeniden iç içe geçirdi. Cumhurbaşkanı (sivil) ile Rehber (dini) arasında, 1979 sonrası İran anayasası iki kılıç dengesini formelleştirdi — ama Rehber'in *seçilmiş* sivil kurumlar üzerinde son söz hakkı olduğu bir yapıyla. Ortaçağ Avrupa'sının papa-imparator çatışmasının çağdaş bir versiyonu, ama farklı bir çözümle: dini otorite *yapısal* üstünlüğe sahip.
 
+### Köy, pazar ve kilise avlusunda iki kılıç
+
+İki kılıç tartışması yukarıda papa ve imparator arasında geçiyor gibi görünür. Ama bu çatışmanın gerçek ağırlığı, gündelik hayatta hangi otoriteye uyulacağı sorusunda hissedilir. İnsanlar vergi öderken, evlenirken, yemin ederken, pazar kurarken ve savaş çağrısı duyarken bu iki otoriteyle karşılaşırdı.
+
+| Gündelik sahne | Ruhani kılıç ne der? | Dünyevi kılıç ne der? | Halkın sorusu |
+|---|---|---|---|
+| Kilise avlusu | Günah, af, yemin ve evlilik üzerinde söz sahibidir | Yerel düzeni bozmadığı sürece tanır | Tanrı önündeki söz mü, senyörün emri mi ağır? |
+| Pazar yeri | Adil fiyat ve ahlaki ölçü ister | Vergi, geçiş hakkı ve güvenlik ister | Ticaret özgür mü, izinli mi? |
+| Köy toprağı | Cemaat düzenini ve dini yükümlülüğü hatırlatır | Rant, angarya ve asker yükümlülüğü ister | Toprakta kimin hakkı son söz olur? |
+| Savaş çağrısı | Haklı savaş ve günah diliyle konuşur | Sadakat ve askerlik borcu ister | Emir haksız görünürse itaat gerekir mi? |
+
+Bu kart, Ortaçağ insanını pasif bir kalabalık gibi görmemeyi sağlar. Bölünmüş egemenlik, yukarıdaki kurumlar arası kavga olduğu kadar aşağıdaki insanların "hangi buyruğa göre yaşayacağım?" sorusuydu.
+
 ## 3.10 İki kılıç doktrininin modern yankıları
 
 İki kılıç doktrini — sivil ve dini egemenliğin ayrı kurumlarda olması — Reformasyon sonrası teorik olarak çözüldü, ama pratik olarak modern dünyada hâlâ canlı:
