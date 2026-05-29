@@ -52,6 +52,19 @@ arz tarafı: "son birimi üretmek neye mal oluyor?"
 
 Bu şemada fiyat, iki tarafın karşılaşma yeridir. Talep artarsa fiyat yukarı itilebilir. Üretim kolaylaşırsa arz artabilir ve fiyat aşağı çekilebilir. Ama marjinalist dilde önemli olan şey, bu hareketlerin "son birim" üzerinden okunmasıdır.
 
+### Fiyat etiketi pusulası: istek mi, satın alma gücü mü?
+
+Marjinalizmi öğrenirken en kritik ayrım şudur: Talep yalnız "istemek" değildir. Talep, istemenin satın alma gücüyle birleşmiş halidir. Bir insan ekmek, ev ya da ilaç isteyebilir; ama geliri yetmiyorsa bu istek piyasa talebi olarak görünmez.
+
+| Piyasada görünen | Arkadaki ihtimal | Karşı okuma sorusu |
+|---|---|---|
+| Talep düşük | İnsanlar istemiyor olabilir | Yoksa fiyat gelirlerine göre fazla mı yüksek? |
+| Talep yüksek | Mal çok arzu ediliyor olabilir | Yoksa zorunlu ihtiyaç olduğu için mi alınıyor? |
+| Fiyat yüksek | Mal kıt olabilir | Yoksa tekel, kira veya marka gücü fiyatı mı tutuyor? |
+| Fiyat düşük | Üretim kolaylaşmış olabilir | Yoksa emek, doğa veya tedarik zinciri bedeli görünmüyor mu? |
+
+Bu pusula marjinalizmi daha adil okumaya yardım eder. Fiyat etiketi bize bilgi verir; ama bütün bilgiyi vermez. Etiketi görünce arkasındaki gelir dağılımını, zorunluluğu ve piyasa gücünü de sormak gerekir.
+
 ## Denge nedir?
 
 Denge kelimesi bazen fazla sakin duyulur. Sanki toplumda sorun yokmuş gibi. Oysa iktisatta denge daha sınırlı bir şey anlatır: Bir piyasada, mevcut fiyat düzeyinde almak isteyenlerin miktarı ile satmak isteyenlerin miktarı birbirine yaklaşıyorsa, orada bir denge noktasından söz edilir.

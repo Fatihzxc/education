@@ -17,6 +17,20 @@ Aquinas'ın *Summa*'sı belirli bir form izler. Her *quaestio* (soru) bir alt-ko
 
 Bu sıkı form, Aquinas'ı modern bir analitik filozof gibi okumayı mümkün kılar: argümanlar çıplak, gerekçeler şeffaf. *Justum pretium* sorusu (II-II, Q.77, A.1) tam olarak bu yapıyla işlenir.
 
+### Terim pusulası: önce kelimeleri yumuşatalım
+
+Skolastik metinlerde Latince kelimeler çoktur. Bu kelimeler göz korkutmasın; çoğu aslında günlük hayatın çok tanıdık sorularına bağlıdır. Aşağıdaki küçük sözlük, bölümü daha rahat okumak için bir tutamak olsun.
+
+| Terim | En sade anlamı | Okur için sorusu |
+|---|---|---|
+| `Justum pretium` | Adil fiyat | Bir fiyat yalnızca kabul edildi diye adil olur mu? |
+| `Usura` | Haksız faiz / tefecilik | Zor durumdaki borçludan kazanç sağlamak ne zaman istismar olur? |
+| `Commutative justice` | Karşılıklı değişimde adalet | Alıcı ve satıcı eşit değer mi değişiyor? |
+| `Caritas` | Hayır ve merhamet | Piyasa işlemi insan ihtiyacını tamamen unutabilir mi? |
+| `Interesse` | Zarar veya maliyet telafisi | Faiz kazanç mı, risk ve maliyet karşılığı mı? |
+
+Bu terimleri ezberlemekten çok, arkalarındaki ahlaki gerilimi görmek gerekir. Skolastik düşünce fiyatı yalnız sayı olarak değil, insanın zor durumda olup olmadığıyla birlikte okur.
+
 ## 3.3 Adil fiyat: Aquinas'ın temel argümanı
 
 > "Whether it is lawful to sell a thing for more than its worth? Objection 1: It would seem that it is lawful to sell a thing for more than its worth. In the commutations of human life..."

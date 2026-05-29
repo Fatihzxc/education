@@ -10,6 +10,19 @@ Bu ayrımı yapmamak, Marx'ı yanlış okumak demektir. Marx'ın projesi "tüm m
 
 Bu bölüm Marx'ın bu ayrımı nasıl kurduğunu, kapitalist mülkiyetin tarihsel doğuşunu (ilkel birikim) nasıl çözümlediğini, ve mülkiyet ile sömürü arasındaki yapısal bağı nasıl gösterdiğini ele alır.
 
+### İki mülkiyet pusulası: eşya mı, üretim gücü mü?
+
+Marx'ı anlamanın en temel kapısı bu ayrımdır. Bir insanın ayakkabısı, telefonu, yatağı veya kişisel aleti ile bir fabrikanın, madenin, tarlanın ya da platform verisinin sahipliği aynı sonuçları doğurmaz. İlki çoğu zaman kişisel kullanım sağlar; ikincisi başkalarının emeği üzerinde karar gücü verir.
+
+| Mülkiyet türü | Basit örnek | Ne sağlar? | Marx'ın sorusu |
+|---|---|---|---|
+| Kişisel mülkiyet | Elbise, ev eşyası, kişisel alet | Yaşamı sürdürme ve kişisel özgürlük | Bu şey başkasını çalıştırma gücü veriyor mu? |
+| Küçük üretici mülkiyeti | Zanaatkârın aleti, küçük tarla | Kendi emeğiyle geçim | Piyasa baskısı bu kişiyi sermayeye bağımlı kılıyor mu? |
+| Sermaye mülkiyeti | Fabrika, makine parkı, büyük arazi | Başkalarının emeğini örgütleme ve artığa el koyma | Mülkiyet burada üretimi mi, sınıf gücünü mü kuruyor? |
+| Dijital mülkiyet | Platform, veri havuzu, algoritma | Erişim ve davranış üzerinde kontrol | Yeni sahiplik biçimi eski emek bağımlılığını nasıl değiştiriyor? |
+
+Bu tablo Marx'ın niçin "mülkiyet" kelimesini tek parça kullanmadığını gösterir. Sorun sahip olmak değildir; sahip olunan şeyin başkalarının hayatı üzerinde ne kadar karar gücü verdiğidir.
+
 ## 8.2 İlkel birikim — kapitalist mülkiyetin tarihsel doğuşu
 
 *Kapital*'in Marx'ın Almanca orijinalindeki XXIV. bölümünde (İngilizce Moore-Aveling çevirisinde Part VIII'in açılış bölümü, Chapter XXVI) — *"Die sogenannte ursprüngliche Akkumulation"* (Sözde İlkel Birikim) — Marx, kapitalist mülkiyetin tarihsel doğuşunu sistematik biçimde inceler. Bu bölüm, Smith'in (Bölüm 6) "kapitalist tarımın gelişmesi" anlatımının doğrudan, sert bir reddidir.

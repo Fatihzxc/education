@@ -48,6 +48,19 @@ Halifelik aşaması, Osmanlı padişahının üç ayrı egemenlik rolünü birle
 
 Pratik politik anlamı ise daha karmaşıktı. Halifelik unvanı, Osmanlı diplomatik söyleminde sürekli kullanıldı; ama gerçek politikalarda nadiren belirleyici oldu. 18-19. yüzyıllarda, Osmanlı'nın Avrupa karşısında zayıflamaya başlamasıyla, halifelik kavramı yeniden önemli hale geldi: padişah, Müslüman dünyasının siyasal lideri olarak Avrupa devletlerine karşı manevi bir kart oynamaya çalıştı. II. Abdülhamid'in (1876-1909) "panİslamizm" politikası, halifelik kartının modern bir kullanımıdır.
 
+### Üç unvan pusulası: padişah, sultan, halife aynı şey mi?
+
+Osmanlı egemenliğini anlamayı zorlaştıran şeylerden biri unvanların üst üste binmesidir. Aynı kişi farklı dünyalara farklı dillerle seslenir. Bu yüzden unvanları tek tek ayırmak okuru rahatlatır.
+
+| Unvan | En sade anlamı | Hangi dünyaya konuşur? | Kontrol sorusu |
+|---|---|---|---|
+| Padişah / hakan | Hanedan ve merkezî hükümdar | Türk-Moğol ve imparatorluk geleneği | Emir verme gücü hangi kurumlarla taşınıyor? |
+| Sultan | İslam siyasal iktidar sahibi | Müslüman siyaset dili ve saray düzeni | Güç dini meşruiyetle nasıl birleşiyor? |
+| Kayser-i Rum | Roma mirasının sahibi | Bizans ve Akdeniz imparatorluk hafızası | Fetih yalnız toprak mı, miras iddiası mı? |
+| Halife | Müslümanların sembolik-dini lideri | Ümmet ve uluslararası İslam siyaseti | Unvan pratik yetki mi, diplomatik meşruiyet mi üretiyor? |
+
+Bu tablo, Osmanlı egemenliğinin neden tek bir Avrupa kavramına sığmadığını gösterir. Aynı merkez hem hanedan, hem imparatorluk, hem din, hem de diplomasi diliyle konuşur. Bu çok katmanlılık sistemi güçlü kılar; ama kriz dönemlerinde hangi unvanın gerçek yetki taşıdığı sorusunu da büyütür.
+
 ## 9.5 Şeriat ve kanunname: ikili hukuksal yapı
 
 Osmanlı egemenlik anlayışının en orijinal yapısal özelliği, *iki ayrı hukuksal sistemi* — *şeriat* ve *kanunname* — bir arada işletebilmesidir.
