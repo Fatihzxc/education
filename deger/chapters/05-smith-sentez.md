@@ -65,6 +65,20 @@ Bu nokta üzerinde durmaya değer. Çünkü Smith'in birinci bölümde söyledi�
 
 Smith bu gerilimin farkındadır ama tam çözmez. Bir tarafta "primitive accumulation"dan önceki ilkel toplum için emek-değer teorisini muhafaza eder; öbür tarafta gelişmiş ticari toplum için üç-bileşen teorisini. Aralarındaki köprü çok berraklaşmaz. Ricardo 1817'de bu boşluğu doldurmaya çalışacak (Bölüm 6); Marx 1867'de "ilkel birikim" ile çağdaş kapitalist yapı arasındaki sürekliliği farklı bir şekilde kuracaktır (Bölüm 7).
 
+### Fiyat anatomisi: aynı fiyatı kim nasıl görür?
+
+Smith'i temelinden anlamak için fiyatı tek parça para etiketi gibi değil, içinde farklı gelirlerin saklandığı bir kesit gibi düşünmek gerekir. Bir ekmeğin, kumaşın ya da demir çubuğun fiyatı yalnızca "malın değeri" değildir; o fiyatın içinde ücret, kâr ve rant payları vardır.
+
+| Parça | Basit anlamı | Kimin hayatına bağlanır? | Smith'te neyi açıklar? | Karşı soru |
+|---|---|---|---|---|
+| Ücret | Emeğin geçim ve pazarlık karşılığı | İşçi | Üretimin emek tarafını ve reel satın alma gücünü | Ücret yalnızca geçim mi, yoksa mücadeleyle değişen bir pay mı? |
+| Kâr | Sermayeyi kullananın getirisi | Sermayedar / girişimci | Sermaye birikimi ve sektörler arası hareketi | Kâr riskin ödülü mü, yoksa emekten ayrılan pay mı? |
+| Rant | Toprak veya ayrıcalıklı konum geliri | Toprak sahibi | Toprak kıtlığı ve mülkiyetin gelir etkisini | Rant üretime katkı mı, yoksa konum avantajı mı? |
+| Doğal fiyat | Uzun dönem çekim merkezi | Bütün sınıflar | Piyasanın nereye dönmeye çalıştığını | "Doğal" denen şey gerçekten doğal mı, yoksa kurumsal mı? |
+| Piyasa fiyatı | O günkü fiili fiyat | Alıcı ve satıcı | Kıtlık, bolluk ve talep dalgalanmasını | Kısa dönem fiyat oynaklığı kimin canını yakar? |
+
+Bu tablo Smith'in büyüklüğünü de sınırını da gösterir. Büyüklüğü şudur: fiyatın içinde toplumsal payları görür. Sınırı şudur: bu payların hangi güç ilişkileriyle belirlendiğini Marx kadar sert biçimde sormaz.
+
 ## 5.5 Doğal fiyat ve piyasa fiyatı
 
 7. bölümde Smith üçüncü soruya geçer: doğal fiyat sabit bir hedefse, piyasa fiyatı neden ondan sapar? Cevap "etkin talep" (*effectual demand*) ile arasındaki ilişkidedir.

@@ -28,6 +28,20 @@ Burada nüans önemlidir: fizyokratlar toprak sahibi soyluları *vergilendirdikl
 
 Bu içeriden-reform stratejisi soyut kalmadı; 1774-76'da gerçek bir sınava girdi. Fizyokrat çevreden gelen Turgot, Fransa'nın maliye bakanı olarak tahıl ticaretini serbestleştirdi, loncaları ve köylü angaryasını (*corvée*) kaldırmaya, vergi yükünü toprağa kaydırmaya girişti — ve iki yıl içinde tam da dokunduğu ayrıcalıklı sınıfların (parlementler, soyluluk, lonca ustaları) direnişiyle görevden alındı. Doktrinin sınıf-hizalanışı, en açık biçimde *uygulanmaya çalışıldığında* çarptığı duvarda görünür oldu. Sınıf katmanının tam okuması kardeş kitap `fizyokrasi` Bölüm 6'da ("ideolojinin prototipi"), Turgot denemesi ise Bölüm 8'dedir.
 
+### Geçiş matrisi: merkantilizmden fizyokrasiye ne değişti?
+
+Bu kopuşu akılda tutmanın en iyi yolu, iki ekolü "biri yanlış, biri doğru" diye değil, farklı krizlere verilen cevaplar gibi görmektir.
+
+| Soru | Merkantilist cevap | Fizyokrat cevap | Baskın toplumsal zemin | Karşı itiraz | Bugünkü yankı |
+|---|---|---|---|---|---|
+| Servet nerede aranır? | Ticaret fazlası, hazine, stratejik sektör | Toprağın yıllık net ürünü | Devlet adamı, tüccar, maliye | Para ve güç servetin kendisi değildir | Döviz rezervi mi, reel üretim mi? |
+| Devlet ne yapmalı? | Korumalı, düzenlemeli, tekel vermeli | Doğal akışı bozmayacak sade düzen kurmalı | Merkezileşen savaş devleti vs reformcu bürokrasi | Devlet hem kapasite kurar hem rant yaratır | Sanayi politikası mı, piyasa serbestliği mi? |
+| Vergi nereden alınmalı? | Gümrük, tüketim, tekel, çoklu gelir | Tek vergi: toprak rantı | Hazine ihtiyacı ve ayrıcalıklı muafiyetler | Yükün kimde toplandığı politiktir | Dolaylı vergi mi, servet/rant vergisi mi? |
+| Halk gözüyle mesele ne? | Pahalı mal, gümrük, savaş yükü | Ekmek fiyatı, angarya, toprak yükü | Kent tüketicisi ve köylü geçimi | Reform dili gündelik acıyı perdeleyebilir | Enflasyon ve vergi adaleti tartışmaları |
+| Teorinin kör noktası | Altın ve dış fazla takıntısı | Sanayi ve ticareti "steril" görmesi | Erken modern güç rekabeti vs tarımsal Fransa | Her model kendi çağının baskısını taşır | Stratejik sektörleri seçerken neyi ihmal ediyoruz? |
+
+Bu tablo bölümün ana mesajını sıkıştırır: fikir akımları çoğu zaman bir önceki fikrin kör noktasından doğar. Ama yeni fikir de kendi kör noktasını taşır. Bu yüzden düşünce tarihini merdiven gibi değil, her basamakta aydınlanan ve gölgede kalan alanları olan bir harita gibi okumak gerekir.
+
 ## 2.4 İki katmanın ayrılamazlığı
 
 İşte kitabın merkez tezinin ilk net örneği. Fizyokrat tek-vergi argümanı **teknik olarak büyük ölçüde doğrudur** — modern iktisat hâlâ toprak/rant vergisinin en az çarpıtıcı vergi olduğunu kabul eder (Bölüm 8'de Henry George ve LVT). Aynı zamanda **belirli bir sınıfsal koalisyonun program-metnidir**. Bu ikisi çelişmez; üst üste biner.

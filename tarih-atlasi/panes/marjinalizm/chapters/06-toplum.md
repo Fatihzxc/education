@@ -44,6 +44,20 @@ Bu zincir bize şunu anlatır: Teori yalnızca kitapta doğmaz. Toplumda da ona 
 
 Bu tablo pane'in toplumsal dengesini kurar. Marjinalist araç bize seçimleri gösterir. Tarihsel araçlar ise seçimlerin içine gömülü güç ve alışkanlıkları gösterir.
 
+### Aynı insan, farklı mercek
+
+Marjinalist dilin en öğretici ve en riskli tarafı burada görünür: Aynı insanı hangi mercekten baktığına göre bambaşka tanımlarsın.
+
+| Aynı kişi hangi rolde? | Modelde nasıl görünür? | Günlük hayatta ne yaşar? | Karşı okuma ne ekler? |
+|---|---|---|---|
+| Tüketici | Faydasını artıran seçici | Geliri yettiği kadar seçenek görür | Seçim özgürlüğü gelir sınırıyla daralır |
+| İşçi | Emek arz eden kişi | Ücret, yorgunluk, işsizlik korkusu taşır | Sözleşme eşit taraflar arasında olmayabilir |
+| Borçlu | Gelecek gelirini bugüne taşıyan aktör | Faiz, taksit ve belirsizlik altında yaşar | Tercih bazen zorunluluktan doğar |
+| Ebeveyn / bakım veren | Hane tercihlerinin parçası | Ücretsiz emek harcar | Piyasa dışı emek görünmez kalabilir |
+| Yurttaş | Politika fayda-maliyet hesabının öznesi | Vergi, kira, fiyat ve haklarla karşılaşır | Demokrasi yalnızca tercih değil temsil meselesidir |
+
+Bu mini tabloyu akılda tutarsan marjinalizmi daha adil kullanırsın. Model seçimleri açıklar; tarih ve toplum ise o seçimlerin hangi baskılar içinde yapıldığını gösterir.
+
 ## Gösterişçi tüketim
 
 Veblen burada çok iyi bir yan kapı açar. *The Theory of the Leisure Class* kitabında tüketimin yalnızca ihtiyaç gidermek olmadığını, statü göstermek için de kullanıldığını anlatır.[^1] İnsan bazen bir şeyi kullanmak için değil, başkalarına göstermek için alır. Bu, marjinalist tüketici fikrini ilginç biçimde zorlar.

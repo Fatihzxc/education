@@ -66,6 +66,21 @@ Bu çerçeve, modern bir okuyucu için ilginç sonuçlar doğurur:
 
 Bu yapı, ortaçağ Hristiyan Avrupa'sının papa-imparator dengesinden farklı bir denge mekanizması üretti. Avrupa'da bu denge tartışmalı ve istikrarsızdı (Reformasyon'a kadar); Osmanlı'da görece istikrarlı ve uzun-süreliydi.
 
+### Egemenlik katmanları: "son söz" tek kişinin ağzında mıydı?
+
+Osmanlı egemenliğini yalnızca "padişah mutlak güç sahibiydi" diye öğrenirsek, sistemin gerçek işleyişini kaçırırız. Padişah en yüksek merkezdi; ama bu merkez farklı kurumlar, normlar ve yerel aracılar üzerinden çalışıyordu.
+
+| Katman | Ne sağlar? | Padişah açısından anlamı | Yerel / karşı bakış neyi hatırlatır? |
+|---|---|---|---|
+| Padişah | Son siyasal irade ve hanedan sürekliliği | Düzeni temsil eder, emir verir, atama yapar | Merkez güçlü olsa da uygulama taşrada pazarlıkla yürür |
+| Şeriat | Meşruiyet ve hukuki sınır | Hükmün dinî-hukuki zemini güçlenir | Ulema yorum gücüyle padişahı tamamen keyfi olmaktan alıkoyar |
+| Kanunname | İdari esneklik | Vergi, ceza ve düzen alanında pratik çözüm üretir | "Örfi" düzen yerel gruplar için yeni yükler doğurabilir |
+| Ulema | Yorum, eğitim, kadılık | Meşruiyeti taşır ve hukuk dilini kurar | Denge gücü vardır ama toplumsal hiyerarşiyi de koruyabilir |
+| Kapıkulu / bürokrasi | Emirlerin uygulanması | Merkeze bağlı profesyonel yürütme sağlar | Kişisel bağlılık güçlüdür; modern anlamda tarafsız memurluk değildir |
+| Taşra ayanları / cemaatler | Yerel aracılık ve günlük düzen | Merkez emirlerinin sahaya inmesini sağlar | Yerel toplumun pazarlık ve direnme alanı burada açılır |
+
+Bu harita bize daha olgun bir okuma verir: Osmanlı'da egemenlik tek merkezli bir iddia taşıyordu, ama tek kanallı bir makine gibi işlemiyordu. Merkez, hukuk, din, bürokrasi ve taşra arasında sürekli kurulan bir dengeydi.
+
 ## 9.6 Devşirme: bürokratik egemenliğin orijinal formu
 
 Osmanlı egemenliğinin bir başka özgün boyutu, *devşirme* sistemiydi. Bu sistem, 14. yüzyıl sonundan itibaren, padişahın kişisel hizmetinde olan bürokrasinin (özellikle yeniçeri ordusunun ve enderun mektebinden çıkan yüksek devlet memurlarının) Hristiyan Balkan köylüleri arasından küçük yaşta toplanıp Müslüman olarak yetiştirilmesi pratiğiydi.

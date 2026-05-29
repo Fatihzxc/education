@@ -80,6 +80,18 @@ Marjinalist devrim, üç farklı okul olarak yayılır:
 
 Üç okul aynı temel görüşü paylaşır (değer sübjektif, marjinal bir nicelik) ama metodolojik tercihleri çok farklıdır. 20. yüzyıl boyunca üç okul birbiriyle hem işbirliği yaptı hem tartıştı; günümüzde ana akım iktisat üç okulun da etkilerini taşır.
 
+### Üç okul, üç akıl yürütme biçimi
+
+Marjinalizmi tek bir cümleyle "değer faydadan gelir" diye öğrenmek kolaydır ama eksik kalır. Asıl fark, bu faydayı nasıl düşündüklerinde ortaya çıkar. Aynı temel fikir üç ayrı yola ayrılır.
+
+| Okul | Temel derdi | Kullandığı yöntem | Değer nereden görünür? | Güçlü tarafı | Kör noktası / karşı fikir |
+|---|---|---|---|---|---|
+| Lozan | Bütün piyasalar aynı anda nasıl dengelenir? | Denklem sistemi, genel denge | Ekonominin tamamındaki karşılıklı uyumdan | Sistemin birbirine bağlılığını gösterir | Tarih, kurum ve güç ilişkisini fazla soyutlayabilir |
+| Avusturya | İnsan belirsizlik içinde nasıl tercih yapar? | Öznel değer, süreç, girişimci dikkat | Bireyin zihnindeki önem sırasından | Bilgi, beklenti ve keşfi ciddiye alır | Sınıf, makro kriz ve kurumsal zorlama geri çekilebilir |
+| Cambridge | Tek bir piyasada fiyat nasıl oluşur? | Kısmi denge, arz-talep, zaman ayrımı | Talep, maliyet ve zaman ufkunun kesişiminden | Öğretmesi ve uygulaması güçlüdür | Tek piyasa netleşirken sistemin bütünü gözden kaçabilir |
+
+Bu ayrım şunu öğretir: Marjinalist devrim yalnızca yeni bir cevap değildir; yeni bir bakış yeridir. Klasikler üretim ve sınıf bölüşümünden bakarken, marjinalistler tercih, denge ve kıtlık noktasından bakar. Doğruya yaklaşmak için iki soruyu birlikte tutmak gerekir: İnsanlar neyi tercih ediyor? Ve bu tercihleri hangi tarihsel koşullar mümkün kılıyor?
+
 ## 9.7 Marjinalist devrimin değer-tarihindeki yeri
 
 Değer kavramının tarihinde marjinalist devrimin yeri şudur: *değer-üretimi sorununun kapatılması*.

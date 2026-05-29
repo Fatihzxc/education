@@ -19,6 +19,30 @@ Yani Smith için 1688-1697 savaşı (William of Orange'ın Fransa ile mücadeles
 
 Steuart, *Principles of Political Oeconomy*'de (1767), 18. yüzyıl ortasında İngiliz fonlu borcunun ulaştığı boyutu detaylı tablolarla gösterir^[2]. 1757-1762 arasında savaş kaynaklı borçlanma 58 milyon sterlinin üzerine çıkar; bu, döneminin İngiltere'sinin yıllık gelirinin birkaç katıdır. Mercantilist politika — gümrükler, ticaret şirketleri, ulusal donanma — bu borcu döndürebilmek için ihtiyaç duyulan reel iktisadi tabanı kuran politikaydı.
 
+### Kapasite zinciri: savaş iktisadı nasıl devlet inşa eder?
+
+Bu bölümü bir döngü gibi düşünmek öğrenmeyi kolaylaştırır. Merkantilist devlet bir sabah "ben ekonomiye karışayım" diye başlamaz. Önce savaş baskısı gelir; sonra bu baskı devleti gelir, kayıt, borç ve ticaret düzeni kurmaya zorlar.
+
+```text
+Savaş pahalanır
+  -> düzenli vergi gerekir
+  -> vergi için kayıt ve bürokrasi büyür
+  -> bugünkü vergi yetmez, kamu borcu kurulur
+  -> borcu çevirmek için ticaret ve gümrük geliri izlenir
+  -> donanma ve şirketler ticareti korur
+  -> daha büyük savaş kapasitesi doğar
+```
+
+| Halka | Devletin kazancı | Toplumun ödediği bedel | Karşı okuma |
+|---|---|---|---|
+| Vergi | Düzenli hazine | Köylü, zanaatkâr ve tüketici üzerinde nakit baskısı | Kapasite artışı aynı zamanda denetim artışıdır |
+| Bürokrasi | Kayıt, ölçüm, tahsilat | Yerel özerkliklerin daralması | "Düzen" bazı gruplar için zor anlamına gelir |
+| Kamu borcu | Gelecekteki geliri bugüne taşır | Faiz yükü ve gelecek vergileri | Borç gücü, borç veren sınıfın gücünü de büyütür |
+| Ticaret tekeli | Gümrük ve stratejik sektör kontrolü | Tüketiciye pahalı mal, rakiplere dışlama | Koruma öğrenme üretebilir; ama rant da üretebilir |
+| Donanma / şirket | Uzak ticaret ve imparatorluk kapasitesi | Sömürge şiddeti ve yerel hayatların bozulması | Güç hikayesi, bedel hikayesini bastırabilir |
+
+Buradan çıkan temel ders şudur: Merkantilizm bir "altın sevme hatası"ndan ibaret değildir. Modern devletin mali kaslarının, ticaret yollarının ve zor kullanma kapasitesinin birlikte büyüdüğü tarihsel bir laboratuvardır.
+
 ## Vergi inşası: krallıktan modern hazineye
 
 Mali kapasitenin inşası sadece "daha çok vergi al" meselesi değildir. Bu inşanın belki en önemli boyutu, **vergi toplamanın kurumsallaşmasıdır**: kimin ne kadar borçlu olduğunu kim takip ediyor, parayı kim topluyor, hazineye nasıl ulaşıyor, kayıt nasıl tutulur, vergi kaçakçılığı nasıl tespit edilir? Bu sorulara verilen cevaplar, modern bürokrasinin doğum belgelerini yazar.

@@ -113,6 +113,21 @@ Marx, *Theories of Surplus Value*'da (4. cilt olarak basılan ölümünden sonra
 
 Sismondi'nin metodolojik önemi ayrıca büyüktür. Smith ve Ricardo'nun *deduktif-soyut* metoduna karşı, Sismondi *tarihsel-karşılaştırmalı* metoda yönelir: İtalyan, Toskan, Avusturya, Polonya ekonomilerini karşılaştırmalı olarak inceler; soyut modelin yerine *somut ekonomik tarihi* koyar. Bu metod, ileride doğacak Alman Tarih Okulu'nun (Wilhelm Roscher, Karl Knies, Bruno Hildebrand, sonra Gustav Schmoller) doğrudan habercisidir. Klasik İngiliz iktisat geleneği ile Alman tarihsel okul arasındaki köprü, Sismondi'dir.^[7]
 
+### Politik basınç çizelgesi: teori hangi sokağın içinde konuşuyordu?
+
+Klasik iktisadı yalnızca Smith-Ricardo-Mill hattı gibi okursak, fikirlerin havada tartışıldığı sanısına kapılırız. Oysa bu teori, oy hakkı, ekmek fiyatı, fabrika disiplini, kent yoksulluğu ve işçi örgütlenmesiyle aynı dönemde konuşuyordu.
+
+| Tarihsel basınç | Kim görünür oldu? | Klasik iktisadın verdiği dil | Karşı ses neyi gösterdi? | Öğrenme notu |
+|---|---|---|---|---|
+| 1832 Reform Bill | Sanayi orta sınıfı | Mülkiyet sahibi üretici sınıfın siyasal ağırlığı | İşçiler hâlâ dışarıdaydı | "Temsil" kelimesi herkesi kapsamayabilir |
+| Anti-Corn Law hareketi | Sanayici ve kentli tüketici | Serbest ticaret, ucuz tahıl, düşük ücret baskısı | Toprak aristokrasisi ve kırsal çıkarlar direnç gösterdi | Ekmek fiyatı sınıf siyasetidir |
+| Chartism | İşçi sınıfı | Ana akım klasik dilde sınırlı yer buldu | Oy hakkı ve politik eşitlik talebi büyüdü | Piyasa özgürlüğü siyasal hak olmadan eksik kalır |
+| Factory Acts | Kadınlar, çocuklar, fabrika işçileri | "Sözleşme özgürlüğü" fikri sınandı | Devlet müdahalesi emek bedenini korumak için gerekli görüldü | Özgür sözleşme güç eşitsizliğinde özgür olmayabilir |
+| Ütopyacı sosyalistler | Kooperatifçiler ve reformcular | Rekabetçi piyasa düzenine ahlaki itiraz | Üretimi başka türlü örgütleme hayali kuruldu | Alternatifler bazen erken oldukları için zayıf görünür |
+| Sismondi | Küçük üretici, kriz yaşayan toplum | Büyüme ve birikim anlatısına iç eleştiri | Kriz, yoksulluk ve talep yetersizliği görünür oldu | Soyut model somut tarihi açıklamak zorundadır |
+
+Bu çizelge şunu anlatır: Klasik politik ekonomi yalnızca "piyasa nasıl işler?" sorusuna cevap vermedi. Aynı zamanda "yeni sanayi toplumunda kim temsil edilecek, kim korunacak, kim bedel ödeyecek?" sorusunun içinde konuştu.
+
 ## 8.9 Klasik politik ekonominin sınıf-yerli okuması
 
 Bu bölümde işlediğimiz tüm materyali bir araya getirelim. Klasik politik ekonomi kimin iktisatçılığıydı?

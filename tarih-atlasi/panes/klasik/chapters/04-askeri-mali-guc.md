@@ -61,6 +61,19 @@ Serbest ticaret dili büyüdükçe bile, bu ticaretin arkasında devletin deniz 
 
 Burada bir gerilim doğar. Klasik iktisat "doğal özgürlük" ve serbest ticaret dilini sever. Ama küresel ticaret çoğu zaman donanma, sömürge yönetimi ve zor kullanma kapasitesiyle korunur. Bu yüzden "serbest" kelimesinin arkasındaki güç ilişkisini görmek gerekir.
 
+### Açık söylem ve gizli altyapı
+
+Klasik iktisadı daha berrak okumak için bir cümleyi iki katmana ayırabiliriz: Söylenen ilke ve o ilkenin çalışmasını mümkün kılan altyapı.
+
+| Açık söylem | Arkadaki altyapı | Güçlü ülke için anlamı | Zayıf ülke / koloni için soru |
+|---|---|---|---|
+| Serbest ticaret herkesin yararınadır | Donanma, sigorta, liman, finans merkezi | Mallarını güvenle dünyaya yayabilir | Aynı güvenlik ve finans ağına sahip mi? |
+| Piyasa doğal dengeyi bulur | Hukuk, mülkiyet kaydı, sözleşme icrası | Sözleşmeleri koruyan kurumlar hazırdır | Kurumlar dış baskıyla mı kuruluyor? |
+| Para güvenle dolaşır | Banka sistemi, kamu kredisi, vergi kapasitesi | Borç daha ucuz ve sürdürülebilir olur | Borç egemenliği sınırlıyor mu? |
+| Rekabet verimliliği artırır | Sanayi öğrenmesi ve teknoloji birikimi | Mevcut üstünlüğünü rekabet adıyla büyütebilir | Yeni sanayiler doğmadan eziliyor mu? |
+
+Bu tablo serbest ticareti otomatik olarak yanlış yapmaz. Ama onu daha dürüst bir yere koyar: Bir ilke, onu taşıyan kurumlar ve güç dengesiyle birlikte okunmalıdır.
+
 ## Askerî-mali tablo
 
 | Alan | Klasik çağdaki rolü | İktisatla bağı | Soru |

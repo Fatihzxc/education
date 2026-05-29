@@ -26,6 +26,19 @@ Bu ayrımın hayata bakışı modern okuyucuya yabancı gelebilir. Ama dikkat: A
 
 Bu ayrımın iktisat tarihindeki yansıması derindir. Skolastik düşünce (Bölüm 3) doğrudan bu çerçeveyi miras alır: tüccarın aldığı kâr ahlâki olarak kabul edilebilir, ama yalnızca belirli sınırlar dahilinde. Sınırların aşılması — özellikle faiz (*usury*) — Aristoteles'in *chrematistic* kavramına dayanarak yasaklanır. Smith'in 1776'da "kendi çıkarını kovalayan tüccar görünmez bir el ile toplumsal yararı üretir" tezi, Aristoteles'in çerçevesine karşı sistematik bir karşı-argümandır.
 
+### Öğrenme kutusu: aynı "değer" kelimesinin dört ayrı kökü
+
+Antik düşünceyi anlamanın en temiz yolu şudur: Aristoteles "fiyat nasıl oluşur?" diye başlamaz. Önce "iyi hayat nasıl korunur?" diye başlar. Bu yüzden değer meselesi onun elinde yalnızca piyasa konusu değil; hane, ihtiyaç, ölçü ve adalet meselesidir.
+
+| Temel soru | Aristoteles'in baktığı yer | Güçlü tarafı | Kör noktası / karşı okuma |
+|---|---|---|---|
+| Bir şey ne işe yarar? | Kullanım: sandalet ayağa giyilir | Malı insan ihtiyacına bağlar | Bir malın toplumdaki fiyatını tek başına açıklamaz |
+| Bir şey neyle değişilir? | Değişim: sandalet tahılla takas edilir | Ortak ölçü sorununu görünür yapar | Pazarlık gücü ve kıtlık farklarını kolayca arka plana iter |
+| Ticaret nereye kadar doğaldır? | Oikonomia: hane ihtiyacı için üretim | Ekonomiyi sınırsız biriktirme arzusundan ayırır | Modern büyüme ve girişimcilik mantığını fazla kuşkuyla okuyabilir |
+| Fiyat adil mi? | Düzeltici adalet: taraflar eşitlenmeli | Değeri ahlakla birlikte düşünür | Modern iktisadın "iki taraf da gönüllüyse kazanır" itirazıyla gerilim yaşar |
+
+Buradan şu sonuç çıkar: Antik değer düşüncesi bize bugünkü fiyat teorisini hazır vermez. Ama daha temel bir alışkanlık verir: bir fiyat gördüğünde yalnızca "kaç para?" diye değil, "hangi ihtiyaç, hangi ölçü, hangi güç ve hangi adalet fikri bunun içinde saklı?" diye sormayı öğretir.
+
 ## 2.3 Kullanım ve değişim — temel ayrım
 
 *Politika* I.9'da Aristoteles, bir sandaletin iki kullanımı olduğunu söyler:

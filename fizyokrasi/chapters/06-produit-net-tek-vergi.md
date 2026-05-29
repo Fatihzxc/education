@@ -46,6 +46,20 @@ Doktrinin en zarif ve en politik kısmı buradadır. Argüman dört adımda kuru
 
 *Impôt unique* böylece yalnızca bir vergi reformu olmaktan çıkar; **Fransa'nın mali-siyasi mimarisinin yeniden yazılması** hâline gelir. Tek bir vergi → tek bir taban → tek bir toplama mekaniği → karşı tarafta tek bir muhasebe. Ortaçağ kalıntısı binlerce ayrı kalem, yerel ayrıcalık, korporatif muafiyet, *fermier* mukavelesi — hepsi süpürülür.
 
+### Vergi yükü haritası: reform kime nefes, kime kayıp getirirdi?
+
+Tek vergi fikri ilk bakışta çok temiz görünür: dağınık vergileri kaldır, net ürünü vergile. Ama bir reformu gerçekten anlamak için şu soruyu sormak gerekir: Aynı hamle farklı grupların hayatında neye dönüşür?
+
+| Aktör | Eski düzende ne yaşar? | Tek vergi gelirse ne değişir? | Neden destekleyebilir? | Neden karşı çıkabilir? |
+|---|---|---|---|---|
+| Köylü | *Taille*, angarya, yerel harçlar ve dolaylı vergiler arasında sıkışır | Dolaylı yüklerin azalmasıyla nefes alabilir | Ekmek, tuz ve geçim üzerindeki baskı hafifleyebilir | Toprak sahibi vergi yükünü kira ya da baskı yoluyla geri itebilir |
+| Toprak sahibi | Muafiyet ve ayrıcalıklardan yararlanabilir | Rant doğrudan vergi tabanı olur | Düzen sadeleşirse tarımsal üretim büyüyebilir | En açık mali yük onun üzerine biner |
+| Tüccar / zanaatkâr | İç gümrük, lonca ve dolaylı vergiyle karşılaşır | Birçok işlem maliyeti azalabilir | Pazar daha akışkan hale gelir | "Steril" sınıf sayılmak toplumsal itibarını düşürebilir |
+| Devlet | Çok kalemli, kaçak ve aracılı gelir düzenine dayanır | Daha okunabilir bir hazine yapısı kurar | Kayıt, tahmin ve tahsilat kolaylaşır | Aracı finansörlerin ve ayrıcalıklı kurumların direnişiyle karşılaşır |
+| Vergi çiftçileri | Karmaşık düzenin aradaki kazancını alır | Aracılık rolü zayıflar ya da biter | Neredeyse hiçbir sebep yok | Reform doğrudan çıkarlarına dokunur |
+
+Bu yüzden fizyokrat vergi projesi yalnızca "daha iyi vergi tekniği" değildir. Bir toplumun kimin sırtından gelir topladığını yeniden açığa çıkarır. Reformun kâğıt üzerinde makul olması yetmez; kaybedenlerin kim olduğunu gördüğünde siyasal direncin neden sertleştiğini de anlarsın.
+
 ## 6.5 Mirabeau ve Théorie de l'impôt: doktrinin yayını ve bedeli
 
 Bu radikal görüşü sistematik bir kitap olarak ortaya koyan Mirabeau'dur — yani Victor Riqueti, marquis de Mirabeau, ünlü devrimci hatip Honoré-Gabriel'in **babası**. *L'Ami des hommes* (1756) ile fizyokrat çevrenin halka açık sözcüsü konumuna gelmiş olan Mirabeau, 1760'ta *Théorie de l'impôt*'yu yayınlar. Eser, Quesnay'in çerçevesinin halk diline çevirisidir; *produit net*'in tanımından *impôt unique* sonucuna kadar bütün argümanı içerir; ek olarak, mevcut vergi sisteminin — özellikle *fermes générales*'in — bir siyasi-ahlaki eleştirisini sunar.

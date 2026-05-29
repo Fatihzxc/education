@@ -80,6 +80,20 @@ Bu, klasik liberalizm ile ulus-yapıcı korumacılık arasındaki tartışmanın
 
 Bu çatışmanın yankıları 100 yıl sonra hâlâ duyulur. Cumhuriyet'in *devletçilik* dönemi (1930-1950), 1980 sonrası neoliberal döneme kadar, klasik vs korumacı tartışmasının Türk versiyonunu sürdürdü. 2000 sonrası endüstri politikası tartışmaları — yerli üretim, otomotiv, savunma sanayii, "Made in Turkey" projeleri — aynı kavramsal çatışmanın yeniden yüzeye çıkışıdır. Kardeş kitabın merkantilizm cildinin 12. bölümü bu çağdaş yankıları işler.
 
+### Kavram aktarımı matrisi: aynı teori yeni zeminde neye dönüşür?
+
+Bir fikrin başka dile çevrilmesi yalnızca kelime işi değildir. Fikir, geldiği ülkenin kurumlarını da yanında taşır; ama yeni ülkede o kurumlar aynı değilse anlam kayar. Osmanlı'da klasik iktisadı anlamanın anahtarı budur.
+
+| İngiliz klasik bağlamı | Osmanlı bağlamı | Aktarılan kavram | Yeni zeminde değişen anlam | Kaybolma riski taşıyan varsayım |
+|---|---|---|---|---|
+| Güçlü sanayi ve dünya ticaret ağı | Zayıf sanayi, mali baskı, dış rekabet | Serbest ticaret | "Verimlilik" kadar "bağımlılık" tartışmasına dönüşür | Rekabet eden tarafların benzer güçte olduğu varsayımı |
+| Parlamento ve temsil genişlemesi | Merkezi bürokratik reform ve Meşrutiyet gerilimi | Politik ekonomi | Bürokrat yetiştirme ve mali düzen dili olur | Teorinin arkasındaki sınıf-temsil mücadelesi |
+| Bankacılık, sermaye piyasası, kamu borcu kapasitesi | Düyun-u Umumiye, dış borç ve mali egemenlik kaygısı | Sermaye ve kredi | Kalkınma aracı olduğu kadar egemenlik sorunu olur | Borç alan devletin kurumsal güveninin kendi içinde kurulmuş olduğu |
+| Tahıl yasaları ve toprak aristokrasisi | Aşar, tarımsal vergi, köylü geçimi | Rant / vergi | Toprak rantından çok maliyenin yaşama meselesine bağlanır | İngiliz toprak-sınıfı yapısının evrensel olduğu |
+| Sanayi burjuvazisinin yükselişi | Yerli sanayi kurma arayışı | Koruma mı serbestlik mi? | Cavid Bey-Gökalp hattında ulus kurma meselesine dönüşür | "Piyasa açılırsa üretici güçler kendiliğinden gelişir" iyimserliği |
+
+Bu yüzden Osmanlı alımlamasını "geç kalmış bir çeviri" diye küçümsemek doğru olmaz. Daha dikkatli cümle şudur: Klasik iktisat Osmanlı'ya geldiğinde, kendi doğduğu dünyanın sorunlarını değil, Osmanlı'nın mali egemenlik, sanayileşme ve devlet kurtarma sorunlarını çözmek için yeniden yorumlandı.
+
 ## 10.8 Cumhuriyet erken-dönem mirası (1923-1950) — terminolojinin sürekliliği
 
 Cavid Bey'in idamı (1926), klasik liberal iktisat geleneğinin Türkiye'de bir kurumsal süreksizlik yaşadığı anı işaret eder. Erken Cumhuriyet dönemi (1923-1938) *devletçilik* hâkimiyetindedir: Birinci Beş Yıllık Sanayi Planı (1934), Sümerbank ve Etibank gibi devlet iktisadi teşekküllerinin kuruluşu, devlet-öncülüğünde sanayileşme stratejisi. Klasik liberal söylem bu dönemde marjinaldir; politik olarak güvenilmez, akademik olarak ihmal edilmiştir.

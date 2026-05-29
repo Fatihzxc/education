@@ -60,6 +60,20 @@ Ama burada ahlaki sorun çok büyüktür. Bir şirket kâr için çalışır. On
 
 Bu yüzden askerî-mali güç kartı sadece "devlet güçlendi" demez. Şunu da sorar: Bu güç kimin üzerinde kuruldu?
 
+### Şirket-egemenlik defteri
+
+İmtiyazlı şirketi anlamak için onu yalnızca "özel firma" diye değil, devletin bazı yetkilerini dışarı taşıyan bir ara kurum gibi okumak gerekir.
+
+| Yetki | Şirket için anlamı | Devlet için anlamı | Yerel halk açısından risk |
+|---|---|---|---|
+| Ticaret tekeli | Rakipleri dışlar, kârı korur | Stratejik gelir kanalı kurar | Fiyat ve geçim düzeni dışarıdan belirlenir |
+| Kale ve üs kurma | Ticareti askeri güvenceye alır | Uzak bölgede bayrak gösterir | Ticaret alanı askeri alana dönüşür |
+| Anlaşma yapma | Yerel siyasetle doğrudan pazarlık eder | Diplomatik yükü paylaşır | Kamu gücü özel çıkarla karışır |
+| Asker tutma | Kârı korumak için zor kullanır | Devletin doğrudan maliyetini azaltır | Şiddetin hesabı halka değil hissedara verilir |
+| Vergi / gelir toplama | Ticari kazanç yönetim gelirine dönüşür | Hazine ve nüfuz büyür | Yönetilenlerin rızası iyice zayıflar |
+
+Bu defterin öğretici yanı şudur: Merkantilist dünyada "piyasa" ile "devlet" temiz biçimde ayrılmış değildir. Çoğu zaman şirket kâr ederken devlet genişler; devlet genişlerken şirketin kâr alanı büyür.
+
 ## Osmanlı neden farklı bir yoldaydı?
 
 Osmanlı büyük bir askerî devletti. Timar sistemi, kapıkulu ocakları, eyalet düzeni, iltizam ve mukataa gelirleriyle uzun süre büyük seferleri finanse etti. Ama Avrupa'daki gibi imtiyazlı denizaşırı şirketler, fonlu kamu borcu ve Atlantik sömürge geliri Osmanlı düzeninin merkezinde olmadı.

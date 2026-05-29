@@ -31,6 +31,29 @@ Smith'e göre kapitalist mülkiyet, *biriken tasarrufların* sonucudur — çal�
 
 İlkel birikim, Marx'a göre, *Kapital*'in matematiksel formüllerini değil, *Avrupa kapitalist toplumunun tarihsel bağlamını* açıklamak için kullanılır. Tezi şudur: bugünkü mülkiyet yapısı, *barışçıl emek-mixing*'in değil, *yüzyıllarca süren zor ve şiddet*'in mirasıdır.
 
+### İlkel birikimden sermaye döngüsüne
+
+Marx'ın itirazını en sade haliyle şöyle kurabiliriz: Kapitalist mülkiyet yalnızca "birileri çok çalıştı ve biriktirdi" diye doğmadı. Önce çok sayıda insan üretim araçlarından ayrıldı; sonra bu insanlar yaşamak için emek-gücünü satmak zorunda kaldı.
+
+```text
+Ortak / geçimlik kaynaklardan koparma
+  -> üretim araçlarından ayrılmış emekçi
+  -> ücretli emek
+  -> üretim sürecinde artı-değer
+  -> kâr ve sermaye birikimi
+  -> daha fazla toprak, makine, hammadde ve işgücü kontrolü
+```
+
+| Aşama | Görünen hikaye | Marx'ın sorduğu daha sert soru | Kimin gözünden farklı görünür? |
+|---|---|---|---|
+| Çitleme | Toprak daha verimli kullanılıyor | Köylü geçim kaynağından nasıl koparıldı? | Topraktan atılan köylü |
+| Sömürge geliri | Ticaret büyüyor | Bu sermaye hangi zor ve yağma ilişkilerinden geçti? | Sömürgeleştirilen toplum |
+| Ücretli emek | İşçi sözleşme yapıyor | Üretim aracı yoksa bu sözleşme ne kadar özgür? | Fabrika işçisi |
+| Kâr | Girişimci kazanç sağlıyor | Değerin hangi kısmı ödenmemiş emekten geliyor? | Sendika ve sosyalist eleştiri |
+| Yeniden yatırım | Ekonomi büyüyor | Büyüme mülkiyet yoğunlaşmasını da artırıyor mu? | Küçük üretici ve borçlu |
+
+Bu şema Marx'ı daha net anlamana yardım eder: Onun meselesi yalnızca bugünkü fabrikada ne olduğuna bakmak değildir. "Bu fabrikanın sahibi neden sahibi, işçi neden işçi?" sorusunu tarihin gerisine doğru takip etmektir.
+
 ## 8.3 Mülkiyet ile sömürünün mekaniği
 
 Marx'ın *Kapital* I'in çekirdek argümanı (Değer kitabı Bölüm 7'de işlenmişti), mülkiyet teorisi açısından da kritiktir. Çünkü "*artı-değer*" mekanizması, kapitalist mülkiyetin nasıl *sömürü* ürettiğini gösterir.
