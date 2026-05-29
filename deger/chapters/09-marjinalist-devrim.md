@@ -68,6 +68,22 @@ O hâlde niye 1871? Tarihçilerin önerdiği üç açıklama:
 
 Bu üç koşul aynı anda mevcut olduğunda, marjinalist çerçeve ortaya çıktı. Salamanca okulu da Bernoulli de Gossen de bu üç koşula sahip değildi; bu yüzden onların icadı "yer tutmadı". Bilimsel devrimler — Kuhn'un (1962) söylediği gibi — sadece doğru cevabı bulmak değil, *doğru cevabın paylaşılabileceği bir bağlamı* gerektirir.
 
+### Kim için devrim? Marjinalizmin kazanan-kaybeden haritası
+
+Marjinalist devrimi yalnız "iktisat matematikleşti" diye okursak, hikâyenin yarısı eksik kalır. Asıl büyük değişim şudur: değer sorusu, üretim masasından tüketim anına taşınır. Yani soru artık "bu malın içinde ne kadar emek var?" değil; "son birim, alıcı için ne kadar önemli?" olur.
+
+Bu değişim bazı şeyleri çok iyi gösterir, bazılarını ise arkaya iter. Bunu şöyle okuyabiliriz:
+
+| Gözlem yeri | Marjinalizm neyi daha görünür kılar? | Kime makul gelir? | Neyi gölgede bırakabilir? | Karşı okuma sorusu |
+|---|---|---|---|---|
+| Tüketici | İhtiyaçların şiddeti ve son birimin önemi | Fiyatı tercih üzerinden anlamak isteyen okur | Gelir farkı yüzünden bazı ihtiyaçların piyasada "talep"e dönüşememesi | Bir insanın isteği mi ölçülüyor, ödeme gücü mü? |
+| Firma | Fiyat değişince talebin nasıl oynadığı | Satış, stok ve fiyat kararı veren işletme | Üretim koşulları, ücret baskısı, tedarik gücü | Bu fiyatı mümkün kılan emek ve kurum yapısı ne? |
+| Devlet | Vergi, sübvansiyon ve refah hesaplarını sayısallaştırma | Politika etkisini ölçmek isteyen yönetici | Adalet sorusunun teknik refah hesabına sıkışması | Verimlilik artışı kimin hayatını gerçekten iyileştiriyor? |
+| İktisat disiplini | Denklem, grafik ve denge üzerinden ortak dil | Bilimi fizik gibi kurmak isteyen iktisatçı | Tarih, sınıf ve güç ilişkisinin model dışında kalması | Modelin dışında kalan şey, gerçekte küçük mü büyük mü? |
+| İşçi / üretici | Dolaylı olarak ücret ve maliyet hesabı | Rekabetçi piyasada konumunu anlamak isteyen üretici | Değerin üretim sürecinde nasıl yaratıldığı | Emek sadece maliyet midir, değerin kaynağı da olabilir mi? |
+
+Bu tablo sana şunu hatırlatsın: Bir teori güçlendiğinde, yalnızca yeni bir cevap vermez; bakış yerini de değiştirir. Marjinalizm fiyatın nasıl oluştuğunu keskinleştirir. Ama doğruya yaklaşmak için Marxçı ve kurumsal karşı okumayı da yanında tutmak gerekir; çünkü tercih dediğimiz şey boşlukta doğmaz. Gelir, sınıf, borç, reklam, tekel gücü ve hukuk, insanın "seçtiği" şeyi daha seçmeden önce biçimlendirebilir.
+
 ## 9.6 Üç okulun farkları
 
 Marjinalist devrim, üç farklı okul olarak yayılır:

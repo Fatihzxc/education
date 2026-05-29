@@ -42,6 +42,20 @@ Bu iki sınır, Bodin'in sisteminin önemli bir nüansını oluşturur. Modern o
 
 Bu nüans, Bodin'in pratik politikadaki konumunu da açıklar. Bodin, "*politique*" hareketin (Henry IV'ün taraftarlarının) bir üyesiydi. Bu hareket, Katolik-Protestan iç savaşının ötesinde, *güçlü bir merkezi devlet* idealini savunuyordu. Ama bu devlet *despotik* değildi; vatandaşların temel haklarını koruyan bir devletti. Bodin'in formülasyonu bu politik konuma uygundur: güçlü ama sınırlı sovran.
 
+### İç savaş halkası: Bodin'in formülü kime güvenlik, kime sessizlik verdi?
+
+Bodin'in "bölünmez egemenlik" fikri kuru bir hukuk tanımı değildir; iç savaş korkusuna verilen bir cevaptır. Ama her cevap gibi, kime göre iyi olduğuna bakınca daha net anlaşılır. Aynı formül birine can güvenliği, başkasına ses kaybı getirebilir.
+
+| Gözlemci | Bodin'in güçlü egemeni ne vaat eder? | Ne pahasına? | Karşı okuma sorusu |
+|---|---|---|---|
+| Kral / merkezî yönetim | Dini savaşları bastıracak son karar yetkisi | Yerel özerkliklerin daralması | Düzen sağlanırken denetim nasıl korunacak? |
+| Şehir halkı | Yağma, mezhep çatışması ve düzensizlikten korunma | Kendi yerel sözünün zayıflaması | Güvenlik, siyasal katılımı tamamen susturmalı mı? |
+| Mezhep azınlığı | Tek merkez bazen kalabalığın şiddetini sınırlayabilir | Merkez düşmanlaşırsa kaçacak alan azalır | Azınlığın güvencesi egemenin merhameti mi, hak mı? |
+| Vergi veren köylü | İç savaşın yakıp yıkmasından kurtulma umudu | Daha güçlü vergi toplama ve asker alma kapasitesi | Barışın bedelini kim ödüyor? |
+| Yerel soylu / ara güçler | Ortak devlet düzeni içinde yerini koruma ihtimali | Bağımsız karar alanının azalması | Parçalı iktidar her zaman kaos mu, bazen fren mi? |
+
+Bu yüzden Bodin'i okurken iki duyguyu birlikte tutmak gerekir: İç savaşın yıktığı bir toplumda güçlü merkez gerçekten kurtarıcı görünebilir. Ama güçlü merkez, kendi üstünde denetim yoksa, kurtardığı toplumu sessizleştirebilir. Modern anayasal düşünce, Bodin'in verdiği güvenlik cevabını alıp yanına şu soruyu ekleyecektir: Gücü kim sınırlayacak?
+
 ## 6.5 Hobbes'a köprü: 75 yıllık süreklilik
 
 Bodin'in *République*'inden 75 yıl sonra (1651), Thomas Hobbes *Leviathan*'ı yayınladı. İki düşünür arasındaki ilişki direkt değildir — Hobbes Bodin'i sık alıntılamaz — ama yapısal olarak Hobbes, Bodin'in çerçevesini bir adım daha öteye götürür.

@@ -109,6 +109,20 @@ Coase-North-Ostrom çerçevesi son derece güçlüdür; ama eleştirileri vardı
 
 **3. Mülkiyet biçimleri arasındaki politik mücadeleler**. Ostrom'un çerçevesi yerel-topluluk başarılarını dökümante etti; ama yerel commons sistemlerinin neden bazen *yıkıldığını* (özellikle dış güçler tarafından) yeterince açıklamadı. Süregelen ormansızlaşma, balıkçılığın azalması, su kaynaklarının tükenmesi — hepsi commons yönetiminin başarısızlığını değil; *politik güç eşitsizliği* (yerel topluluk vs uluslararası sermaye) nedeniyle çökmesini gösterir.
 
+### Güç asimetrisi matrisi: commons neden sadece içeriden çökmez?
+
+Ostrom'u doğru anlamak için iki şeyi aynı anda tutmak gerekir. Birincisi: insanlar ortak kaynakları her zaman mahvetmez; iyi kurallar, güven ve izleme varsa birlikte yönetebilirler. İkincisi: bir commons bazen içeriden değil, dışarıdan gelen daha büyük güç yüzünden çöker.
+
+| Aktör | Commons'a ne diye bakar? | Gücü nereden gelir? | Yerel halk için risk | Doğruya yaklaşma sorusu |
+|---|---|---|---|---|
+| Yerel topluluk | Geçim, hafıza, ortak yaşam zemini | Gelenek, karşılıklı güven, yerel bilgi | Dış baskı karşısında pazarlık gücü düşük kalabilir | Kuralı kullananlar mı koyuyor, uzaktan gelenler mi? |
+| Devlet | Düzenlenecek, vergilendirilecek veya kalkınmaya açılacak kaynak | Hukuk, izin, zor kullanma yetkisi | Koruma diliyle merkezileştirme yapabilir | Kamu yararı gerçekten kimin yararı? |
+| Şirket | Yatırım, hammadde, veri veya arazi fırsatı | Sermaye, hukuk ekibi, teknoloji | Kaynak kâr için yoğun kullanılabilir | Verimlilik artarken kaybı kim taşıyor? |
+| Kalkınma ajansı | Modernleştirilecek "verimsiz" yerel yapı | Kredi, proje, uzmanlık dili | Tek tip reçete yerel kuralları bozabilir | Başarı ölçütü yerel yaşamı mı, proje raporunu mu izliyor? |
+| Gelecek kuşak | Henüz sesi olmayan ortak hak sahibi | Bugünde doğrudan temsil edilmez | Kaynak bugünkü kazanç için tüketilebilir | Karar bugünün kazancını mı, yarının imkanını mı büyütüyor? |
+
+Bu matris, yeni kurumsal iktisadın sıcak ama eksik yanını gösterir. "İyi kurum tasarla" cümlesi yararlıdır; ama kurumun üstüne binen güç ilişkisini görmeden yetmez. Bazen mesele köylülerin balığı paylaşmayı bilmemesi değildir; balıkçıların karşısında liman projesi, büyük şirket, merkezi karar veya küresel talep vardır.
+
 ## 11.8 21. yüzyıl: değişen mülkiyet biçimleri
 
 Yeni kurumsal iktisadın çerçevesi, 21. yüzyılın yeni mülkiyet biçimlerini analiz etmenin temel aracıdır. Üç önemli alan:

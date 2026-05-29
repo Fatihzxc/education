@@ -114,6 +114,21 @@ Bir kitabın sonuç bölümü, çoğunlukla "biz neyi öğrendik?" sorusuna ceva
 
 **Üçüncüsü**: Her dönemin değer-teorisi, sadece bir iktisadi-teorik araç değildir; bir *politik konum*'dur. Smith'in emek-değer'i, merkantilist devletin servet anlayışına karşı bir argümandı. Marx'ın diyalektik değer'i, kapitalist sistemin meşruiyetine karşı bir eleştiriydi. Marjinalistlerin sübjektif değer'i, sosyalist ideolojilere karşı bir savunmaydı. Sen'in kapabilite'si, 20. yüzyıl sonu kalkınma iktisadının teknik dar-bakış'ına karşı bir reaksyondu. *Değer* sözcüğüne rastladığımız her yerde, sadece bir kavramsal sorunla değil; bir politik tartışmayla yüz yüzeyiz.
 
+### Kök sebep ve karşı okuma matrisi: değer teorileri neyi görür, neyi örter?
+
+Bu kitabı kapatırken en işe yarar pusula şu olabilir: Her değer teorisi, belirli bir problemi çözmek için doğar. O problemi iyi gördüğü için ikna edicidir. Ama tam da o noktaya odaklandığı için başka bir şeyi zayıf görür.
+
+| Hat | Doğduğu temel problem | Kimin gözünden makul görünür? | Güçlü tarafı | Güçlü karşı okuma | Kontrol sorusu |
+|---|---|---|---|---|---|
+| Aristoteles / Aquinas | Ekonomik faaliyeti iyi yaşam ve adalet içinde tutmak | Şehir, cemaat, ahlaki düzen arayan okur | Para ve kazancı sınırsız amaç olmaktan çıkarır | Ticaretin yenilik ve hareket gücünü fazla sınırlayabilir | Ahlaki sınır, özgürlüğü koruyor mu daraltıyor mu? |
+| Smith / Ricardo | Ticari toplumda fiyat, emek ve bölüşümü anlamak | Üretim dünyasını açıklamak isteyen okur | Değerin üretim cephesini görünür kılar | Tüketici tercihi ve kıtlık anını bazen zayıf yakalar | Fiyat yalnız emekle açıklanınca ne eksik kalıyor? |
+| Marx | Kapitalist üretimde sömürü ve sınıf gücünü açıklamak | İşçi, sendika, eleştirel tarihçi | Mülkiyet, emek ve artı-değeri aynı resme koyar | Piyasa koordinasyonu ve bireysel tercih çeşitliliğini küçümseyebilir | Sömürü yapısal ise çözüm sadece fiyat düzeltmesi olabilir mi? |
+| Menger / Walras / Marshall | Değişen fiyatları ve son birim kararını açıklamak | Tüketici, firma, teknik iktisatçı | Fiyat mekanizmasını güçlü biçimde çözer | Gelir, sınıf ve kurumların tercihleri nasıl kurduğunu geri plana atar | Ölçülen şey ihtiyaç mı, ödeme gücü mü? |
+| Sraffa / Cambridge tartışması | Sermaye ölçümü ve bölüşüm ilişkisini yeniden açmak | Teknik temeli sorgulayan iktisatçı | Ana akım denge modelinin gizli varsayımlarını görünür kılar | Gündelik okur için soyut ve teknik kalabilir | Model güzel işliyor diye temeli sağlam mı sayılır? |
+| Sen | Gelir ve faydanın insan hayatını ölçmeye yetmemesi | Kalkınmayı insan imkanı olarak görmek isteyen okur | Değeri gerçek yapabilme özgürlüklerine bağlar | Hangi kapabilitenin öncelikli olduğu politik tartışma ister | İnsan neye sahip, ne hissediyor, ne yapabiliyor? |
+
+Buradan çıkan sonuç sakin ama önemlidir: Değer teorilerini birbirinin yerine geçen cevaplar gibi değil, farklı karanlık noktaları aydınlatan lambalar gibi düşün. Bir lamba üretim alanını, biri tüketim anını, biri adaleti, biri insan özgürlüğünü gösterir. Daha doğru bir okuma, tek lambaya sadakatten değil; hangi soruda hangi ışığın yetmediğini fark etmekten doğar.
+
 Bu kitap, okuyucusunu bu yirmi beş asırlık tartışmanın bir gezgini hâline getirmeye çalıştı. Her bölümün dipnotları ve blockquote'ları, okuyanı orijinal kaynaklara yönlendirir. Çünkü bu tartışmanın gerçek değeri, ikincil özetlerde değil; orijinal düşünürlerin kendi sözlerindedir. Smith'in *Wealth of Nations*'ını okuyan, Marx'ın *Kapital*'ini okuyan, Menger'in *Grundsätze*'sini okuyan bir kişi, onların kendi entelektüel dünyalarına girer.
 
 Bu dünyalara giriş, bu kitabın asıl ödülüdür. Geride bıraktığım on iki bölüm, bir bilinçle yazıldı: yalnız okuyup-bitirmek için değil; oradan başlayıp, kendi okumalarına devam etmek için bir kapı olarak.

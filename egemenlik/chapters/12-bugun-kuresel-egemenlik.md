@@ -54,6 +54,21 @@ Bu dalganın ortak özelliği, Schmitt'in çerçevesini hatırlatacak biçimde, 
 
 Bu dalga *basit bir gerileme* değildir; küreselleşmenin yarattığı kazanan-kaybeden eşitsizliklerine, ulus-üstü kurumların temsil eksikliğine, kültürel kimlik kaygılarına verilmiş *siyasi cevaplar*'dır. Egemenlik üzerine düşünmek, bu cevapları aceleyle "demokrasi mi otoriterlik mi" ikiliğine sıkıştırmadan, *niye geri çağrıldığını* anlamak demektir.
 
+### Egemenlik yer mi değiştiriyor? Küresel kazanan-kaybeden matrisi
+
+Bugünkü egemenlik krizini "devlet zayıflıyor" diye tek cümleye indirgemek kolaydır ama eksik olur. Daha dikkatli bakınca şunu görürüz: karar gücü bazen devletten uluslar-üstü kuruma, bazen mahkemeye, bazen şirkete, bazen de yürütmenin en tepesine kayar. Yani egemenlik kaybolmaz; yer değiştirir, ölçek değiştirir, dili değiştirir.
+
+| Güç merkezi | Hangi kararı etkiler? | Kim kazanabilir? | Kim kaybedebilir? | Kontrol sorusu |
+|---|---|---|---|---|
+| Ulusal yürütme | Güvenlik, sınır, olağanüstü hâl, bütçe | Hızlı karar isteyen çoğunluk veya iktidar bloğu | Muhalefet, azınlıklar, bağımsız kurumlar | Egemenliği geri almak halka mı, yürütmeye mi güç veriyor? |
+| AB ve benzeri düzenleyici kurumlar | Veri, rekabet, çevre, tüketici standartları | Büyük pazara erişmek isteyen ama ortak kural isteyen aktörler | Ulusal meclisin doğrudan denetimi zayıflayabilir | Standart yükseliyor mu, demokratik mesafe mi artıyor? |
+| Tahkim mahkemeleri | Yatırım uyuşmazlığı, maden, enerji, altyapı | Sermayesini korumak isteyen yatırımcı | Yerel çevre, işçi, vergi mükellefi | Hukuk kimin erişebildiği bir alan haline geliyor? |
+| Dijital platformlar | Görünürlük, konuşma, veri akışı, dijital geçim | Platform sahibi ve ağ etkisinden yararlanan kullanıcı | Hesabı, geliri veya sesi algoritmaya bağlı olanlar | Özel kural koyucu kamusal hayata nasıl hesap verir? |
+| Yerel halk / belediye | Toprak, su, gündelik hizmet, yaşam alanı | Katılım kanalı varsa mahalle ve emek dünyası | Üst ölçekli kararlar karşısında sesi kısılabilir | Karardan etkilenenler karar masasında mı? |
+| Çokuluslu şirket | Tedarik zinciri, vergi planlaması, üretim yeri | Sermaye hareketliliği yüksek olan firma | Vergi tabanı zayıflayan devlet ve çalışanlar | Hareket özgürlüğü sadece sermayeye mi tanınıyor? |
+
+Bu matrisi okurken sloganlara dikkat etmek gerekir. "Egemenliği geri almak" bazen gerçekten halkın denetimini artırabilir; örneğin uzak ve kapalı bir kurumun kararını yerel demokrasiye geri taşır. Ama bazen de aynı slogan, gücü halka değil yürütmenin merkezine toplar. Bu yüzden doğru soru şudur: Egemenlik nereye dönüyor, kimin denetimine giriyor, bedelini kim ödüyor?
+
 ## 12.7 Üç olası senaryo
 
 Mevcut eğilimleri uzatırsak, 21. yüzyılın geri kalanı için en az üç farklı egemenlik senaryosu kuralı olabilir.

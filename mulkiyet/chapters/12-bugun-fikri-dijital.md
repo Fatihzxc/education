@@ -50,6 +50,22 @@ Bu kategorinin teorik karmaşıklığını arttıran bir başka boyut: *veri*. B
 
 Avrupa Birliği'nin 2018'de uyguladığı *General Data Protection Regulation* (GDPR), bu sorunu hukuksal olarak çözmeye çalışır: veri "kullanıcının kişisel hakları" çerçevesinde değerlendirilir; platform sadece *belirli amaçlar için sınırlı kullanım yetkisi* alır. Ama küresel uygulama hâlâ heterojendir; ABD ve Çin'in farklı çerçeveleri vardır.
 
+### Halkın gözü: dijital mülk mü, kiralanmış erişim mi?
+
+Dijital dünyada kafa karışıklığı şuradan doğar: Bir şeyi her gün kullanıyorsan, onu kendininmiş gibi hissedersin. Fotoğrafların, oyun karakterin, sosyal medya hesabın, müşteri puanın, bulut arşivin sana aitmiş gibi görünür. Ama hukuki ve teknik kontrol çoğu zaman platformdadır.
+
+Bu farkı gündelik örneklerle açalım:
+
+| Dijital varlık | Kullanıcı ne hisseder? | Platform neyi kontrol eder? | Kullanıcının zayıf noktası | Mülkiyet sorusu |
+|---|---|---|---|---|
+| Sosyal medya hesabı | "Bu benim kimliğim ve çevrem" | Hesabı kapatma, erişimi sınırlama, görünürlüğü ayarlama | Yıllarca biriken ilişki ağı tek kararla kaybolabilir | Kimlik emeği mülkiyet doğurur mu? |
+| Oyun içi eşya | "Satın aldım, benim" | Sunucu, oyun kuralları, transfer izni | Oyun kapanırsa eşya da fiilen yok olur | Satın alma mı yaptın, kullanım izni mi aldın? |
+| Bulut fotoğraf arşivi | "Ailem, hafızam, geçmişim" | Depolama şartı, ücret, erişim politikası | Şifre, abonelik veya hesap sorunu hafızaya erişimi kesebilir | Dijital hafıza kişisel mülk mü, hizmete bağlı erişim mi? |
+| Gig-worker puanı | "Benim emeğimin itibarı" | Algoritmik sıralama, hesap askısı, puan sistemi | Gelir, açıklanmayan kurallara bağlı hale gelir | Emekçinin dijital itibarı üzerinde hakkı var mı? |
+| Davranış verisi | "Ben sadece uygulama kullandım" | Toplama, analiz, reklam hedefleme | Kullanıcı kendi izinin ekonomik değerini görmeyebilir | Veri, kişinin uzantısı mı, platform hammaddesi mi? |
+
+Bu tablo dijital mülkiyeti soğuk hukuk dilinden çıkarır. Mesele yalnız "dosya kimin sunucusunda?" değildir. Mesele, insanın hafızası, emeği, itibarı ve gündelik ilişkileri hangi kurallar altında tutuluyor sorusudur. Bu yüzden dijital mülkiyet tartışması, Locke'un emek teorisini de, Marx'ın sömürü eleştirisini de, Ostrom'un commons fikrini de aynı anda çağırır.
+
 ## 12.5 Veri commons'ı — Ostrom yeniden
 
 Shoshana Zuboff'un *The Age of Surveillance Capitalism* (2019) ve Nick Srnicek'in *Platform Capitalism* (2017) eserleri, dijital mülkiyetin Marx-temelli analizlerini sunar. Onlara göre, modern dijital ekonominin temel mantığı şudur: platformlar, kullanıcıların *bedava emeği* (içerik üretimi) ve *bedava verileri* (davranış izleri) üzerinden devasa karlar elde ediyor. Bu, Marx'ın 19. yüzyılda anlattığı kapitalist sömürü mekanizmasının (Bölüm 8) dijital bir versiyonudur.
