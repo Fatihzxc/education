@@ -123,6 +123,122 @@
     .lens-meter .society { background: linear-gradient(to top, rgba(121, 183, 165, 0.32), transparent 66%); }
     .lens-meter .public { background: linear-gradient(to top, rgba(243, 238, 228, 0.2), transparent 54%); }
 
+    .period-overview {
+      display: grid;
+      gap: 16px;
+      margin: 0 0 24px;
+      padding: 18px;
+      border: 1px solid var(--atlas-line);
+      background:
+        linear-gradient(135deg, rgba(215, 180, 106, 0.09), transparent 48%),
+        rgba(16, 17, 15, 0.72);
+    }
+
+    .period-overview-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 18px;
+    }
+
+    .period-overview-head span {
+      color: var(--atlas-accent);
+      font-family: "JetBrains Mono", monospace;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .period-overview-head h2 {
+      margin: 4px 0 0;
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: 28px;
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .period-overview-head p {
+      max-width: 480px;
+      margin: 0;
+      color: var(--atlas-muted);
+      font-size: 14px;
+      line-height: 1.48;
+    }
+
+    .period-panel-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .period-card {
+      display: grid;
+      grid-template-rows: auto auto auto 1fr auto;
+      min-height: 236px;
+      gap: 8px;
+      padding: 14px;
+      border: 1px solid color-mix(in srgb, var(--period-color, var(--atlas-accent)) 38%, var(--atlas-line));
+      background: color-mix(in srgb, var(--period-color, var(--atlas-accent)) 8%, rgba(18, 19, 17, 0.86));
+      color: inherit;
+      text-decoration: none;
+      transition: border-color 140ms ease, transform 140ms ease, background 140ms ease;
+    }
+
+    .period-card:hover {
+      border-color: var(--period-color, var(--atlas-accent));
+      background: color-mix(in srgb, var(--period-color, var(--atlas-accent)) 14%, rgba(18, 19, 17, 0.9));
+      transform: translateY(-2px);
+      text-decoration: none;
+    }
+
+    .period-card strong {
+      color: var(--atlas-ink);
+      font-size: 15px;
+      line-height: 1.18;
+    }
+
+    .period-card small {
+      color: var(--period-color, var(--atlas-accent));
+      font-family: "JetBrains Mono", monospace;
+      font-size: 11px;
+    }
+
+    .period-card p {
+      margin: 0;
+      color: var(--atlas-muted);
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: 15px;
+      line-height: 1.36;
+    }
+
+    .period-lens {
+      display: grid;
+      gap: 5px;
+      margin: 2px 0 0;
+    }
+
+    .period-lens div {
+      display: grid;
+      grid-template-columns: 48px minmax(0, 1fr);
+      gap: 7px;
+      align-items: baseline;
+    }
+
+    .period-lens dt {
+      color: var(--period-color, var(--atlas-accent));
+      font-family: "JetBrains Mono", monospace;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .period-lens dd {
+      margin: 0;
+      color: var(--atlas-muted);
+      font-size: 12px;
+      line-height: 1.32;
+    }
+
     .atlas-layout {
       display: grid;
       grid-template-columns: 286px minmax(0, 1fr);
@@ -369,8 +485,17 @@
 
       .perspective-grid,
       .problem-strip,
-      .method-strip {
+      .method-strip,
+      .period-panel-grid {
         grid-template-columns: 1fr;
+      }
+
+      .period-overview-head {
+        display: block;
+      }
+
+      .period-overview-head p {
+        margin-top: 8px;
       }
 
       .pane-period { white-space: normal; }
@@ -383,6 +508,7 @@
       .atlas-topbar { align-items: flex-start; flex-direction: column; }
       .pane-header { padding: 18px; }
       .perspective-card { min-height: auto; }
+      .period-card { min-height: auto; }
     }
   </style>
 </head>
@@ -409,6 +535,17 @@
       </div>
     </header>
 
+    <section class="period-overview" aria-labelledby="periodPanelTitle">
+      <div class="period-overview-head">
+        <div>
+          <span>Dönem panelleri</span>
+          <h2 id="periodPanelTitle">Dünya tarihini ekollere bağlayan ana sahne</h2>
+        </div>
+        <p>Bu kartlar, iktisat ekollerinin doğduğu geniş tarih zeminini gösterir: kök sebep, karşı okuma ve halkta nasıl yaşandığı birlikte görünür.</p>
+      </div>
+      <div class="period-panel-grid" id="periodPanelGrid" aria-label="Dönem panelleri"></div>
+    </section>
+
     <main class="atlas-layout">
       <nav class="pane-nav" id="paneNav" aria-label="Pane seçimi"></nav>
       <section class="pane-stage" id="paneStage" aria-live="polite"></section>
@@ -418,6 +555,20 @@
   <script>
   (function() {
     'use strict';
+
+    const periodPanels = [
+      { title: 'Antik çekirdekler', period: 'nehir havzaları', color: '#d7b46a', href: '../book.html#bolum/2', summary: 'Tarım fazlası, kayıt, ambar ve kutsal düzen erken devleti kurar.', root: 'Fazlayı saymak', counter: 'Medeniyet bedeli', publicEye: 'Vergi, borç, angarya' },
+      { title: 'Klasik Avrasya', period: 'imparatorluklar', color: '#7fa5c9', href: '../book.html#bolum/3', summary: 'Hukuk, yol, ordu ve felsefe büyük düzen arayışında birleşir.', root: 'Düzen sorusu', counter: 'Barış kimin?', publicEye: 'Askerlik, haraç, kölelik' },
+      { title: 'Dinler ve ağlar', period: '600-1000', color: '#79b7a5', href: '../book.html#bolum/4', summary: 'Din, ticaret ve yazılı bilgi eski imparatorluk boşluklarını yeniden bağlar.', root: 'Aidiyet ve hukuk', counter: 'Dışlanan statüler', publicEye: 'Vergi, cemaat, liman' },
+      { title: 'Ortaçağ bölgeleri', period: '1000-1450', color: '#a996d8', href: '../book.html#bolum/5', summary: 'Çok merkezli dünya, bölgesel canlılık ve Moğol bağlantısıyla hızlanır.', root: 'Bölgesel yoğunlaşma', counter: 'Avrupa bekleme odası değil', publicEye: 'Salgın, lonca, köylü yükü' },
+      { title: 'Okyanus ve barut', period: '1450-1650', color: '#c9784f', href: '../book.html#bolum/6', summary: 'Gümüş, okyanus, barut ve sömürge dünya güç haritasını değiştirir.', root: 'Zorla bağlantı', counter: 'Keşif mi istila mı?', publicEye: 'Maden, kölelik, vergi' },
+      { title: 'Mali-askerî devlet', period: '1650-1815', color: '#d7b46a', href: '../book.html#bolum/7', summary: 'Savaş finansmanı, kamu borcu ve devrim modern devletin zeminini kurar.', root: 'Savaşın maliyeti', counter: 'Hak dili kimi dışladı?', publicEye: 'Ekmek, askerlik, isyan' },
+      { title: 'Sanayi ve imparatorluk', period: '1815-1914', color: '#7fa5c9', href: '../book.html#bolum/8', summary: 'Makine, ulus-devlet ve imparatorluk aynı anda büyür.', root: 'Enerji ve fabrika', counter: 'İlerleme kimin emeğiyle?', publicEye: 'Fabrika, göç, koloni' },
+      { title: 'Dünya savaşları', period: '1914-1945', color: '#c9784f', href: '../book.html#bolum/9', summary: 'Toplam savaş, kriz ve ideoloji modern kapasitenin karanlık yüzünü açar.', root: 'Seferber devlet', counter: 'Teknik ahlakı garanti etmez', publicEye: 'Kayıp, karne, mültecilik' },
+      { title: 'Soğuk Savaş', period: '1945-1991', color: '#79b7a5', href: '../book.html#bolum/10', summary: 'Güvenlik, kalkınma, refah devleti ve neoliberal kırılma iç içe geçer.', root: 'Güvenlik ve kalkınma', counter: 'İki kutup yetmez', publicEye: 'İş, borç, darbe' },
+      { title: 'Küreselleşme', period: '1991-2020ler', color: '#a996d8', href: '../book.html#bolum/11', summary: 'Piyasa, veri, Çin, iklim ve çok kutupluluk bağlantı kavgasını büyütür.', root: 'Bağlı kırılganlık', counter: 'Verimlilik kime?', publicEye: 'Platform, göç, iklim' },
+      { title: 'Sentez defteri', period: 'okuma yolu', color: '#f3eee4', href: '../book.html#bolum/12', summary: 'Her dönem ve fikir için kök sebep, karşı fikir ve bedel dağılımı birlikte tutulur.', root: 'Beş mercek', counter: 'Tek çizgi tarih', publicEye: 'Kendi not defterin' }
+    ];
 
     const panes = [
       {
@@ -641,6 +792,7 @@
       }
     ];
 
+    const periodGrid = document.getElementById('periodPanelGrid');
     const nav = document.getElementById('paneNav');
     const stage = document.getElementById('paneStage');
 
@@ -651,6 +803,22 @@
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#39;');
+    }
+
+    function renderPeriods() {
+      periodGrid.innerHTML = periodPanels.map((period) => (
+        '<a class="period-card" style="--period-color:' + esc(period.color) + '" href="' + esc(period.href) + '">' +
+          '<strong>' + esc(period.title) + '</strong>' +
+          '<small>' + esc(period.period) + '</small>' +
+          '<p>' + esc(period.summary) + '</p>' +
+          '<dl class="period-lens">' +
+            '<div><dt>Kök</dt><dd>' + esc(period.root) + '</dd></div>' +
+            '<div><dt>Karşı</dt><dd>' + esc(period.counter) + '</dd></div>' +
+            '<div><dt>Halkta</dt><dd>' + esc(period.publicEye) + '</dd></div>' +
+          '</dl>' +
+          '<span class="card-cta">Bölümü aç</span>' +
+        '</a>'
+      )).join('');
     }
 
     function paneFromHash() {
@@ -725,6 +893,7 @@
     });
 
     window.addEventListener('hashchange', render);
+    renderPeriods();
     render();
   })();
   </script>

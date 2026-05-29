@@ -1,0 +1,69 @@
+## 6.1 Temel soru: dünya neden okyanus ve barutla yeniden kuruldu?
+
+1450-1650 arası dünya tarihinde büyük bir eşiktir. Okyanus yolları Atlantik'i dünya sisteminin merkezlerinden biri haline getirir. Barut imparatorlukları geniş ordular ve mali yapılar kurar. Amerika'dan gelen gümüş, Asya pazarlarına kadar uzanan para akışları doğurur. Sömürgecilik ve kölelik küresel zenginleşmenin karanlık omurgalarından biri olur.
+
+Bu dönemi anlamanın temel sorusu şudur: Bağlantı artarken güç neden bu kadar eşitsiz dağıldı?
+
+## 6.2 Bölge matrisi
+
+| Bölge | Ekonomik kök | Siyasi biçim | Düşünce/meşruiyet | Görünmeyen deneyim |
+|---|---|---|---|---|
+| Atlantik Avrupa | Denizcilik, finans, koloni, gümüş, şeker | Deniz imparatorlukları ve mali devlet | Hristiyan misyon, ticaret hakkı, egemenlik | Yerli nüfus kaybı, köle emeği, denizci riski |
+| Osmanlı-Safevi-Babür | Tarım, vergi, ticaret yolları, barut ordusu | Kara imparatorlukları | Hanedan, din, adalet, fetih | Köylü vergisi, askerî yük, mezhep gerilimi |
+| Ming/Qing Çin | Gümüş vergisi, büyük pazar, tarım ve zanaat | Bürokratik imparatorluk | Konfüçyüsçü düzen, sınır yönetimi | Köylünün gümüş ihtiyacı, taşra baskısı |
+| Amerika | Maden, plantasyon, zorunlu emek | Sömürge yönetimleri | Misyon, fetih hukuku, ırk hiyerarşisi | Encomienda, kölelik, salgın, toprak kaybı |
+| Afrika | Altın, köle ticareti, bölgesel krallıklar | Krallıklar ve ticaret aracılığı | Yerel meşruiyet ve dış ticaret baskısı | İnsan kaçırma, savaş, demografik kırılma |
+| Hint Okyanusu | Baharat, tekstil, liman ağları | Liman devletleri ve imparatorluk baskısı | Çok dinli ticaret kültürü | Tüccar rekabeti, korsanlık, zorla yön değiştiren ağlar |
+
+Bu dönem "Avrupa dünyayı keşfetti" diye okunamaz. Daha doğru cümle şudur: Avrupa bazı okyanus bağlantılarını askerî-finansal güçle ele geçirip eski ağlara zorla eklendi.
+
+## 6.3 Gümüş: parlak metal, karanlık zincir
+
+Amerika gümüşü Avrupa'ya, oradan Asya'ya akar. Çin'in gümüş talebi küresel para hareketlerini etkiler. İspanya büyük maden gelirleri elde eder; ama bu gelir aynı zamanda savaş, borç ve ithalat bağımlılığına dönüşür.
+
+Bir tüccar için gümüş dolaşım aracıdır. Bir maden işçisi için ölümcül çalışma demektir. Bir Çin köylüsü için verginin gümüşle ödenmesi, piyasa dalgalanmalarına daha açık hale gelmek demektir. Aynı metal farklı hayatlarda başka anlam taşır.
+
+| Gümüş kimin gözünden? | Anlamı |
+|---|---|
+| İspanyol tacı | Savaş ve imparatorluk finansmanı |
+| Avrupalı tüccar | Asya mallarına erişim |
+| Çin devleti | Vergi düzeninin parasallaşması |
+| Maden işçisi | Zorunlu emek, hastalık, ölüm |
+| Yerli toplum | Toprak ve nüfus düzeninin yıkılması |
+
+Bu tablo merkantilizm ve sömürgeciliği birbirine bağlar.
+
+## 6.4 Barut imparatorlukları
+
+Osmanlı, Safevi ve Babür dünyası bize başka bir yol gösterir. Burada okyanus kolonilerinden çok kara imparatorluğu, vergi, tımar/dirlik benzeri düzenler, büyük ordular, saray ve dinî meşruiyet önemlidir.
+
+Barut yalnız savaş teknolojisi değildir. Top, tüfek ve kale, mali kapasite ister. Mali kapasite de vergi kaydı, bürokrasi ve yerel güçlerle pazarlık gerektirir. Bu yüzden barut çağı, devlet kapasitesi çağıdır.
+
+Karşı soru şudur: Güçlü imparatorluk düzeni, yerelde güvenlik mi sağladı, yoksa üretici toplumun üstüne daha ağır yük mü bindirdi? Cevap bölgeye ve zamana göre değişir.
+
+## 6.5 Fikirlerin kökü: egemenlik, doğal hukuk, ticaret
+
+Bu dönemde Avrupa'da egemenlik teorileri, doğal hukuk ve sömürge tartışmaları sertleşir. Bodin egemenliği düşünür; Vitoria ve Salamanca yazarları yerli hakları, fetih ve adil savaş sorunlarını tartışır. Merkantilist akıl, devlet gücü ile ticaret kazancını birlikte düşünür.
+
+Bu fikirler soyut bir akademik oyun değildir. Okyanuslarda yeni karşılaşmalar, yerli toplumların statüsü, köle emeği, ticaret tekelleri ve savaş finansmanı bu fikirleri zorlar.
+
+## Dört kontrol sorusu
+
+- **Kök sebep:** 1450-1650 dünyası, okyanus bağlantıları, barut orduları, gümüş akışı ve sömürgeci zorun aynı anda büyümesinden doğar.
+- **Baskın bakış:** Keşif ve ticaret anlatısı Avrupa cesareti ve teknik üstünlüğünü öne çıkarır.
+- **Güçlü karşı fikir:** Bu bağlantı yerli yıkımı, kölelik, zorunlu emek ve eski ticaret ağlarının askeri baskıyla yeniden yönlendirilmesiyle kuruldu.
+- **Doğruya yaklaşma soruları:** Bağlantı hangi araçla kuruldu: ticaret mi, zor mu, finans mı, dinî meşruiyet mi?
+- **Öğrenme desteği:** Her olayda "mal akışı", "zor akışı", "fikir akışı" diye üç ok çiz.
+
+## İleri düzey okuma
+
+İleri düzeyde erken modern dünyayı yalnız Avrupa'nın yükselişi gibi değil, eski Avrasya ve Afrika ağlarının Atlantik zoruyla yeniden düzenlenmesi gibi oku. Bu okuma Avrupa'nın yeniliğini küçültmez; ama yeniliğin bedelini görünür kılar.
+
+Modern kapitalizmin köklerini anlamak istiyorsan, aynı anda üç yere bak: Avrupa finans merkezleri, Amerika madenleri/plantasyonları ve Asya pazarları. Bunlar ayrı hikayeler değildir.
+
+## Kaynakça
+
+- Fernand Braudel, *Civilization and Capitalism*.
+- John H. Elliott, *Empires of the Atlantic World*.
+- Kenneth Pomeranz, *The Great Divergence*.
+- Sven Beckert, *Empire of Cotton*.
