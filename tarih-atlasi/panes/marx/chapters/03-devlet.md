@@ -68,6 +68,18 @@ Marx'ın devlet kartı bize şunu öğretir: Bir hakkın kâğıt üzerinde var 
 
 Kısa sonuç şu: Marx için devlet, kapitalist toplumun dışında duran tarafsız bir seyirci değildir. Hukuk ve mülkiyet biçimleriyle o toplumun işleyişini taşır.
 
+## Üç örnekle devleti okumak
+
+Marx'ın devlet düşüncesini soyut bırakmamak için üç sahne iyi çalışır:
+
+| Sahne | Devlet ne yapıyor gibi görünür? | Marxçı soru |
+|---|---|---|
+| Fabrika yasası | İşçiyi korur | Bu koruma sömürüyü bitiriyor mu, yoksa kapitalizmi daha dayanıklı mı kılıyor? |
+| Polis ve grev | Kamu düzenini sağlar | "Düzen" dediğimiz şey hangi mülkiyet ilişkisini koruyor? |
+| Mahkeme ve sözleşme | Taraflara eşit davranır | Tarafların pazarlık gücü gerçekten eşit mi? |
+
+Bu tablo devletin tek renkten oluşmadığını gösterir. Devlet bazen işçiye nefes aldırır, bazen sermayenin düzenini korur, bazen de ikisini aynı anda yapar. Bu yüzden güçlü okuma, devleti ne sadece şeytanlaştırır ne de temiz bir hakem gibi görür; hangi durumda hangi ilişkiyi yeniden ürettiğini sorar.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Hukuki eşitlik ile maddi eşitsizlik arasındaki fark kapitalist devleti anlamak için açılmalıydı.

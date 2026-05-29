@@ -74,6 +74,18 @@ Bu dönemde kamunun gözü çoğu zaman seyahatnameler, fetih kronikleri, misyon
 
 Bu metinleri birlikte okumak önemlidir. Çünkü tarihi yalnız gemiyi yönetenin defterinden okursan, gemiye zorla bindirilenin dünyası kaybolur.
 
+## 6.8 Avrupa dışından üç karşı pencere
+
+Bu dönemi daha iyi anlamak için Avrupa anlatısını merkeze koyup diğer bölgeleri yalnız "tepki veren" yerler gibi düşünmemek gerekir. Çünkü Çin, Hint Okyanusu, Afrika ve İslam imparatorlukları zaten kendi ticaret, vergi, hukuk ve bilgi dünyalarına sahipti. Avrupa'nın yaptığı şey boş bir haritaya girmek değil; var olan ağlara silah, gemi, şirket ve finansla yeni bir baskı uygulamaktı.
+
+| Pencere | Avrupa anlatısı ne der? | Karşı okuma ne sorar? |
+|---|---|---|
+| Çin ve gümüş | Avrupa Amerika gümüşünü dünyaya taşıdı | Çin'in vergi ve pazar talebi olmasa bu gümüş neden bu kadar güçlü bir dünya parasına dönüşsün? |
+| Hint Okyanusu | Portekiz deniz yolunu "açtı" | Bu deniz zaten Arap, Hintli, Malay, Gujarati ve Çinli tüccarlarla doluydu; açılan şey çoğu zaman top zoruyla yeni geçiş hakkıydı |
+| Afrika | Avrupa ticaret ağını genişletti | İnsan kaçırma, savaş kışkırtma ve köle emeği olmadan Atlantik zenginliği nasıl kurulurdu? |
+
+Bu üç pencere ufku açar: Erken modern dünya tek taraflı Avrupa enerjisinin sonucu değildir. Eski merkezler, yeni zor araçları ve değişen para akışları birbirine çarpınca doğmuştur.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1450-1650 dünyası, okyanus bağlantıları, barut orduları, gümüş akışı ve sömürgeci zorun aynı anda büyümesinden doğar.

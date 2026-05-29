@@ -64,6 +64,19 @@ Marx'ın metinleri Osmanlı dünyasına doğrudan ve erken bir kitlesel etkiyle 
 
 Bu fark önemlidir. İngiltere'de Marx sanayi kapitalizminin merkezine bakıyordu. Osmanlı gibi imparatorluklarda ise mesele sanayileşme eksikliği, dış borç, kapitülasyonlar, gayrimüslim ve Müslüman işçi toplulukları, imparatorluk çözülmesi ve modernleşme baskısıyla birlikte yaşandı.
 
+## Bir grevi dört kişi nasıl anlatır?
+
+Kamu gözü bölümünde en öğretici egzersizlerden biri aynı olayı dört ayrı kişinin dilinden okumaktır. Diyelim ki bir dokuma fabrikasında grev çıktı:
+
+| Anlatan kişi | Olayı nasıl çerçeveler? | Neyi gizleyebilir? |
+|---|---|---|
+| İşçi | "Geçinemiyoruz, bedenimiz tükeniyor" | Hareket içindeki farklı fikirleri sadeleştirebilir |
+| Patron | "Üretim durdu, sözleşme bozuldu" | Ücret baskısını ve çalışma temposunu görünmez kılabilir |
+| Devlet memuru | "Kamu düzeni riske girdi" | Düzeni kimin lehine koruduğunu söylemeyebilir |
+| Roman yazarı | "Mahallede korku, umut ve onur iç içe geçti" | Duyguyu güçlendirirken sayısal tabloyu eksik bırakabilir |
+
+Bu küçük alıştırma Marxçı okumanın kalbini gösterir: Aynı olay tek bir hakikate kolayca kapanmaz. Hakikate yaklaşmak için sesleri yan yana koyar, sonra şu soruyu sorarsın: Hangi anlatı hangi çıkarı, hangi korkuyu, hangi görünmeyen emeği taşıyor?
+
 ## Kamunun gözü bize ne öğretir?
 
 Marx'ın teorisi serttir; ama kamusal hayat onu daha da karmaşık hale getirir. İşçi için umut olabilir. Devlet için tehdit olabilir. Roman için acı ve merhamet kaynağı olabilir. Gazete için korku başlığı olabilir. Akademi için analitik araç olabilir.

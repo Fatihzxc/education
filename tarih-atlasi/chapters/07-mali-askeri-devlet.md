@@ -45,6 +45,20 @@ Bu yüzden Aydınlanma'yı hem özgürleştirici hem sınırlı oku.
 | Temsil meşruiyet getirir | Kadınlar ve mülksüzler temsil edildi mi? |
 | Reform toplumu düzeltir | Reformun bedelini kim taşıdı? |
 
+### Odada kim vardı, kim kapıda kaldı?
+
+Aydınlanma'yı gerçekten öğrenmek için "akıl kazandı" demek yetmez. O akıl konuşulurken masada kim vardı, kim dışarıda bekliyordu, bunu da sormak gerekir.
+
+| Ses | Aydınlanma ona neden makul görünür? | Güçlü karşı soru |
+|---|---|---|
+| Reformcu bürokrat | Eski ayrıcalıkları ve dağınık vergiyi akılla düzeltmek ister | Reform halkın geçim korkusunu duyuyor mu? |
+| Muhafazakar eleştirmen | Hızlı kopuşun toplumu dağıtmasından korkar | Düzeni koruma dili ayrıcalığı da koruyor mu? |
+| Kadın hakları savunucusu | Evrensel hak dilini kadınlara da genişletir | "İnsan" denirken kadın neden eksik sayıldı? |
+| Köleleştirilmiş insan | Özgürlük sözünü kendi bedeni için gerçek kılmak ister | Hak bildirisi plantasyonda neden durdu? |
+| Vergi yükü taşıyan köylü | Eşit vergi ve ayrıcalıkların kalkmasını ister | Reformun maliyeti yine köylünün sırtına mı biniyor? |
+
+Bu tablo Aydınlanma'yı küçültmez; onu daha dürüst yapar. Çünkü bir fikrin gücü, yalnız söylediği güzel cümlede değil, o cümlenin kimlere ulaşmadığını görebilmesinde de sınanır.
+
 ## 7.4 Devrimler: fikir mi, ekmek mi?
 
 Amerikan ve Fransız devrimleri yalnız fikir patlaması değildir. Vergi, borç, savaş ve temsil kriziyle iç içedir. Amerikan kolonileri "temsil yoksa vergi de yok" derken mali egemenlik sorusu açıldı. Fransa'da devlet borcu, vergi eşitsizliği ve ekmek fiyatı devrimi toplumsal hale getirdi.

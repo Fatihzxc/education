@@ -38,6 +38,21 @@ Karşı okuma şudur:
 
 Bu tablo ideolojinin gündelik korku ve umutla nasıl beslendiğini gösterir.
 
+### Aynı savaş herkes için aynı savaş değildi
+
+1914-1945'i tek bir Avrupa cephe hikayesi gibi okumak, dönemin küresel ağırlığını azaltır. Savaş, farklı insanlar için çok farklı biçimlerde yaşandı.
+
+| Konum | Devlet veya ideoloji ne vaat etti? | Halk ne ödedi? | Hangi soru eksik kalırsa tarih tek taraflı olur? |
+|---|---|---|---|
+| Avrupa sivili | Ulusal savunma ve zafer | Bombardıman, karne, kayıp, mültecilik | Cephe dışındaki hayat ne kadar savaşa dönüştü? |
+| Sovyet köylüsü ve işçisi | Antifaşist savunma ve sanayileşme | Açlık, zorunlu seferberlik, büyük can kaybı | Zaferin bedeli hangi sınıflara yüklendi? |
+| Çinli şehirli ve köylü | İşgale karşı ulusal direniş | Katliam, kıtlık, göç, uzun savaş | Asya savaşı neden Avrupa hafızasında daha küçük kalıyor? |
+| Sömürge askeri | İmparatorluk için hizmet ve sınırlı hak umudu | Uzak cephe, düşük statü, savaş sonrası hayal kırıklığı | İmparatorluk özgürlük için savaşırken kolonilere ne verdi? |
+| Yahudi ve hedef alınan azınlıklar | Devlet tarafından dışlanma ve yok etme | Hukuk dışına çıkarılma, toplama kampı, soykırım | Modern bürokrasi insanı nasıl silinebilir kategoriye çevirdi? |
+| Kadın işçi | Savaş üretiminde görev ve geçici görünürlük | Ağır emek, bakım yükü, savaş sonrası geri itilme | Savaş emeği kalıcı hakka dönüştü mü? |
+
+Bu matris bize sıcak ama zor bir akıl verir: Büyük savaşlar yalnız haritada hareket eden ordular değildir. Devletlerin vaadi ile insanların ödediği bedel arasındaki farkı görmeden savaş tarihi eksik kalır.
+
 ## 9.5 Soykırım ve bürokratik kötülük
 
 Holokost, modern tarihin en karanlık merkezlerinden biridir. Onu yalnız nefretin patlaması gibi okumak yetmez. Nefret, bürokrasi, kayıt, demiryolu, kamp sistemi, hukuk dışına çıkarma ve savaş ortamı birleşti.

@@ -40,6 +40,20 @@ Fabrika işçisi, eski köylü düzeninden farklı bir sorun yarattı. Sermaye b
 
 Fikirler bu yüzden yalnız kitaplardan çıkmaz; fabrika, okul, ordu ve koloni idaresinden de çıkar.
 
+### Aynı fabrika bacasına beş kişi bakıyor
+
+Sanayi çağındaki fikir akımlarını anlamanın en kolay yollarından biri, aynı fabrika bacasına farklı kişileri baktırmaktır. Baca aynı bacadır; ama herkes onda başka bir gelecek görür.
+
+| Bakan kişi | Ona hangi fikir makul gelir? | Çünkü hangi yaraya cevap arar? | Karşı fikir ne söyler? |
+|---|---|---|---|
+| Sanayici | Liberalizm ve serbest sözleşme | Sermayesini, girişimini ve pazara erişimini korumak ister | İşçi, sözleşmenin eşit güçle yapılmadığını söyler |
+| Fabrika işçisi | Sosyalizm ve sendikal hak | Uzun saat, düşük ücret ve güvencesizliğe cevap arar | Liberal, fazla müdahalenin üretimi bozacağını savunur |
+| Kolonideki üretici | Anti-kolonyal kalkınmacılık | Kendi emeğinin ucuz ham maddeye indirgenmesine itiraz eder | İmparatorluk dili bunu "medeniyet ve ticaret" diye sunar |
+| Kadın emekçi | Feminist ve sosyal reformcu dil | Ücretli iş ile ev içi bakım yükünün birlikte görünmesini ister | Gelenekçi dil aile düzenini gerekçe gösterebilir |
+| Devlet adamı | Milliyetçilik ve korumacılık | Ordu, okul, sanayi ve vergi kapasitesi kurmak ister | Anarşist ve liberal eleştiri devletin baskısını hatırlatır |
+
+Bu küçük sahne şunu öğretir: Fikir akımları havada dolaşan soyut seçenekler değildir. Her biri, birinin acısını, korkusunu veya çıkarını anlamlı hale getirmeye çalışır.
+
 ## 8.5 Halk gözüyle sanayi çağı
 
 Bir mühendis için demiryolu ilerlemedir. Bir köylü için toprağın istimlak edilmesi olabilir. Bir işçi için fabrika düzenli ücret ama uzun saat ve disiplin demektir. Bir koloni üreticisi için dünya pazarı fırsat değil, zorunlu ürün ve fiyat bağımlılığı olabilir.

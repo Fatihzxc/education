@@ -34,6 +34,19 @@ sanayi, teknoloji, finans, gıda, enerji, döviz
 
 Birincisi olmadan ikincisi zor; ama birincisi tek başına ikincisini garanti etmez.
 
+### Bandung'dan bağımlılık teorisine: bağımsızlık hangi kapıdan geçer?
+
+Yeni bağımsız ülkeler için dünya iki kapılı bir ev gibiydi. Bir kapı bayrağa, hükümete ve uluslararası tanınmaya açılıyordu. Öteki kapı dövize, teknolojiye, gıdaya, silaha, borca ve pazara açılıyordu. İlk kapı açılınca ikincisi kendiliğinden açılmadı.
+
+| Soru | Kalkınmacı cevap | Güçlü karşı fikir |
+|---|---|---|
+| Siyasi egemenlik yeter mi? | Hayır; sanayi, eğitim, planlama ve altyapı gerekir | Devletçilik yeni bürokratik ayrıcalık ve otoriterlik üretebilir |
+| Dünya pazarına açılmak çözüm mü? | Dış ticaret döviz kazandırabilir ama hammadde bağımlılığı yaratabilir | İçe kapanma verimsizlik, kıtlık ve teknoloji geriliği doğurabilir |
+| Bağlantısızlık mümkün mü? | Bandung ve Bağlantısızlar üçüncü bir yol aradı | Süper güç baskısı, askeri darbeler ve yardım bağımlılığı alanı daralttı |
+| Bağımlılık teorisi neyi gösterir? | Merkez-çevre ilişkisi kalkınma yolunu eşitsiz kurar | Yerel sınıflar, yolsuzluk ve devlet kapasitesi de sonucu belirler |
+
+Bu tablo dekolonizasyonu daha gerçek yapar. Çünkü bağımsızlık yalnız "artık kendi bayrağımız var" cümlesi değildir; "kendi üretimimizi, paramızı, gıdamızı ve geleceğimizi ne kadar kurabiliyoruz?" sorusudur.
+
 ## 10.4 Refah devleti ve kalkınmacılık
 
 Batı'da refah devleti işçi sınıfına güvenlik, sağlık, eğitim ve emeklilik vaat etti. Bu yalnız iyi niyetli sosyal politika değildi; savaş sonrası kapitalizmin meşruiyetini de güçlendirdi.

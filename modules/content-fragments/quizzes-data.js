@@ -136,7 +136,8 @@
     "correct": 2,
     "explanation": "1815'te çıkarılan Corn Laws (Tahıl Yasaları), 1846'da iptal edildi. Bu, serbest ticaret akımının merkantilist korumacılığa karşı resmi zaferi olarak kabul edilir.",
     "conceptRefs": [
-      "corn-laws"
+      "free-trade",
+      "protectionism"
     ]
   },
   {
@@ -184,7 +185,8 @@
     "correct": 1,
     "explanation": "1838 Balta Limanı Anlaşması Osmanlı'yı serbest ticarete zorlamış ve korumacı politikaları sona erdirmiştir.",
     "conceptRefs": [
-      "balta-limani"
+      "kapitulasyonlar",
+      "free-trade"
     ]
   },
   {
@@ -249,8 +251,7 @@
     "correct": 2,
     "explanation": "İspanya'nın deneyimi, 'Hollanda hastalığı'nın öncülüdür: kolay kaynak geliri, yerli sanayi gelişimini engeller ve uzun vadede rekabet gücünü yok eder.",
     "conceptRefs": [
-      "bullionism",
-      "dutch-disease"
+      "bullionism"
     ]
   },
   {
@@ -366,8 +367,7 @@
     "correct": 1,
     "explanation": "Salamanca Okulu (16. yy İspanya), Azpilcueta'nın para miktar teorisini, Molina'nın değer subjektivizmini ve Mercado'nun satın alma gücü paritesi sezgisini formüle etti.",
     "conceptRefs": [
-      "salamanca-okulu",
-      "azpilcueta"
+      "salamanca-okulu"
     ]
   },
   {
@@ -383,7 +383,6 @@
     "correct": 1,
     "explanation": "Fizyokratlar toprağı tek 'net ürün' kaynağı saydı ve devlet müdahalesine karşı laissez-faire, laissez-passer ilkesini savundu. Bu, merkantilist devlet kontrollü ekonomiye temel bir eleştiriydi.",
     "conceptRefs": [
-      "francois-quesnay",
       "francois-quesnay"
     ]
   },
@@ -401,7 +400,7 @@
     "explanation": "Calico Acts, Hint pamuklu kumaşlarını yasaklayarak yerel el dokumacılığını çökertti. Bu, sömürgeci deindustrialization'un klasik bir örneğidir.",
     "conceptRefs": [
       "calico-acts",
-      "deindustrialization"
+      "protectionism"
     ]
   },
   {
@@ -518,7 +517,7 @@
     "correct": 1,
     "explanation": "CBAM, 'karbon kaçağını engelleme' gerekçesiyle AB dışındaki üreticilere maliyet yükleyerek yerli sanayiini koruyor. Bu, çevre kaygısıyla harmanlanmış bir neo-merkantilist korumacılık olarak görülüyor.",
     "conceptRefs": [
-      "cbam"
+      "protectionism"
     ]
   },
   {
@@ -566,8 +565,8 @@
     "correct": 1,
     "explanation": "Balta Limanı, düşük gümrük tarifeleriyle Osmanlı'yı açık pazar haline getirdi. Sonuç: Osmanlı, Avrupa'nın hammadde (tahıl, pamuk) kaynağı ve sanayi mamulleri pazarı oldu. Bu, yarı-sömürge ekonomik yapının başlangıcı sayılır.",
     "conceptRefs": [
-      "balta-limani",
-      "kapitulasyonlar"
+      "kapitulasyonlar",
+      "free-trade"
     ]
   },
   {

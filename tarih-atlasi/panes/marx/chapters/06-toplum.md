@@ -73,6 +73,19 @@ Marx'a göre işçi tek başına pazarlıkta zayıftır. Çünkü üretim araçl
 
 Sendika, parti, kooperatif, grev, gazete ve eğitim bu yüzden önem kazanır. Bunlar yalnızca araç değildir; işçilerin kendilerini dağınık bireyler değil, ortak çıkarı olan bir sınıf olarak görmesini sağlar.
 
+## Sınıfın içinde tek bir ses yoktur
+
+Marx'ın proletarya vurgusu güçlüdür; ama sınıfı tek parça ve tek sesli düşünürsek gerçek hayatı kaçırırız. Aynı işçi sınıfının içinde vasıflı işçi ile vasıfsız işçi, erkek işçi ile kadın işçi, yerli işçi ile göçmen işçi, sendikalı işçi ile gündelikçi işçi aynı pazarlık gücüne sahip değildir.
+
+| İç fark | Neyi değiştirir? | Okurun kontrol sorusu |
+|---|---|---|
+| Vasıf farkı | Ücret, iş güvencesi ve örgütlenme gücü farklılaşır | Hangi işçi kolay değiştirilebilir görülüyor? |
+| Cinsiyet | Ev içi bakım yükü ve ücretli emek birbirine bağlanır | Üretimi mümkün kılan görünmeyen emek kimde kalıyor? |
+| Göç ve etnisite | Dayanışma ile rekabet aynı anda doğabilir | Sermaye bu farkları ücret baskısı için kullanıyor mu? |
+| Kuşak farkı | Yaşlı işçi deneyim, genç işçi kırılganlık taşıyabilir | Aynı sınıfın hafızası nasıl aktarılıyor? |
+
+Bu karşı okuma Marx'ı zayıflatmaz; tam tersine daha gerçekçi yapar. Çünkü ortak sınıf konumu, iç farkların kendiliğinden yok olduğu anlamına gelmez. Sınıf bilinci biraz da bu farkları inkâr etmeden ortak çıkar kurabilme çabasıdır.
+
 ## Ana ders
 
 Marx'ın toplum kartı bize şunu öğretir: Sınıf yalnızca gelir seviyesi değildir. İnsanın üretim sürecindeki yeridir.
