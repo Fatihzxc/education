@@ -75,20 +75,23 @@
     }).join('');
 
     var paneShortcuts = [
-      { title: 'Merkantilizm', period: '1500-1750', color: '#c98a3a', href: 'tarih-atlasi/appendix/panes.html#merkantilizm' },
-      { title: 'Fizyokrasi', period: '1750-1780', color: '#8ab36b', href: 'tarih-atlasi/appendix/panes.html#fizyokrasi' },
-      { title: 'Klasik İktisat', period: '1776-1870', color: '#65a6b7', href: 'tarih-atlasi/appendix/panes.html#klasik' },
-      { title: 'Marx ve Artı-Değer', period: '1848-1890', color: '#c96d6d', href: 'tarih-atlasi/appendix/panes.html#marx' },
-      { title: 'Marjinalizm', period: '1871-1930', color: '#a996d8', href: 'tarih-atlasi/appendix/panes.html#marjinalizm' },
-      { title: 'Keynesçilik', period: '1930-1980+', color: '#7fa5c9', href: 'tarih-atlasi/appendix/panes.html#keynes' }
+      { title: 'Merkantilizm', period: '1500-1750', color: '#c98a3a', href: 'tarih-atlasi/appendix/panes.html#merkantilizm', bookHref: 'tarih-atlasi/panes/merkantilizm/book.html#bolum/1' },
+      { title: 'Fizyokrasi', period: '1750-1780', color: '#8ab36b', href: 'tarih-atlasi/appendix/panes.html#fizyokrasi', bookHref: 'tarih-atlasi/panes/fizyokrasi/book.html#bolum/1' },
+      { title: 'Klasik İktisat', period: '1776-1870', color: '#65a6b7', href: 'tarih-atlasi/appendix/panes.html#klasik', bookHref: 'tarih-atlasi/panes/klasik/book.html#bolum/1' },
+      { title: 'Marx ve Artı-Değer', period: '1848-1890', color: '#c96d6d', href: 'tarih-atlasi/appendix/panes.html#marx', bookHref: 'tarih-atlasi/panes/marx/book.html#bolum/1' },
+      { title: 'Marjinalizm', period: '1871-1930', color: '#a996d8', href: 'tarih-atlasi/appendix/panes.html#marjinalizm', bookHref: 'tarih-atlasi/panes/marjinalizm/book.html#bolum/1' },
+      { title: 'Keynesçilik', period: '1930-1980+', color: '#7fa5c9', href: 'tarih-atlasi/appendix/panes.html#keynes', bookHref: 'tarih-atlasi/panes/keynes/book.html#bolum/1' }
     ];
     paneGrid.innerHTML = paneShortcuts.map(function(pane) {
-      return '<a class="pane-shortcut-card" style="--pane-color:' + esc(pane.color) + '" href="' + esc(pane.href) + '">' +
+      return '<article class="pane-shortcut-card" style="--pane-color:' + esc(pane.color) + '">' +
         '<span class="pane-dot" aria-hidden="true"></span>' +
         '<strong>' + esc(pane.title) + '</strong>' +
         '<small>' + esc(pane.period) + '</small>' +
-        '<em>Pane’i aç</em>' +
-      '</a>';
+        '<div class="pane-shortcut-actions">' +
+          '<a href="' + esc(pane.href) + '">Pane’i aç</a>' +
+          '<a href="' + esc(pane.bookHref) + '">Mini kitabı aç</a>' +
+        '</div>' +
+      '</article>';
     }).join('');
   })();
   </script>
