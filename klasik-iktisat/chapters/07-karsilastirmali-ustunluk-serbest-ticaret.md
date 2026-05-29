@@ -51,6 +51,18 @@ Argümanın kanıtı sayısaldır. Diyelim ki her ülke başlangıçta her iki m
 
 Bu formül, klasik iktisadın matematikleşmesinin ilk büyük örneğidir. Smith'in argümanı sözlü ve sezgisel kalır; Ricardo'nun argümanı ise sayısal bir ispatla yürür. 1817 sonrası iktisat söyleminde matematiksel akıl yürütme — özellikle marjinal devrimle birlikte 1870'lerden sonra — standart hale gelecektir; ama bu yolun ilk taşı Ricardo'nun yedinci bölümüdür. Aynı zamanda kardeş *Değer* kitabının 6. bölümünde de işlediğimiz gibi, Ricardo'nun emek-değer formülasyonunun da bu sayısal-soyut yöntemle iç-içe geliştiğini hatırlamak gerekir.
 
+## Öğrenme kutusu: modelin içinde doğru, tarihin içinde eksik
+
+Ricardo'nun iki ülke-iki mal hesabı çok öğreticidir, çünkü açık bir mekanizma gösterir: göreli üstünlük varsa uzmanlaşma toplam çıktıyı artırabilir. Ama bu hesap, tarihsel dünyaya taşındığında ikinci bir tabloya ihtiyaç duyar.
+
+| Okuma düzeyi | Ne gösterir? | Neyi dışarıda bırakabilir? | Doğruya yaklaşma sorusu |
+|---|---|---|---|
+| Ricardo modeli | Uzmanlaşma ile iki tarafın toplam tüketimi artabilir | Başlangıçtaki sanayi gücü farkı, donanma, finansman, koloni ağı | Ülkeler gerçekten eşit pazarlık gücüyle mi masaya oturuyor? |
+| Corn Laws siyaseti | Serbest ticaret tahılı ucuzlatıp sanayi maliyetini düşürebilir | Tarım işçisi, küçük çiftçi ve İrlanda yoksulunun kırılganlığı | Ekmek ucuzlarken kim gelirini, toprağını veya güvenliğini kaybediyor? |
+| Listçi eleştiri | Geç sanayileşen ülke korunmadan sanayi öğrenmesi yapamayabilir | Korumacılığın verimsizliği ve rantçı koalisyonları | Koruma geçici öğrenme mi, kalıcı ayrıcalık mı üretiyor? |
+
+Böyle okuyunca serbest ticaret ne kutsal yasa olur ne de basit aldatmaca. Model bize gerçek bir mekanizma verir; karşı okuma ise bu mekanizmanın hangi tarihsel güç alanında çalıştığını sorar.
+
 ## 7.6 Mantığın derin gücü ve tartışmalı sınırı
 
 Ricardo formülü 200 yılı aşkın bir süredir uluslararası ticaret teorisinin omurgasıdır. Bu sürekliliğin nedeni, formülün üç ayrı düzeyde getirdiği derin iç-görüdür. Birincisi, **mutlak verimlilik farkları gerekli değildir**; göreceli farklar ticaretin gerekçesi olarak yeterlidir. Yani teorik olarak hiçbir ülke uluslararası iş bölümünden dışlanamaz; her ülkenin göreceli bir üstünlüğü mutlaka vardır. İkincisi, **iki ülke de kazanır** — savaşmadan, sömürmeden, birinin kazancının diğerinin kaybı olduğu mercantilist çerçevenin tersine. Üçüncüsü, **ticaret zero-sum değil pozitif-sum**'dur: toplam dünya çıktısı uzmanlaşmayla artar, dolayısıyla mübadele her iki taraf için reel servet kazanımıdır.
@@ -82,6 +94,18 @@ Bu yasanın sınıf-çıkar haritası açıktır. Üç ana sınıfı düşüneli
 **İşçi sınıfının aleyhine**: Yüksek ekmek fiyatı doğrudan reel ücreti düşürür. Sanayi işçisi nominal ücretinin büyük kısmını gıdaya harcıyordu — Engels'in *Die Lage der arbeitenden Klasse in England* (1845; Bölüm 8'de işlenecek) gözlemine göre Manchester işçi ailesinin haftalık bütçesinin %40-60'ı ekmek ve un'a gidiyordu. Ekmek pahalı kaldığında işçi yoksullaşır; serbest ticarette dünya pazarından gelen ucuz tahıl ekmek fiyatını düşürür, reel ücreti yükseltir.
 
 Bu üç-sınıf analizi, Corn Laws'un neden 19. yüzyıl Britanya politikasının merkez sorununa dönüştüğünü açıklar: yasa, toprağa karşı sermaye + emek bloğu şeklinde net bir sınıf ekseni yarattı. Ricardo bu eksende sanayi sermayesinin saflarındaydı; *Principles*'ın 1817 baskısında ve daha açık olarak 1822'de Parlamento konuşmalarında, Corn Laws'un ulusal birikimi yavaşlattığını ve yalnızca dar bir rantçı azınlığı zenginleştirdiğini gösterdi. (Ricardo kendisi Londra borsasında zenginleşmiş, sonradan toprak sahibi olmuştu — ama analitik konumu sanayinin yanındadır.)
+
+Corn Laws'u kamu gözünden okumak için çıkarları yan yana koymak gerekir:
+
+| Aktör | Korumadan kazancı | Korumadan kaybı | Serbest ticaretten beklentisi | Görünmeyen risk |
+|---|---|---|---|---|
+| Toprak aristokrasisi | Yüksek tahıl fiyatı ve rant | Sanayi karşısında siyasal meşruiyet kaybı | Çok az; korumayı sürdürmek ister | Rantını ulusal çıkar gibi sunabilir |
+| Sanayici | Yok; pahalı gıda ücret baskısı yaratır | İşçi huzursuzluğu ve yüksek maliyet | Ucuz tahıl, düşük ücret baskısı, daha yüksek kâr | İşçiyle geçici ittifakı kendi lehine çevirebilir |
+| Sanayi işçisi | Yerli tarım korunursa bazı gıda arzları güvenli kalabilir | Pahalı ekmek doğrudan sofra yüküdür | Ucuz ekmek ve daha rahat geçim | Ücretler sonra aşağı çekilebilir |
+| Küçük çiftçi ve kiracı | Yerli fiyatın korunması gelirini destekleyebilir | Büyük toprak sahibine bağımlılık sürer | Belirsiz; bölgeye göre değişir | Serbest ithalat karşısında kırılganlaşabilir |
+| İrlanda yoksulu | Koruma onu beslemeyebilir | Kıtlıkta piyasa mantığı ölümcül olabilir | Ucuz ithalat yaşamsal olabilir | Laissez-faire yardım sorumluluğunu azaltabilir |
+
+Bu matris, serbest ticaret tartışmasının niçin yalnız iktisadi değil ahlaki ve siyasal olduğunu gösterir. Aynı yasa birinin rantı, birinin ekmeği, birinin ücret maliyeti, birinin açlık korkusu olabilir.
 
 ## 7.8 Anti-Corn-Law League: bilim, kampanya, sınıf koalisyonu
 

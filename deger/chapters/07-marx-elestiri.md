@@ -137,6 +137,19 @@ Marx'ın artı-değer formülünü sayısal olarak yürüyelim. Bir 19. yüzyıl
 
 Burada teknik bir nokta dikkat çeker. Artı-değer oranı (sömürünün şiddetini ölçer) ve kâr oranı (yatırımın getirisini ölçer) birbirinden farklı sayılardır. Sermaye yoğun bir sektör (c yüksek, v düşük) aynı sömürü oranıyla daha düşük kâr oranına sahip görünür. Bu fark, *Kapital* III'de Marx'ın transformasyon problemiyle uğraştığı yer (Bölüm 7.7).
 
+## Öğrenme kutusu: aynı hesabı iki gözle oku
+
+Artı-değer hesabı güçlüdür, ama onu yalnız matematik gibi okursak Marx'ın derdi eksik kalır. Aşağıdaki tablo aynı hesabı üç farklı gözle gösterir:
+
+| Soru | Marxçı okuma | Neoklasik karşı okuma | Denetleme yolu |
+|---|---|---|---|
+| Kâr nereden gelir? | Emek-gücünün ürettiği değerin bir kısmı işçiye ödenmez | Sermaye, risk, örgütleme ve zaman tercihi kârı açıklar | Ücret, verimlilik, kâr marjı ve pazarlık gücünü birlikte izle |
+| Ücret adil midir? | Piyasa sözleşmesi eşit görünür, ama üretim araçlarına erişim eşit değildir | Gönüllü sözleşme ve marjinal verimlilik ücreti açıklar | İşsizlik, sendika gücü, yasal haklar ve alternatif iş imkanına bak |
+| Teknoloji ne yapar? | Gerekli emek zamanını azaltıp göreli artı-değeri artırabilir | Verimlilik artışı herkesi zenginleştirebilir | Verimlilik kazancı ücretlere mi, kâra mı, fiyata mı gidiyor? |
+| Platform işi nasıl okunur? | Erişim kontrolü üretim aracı kontrolünün yeni biçimi olabilir | Platform piyasa eşleşmesini kolaylaştıran hizmet sağlar | Komisyon, net gelir, risk devri ve algoritmik denetimi ayır |
+
+Bu tablo, Marx'ı dogma gibi değil, bir teşhis aracı gibi kullanmayı öğretir. Önce mekanizmayı kurarız; sonra karşı fikri ciddiye alırız; en sonunda iki tarafın da hangi veriye ihtiyaç duyduğunu sorarız.
+
 Şimdi senaryoyu değiştirelim. *Mutlak artı-değer* artışı: çalışma günü 12 saatten 14 saate çıkarılırsa:
 - Gerekli emek hâlâ 6 saat (geçim seviyesi değişmedi).
 - Artı emek = 8 saat.

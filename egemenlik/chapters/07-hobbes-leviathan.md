@@ -51,6 +51,19 @@ Hobbes'un argümanı: eğer egemenin yetkilerinden herhangi biri sınırlanırsa
 
 Bu argüman, Bodin'in (Bölüm 6) "bölünmez sovranlık" tezinin daha radikal bir versiyonudur. Bodin, doğal hukuk ve özel mülkiyet gibi iç sınırlar tanırdı; Hobbes bu sınırları da reddeder. Onun çerçevesinde, sadece *yaşam hakkı* — bireyin kendisini öldürmesi istenemez — sınır olarak kalır.
 
+## Öğrenme kutusu: güvenlik hesabı kimin gözünden?
+
+Hobbes'u anlamak için önce onun korkusunu ciddiye almak gerekir: iç savaş, düzenin çökmesi, herkesin herkesten kuşkulanması. Ama sonra ikinci soruyu sormalıyız: Bu korkuya verilen çözüm kimin hayatını korur, kimin sesini kısar?
+
+| Aktör | Hobbesçu egemenden kazancı | Kaybı veya riski | Karşı okuma |
+|---|---|---|---|
+| Sıradan yurttaş | Can güvenliği, düzen, sözleşmelerin işlemesi | İtiraz ve direnme alanı daralır | Güvenlik özgürlüğü tamamen yutabilir |
+| Tüccar ve mülk sahibi | Piyasa ve mülkiyet için güvenli ortam | Vergi ve zor kullanımı egemene bağlıdır | Mülkiyet korunurken siyasal söz hakkı zayıflayabilir |
+| Dini kurum | İç savaşın mezhep şiddeti azalabilir | Kilise sivil egemene tabi olur | İnanç alanı devletin aracına dönüşebilir |
+| Muhalif veya azınlık | Genel düzenin korumasından yararlanabilir | Egemen onu tehdit sayarsa hukuki alanı daralır | Barış dili baskı aracına dönüşebilir |
+
+Bu tablo Hobbes'un neden hem güçlü hem tehlikeli olduğunu gösterir. Onun cevabı gerçek bir yarayı sarar: iç savaş korkusunu. Ama yarayı sararken denetimsiz bir iktidar kurabilir. Bu yüzden Hobbes'tan Locke'a geçiş, yalnız "özgürlükçü bir düzeltme" değil, güvenlik fikrinin sınırını arama çabasıdır.
+
 ## 7.5 Hangi hükümet biçimi?
 
 Hobbes'un sistemi, *belirli* bir hükümet biçimine bağlı değildir. Egemen, *bir kişi* (monarşi), *bir azınlık* (aristokrasi), veya *çoğunluk* (demokrasi) olabilir. Üç biçim de Hobbesçu mutlak egemenliği taşıyabilir.

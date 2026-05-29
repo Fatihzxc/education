@@ -90,6 +90,17 @@ Başta işçiler birbirini tamamladığı için ek üretim artabilir. Sonra alan
 
 Burada dikkatli olmak gerekir. "Bir işçinin ücreti marjinal verimliliğine eşittir" demek, gerçek hayatta her ücretin adil olduğu anlamına gelmez. Pazarlık gücü, sendika, hukuk, işsizlik, ayrımcılık ve devlet düzenlemeleri gerçek dünyada çok önemlidir. Marjinalist araç bize bir mekanizma gösterir; bütün toplumu tek başına açıklamaz.
 
+Bu noktayı zihinde tutmak için modeli ve güç ilişkisini yan yana koyalım:
+
+| Soru | Modelin sade cevabı | Güç ilişkisi ne ekler? |
+|---|---|---|
+| Ücret neden bu kadar? | Son işçinin üretime kattığı değer belirleyicidir | İşsizlik korkusu, sendika gücü, göçmenlik statüsü ve hukuk pazarlığı değiştirir |
+| Kâr neden oluşur? | Sermayenin marjinal katkısı ve risk karşılığıdır | Piyasa gücü, tekel, mülkiyet yoğunlaşması ve finansman erişimi kârı şişirebilir |
+| Rant neden vardır? | Kıt kaynağın marjinal getirisi farklıdır | Tapu, miras, imar hakkı ve devlet planı rantı politik hale getirir |
+| Fiyat neyi anlatır? | Kıtlık ve tercih bilgisini taşır | Gelir eşitsizliği, reklam, borç ve zorunlu ihtiyaç fiyat sinyalini çarpıtabilir |
+
+Bu tablo marjinalizmi küçültmez; onu doğru yere koyar. Model mekanizmayı gösterir. Güç analizi, mekanizmanın hangi toplumsal zeminde çalıştığını sorar.
+
 ## Ne kazandırdı, ne eksiltti?
 
 Marjinalizmin kazandırdığı şey açıktır: Fiyatı, tercihleri ve kıtlığı daha hassas düşünmeyi öğretti. Bugün hâlâ bir üründe indirim olduğunda talebin neden arttığını, bir kaynağın kıtlaştığında neden pahalandığını, bir kararın alternatif maliyetini düşünürken bu dilden yararlanırız.

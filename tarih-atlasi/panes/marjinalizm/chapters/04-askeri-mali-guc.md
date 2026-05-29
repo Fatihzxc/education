@@ -20,6 +20,16 @@ ticaret ve borç piyasaları genişler
 
 Bu sistemin cazibesi istikrardır. Ama bedeli de vardır. Bir ülkeden altın çıkıyorsa, o ülke para ve kredi koşullarını sıkılaştırmak zorunda kalabilir. Bu da fiyatları, ücretleri ve istihdamı baskılar. Yani altın standardı yalnızca teknik bir para düzeni değildir; topluma içerden basınç uygulayan bir disiplin mekanizmasıdır.[^1]
 
+Bu istikrarın bedeli herkese aynı dağılmaz. Altın standardını yalnız "güven veren sistem" diye okursak deflasyon yükünü taşıyanları kaçırırız:
+
+| Aktör | Altın standardından kazancı | Taşıdığı yük | Karşı okuma sorusu |
+|---|---|---|---|
+| Alacaklı ve finans çevresi | Paranın değerinin korunması | Durgunlukta bile parasal sıkılık isteyebilir | Güven kimin servetini koruyor? |
+| İhracatçı | Kur istikrarı sayesinde hesap yapabilir | İç fiyat ve ücret ayarlaması gerekebilir | Rekabet gücü fiyat düşürerek mi sağlanıyor? |
+| Borçlu çiftçi veya firma | Uzun vadeli sözleşme öngörülebilir olur | Fiyatlar düşerse borcun reel yükü artar | İstikrar borçluyu mu, alacaklıyı mı güçlendiriyor? |
+| İşçi | Paranın alım gücü korunabilir | Deflasyon işsizlik ve ücret baskısı yaratabilir | Para güveni iş güvenliğine ne yapıyor? |
+| Çevre ülke | Merkez paraya bağlanarak itibar kazanabilir | Altın çıkışı krizi, kemer sıkma ve dış bağımlılık yaratabilir | Kur disiplini kalkınma alanını daraltıyor mu? |
+
 ## Küçük mekanizma tablosu
 
 | Durum | Mali mekanizma | Toplumsal sonuç ihtimali |

@@ -63,6 +63,18 @@ Keynesçi bakış ikinci kolu daha çok görür. Monetarist ve arz yanlısı bak
 
 Bu değişim yalnızca iktisat politikası değişimi değildir. İnsanların gelecek duygusu değişir. Bir kuşak "çalışırsam ev alırım, emekli olurum" diye düşünürken, başka bir kuşak "işim kalıcı mı, borcumu çevirebilir miyim?" diye düşünmeye başlar.
 
+Bu kırılmayı riskin yer değiştirmesi gibi okumak çok öğreticidir:
+
+| Alan | Savaş sonrası düzen riski nereye koyuyordu? | 1980 sonrası eğilim riski nereye itti? | Gündelik karşılığı |
+|---|---|---|---|
+| İş | İşveren, sendika ve devlet arasında paylaşım | Bireysel çalışana ve esnek sözleşmeye | İş güvencesi yerine performans ve belirsizlik |
+| Sağlık ve emeklilik | Refah devleti ve toplu haklar | Bireysel prim, özel sigorta, tasarruf | Gelecek korkusu hane bütçesine taşınır |
+| Konut | Sosyal konut, kira kontrolü, daha düşük finansal baskı | Mortgage, kira piyasası, varlık fiyatı | Ev barınak olmaktan çok yatırım aracına döner |
+| Eğitim | Kamusal genişleme ve sınıf atlama umudu | Borç, aile geliri ve piyasa değeri baskısı | Gençlik hayatına borçla başlar |
+| Kriz | Devlet talebi ve istihdamı korumaya çalışır | İşsizlik ve gelir şoku haneye iner | Makro kriz kişisel başarısızlık gibi yaşanır |
+
+Bu tablo Keynesçi refah düzeninin neden yalnız ekonomi politikası olmadığını gösterir. O düzen, sıradan insanın gelecek korkusunu azaltan bir güven mimarisiydi. Kırılma da yalnız bütçe tercihi değil, korkunun tekrar hane içine taşınmasıydı.
+
 ## Enflasyonun gündelik hayatı
 
 Enflasyon toplumu sessizce yorar. Çünkü para sadece alışveriş aracı değildir; gelecek planıdır. Maaşınla gelecek ay ne alabileceğini bilemezsen, hayatın zihinsel yükü artar.

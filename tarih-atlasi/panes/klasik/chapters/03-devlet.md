@@ -26,6 +26,18 @@ serbest ticaret siyasal silaha dönüşür
 
 1846'da Corn Laws kaldırıldı. UK Parliament, bu yasaların ekmek fiyatını yüksek tutan tahıl tarifeleri olduğunu ve Peel'in 1846'da kaldırma yönünde hareket ettiğini özetler.^[1] Bu karar klasik iktisadın serbest ticaret dilinin siyasal zaferlerinden biri gibi okunur.
 
+Kimin ne yaşadığını daha net görmek için küçük bir çıkar tablosu:
+
+| Aktör | Yüksek tahıl fiyatı ona ne yapar? | Corn Laws kalkarsa ne bekler? | Politik sesi |
+|---|---|---|---|
+| Toprak sahibi | Rantı korur ve gelirini artırır | Rant baskılanır | Parlamento ve aristokrat ağlarda güçlü |
+| Sanayici | İşçinin geçim maliyeti arttığı için ücret baskısı yükselir | Ucuz ekmek, daha düşük maliyet, ihracat gücü | Manchester gibi sanayi şehirlerinde örgütlenir |
+| Sanayi işçisi | Ekmek pahalılaşır, sofra daralır | Kısa vadede ucuz gıda umar | Oy hakkı sınırlı, kampanyalarda dolaylı ses |
+| Kiracı çiftçi | Yüksek fiyat gelirini destekleyebilir | Rekabet baskısı artabilir | Bölgesel ve toprak sahibine bağlı |
+| İrlanda yoksulu | Koruma onu güvenceye almaz | Ucuz ithalat yaşamsal olabilir | En zayıf ses, en yüksek bedel |
+
+Bu tablo klasik devlet tartışmasının kökünü gösterir: Devlet bir tarifeyi korurken yalnız ticaret kuralı koymaz; ekmeğin fiyatını, rantın miktarını, ücret pazarlığını ve kimin sesinin duyulacağını da düzenler.
+
 ## Reform haritası: hangi yasa hangi gerilimi gösterir?
 
 | Başlık | Ne tartışılıyor? | Klasik iktisatla bağı | Toplumsal gerilim |

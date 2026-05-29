@@ -78,6 +78,19 @@ Locke'un mülkiyet teorisi, salt felsefi bir egzersiz değildir. 17. yüzyıl so
 
 Bu, Locke'un teorisinin modern bir okumacısı için en rahatsız edici kısımdır. *Of Property* bir soyut felsefe değildir; aynı zamanda bir politik manifestodur. Onu okurken bağlamını unutmak, onun gerçek tarihsel anlamını gözden kaçırmaktır.
 
+## Öğrenme kutusu: aynı toprak, üç göz
+
+Locke'un argümanı tek bir cümlede çok ikna edici görünür: "Emeğimi kattıysam, mülkiyetim doğar." Ama aynı olaya farklı insanların gözünden bakınca mesele karmaşıklaşır.
+
+| Bakış | Ne görünür? | Ne görünmez kalabilir? | Doğruya yaklaşma sorusu |
+|---|---|---|---|
+| Yerleşimci çiftçi | Boş görünen toprağı ekip biçme, emek verme, üretim artırma | O toprağın mevsimlik, ortak veya ritüel kullanımları | Burası gerçekten boş muydu, yoksa başka bir hukuk diliyle mi kullanılıyordu? |
+| Yerli topluluk | Avlanma, göç, ortak kullanım, kutsal yer, geçim ağı | Avrupa tarzı çit, tapu ve sürekli ekim olmadığı için hak iddiası | Mülkiyet yalnız sürmek ve ekmekle mi ölçülür? |
+| Ortak alan köylüsü | Otlak, odun, su ve geçim hakkı | Toprak sahibinin verimlilik ve yatırım iddiası | Çitleme üretimi artırırken kimin geçim güvenliğini azaltıyor? |
+| Liberal hukukçu | Beden, emek ve rıza üzerinden bireysel hak | Başlangıç koşullarındaki güç eşitsizliği | Rıza gerçek mi, yoksa kaynak kaybından sonra zorunlu hale gelen kabul mü? |
+
+Bu tablo Locke'u iptal etmek için değil, daha dürüst okumak için var. Teorinin büyük gücü, mülkiyeti kral bağışından çıkarıp kişinin emeğine bağlamasıdır. Gerilimi ise şu noktada doğar: Hangi emek görünür sayılır, hangi kullanım biçimi "mülkiyet" diline çevrilmeden kaybolur?
+
 ## 5.7 Eleştiriler ve sınırlar
 
 Locke'un emek-mixing teorisi, 18. yüzyıldan itibaren çeşitli yönlerden eleştirildi:

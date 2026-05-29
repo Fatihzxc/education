@@ -49,6 +49,31 @@ Kıvrım böylece tamamlanır. Zigzagın sonunda — modelin yıl bitiminde — 
 
 Modelin gücünü duymak için bu sonuca dikkatle bakmak gerekir. Hiçbir aşamada para "kaybolmadı"; hiçbir aşamada herhangi bir sınıf hile yapmadı; üç sınıf da kendi rasyonel iktisadi davranışını sergiledi. Ama yeni *substans* üreten tek bir sınıf vardır — üretici sınıf. Diğer iki sınıf onun ürettiği fazlayı dolaştırdı, dönüştürdü, harcadı. Yıl boyunca para üç sınıf arasında tam tur attı; *ama net değer üreticiden çıktı ve üreticiye geri döndü*. İktisadın çekirdeği — onsuz hiçbir döngünün başlamayacağı şey — tarımdır.
 
+## Görsel okuma: Tableau'yu gözle takip etmek
+
+*Tableau*'yu anlamanın en iyi yolu, onu tek seferde kavramaya çalışmak değil, akışı adım adım izlemektir. Aşağıdaki küçük harita modelin kalbini sadeleştirir:
+
+| Adım | Para kimden çıkar? | Kime gider? | Karşılığında ne alınır? | Modelin söylediği şey |
+|---:|---|---|---|---|
+| 1 | Üretici sınıf | Mülk sahipleri | Rant | Net ürün toprağın üstünde doğar, hukuken mülk sahibine akar |
+| 2 | Mülk sahipleri | Üretici sınıf | Gıda ve tarımsal ürün | Rant harcanınca üreticiye para geri döner |
+| 3 | Mülk sahipleri | Kısır sınıf | Mamul mallar ve hizmetler | Zanaat ve hizmet toplumsal olarak gereklidir |
+| 4 | Kısır sınıf | Üretici sınıf | Gıda ve hammadde | Kısır sınıf kendi geçimi için tarıma bağlıdır |
+| 5 | Üretici sınıf | Kısır sınıf | Alet, giysi, işlem görmüş mal | Tarım da zanaata ihtiyaç duyar |
+
+Bunu küçük bir dolaşım çizgisi gibi düşünebilirsin:
+
+```text
+tarımsal üretim
+  -> rant
+  -> mülk sahibinin harcaması
+  -> üretici ve kısır sınıfa ödeme
+  -> gıda, hammadde ve mamul mallar
+  -> yeni yılın üretim koşulları
+```
+
+Bu yardımın amacı Quesnay'ı ezberletmek değil. Şunu göstermek: Model, toplumdaki karmaşık hayatı üç büyük düğüme indirerek akışı görünür yapar. Ama tam da bu yüzden dikkatli okunmalıdır. Bir tablo akışı berraklaştırırken bazı sesleri de kısabilir: küçük köylünün pazarlık gücü, zanaatkârın üretkenliği, kadın emeği, koloni malları ve ekmek fiyatından korkan şehirli halk modelin kenarında kalır.
+
 ## 5.5 "Neden steril?" — Quesnay'ın metafiziği
 
 *Tableau*'nun en sık eleştirilen, hatta yer yer alay konusu yapılan kısmı sanayi-zanaat-ticaretin "steril" ilan edilmesidir. Smith 1776'da bu noktayı eleştirinin merkezine koyacaktır (Bölüm 9);^[3] Marx 19. yüzyılda — fizyokratlara karşı olağanüstü saygısına rağmen — sanayinin değer üretmediği iddiasının ampirik olarak savunulamayacağını açıkça belirtecektir (Bölüm 10). Peki Quesnay neden buna inandı?

@@ -33,6 +33,17 @@ Bu zincir Keynesçi dönemin arka planıdır. Tam istihdamın, sosyal güvenliğ
 
 Bu düzen Keynesçi ruhla uyumluydu: Ulusal devletler tam istihdam ve sosyal istikrar hedeflesin, uluslararası para düzeni de buna destek olsun.
 
+Ama bu düzen herkese aynı hareket alanını vermedi. Para mimarisini merkez ve çevre açısından okumak gerekir:
+
+| Konum | Düzenin verdiği imkan | Düzenin koyduğu sınır | Kök soru |
+|---|---|---|---|
+| ABD | Doların merkez para olması, büyük dış açıkları daha kolay taşıma | Altın taahhüdü güven sınırı yaratır | Merkez para olmak ekonomik ayrıcalık mı, sorumluluk mu? |
+| Batı Avrupa | Yeniden inşa finansmanı ve ticaret istikrarı | ABD liderliğine ve Soğuk Savaş mimarisine bağlılık | İstikrar bağımsızlıkla nasıl dengelendi? |
+| IMF çizgisine giren ülkeler | Krizde kredi ve dış ödeme desteği | Politika koşulları, kemer sıkma ve kur disiplini | Kredi desteği ne zaman egemenlik sınırına dönüşür? |
+| Yeni bağımsızlaşan ülkeler | Kalkınma finansmanı umudu | Döviz kıtlığı, emtia bağımlılığı, zayıf pazarlık gücü | Ulusal kalkınma küresel para düzeninde ne kadar serbestti? |
+
+Böyle bakınca Bretton Woods yalnız teknik bir kur sistemi değildir. Savaş sonrası dünyada hangi ülkenin açık verebildiğini, hangisinin döviz bulmak zorunda kaldığını ve hangi kurumun "doğru politika" dilini kurduğunu belirleyen bir güç haritasıdır.
+
 ## Soğuk Savaş ve savunma harcamaları
 
 1945 sonrası dünya yalnızca refah devleti dünyası değildi; aynı zamanda Soğuk Savaş dünyasıydı. ABD ve Sovyetler Birliği askerî, teknolojik ve ideolojik bir rekabete girdi. Savunma harcamaları, uzay yarışı, nükleer strateji, bilimsel araştırma ve sanayi politikası birbirine bağlandı.

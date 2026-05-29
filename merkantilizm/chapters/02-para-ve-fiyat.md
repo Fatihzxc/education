@@ -56,6 +56,19 @@ Ama bu açıklama 20. yüzyıl ikinci yarısında ciddi eleştirilerle karşıla
 
 Modern uzlaşı, her iki etkenin de önemli olduğunu kabul eder: gümüş bolluğu para arzını şişirir, nüfus baskısı reel mal talebini yükseltir; ikisinin birleşik etkisi 1500-1650 Fiyat Devrimi'ni üretir.
 
+## Öğrenme kutusu: aynı fiyat artışı, farklı hikaye
+
+Fiyat artışını tek bir çizgi gibi görmek kolaydır: "para çoğaldı, fiyat yükseldi." Bu bazen doğru bir başlangıçtır, ama kök sebebi anlamak için yetmez. Çünkü aynı fiyat artışı farklı toplumlarda farklı mekanizmalardan doğabilir.
+
+| Basınç noktası | Batı Avrupa'da ana görünüm | Osmanlı'da ana görünüm | Okurken sorulacak soru |
+|---|---|---|---|
+| Değerli maden | Yeni Dünya gümüşü para arzını büyütür | Gümüş akışı etkiler, ama tek açıklama değildir | Dış kaynaklı para bolluğu ne kadar belirleyici? |
+| Nüfus ve gıda | Nüfus artışı gıda talebini yükseltir | Kent iaşesi ve bölgesel arz dengesi öne çıkar | Fiyat artışı herkesi aynı mı vuruyor? |
+| Para politikası | Debasement tartışılır, ama gümüş akışı merkezde kalır | Akçenin tağşişi güçlü bir iç neden olur | Devlet hazine ihtiyacını paraya nasıl yüklüyor? |
+| Kamu deneyimi | Pahalılık, ücretlerin geriden gelmesi ve kiraların artması | Akçe değeri, maaşlar, iaşe ve vergi yükü birlikte hissedilir | Halk fiyatı yalnız sayı olarak değil, geçim baskısı olarak nasıl yaşıyor? |
+
+Bu tablo, "enflasyon oldu" cümlesini daha dikkatli okumayı sağlar. Aynı sonuç, bir yerde küresel maden akışından, başka bir yerde hazine baskısından ve para ayarından doğabilir. Bu yüzden fiyat tarihi yalnız para tarihi değildir; devletin mali ihtiyacı, halkın geçim gücü ve ticaret ağlarının hikayesidir.
+
 ## Osmanlı'da paranın hikayesi farklı
 
 Bu Avrupa-merkezli anlatının Osmanlı boyutu, Şevket Pamuk'un *Osmanlı İmparatorluğu'nda Paranın Tarihi* (2003) kitabında titizlikle inşa edilir. Pamuk'un tezi, çağdaş okuyucuya yararlı bir uyarı olur: **Osmanlı parasal tarihi Avrupa'nın yansıması değildir; kendi içsel dinamikleri vardır.**

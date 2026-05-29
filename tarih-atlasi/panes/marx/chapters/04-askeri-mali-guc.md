@@ -45,6 +45,27 @@ Bu süreç her yerde aynı biçimde işlemez. İngiltere'de çitlemeler, kırsal
 
 Marx'ın uyarısı şudur: Kapitalizmin başlangıcını yalnızca tasarruflu insanların birikimi gibi anlatırsan şiddeti saklarsın.
 
+Bu süreci iki gözle yan yana okuyalım:
+
+```text
+çitleme veya toprak gaspı
+  -> geçim aracından kopuş
+  -> ücretli emeğe bağımlılık
+  -> fabrika disiplini
+  -> ucuz üretim ve ihracat gücü
+  -> sermaye birikimi
+```
+
+| Aynı süreç | Merkezdeki ilerleme anlatısı | Yerinden edilenin deneyimi |
+|---|---|---|
+| Çitleme | Toprak daha verimli kullanılıyor | Ortak geçim hakkı kayboluyor |
+| Koloni hammaddesi | Sanayiye ucuz girdi sağlanıyor | Yerel üretim ve yaşam düzeni bozuluyor |
+| Ücretli emek | Özgür işçi piyasaya katılıyor | Hayatta kalmak için emeğini satmak zorunda kalıyor |
+| Fabrika disiplini | Üretim düzenli ve ölçülebilir oluyor | Zaman, beden ve gündelik hayat denetleniyor |
+| İhracat başarısı | Ulusal zenginlik artıyor | Ucuzluğun bedeli düşük ücret ve zorla taşınan risk olabilir |
+
+Bu blok Marx'ın kök sezgisini sadeleştirir: Kapitalizmin "başlangıç sermayesi" bazen yalnız birikmiş tasarruf değil, başkalarının kaybettiği toprak, zaman, beden ve güvenliktir.
+
 ## Güç haritası
 
 | Genişleme alanı | Sermaye ne arar? | Güç ilişkisi |

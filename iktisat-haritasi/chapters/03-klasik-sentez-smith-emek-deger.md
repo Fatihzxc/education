@@ -26,6 +26,19 @@ Bu hizalanma en keskin biçimde **Mısır Yasaları** (*Corn Laws*) etrafında g
 
 Ricardo'nun kendi konumu bu hizalanmayı çıplak gösterir. Bir Londra borsa simsarı ve toprak sahibi olan Ricardo, 1819-1823 arası Avam Kamarası üyesiyken serbest ticareti ve 1815 tarihli Mısır Yasası'nın kaldırılmasını savundu. *Principles*'ında (1817) rant ile kâr arasında *yapısal* bir ters ilişki kurar: nüfus arttıkça daha az verimli araziye geçilir, tahıl pahalanır, rant şişer, kâr sıkışır — yani toprak aristokrasisi, sanayi sermayesinin doğal düşmanıdır. Bu, "bilimsel bir teoremin politik kullanım-değeri"nin ders kitabı örneğidir: rant teorisi aynı anda hem gerçek bir analitik buluş hem de toprak sınıfına karşı sanayi sınıfının silahıdır. Yasanın 1815'te konup 1846'da kalkması arasındaki otuz yıllık yay, klasik doktrinin politik zaferinin de takvimidir. Derini `klasik-iktisat` Bölüm 4 ve 8'de.
 
+## 3.3a Kısa çıkar haritası: aynı fikir kime ne yapıyor?
+
+Smith-Ricardo hattını öğrenirken iki düzeyi birlikte tutmak gerekir. Birinci düzeyde teori vardır: işbölümü, emek, fiyat, rant, serbest ticaret. İkinci düzeyde bu teorinin tarihsel kullanım yeri vardır.
+
+| Fikir | Teorik çekirdek | Güç verdiği taraf | Karşı itiraz | Bugünkü yankı |
+|---|---|---|---|---|
+| İşbölümü | Uzmanlaşma üretkenliği artırır | Geniş pazar isteyen üretici ve tüccar | İşin parçalanması insanı daraltabilir | Platform işi, tedarik zinciri, otomasyon |
+| Emek-değer | Değer üretim ve emek tarafında aranır | Üretim analizini merkeze alan klasik hat | Fayda, kıtlık ve tercih de fiyatı etkiler | Ücret, verimlilik ve emek hakkı tartışmaları |
+| Serbest ticaret | Uzmanlaşma toplam ürünü artırabilir | Sanayileşmiş ve ihracatçı güçler | Geç kalan ülke sanayisini korumadan öğrenemez | Sanayi politikası, stratejik sektör, tarife savaşları |
+| Rant eleştirisi | Toprak geliri üretken kârı sıkıştırabilir | Sanayi sermayesi ve ucuz gıda isteyen tüketici | Kırsal geçim ve gıda güvenliği kaygısı | Konut rantı, arazi değeri vergisi, şehir eşitsizliği |
+
+Bu tablo haritadaki ana dersi sadeleştirir: Bir fikir hem analitik olarak doğru bir mekanizmayı gösterebilir hem de belirli bir tarihsel güç bloğunun elinde silaha dönüşebilir. İyi okuma, bu iki düzeyi birbirinden koparmadan yürümektir.
+
 ## 3.4 İki katmanın ayrılamazlığı — yine
 
 Fizyokraside gördüğümüz kalıp burada tekrarlar. Smith'in genel-değer çerçevesi **gerçek bir analitik ilerlemedir** — üretkenliği tek sektörden kurtarıp işbölümüne bağlaması, modern iktisadın kurucu adımıdır. Aynı zamanda **yükselen bir sınıfın programıyla iç içedir** — serbest ticaret, zaten en verimli sanayiye sahip olan İngiltere için *karşılıksız kazançlı* bir oyundu.

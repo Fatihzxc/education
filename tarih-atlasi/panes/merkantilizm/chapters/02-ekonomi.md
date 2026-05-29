@@ -47,6 +47,19 @@ Merkantilist akıl bu son satıra bakar: ülkeye net para giriyor mu, çıkıyor
 
 Bu yüzden rakam tek başına yetmez. Rakam yön duygusu verir; tarihsel anlam için o rakamın arkasındaki insan ve kurum ilişkisine bakmak gerekir.
 
+## Ahlaki muhasebe: aynı +30 dört ayrı dünya olabilir
+
+Bir dış ticaret fazlası tablosu sana yönü gösterir; ama hakkaniyeti tek başına göstermez. Aynı `+30` sonucu çok farklı yollarla doğabilir:
+
+| +30 nasıl oluştu? | Devlet ne görür? | Halk veya karşı taraf ne yaşayabilir? | Okurun kontrol sorusu |
+|---|---|---|---|
+| Verimlilik artışı | Daha güçlü üretim kapasitesi | Daha ucuz ve daha bol mal | Kazanç ücretlere ve fiyatlara yansıyor mu? |
+| Tekel imtiyazı | Güvenli vergi ve stratejik ticaret | Tüketici pahalı mala mahkum olabilir | Rekabet mi var, ayrıcalık mı? |
+| Sömürge zoru | Ucuz hammadde ve yüksek kâr | Yerel toplumda şiddet, vergi, kıtlık riski | Kârın görünmeyen bedeli nerede ödeniyor? |
+| Tüketiciye pahalı satış | Para girişi ve tüccar kârı | İçeride veya dışarıda alım gücü düşebilir | Fazla, gerçek refah mı yoksa fiyat gücü mü? |
+
+Bu yüzden merkantilist hesabı okurken iki defter tutmak gerekir. Birinci defter para akışını yazar. İkinci defter bu akışın hangi güç ilişkisiyle kurulduğunu yazar. İkisi birlikte okunmadıkça, kazananın dili bütün hikaye gibi görünür.
+
 ## Şirketler neden bu kadar önemliydi?
 
 Bugün şirket dediğimizde akla çoğu zaman özel firma gelir. Ama erken modern imtiyazlı şirketler yalnızca firma değildi. East India Company veya VOC gibi kurumlar hem ticaret yapıyor, hem savaşabiliyor, hem kale kuruyor, hem antlaşma imzalıyor, hem bazı yerlerde vergi topluyordu. Yani şirket ile devlet arasındaki sınır bulanıktı.
