@@ -40,6 +40,20 @@ Sonraki bölüm, aynı bombayı *etkisizleştiren* yolu izler: marjinalist devri
 
 ---
 
+### Gündelik hayat şeridi: Marx çatallanması neye dokunur?
+
+Marx bölümünü yalnız "emek-değerin radikalleşmesi" diye okursan, haritadaki canlılığı kaçırırsın. Bu çatallanma doğrudan gündelik hayat sorularına bağlanır.
+
+| Gündelik soru | Marxçı okuma ne der? | Karşı okuma ne sorar? |
+|---|---|---|
+| Ücret niye yetmiyor? | Ücret, emek-gücünün yeniden üretim maliyeti etrafında baskılanır | Verimlilik, beceri ve piyasa talebi ne kadar etkili? |
+| Kâr nereden geliyor? | İşçinin ürettiği artı-değerden | Risk, zaman tercihi ve girişim koordinasyonu nasıl hesaba katılır? |
+| İşgünü niye uzuyor veya yoğunlaşıyor? | Artı-değer arayışı zamanı ve tempoyu zorlar | Teknoloji gerçekten yalnız denetim aracı mı? |
+| Kriz niye tekrar ediyor? | Birikim ve kâr baskısı sistem içi gerilim üretir | Para, beklenti ve politika hataları ne kadar açıklayıcı? |
+| Sınıf bilinci niye zor oluşuyor? | Piyasa eşitlik görüntüsü üretim eşitsizliğini örter | Kimlik, ulus, din ve kültür sınıfı nasıl keser? |
+
+Bu şerit Marx'ı hem güçlü hem sınırlı okumayı öğretir. Gücü, eşit sözleşmenin arkasındaki üretim ilişkisini açmasıdır. Sınırı, her toplumsal deneyimi tek başına sınıf ilişkisine indirgeme riskidir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Marx çatallanması, klasik emek-değer mirasının ücretli emek, kâr ve sınıf ilişkisini açıklarken radikal bir artı-değer teorisine dönüşmesinden doğar.

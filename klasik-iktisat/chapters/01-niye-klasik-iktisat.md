@@ -96,6 +96,21 @@ Sonraki on bir bölüm boyunca klasiklerin bu yedi soruyu *nasıl* sorduğunu iz
 
 Bir kavram ağacının kökünü görmek, dallarının niye o yöne uzandığını anlamanın tek yoludur. Klasik iktisat, kapitalizmin teorik kökünün ilk sistematik kazısıdır. Kitap, o kazının on iki günlük yolculuğudur.
 
+### Kanonun dışında kalanlar
+
+Klasik iktisadı Smith, Malthus, Ricardo ve Mill hattıyla öğrenmek iyi bir başlangıçtır. Ama kanon dediğimiz şey, yalnız kimlerin içeri alındığı değil, kimlerin kenarda kaldığı meselesidir.
+
+| Kenarda kalan damar | Ne hatırlatır? | Klasik kanona sorduğu soru |
+|---|---|---|
+| Sismondi | Sanayi büyümesi kriz ve yoksulluk üretebilir | Toplam üretim artınca herkes gerçekten rahatlıyor mu? |
+| Ütopik sosyalistler | İşbirliği ve kooperatif başka bir düzen ihtimalidir | Piyasa rekabeti tek örgütlenme biçimi mi? |
+| Friedrich List | Geç sanayileşen ülke koruma olmadan öğrenemeyebilir | Serbest ticaret eşit olmayan ülkelerde kime yarıyor? |
+| Kadın emeği | Ev içi bakım ve yeniden üretim ekonomi dışında bırakılamaz | Piyasada satılmayan emek değersiz mi? |
+| Koloni üreticisi | Avrupa zenginliği dış kaynak, zor ve bağımlılıkla bağlıdır | "Ulusların zenginliği" hangi ulusların bedeliyle oluştu? |
+| Fabrika işçisi | İşbölümü üretkenliği artırırken insanı daraltabilir | Verimlilik artışı insan hayatını nasıl etkiliyor? |
+
+Bu tablo kanonu reddetmek için değil, daha doğru okumak için var. Kanon bize güçlü sorular verir; kenarda kalan sesler ise o soruların kime göre kurulduğunu gösterir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Klasik iktisat, sanayi kapitalizminin doğuşunda büyüme, bölüşüm, ücret, kâr, rant ve ticaret düzenini aynı anda açıklama ihtiyacından doğar.

@@ -123,6 +123,25 @@ Başlangıç için kaba bir dünya tarihi haritası şöyle kurulabilir:
 
 Bu tablo nihai cevap değil; okurun zihninde bir başlangıç iskelesidir. Her bölüm bu iskelenin bazı parçalarını güçlendirecek, bazılarını kıracak, bazılarını daha incelikli hale getirecek.
 
+### Aynı haritayı ikinci kez okumak
+
+İlk tablo sana dönemleri yerleştirir. Ama kök sebepleri ve karşı fikirleri görmek için aynı tabloyu ikinci kez, daha şüpheci bir gözle okumalısın.
+
+| Dönem | Baskın anlatı | Görünmeyen deneyim | Kontrol sorusu |
+|---|---|---|---|
+| Antik çekirdekler | Yazı, şehir ve devlet medeniyet kurar | Köylü emeği, zorunlu çalışma, borç ve haraç | Fazlayı kim üretti, kim yönetti? |
+| Klasik Avrasya | İmparatorluklar düzen, hukuk ve bağlantı getirir | Sınır halkları, köleler, vergi yükü, askerlik | Barış kimin barışıydı? |
+| 600-1000 | Evrensel dinler ve bilgi ağları yayılır | Yerel inançlar, mezhep çatışmaları, taşra yükleri | Birleşen dünya kimleri dışarıda bıraktı? |
+| 1000-1450 | Ticaret ve bölgesel devletler yoğunlaşır | Salgın, göç, köylü kırılganlığı | Bağlantı zenginlik mi, hastalık ve şiddet de mi taşır? |
+| 1450-1650 | Okyanus, gümüş ve barut dünyayı bağlar | Sömürge, kölelik, yerli nüfus kaybı | Küreselleşme kimin ufkunu açtı, kimin dünyasını yıktı? |
+| 1650-1815 | Mali-askerî devlet ve devrimler modernliği doğurur | Vergi, zorunlu askerlik, ekmek isyanı | Özgürlük dili hangi bedellerle kuruldu? |
+| 1815-1914 | Sanayi ve ulus-devlet ilerleme getirir | Fabrika disiplini, koloni üreticisi, çevre ülke bağımlılığı | İlerleme kimin zamanı üzerinden ölçülüyor? |
+| 1914-1945 | Toplam savaş ve kriz eski düzeni kırar | Sivil kayıp, mültecilik, açlık, toplama kampları | Devlet kapasitesi koruma mı, yok etme gücü mü? |
+| 1945-1991 | Kalkınma, refah ve Soğuk Savaş dünyayı böler | Darbeler, borç, vekalet savaşları, göç | Güvenlik kimin adına sağlandı? |
+| 1991-2020'ler | Küreselleşme ve dijitalleşme yeni bağlantı kurar | Güvencesiz iş, veri gözetimi, iklim adaletsizliği | Bağlantı özgürlük mü, yeni bağımlılık mı? |
+
+Bu ikinci okuma seni tek çizgili dünya tarihinden korur. Aynı olay hem bir bölgede ilerleme, başka bir yerde kırılma olabilir.
+
 ## Kitabın ahlaki disiplini
 
 Dünya tarihi çalışırken en zor şey, bugünün sonuçlarını geçmişin zorunlu kaderi gibi okumamaktır. Bugün güçlü olan aktörleri geçmişte de doğal merkez saymak, bugünkü devlet sınırlarını eski toplumların üzerine geçirmek, modern kavramları antik dünyaya aynen taşımak, yenilenleri "geri" veya "eksik" diye etiketlemek kolaydır. Bu kitap bu kolaylıklara direnmeye çalışır.
@@ -130,6 +149,24 @@ Dünya tarihi çalışırken en zor şey, bugünün sonuçlarını geçmişin zo
 Ama bütün karşılaştırmaları bırakmak da çözüm değildir. Tam tersine, iyi karşılaştırma tarihsel düşünmenin kalbidir. Neden bazı bölgelerde güçlü bürokratik devletler erken kuruldu? Neden bazı ticaret ağları şehir özerkliğini güçlendirdi? Neden bazı imparatorluklar dinî çoğulluğu yönetebildi, bazıları yönetemedi? Neden sanayi devrimi belirli bir zaman ve yerde yoğunlaştı? Bu soruların tek nedeni yoktur; ama iyi bir atlas, nedenleri birbirinden ayırıp sonra yeniden bağlamamıza yardım eder.^[2]
 
 Bu yüzden atlasın görevi okura her şeyi ezberletmek değil, soruları doğru yere koydurmaktır. Büyük resim dediğimiz şey, ayrıntıların yokluğu değil, ayrıntıların nereye bağlandığını görebilmektir.
+
+## İleri düzey okuma
+
+Temel haritayı kurduktan sonra atlası daha ileri bir soruyla oku: Bir fikir akımı hangi zorunluluğa cevap verirken, hangi zorunluluğu perdeledi?
+
+Mesela merkantilizm savaş devleti ve hazine ihtiyacını açıklar; ama tüccar tekellerinin ve sömürge şiddetinin üzerini örtebilir. Fizyokrasi vergi ve tarım tıkanmasını görür; ama halkın ekmek korkusunu reform modelinin kenarına itebilir. Klasik iktisat üretkenlik ve serbest ticareti açıklar; ama erken sanayileşmiş gücün avantajını doğal kural gibi gösterebilir. Marx sömürüyü görünür kılar; ama kültür, din, cinsiyet ve ulus gibi alanların kendi gücünü bazen geriye atabilir. Marjinalizm tercih ve kıtlığı berraklaştırır; ama sınıf ve mülkiyet sorusunu daha sessiz hale getirebilir.
+
+Bu yüzden ileri okumanın küçük disiplini şudur:
+
+| Soru | Ne işe yarar? |
+|---|---|
+| Bu fikir hangi gerçek probleme cevap veriyor? | Fikri karikatür yapmanı engeller |
+| Bu fikri kim güçlü biçimde anlatıyor? | Tarihi yazan sesi tanırsın |
+| Bu anlatı kimin deneyimini eksik bırakıyor? | Halk, kadın, koloni, işçi veya taşra gözünü ararsın |
+| En güçlü karşı fikir ne söylüyor? | Kolay tarafgirliği kırarsın |
+| Bugün aynı refleks nerede geri dönüyor? | Tarihi ölü bilgi olmaktan çıkarırsın |
+
+Atlası böyle okursan dönemler ezber olmaktan çıkar. Her dönem, insanlığın aynı büyük sorulara farklı şartlarda verdiği eksik ama öğretici cevaplar haline gelir.
 
 ## Kaynakça
 

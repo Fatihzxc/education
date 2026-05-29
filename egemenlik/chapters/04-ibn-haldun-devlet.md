@@ -147,6 +147,19 @@ Modern *fiscal sociology* literatürü — Tilly, Schumpeter, Joseph Strayer, *C
 
 ---
 
+### Dört kuşak, dört gündelik deneyim
+
+Hanedan döngüsünü yalnız sarayın hikayesi gibi okursak, teorinin canlı kısmı eksik kalır. Aynı döngü halkın farklı kesimlerinde başka başka hissedilir.
+
+| Döngü anı | Reaya ne hisseder? | Asker ne hisseder? | Esnaf/vergi tahsildarı ne görür? |
+|---|---|---|---|
+| Kuruluş | Güvenlik ve ganimet umudu doğar | Dayanışma ve savaş enerjisi yüksektir | Vergi basit, kayıt sınırlı, hareket canlıdır |
+| Yerleşme | Düzen ve pazar güvenliği artar | Maaş ve hiyerarşi belirginleşir | Şehir büyür, ticaret ve zanaat canlanır |
+| Lüksleşme | Saray masrafı vergiye dönebilir | Eski dayanışma yerini mevki kavgasına bırakır | Tahsilat artar, üretici isteği zayıflayabilir |
+| Çözülme | Güvenlik azalır, vergi ağırlaşır | Ordu sadakati gevşer | Vergi tabanı daralır, kayıt baskısı artar |
+
+Bu tablo İbn Haldun'un gücünü gündelik dile indirir: Devletin çöküşü yalnız taht kavgası değildir; geçim, güvenlik, vergi ve üretme isteğinin aynı anda yorulmasıdır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** İbn Haldun’da devlet teorisi, asabiyye, vergi, hanedan ve şehirleşme döngüsünün egemenliği nasıl kurup sonra nasıl çözdüğü sorusundan doğar.

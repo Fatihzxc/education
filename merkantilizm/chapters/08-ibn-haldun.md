@@ -129,6 +129,19 @@ Beşincisi, **kalkınma ve geri kalma** üzerine genel kuramsal soru — neden b
 
 İbn Haldun bir merkantilist değildir; merkantilizmin de bir eleştirmeni değildir. O, merkantilist tartışmaların **doğmasından çok önce** yaşar. Ama Mukaddime, hem Osmanlı gelenekçiliğinin entelektüel kaynaklarından biri olarak hem de modern iktisat tarihçiliğinin geç tanıdığı bir ön-figür olarak, bu kitabın anlatısında merkezi bir köprüdür. Sonraki bölümde — *Hume, Smith ve klasik eleştiri* — merkantilizmin Batı tarafından 18. yüzyılda bilinçli olarak demolanmasına döneceğiz. Smith'in yaptığı işin tam olarak ne kadar **yıkıcı** ve ne kadar **inşacı** olduğunu, ancak hem Mun'u (Bölüm 4) hem Genç-İbn Haldun çizgisini (Bölüm 7-8) görmüş okur fark eder.
 
+### Avrupa öncülü mü, kendi sistemi mi?
+
+İbn Haldun'u okurken iki uç hata var. Birinci hata, onu "Smith'ten önce Smith" diye yalnız modern iktisadın habercisine çevirmek. İkinci hata, onu bugünkü iktisatla hiç konuşmayan kapalı bir tarihçi gibi bırakmak. Daha iyi yol, onu kendi dili içinde anlayıp sonra modern sorularla yan yana koymaktır.
+
+| Okuma biçimi | Ne görür? | Ne kaçırabilir? |
+|---|---|---|
+| Modern iktisat öncüsü | Vergi, emek, işbölümü ve şehirleşme sezgilerini yakalar | Umrân, asabiyye ve hanedan döngüsünü geri plana iter |
+| Osmanlı gelenekçi okuması | Çöküş, lüks, eski nizam ve mali denge uyarısını ciddiye alır | Değişimin yalnız bozulma değil, yeni kapasite de yaratabileceğini zayıf görür |
+| İbn Haldun'un kendi dili | Ekonomi ile siyaseti ayırmadan toplumun canlı döngüsünü okur | Modern kalkınma, sanayi ve küresel ticaret sorularına doğrudan cevap vermez |
+| Sıradan vergi mükellefi | Devletin yükselişini vergi, güvenlik ve geçim üzerinden hisseder | Büyük teori bazen gündelik yorgunluğu fazla hızlı genelleştirir |
+
+Bu matris şunu öğretir: İbn Haldun'u büyüten şey, Avrupa'ya ne kadar benzediği değildir. Asıl büyüklüğü, devlet, üretim, şehir ve vergi arasındaki bağı daha disiplinler ayrılmadan önce birlikte görebilmesidir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** İbn Haldun bölümü, devletin yükseliş ve çöküşünü vergi, emek, şehir ve asabiyye ilişkisiyle açıklayan dışarıdan bir bakış sunduğu için merkantilizm kitabında özel yer tutar.

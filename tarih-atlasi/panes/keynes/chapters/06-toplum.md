@@ -117,6 +117,20 @@ tüketim = gelir + borç + gelecek kaygısı
 
 Bu küçük ayrım çok şey anlatır. Aynı alışveriş görüntüsünün arkasında iki farklı toplum olabilir: biri gelir güveniyle tüketir, diğeri borç çevirerek.
 
+### Merkez-çevre toplum matrisi
+
+Savaş sonrası uzlaşma çoğu zaman Batı Avrupa ve Kuzey Amerika işçisi üzerinden anlatılır. Bu anlatı önemlidir, ama bütün dünya değildir. Aynı dönem başka toplumlarda başka yüzlerle yaşandı.
+
+| Konum | Refah/Keynesçi dönem nasıl görünür? | 1970 sonrası kırılma nasıl hissedilir? |
+|---|---|---|
+| Batı sanayi işçisi | Sendika, ücret artışı, sosyal hak ve ev sahibi olma umudu | Fabrika kapanması, esnek iş, sendika gücünün düşmesi |
+| Göçmen işçi | Merkez ekonominin ihtiyaç duyduğu emek olur | Krizde ilk gözden çıkarılan ve dışlanan grup olabilir |
+| Yeni bağımsız ülke | Kalkınma planı, kamu yatırımı ve sanayi kurma umudu | Borç, döviz darboğazı ve dış politika baskısı artabilir |
+| İthal ikameci devlet | İç sanayi koruma altında öğrenir | Verimsizlik, dış borç ve teknoloji açığı sorun olur |
+| IMF hattına giren hane | Makro istikrar politikası uzaktan teknik görünür | Zam, ücret baskısı, işsizlik ve kamu hizmeti kesintisi olarak yaşanır |
+
+Bu matris refah devleti hikayesini genişletir. Merkezde güvenlik olarak görünen düzen, çevrede bazen borç, bağımlılık ve kırılgan kalkınma olarak yaşanır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Savaş sonrası tam istihdam ve refah devleti güven üretirken, 1970 sonrası enflasyon ve küresel rekabet bu güveni kırdı.

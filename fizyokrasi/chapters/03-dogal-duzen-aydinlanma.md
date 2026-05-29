@@ -148,6 +148,20 @@ Sonraki bölüm, bu felsefi çerçevenin nasıl somut bir biyografide ete kemiğ
 
 ---
 
+### Özgürlük vaadi ve otoriter uygulama riski
+
+Fizyokrasinin en öğretici gerilimi burada durur: Piyasa ve tahıl ticareti serbestleşsin derken, bu serbestliği kuracak gücü yukarıdan bekler. Bu çelişkiyi hızlıca yargılamak yerine, hangi ihtiyaca cevap verdiğini görmek gerekir.
+
+| Aktör | Özgürlük vaadi nasıl görünür? | Otoriter risk nerede doğar? |
+|---|---|---|
+| Kral ve reformcu bakan | Dağınık ayrıcalıkları kırıp sade vergi ve serbest dolaşım kurmak | "Doğal düzeni ben biliyorum" diyerek itirazı bilgisizlik sayabilir |
+| Toprak sahibi | Rantın ve tarımsal üretimin merkezî önemi tanınır | Tek vergi yükü doğrudan kendi üstüne binebilir |
+| Köylü | Angarya ve keyfi yüklerin azalması umut verir | Ekmek fiyatı ve geçiş maliyeti onu korumasız bırakabilir |
+| Tüccar | Tahılın daha geniş pazara akması kolaylaşır | Spekülasyon suçlaması ve halk öfkesiyle karşılaşabilir |
+| Yerel kurumlar | Parçalı engeller kalkar | Yerel güvenlik ağları ve eski pazarlık kanalları kırılabilir |
+
+Bu şemayı akılda tutarsan fizyokrasiyi daha temelden anlarsın: Sorun yalnız "devlet mi piyasa mı?" değildir. Sorun, özgürlüğü kurduğu söylenen reform gücünün kime danıştığı ve kimi koruduğudur.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Doğal düzen fikri, ayrıcalıklar ve keyfi müdahalelerle dolu Eski Rejim içinde ekonominin akılla kavranabilir, sade ve evrensel yasaları olabileceği umudundan doğar.

@@ -122,6 +122,20 @@ Bu sentez, hiçbir tek lensin tam yetmediği ön kabulü üzerine kuruludur. Mer
 
 Sonraki ve **son bölüm** — *Bugün ne kaldı?* — mercantilist mirasın 21. yüzyıl başındaki canlı uzantılarına bakacak. Endüstri politikasının yeniden meşrulaşması, dolar hegemonyası, ticaret yaptırımları, küresel tedarik zincirleri, kalkınma reçeteleri — hepsi mercantilist çağdan miras alınmış sorulardır. Smith'in 1776'da öldürmek istediği şey, üç yüzyıl sonra hâlâ yaşıyor — sadece adı değişmiş, mantığı yerli yerinde.
 
+### Tarihçi merceği kimin acısını görünür kılıyor?
+
+Merkantilizmi yeniden okuyan her tarihçi yalnız geçmişe bakmaz; bugünün tartışmasına da bir pencere açar. Bu yüzden "hangi yorum doğru?" sorusunun yanına bir soru daha koymak gerekir: Bu yorum kimin deneyimini görünür kılıyor?
+
+| Mercek | Görünür yaptığı şey | Gündelik bedel nerede belirir? |
+|---|---|---|
+| Heckscher | Devletin ulusal pazar kurma ve güç toplama çabası | Vergi, kayıt, iç gümrüklerin kaldırılması, yerel ayrıcalık kaybı |
+| Viner | Güç ile refahın birbirini beslemesi | Halk için refah vaadi çoğu zaman savaş maliyetiyle birlikte gelir |
+| Magnusson | Tek doktrin yerine farklı iktisat dilleri | Aynı politika bir yerde düzen, başka yerde baskı gibi yaşanabilir |
+| Chang-Reinert | Geç sanayileşen ülkenin korunma ihtiyacı | Tüketici kısa vadede pahalı mal alır; üretici öğrenme zamanı kazanır |
+| Beckert | Sömürge, kölelik ve zor ilişkileri | Ucuz malın arkasında görünmeyen emek, şiddet ve toprak kaybı durur |
+
+Bu tablo, tarih yazımını daha dürüst okumaya yardım eder. Bir yorum bir kapıyı açarken başka bir kapıyı kapatabilir. İyi okur, açılan kapı kadar kapanan kapıyı da fark eder.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 20. yüzyıl yeniden okumaları, merkantilizmin “aşılmış hata” mı, “devlet kurma mantığı” mı, yoksa “kalkınma stratejisi” mi olduğu tartışmasından doğar.

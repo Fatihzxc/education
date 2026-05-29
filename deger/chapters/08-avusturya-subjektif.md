@@ -104,6 +104,20 @@ Avusturya okulu 20. yüzyıl ortasından itibaren "ana akım" iktisadın dışı
 
 Avusturya okulunun değer kavramının tarihindeki yeri şudur: marjinalist devrimin en sübjektif, en *kişisel-karar-merkezli* okulu. Değer, kişinin kendi zihninde, kendi marjinal kararlarında oluşur. Bu fikir, sonraki tüm modern mikroekonominin temelini oluşturur — Marshall, Walras, Pareto, modern oyun teorisi, davranışsal iktisat, hepsinin köklerinden birisidir.
 
+### Aynı tercih, farklı bütçe
+
+Sübjektif değer "herkes ne isterse o değerlidir" gibi gevşek bir cümle değildir. Daha dikkatli düşünürsek şunu söyler: Bir malın önemi, o anda hangi ihtiyacı karşıladığına ve eldeki seçeneklerin ne olduğuna bağlıdır. Ama seçeneklerin kendisi gelir, sınıf, borç ve kıtlık tarafından şekillenir.
+
+| Kişi | Aynı mala nasıl bakar? | Sübjektif değer neyi açıklar? | Karşı okuma neyi sorar? |
+|---|---|---|---|
+| Zengin tüketici | Üçüncü kahve küçük bir keyiftir | Son birimin faydası düşebilir | Gelir bolluğu tercihi nasıl rahatlatıyor? |
+| Düşük ücretli işçi | Aynı kahve günlük bütçede gerçek fedakarlık olabilir | Fırsat maliyeti büyür | Ücret seviyesi ve kira baskısı nereden geliyor? |
+| Borçlu hane | Harcama bugünkü rahatlık ile gelecek ödeme arasında kalır | Zaman tercihi görünür olur | Kredi sistemi tercihi özgürleştiriyor mu, sıkıştırıyor mu? |
+| Kıtlık yaşayan köylü | Tahılın son birimi hayati hale gelir | Marjinal fayda çok yükselir | Kıtlığı doğa mı, piyasa mı, devlet mi büyüttü? |
+| Reklama maruz kalan tüketici | İhtiyaç ile arzu birbirine karışır | Tercih anı analiz edilebilir | Tercih gerçekten içeriden mi geliyor? |
+
+Bu tablo Avusturya okulunu daha adil okumayı sağlar. Gücü, bireyin bilgi ve tercih anını ciddiye almasıdır. Sınırı ise, tercihlerin hangi gelir, güç ve kurum dünyasında oluştuğunu bazen fazla hızlı geçmesidir.
+
 ## 8.9 Avusturya okulu vs Marksist gelenek: değer kavramı tarihinin çatallanması
 
 19. yüzyıl sonunda, değer kavramının tarihi iki kola ayrılır:

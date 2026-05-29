@@ -113,6 +113,20 @@ Pratik anlam: *agregat sermaye* — tüm sermaye-mallarını tek bir sayıyla te
 
 Samuelson 1962'de "*bunlar parable (öğretici hikâye)*" diye yumuşatma denedi; 1966'da Quarterly Journal of Economics'teki "*A Summing Up*" makalesinde teknik kabul etti. Robert Solow daha sonra şöyle yazdı: "*Reswitching gerçektir; ama gerçek dünyada görülmesi nadirdir*". Joan Robinson'un cevabı: "*Eğer ne zaman gerçekleştiğini bilmiyorsanız, varsayımlarınız neden güvenilsin?*"
 
+### Teknik sorun, gündelik sonuç
+
+Cambridge tartışması ilk bakışta uzmanların teknik kavgası gibi durur. Oysa "sermaye nedir ve getirisi niye hak edilir?" sorusu, gündelik bölüşüm tartışmalarının kalbine kadar iner.
+
+| Teknik sorun | Gündelik sonuç | Okurun sorması gereken soru |
+|---|---|---|
+| Sermaye fiyatlardan bağımsız ölçülemiyorsa | Kârın "doğal üretkenlik payı" olduğu iddiası zayıflar | Getiri katkının mı, mülkiyet konumunun mu sonucu? |
+| Kâr oranı teknik seçimini etkiliyorsa | Ücret-kâr bölüşümü yalnız teknik verimlilikle açıklanamaz | Bölüşüm hesabın dışında mı, içinde mi? |
+| Yazılım ve marka sermaye sayılıyorsa | Kod, veri, reklam ve kullanıcı ağı gelir hakkına dönüşür | Bu değeri kim üretti, kim sahipleniyor? |
+| Konut ve arazi sermayeleşiyorsa | Rant gündelik kira baskısı olarak yaşanır | Sermaye getirisi üretim mi, kıt yer tutma gücü mü? |
+| Kamu altyapısı özel kazancı büyütüyorsa | Toplumun yaptığı yatırım özel bilançoda değer kazanır | Toplumsal katkı nasıl geri dönüyor? |
+
+Bu yüzden Sraffa'yı okurken "bu fazla teknik" diye kapatma. Bazen en teknik tartışma, en basit adalet sorusunu korur: Gelir payları gerçekten üretime katkıyı mı gösteriyor, yoksa katkıyı ölçme biçimimiz zaten bölüşüm kavgasının içinde mi kuruluyor?
+
 ## 11.10 Cambridge controversy bugün — yazılım, marka, ESG
 
 Cambridge controversy'nin 2020'lerde *neden* hâlâ önemli olduğunu sormak için, çağdaş yatırım piyasalarının yapısına bakmak yeterli. *Sermaye nedir?* sorusu hiç bu kadar somut olmamıştı:

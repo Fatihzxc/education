@@ -94,6 +94,20 @@ savaş sonrası neoklasik sentez
 
 1970'ler bu sentezi sarstı. Monetarizm, yeni klasik makro ve rasyonel beklentiler tartışmaları, Keynesçi politikanın sınırlarını öne çıkardı. Daha sonra yeni Keynesyen modeller de fiyat katılıkları, beklentiler ve piyasa aksaklıklarını daha teknik biçimde yeniden kurdu. Ama temel tartışma kapanmadı: Piyasa ne kadar kendiliğinden dengelenir? Devlet ne zaman ve nasıl müdahale etmelidir?
 
+### Aynı kriz kime nasıl görünür?
+
+Keynes, Friedman ve Hayek'i yalnız teorik rakipler gibi okursak, krizin insanlara nasıl göründüğünü kaçırırız. Aynı ekonomik sarsıntı farklı kişilerde farklı korku üretir.
+
+| Kişi | Krizi nasıl yaşar? | Hangi düşünürün dili daha yakın gelir? | Karşı soru |
+|---|---|---|---|
+| İşsiz kalan kişi | Gelir, statü ve gelecek güveni çöker | Keynes: talep ve istihdam | Enflasyon pahasına iş yaratmak nereye kadar? |
+| Tasarruf sahibi | Parasının alım gücünden korkar | Friedman: para ve enflasyon disiplini | Sadece fiyat istikrarı işsizliği çözer mi? |
+| Küçük esnaf | Talep yoksa mal satamaz, kredi pahalıysa dayanamaz | Keynes ve Friedman arasında sıkışır | Destek mi gerekir, para disiplini mi? |
+| Sendikalı işçi | Ücret, iş güvencesi ve toplu pazarlık önemlidir | Keynesçi tam istihdam dili | Katı ücretler krizi uzatıyor mu? |
+| Merkez bankacı | Gecikmeli veriyle karar vermek zorundadır | Friedman ve Hayek: bilgi sınırı | Hiç müdahale etmemek de karar değil mi? |
+
+Bu tablo üç düşünürü yumuşatır. Her biri bir korkuyu ciddiye alır: işsizlik korkusu, enflasyon korkusu, yanlış bilgiyle yönetme korkusu. Modern makroyu anlamak, bu korkuları aynı masaya koyabilmektir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Belirsizlik, para güveni ve dağınık bilgi modern ekonominin açıklanması gereken üç büyük sorunu haline geldi.

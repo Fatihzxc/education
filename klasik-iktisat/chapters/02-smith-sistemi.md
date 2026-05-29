@@ -170,6 +170,24 @@ Sonraki bölümler bu sistemin parçalarının ya genişletilmesi, eleştirilmes
 
 ---
 
+### Görünmez elin görünür kurumları
+
+Smith'in "görünmez el" metaforu güçlüdür; ama piyasa düzeni boşlukta çalışmaz. Birinin mal satabilmesi, ödeme alabilmesi, sözleşmeye güvenebilmesi ve haksızlığa uğradığında başvuracak yer bulabilmesi gerekir.
+
+```text
+hukuk ve mülkiyet güvenliği
+  ↓
+sözleşme, ödeme ve güven
+  ↓
+ulaşım, liman, ölçü, para ve bilgi
+  ↓
+pazar genişliği ve işbölümü
+  ↓
+görünmez elin işleyebileceği alan
+```
+
+Bu akış şunu gösterir: Smith'i devletsiz piyasa savunucusu gibi okumak eksik kalır. Onun piyasası hukuk, adalet, güvenlik, eğitim ve kamu işleriyle desteklenen bir ticari toplumdur. Karşı okuma tam burada başlar: Eğer bu kurumlar eşitsiz kurulursa, görünmez el herkes için aynı iyiliği üretmez.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Smith’in sistemi, işbölümü, piyasa, ahlak duygusu ve devlet görevlerini ticari toplumun nasıl işlediği sorusunda birleştirir.

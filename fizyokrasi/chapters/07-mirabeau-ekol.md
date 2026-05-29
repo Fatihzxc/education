@@ -98,6 +98,19 @@ Sıradaki bölüm (8), bu tezlerin pratiğe geçişinin en somut hikâyesini —
 
 ---
 
+### Salon, dergi, saray, pazar yeri
+
+Bir fikir okul haline geldiğinde yalnız doğru olduğu için yayılmaz. İnsanların buluştuğu yerler, yazı kanalları, himaye ağları ve ortak kelimeler de çalışır. Ama bu ağ genişledikçe şu soruyu sormak gerekir: Kim konuşuyor, kim susuyor?
+
+| Durak | Kim konuşuyor? | Kim daha az duyuluyor? | Fikir nasıl değişiyor? |
+|---|---|---|---|
+| Salon | Quesnay, Mirabeau, aristokrat dostlar, seçkin okurlar | Köylü, şehir yoksulu, küçük zanaatkar | Teori zarif ve bütünlüklü bir dil kazanır |
+| Dergi | Du Pont ve ekol çevresi | Okuryazar olmayan geniş kitle | Doktrin düzenli, tekrar edilebilir ve öğretilebilir olur |
+| Saray | Reformcu bakan, himaye arayan düşünür | Vergiyi ve ekmek fiyatını yaşayan halk | Fikir politika programına yaklaşır |
+| Pazar yeri | Tüccar, tüketici, fırıncı, tahıl taşıyıcısı | Teoriyi yazmayan ama sonucunu yaşayanlar | Serbestlik, fiyat ve kıtlık üzerinden sınanır |
+
+Bu akış, fizyokrasinin gücünü ve zayıflığını aynı anda gösterir. Ekol güçlü bir dil kurdu; fakat bu dil bazen ekmek korkusunu ve geçiş maliyetini taşıyacak kadar aşağıya inmedi.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Mirabeau ve fizyokrat ekolü bölümü, bir fikrin yalnız doğru argümanla değil, ağ, dergi, salon, himaye ve ortak dil ile okul haline gelmesinden doğar.
