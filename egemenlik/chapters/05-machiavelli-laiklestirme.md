@@ -48,6 +48,19 @@ Bu doktrin, 16. yüzyıl sonu — 17. yüzyıl başında Avrupa'da geniş bir ta
 
 *Raison d'état*, modern devletin doğuşunun kavramsal temellerindendir. Westphalia sisteminin (1648 sonrası) "her bir egemen devletin kendi içişlerinde özerk olduğu" ilkesi, *raison d'état* doktrininin pratik uygulamasıdır. Modern uluslararası ilişkiler "realist" kuramı, hâlâ bu çerçeveyi kullanır.
 
+### Floransa sokak kartı: devlet aklı kime güvenlik, kime korku?
+
+Machiavelli'yi yalnız prensin el kitabı gibi okursak eksik kalır. Çünkü devlet aklı dediğimiz şey, sarayda strateji olarak görünürken sokakta bambaşka hissedilir. Bir karar merkez için düzen, rakip aile için tasfiye, halk için güvenlik ya da korku anlamına gelebilir.
+
+| Bakan kişi | Devlet aklında ne görür? | Neden makul gelebilir? | Karşı soru |
+|---|---|---|---|
+| Prens / yönetici | İktidarı koruma tekniği | Parçalı İtalya'da zayıflık işgal ve iç savaş getirebilir | Devleti korumak nerede kendi iktidarını korumaya dönüşüyor? |
+| Cumhuriyetçi yurttaş | Kurumların çürümesine karşı sert uyarı | Roma örneği düzenin yalnız iyi niyetle yaşamadığını gösterir | Halkın katılımı yoksa düzen kimin düzeni? |
+| Sıradan şehirli | Vergi, asker, söylenti, korku ve asayiş | Güvenlik günlük hayat için gerçek bir ihtiyaçtır | Korku düzen sağlıyor mu, yoksa yurttaşı sessizleştiriyor mu? |
+| Ahlaki eleştirmen | Meşruiyet sınırının aşılması | Sonuççuluk zulmü kolayca aklayabilir | Her kriz yöneticinin ahlakı askıya alma bahanesi olabilir mi? |
+
+Bu kart Machiavelli'yi yumuşatmak için değil, doğru yere koymak için var. Onun güçlü tarafı siyasetin çıplak güç tarafını göstermesidir; tehlikeli tarafı ise bu çıplaklığı bazen yeterli gerekçe gibi gösterebilmesidir.
+
 ## 5.6 Discorsi: Cumhuriyet'e övgü
 
 *Il Principe* Machiavelli'nin tek eseri değildir. Aynı yıllarda yazdığı — ama daha kalın olan — *Discorsi sopra la prima Deca di Tito Livio* (Livius'un İlk On Kitabı Üzerine Söylevler, yazımı ~1512-1517, yayınlanması 1531 — Machiavelli'nin ölümünden sonra) eseri, çok farklı bir tonda yazılmıştır. *Il Principe* hükümdarlık üzerine; *Discorsi* cumhuriyetçilik üzerine.

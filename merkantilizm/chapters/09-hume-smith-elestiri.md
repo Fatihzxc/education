@@ -105,6 +105,19 @@ Smith ayrıca:
 
 Bu nüanslar Smith'i Mun veya Colbert'e ne kadar yakın yapar? Tabii ki yakınlaştırmaz. Smith'in temel çerçevesi liberal — devlet kendi kendine işleyen piyasayı asıl olarak izlemeli, sadece belirli ve sınırlı yerlerde müdahale etmeli. Ama bu nüansların önemi şudur: Smith'i okurken onun **doğmatik versiyonu**nu — 19. yüzyıl Manchester liberalizmi ya da 20. yüzyıl Friedman monetarizmi gibi — Smith'in kendisinin sundukları olarak almamak gerekir. Smith her zaman pratik politikanın detaylarına dikkat ederdi.
 
+### Serbest ticaret kontrol kartı: aynı reçete herkese aynı mı?
+
+Hume ve Smith'in eleştirisi güçlüdür; para biriktirmeyi servet sanan aklı gerçekten sarsar. Ama buradan "her ülke her koşulda aynı serbest ticaret reçetesini uygulamalı" sonucu otomatik çıkmaz. Çünkü ticarete hangi güçle girdiğin, hangi sektörde uzmanlaştığın ve hangi güvenlik ihtiyacını taşıdığın sonucu değiştirir.
+
+| Koşul | Serbest ticaret ne kazandırabilir? | Hangi risk doğar? | Kontrol sorusu |
+|---|---|---|---|
+| Zaten güçlü sanayi | Ucuz girdi, büyük pazar, verimlilik | Rakipleri kalıcı olarak geride bırakabilir | Avantaj tarihsel olarak nasıl kuruldu? |
+| Geç sanayileşen ülke | Rekabet baskısı ve ucuz tüketim | Öğrenme aşamasındaki sanayi boğulabilir | Kısa dönem ucuzluk uzun dönem kapasiteyi yok ediyor mu? |
+| Stratejik sektör | Verimsizlikten kaçınma | Savunma, enerji veya teknoloji bağımlılığı | Opulence mı, defence mı daha ağır basıyor? |
+| Koloni / bağımlı ekonomi | Dünya pazarına erişim | Hammaddeye sıkışma ve sanayisizleşme | Ticaret gönüllü mü, güç asimetrisiyle mi kuruluyor? |
+
+Bu kart Smith'i reddetmek için değil, onu tarihsel yerine koymak için var. Smith'in para eleştirisi çok güçlüdür; ama kalkınma ve güç farkı sorusu ayrıca sorulmadığında, kazanan ülkenin reçetesi evrensel hakikat gibi görünebilir.
+
 ## Klasik iktisat'ın doğuşu
 
 Smith'in 1776'da kurduğu çerçeve, 19. yüzyıl boyunca İngiliz iktisat söyleminin omurgası olur. David Ricardo (*Principles of Political Economy and Taxation*, 1817) Smith'in çerçevesini geliştirir, **karşılaştırmalı üstünlük** teoremini formüle eder, emek-değer kuramını sistematize eder. John Stuart Mill (*Principles of Political Economy*, 1848) Smith-Ricardo çerçevesini tüm bir nesil için ders kitabı haline getirir.

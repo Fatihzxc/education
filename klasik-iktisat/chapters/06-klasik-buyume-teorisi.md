@@ -131,6 +131,20 @@ Bu üç eksen, klasik büyüme teorisinin neden müzelik değil aktüel olduğun
 
 Klasik iktisadın "karanlık bilim" niteliği — Carlyle'ın 1849'da küçümseyici bir ifade olarak kullandığı sıfat — bugün farklı bir ışık altında görünür. Modern büyüme iyimserliğinin (Solow tipi yakınsama, sınırsız teknik ilerleme varsayımı, GDP'nin refahla özdeşleştirilmesi) uzun-vadeli sürdürülebilirliği, klasiklerin sınır-hassasiyetli çerçevesinde sorgulanıyor. Smith'in açık-uçlu büyüme vizyonu ile Ricardo'nun azalan-getiri pessimizmi arasındaki klasik gerilim, 21. yüzyıl ekonomik düşüncesinin bir parçası olarak yaşamaya devam ediyor — sonraki bölümlerde (özellikle Bölüm 9'da Mill, Bölüm 11'de Marx, Bölüm 12'de bugün) bu hatların her birinin nasıl açıldığını izleyeceğiz.
 
+### Büyüme haberi okuma kartı
+
+Bugün bir haberde "ekonomi büyüdü" cümlesini gördüğünde klasik iktisat sana hemen yavaşlamayı öğretir. Büyüme tek sayı olabilir; ama hayat tek sayı değildir. Aynı büyüme, ücretliye, ev sahibine, ihracatçıya, borçluya ve doğaya farklı iner.
+
+| Kontrol alanı | Soracağın soru | Hangi klasik hatırlatır? |
+|---|---|---|
+| Ücret | Reel ücret ve çalışma süresi ne oldu? | Smith ve Marx: üretim artışı emekçinin hayatına nasıl döndü? |
+| Kâr | Yatırım mı arttı, yoksa yalnız kâr payı mı büyüdü? | Smith ve Ricardo: kâr birikimi taşır ama bölüşüm gerilimi üretir |
+| Rant / kira | Toprak, konut veya doğal kaynak sahibi ne kadar pay aldı? | Ricardo: kıt kaynak büyümenin payını çekebilir |
+| Nüfus ve geçim | Gıda, enerji ve temel ihtiyaç baskısı ne oldu? | Malthus: toplam artış kişi başına refah demek değildir |
+| Ekoloji | Karbon, su, toprak ve atık bedeli nerede yazıyor? | Mill ve modern steady-state: büyüme amaç değil araçtır |
+
+Bu kart büyümeyi küçümsetmez; onu daha gerçek yapar. Çünkü büyüme iyi bir haber olabilir, ama ancak bedel defteriyle birlikte okunduğunda ne kadar iyi olduğunu anlayabiliriz.
+
 ---
 
 ## Dört kontrol sorusu

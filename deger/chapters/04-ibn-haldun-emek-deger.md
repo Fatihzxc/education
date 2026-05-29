@@ -55,6 +55,19 @@ Hadarî toplumda iş bambaşkadır: emek soyutlanır, piyasaya çıkarılır, pa
 
 Bu nokta, Smith ile farkı görmek için kritiktir. Smith'in *Wealth of Nations*'ında, ticari toplum *evrensel* hale gelmiş, emek-değer her toplumun varsayılan iktisadi yapısı sayılmıştır. İbn Haldun ise bunu zaten bilir: emek-değer ancak hadarî üretimin geliştiği belirli bir tarihsel-sosyal koşulda *görünür* hale gelir. Bu, hem daha derin bir tezdir, hem de Smith'in "doğal" diye sunduğu şeyin aslında tarihsel olduğunun erken bir farkındalığıdır.
 
+### Hadarî pazar kartı: emek ne zaman görünür olur?
+
+İbn Haldun'u anlamanın anahtarı şu basit ayrımdır: Emek her yerde vardır, ama her yerde aynı biçimde görünmez. Kırsal geçim dünyasında emek çoğu zaman ailenin ve topluluğun içinde erir. Kentte ise uzmanlaşır, pazara çıkar, fiyat ve kazanç hesabına dönüşür.
+
+| Ortam | Emek nasıl görünür? | Değer nasıl hissedilir? | Kontrol sorusu |
+|---|---|---|---|
+| Bedevî / geçimlik dünya | Aile, kabile ve doğrudan ihtiyaç içinde | Ürün hemen tüketilir ya da paylaşılır | Burada fiyat mı, geçim güvenliği mi daha belirleyici? |
+| Hadarî kent | Uzmanlaşmış zanaat ve hizmet olarak | Emek pazarda ölçülür, para ve kazanca çevrilir | Kent büyümezse bu uzman emeğe kim talep yaratır? |
+| Devletli toplum | Vergiye konu olan üretim olarak | Emek artığı devletin gelir tabanına bağlanır | Vergi emeği teşvik mi ediyor, yoksa söndürüyor mu? |
+| Modern okur | Emek-değer teorisinin öncülü gibi | Smith ve Marx'a benzer cümleler öne çıkar | Benzer cümleyi aynı teori sanıyor muyuz? |
+
+Bu kart İbn Haldun'u "Smith'ten önce Smith" diye daraltmamayı sağlar. Onun asıl gücü, emeği şehirleşme, devlet ve toplumsal döngü içinde görünür hale getirmesidir.
+
 ## 4.5 Asabiyye ve devletin döngüsü
 
 İbn Haldun'un en bilinen kavramı *asabiyye*'dir — bir grubun (kabile, hanedan, ümmet) kendi kendine sadakatini sürdürebilme gücü, "grup duygusu". Asabiyye olmadan kalıcı bir devlet olmaz; ama asabiyye de zamanla aşınır.

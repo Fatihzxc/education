@@ -99,6 +99,19 @@ Smith'in tezinin daha doğru özeti şudur: rekabet, üreticileri ücret + rant 
 
 Bu noktayı vurgulamak önemlidir çünkü Smith'in tezini çok yüzeysel bir biçimde "*laissez-faire*" tezine indirgemek modern iktisat tarihyazımının bir aşırılığıdır. Smith aslında devletin birçok rolü olduğunu — adalet, savunma, halk eğitimi, altyapı, tekelci sömürüye karşı koruma — *Wealth of Nations*'ın 5. kitabında uzun uzun anlatır. Ama bu nüans, "görünmez el" sloganının altında çoğu zaman kaybolur.
 
+### Görünmez el uyarı kartı: mekanizma mı, masal mı?
+
+Smith'i öğrenirken en büyük tuzak, "görünmez el" ifadesini her şeyi çözen sihirli bir piyasa masalı gibi okumaktır. Smith'in asıl gücü daha sade ve daha ciddidir: rekabetin, kârı, ücreti ve fiyatı belirli merkezlere doğru iten bir mekanizma olduğunu gösterir.
+
+| Okuma biçimi | Ne kazandırır? | Neyi saklayabilir? | Kontrol sorusu |
+|---|---|---|---|
+| Slogan okuması | Piyasanın kendiliğinden düzen fikrini kolay hatırlatır | Devletin adalet, eğitim, altyapı ve tekel karşıtı rolünü unutturur | Smith gerçekten devletsizlik mi savunuyor? |
+| Mekanizma okuması | Rekabetin fiyatları nasıl çektiğini gösterir | Rekabet yoksa modelin bozulduğunu bazen hafife alır | Piyasada tekel, imtiyaz veya bilgi eşitsizliği var mı? |
+| Sınıf okuması | Ücret, kâr ve rant paylarını görünür kılar | Bireysel girişim ve yenilik tarafını küçültebilir | Payları kim belirliyor: üretkenlik mi, pazarlık gücü mü? |
+| Kamu gözü | Ucuz mal, iş, ekmek ve vergi etkisini sorar | Soyut modelin uzun dönem sakinliğine kapılmayı engeller | Kısa dönemde bedeli kim ödüyor? |
+
+Bu kart Smith'i küçültmez; onu sloganın içinden kurtarır. İyi okuma, "piyasa çalışır" cümlesini hemen "hangi kurumlarla, hangi rekabet koşulunda, kimin bedeliyle?" sorusuyla tamamlar.
+
 ## 5.7 Klasik geleneğin doğuşu
 
 *Wealth of Nations*'ın asıl ardılı bir tek cümle ya da tek tez değil; bir okul geleneği, bir *klasik politik iktisat* geleneğidir. Smith'ten sonra, sırasıyla:

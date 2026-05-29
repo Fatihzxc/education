@@ -34,6 +34,19 @@ Smith'e göre bu üç kategori bir ticari toplumun yapısal özellikleridir. İl
 
 Bu üç-mülkiyet/üç-gelir şeması, klasik politik iktisadın temel çerçevesi olur. Smith'i takiben Malthus, Ricardo, Mill, ve eleştirel olarak Marx — hepsi bu çerçeve içinde çalışırlar. Üç sınıf modeli (toprak sahipleri, kapitalistler, işçiler), 19. yüzyıl politik iktisad düşüncesinin temel taşıdır.
 
+### Gelir payı kartı: aynı üretim üç haneye nasıl girer?
+
+Smith'in üç gelir kategorisini yalnız kitap şeması gibi düşünme. Aynı üretim süreci üç ayrı haneye üç ayrı hayat olarak girer. Rant, kâr ve ücret aynı pastadan pay alır; ama bu payların dayandığı güçler aynı değildir.
+
+| Hane / aktör | Gelir kaynağı | Günlük karşılığı | Karşı soru |
+|---|---|---|---|
+| Toprak sahibi | Rant | Kira, ürün payı, arsa geliri | Gelir üretimden mi, sahiplik konumundan mı geliyor? |
+| Kapitalist | Kâr | Makine, stok, pazar ve riskin getirisi | Risk almak artığın ne kadarını haklı kılar? |
+| İşçi | Ücret | Çalışma saati, geçim bütçesi, iş güvencesi | Ücret geçimi sağlıyor mu, yoksa yalnız emeği yeniden üretmeye mi yetiyor? |
+| Devlet | Vergi ve hukuk koruması | Mahkeme, polis, altyapı, gümrük | Devlet hangi geliri daha kolay koruyor, hangisini daha kolay vergiliyor? |
+
+Bu kart Smith'i Marx'a çevirmek için değil, Smith'in kendi sessiz gerilimini görünür yapmak için var. Üretim arttığında bile şu soru açık kalır: artan ürün hangi mülkiyet hakkı üzerinden kimin hanesine giriyor?
+
 ## 6.4 Sermaye birikimi ve mülkiyetin yoğunlaşması
 
 Smith'in *Wealth of Nations*'ının II. kitabı, *"Of the Nature, Accumulation, and Employment of Stock"* başlığıyla, sermaye birikiminin mekanizmasını işler. Bu kitap, mülkiyet açısından önemlidir; çünkü Smith burada *kapitalist mülkiyetin doğuşunu* anlatır.

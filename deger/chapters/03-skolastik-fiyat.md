@@ -51,6 +51,19 @@ Ama belirli durumlarda — örneğin, *bir alıcının özel ihtiyacı varsa* �
 
 Bu nüans önemlidir: Aquinas'ın adil-fiyatı modern piyasa-fiyatına karşı bir alternatif değildir. Çoğu zaman piyasa-fiyatı ile çakışır; sadece istisnai durumlarda — alıcının savunmasız olduğu, satıcının fırsatçılığa sapabileceği durumlarda — piyasa-fiyatından ayrı bir norm olarak ortaya çıkar.
 
+### Pazar yeri kartı: rıza gerçekten rıza mı?
+
+Skolastik adil fiyat meselesinin kalbi burada atar: İki kişi bir fiyata razı oldu diye işlem otomatik olarak adil olur mu? Aquinas'ın sorduğu soru budur. Çünkü bazen rıza, özgür seçimden değil, ihtiyaç sıkışmasından doğar.
+
+| Sahne | Görünen işlem | Skolastik soru | Modern karşı fikir |
+|---|---|---|---|
+| Kıtlıkta tahıl satışı | Alıcı yüksek fiyata razı olur | Açlık baskısı altında razı olmak adil ölçü kurar mı? | Yüksek fiyat kıtlık sinyalidir; arzı teşvik edebilir |
+| Borç alan yoksul | Para şimdi lazım, fazlasıyla geri ödeyecek | Zorunluluk üzerinden kazanç günah mı? | Faiz risk, zaman ve fırsat maliyetinin bedelidir |
+| Tüccarın kârı | Ucuz alıp pahalı satar | Aradaki fark hizmet, risk ve taşıma için mi, yoksa kandırma mı? | Arbitraj piyasaları dengeler ve malı ihtiyaç yerine taşır |
+| Mahalle pazarı | Herkes ortak fiyatı bilir | Ortak tahmin adil fiyat için yeterli mi? | Piyasa fiyatı bilgi taşır ama güç farkını göstermeyebilir |
+
+Bu kart skolastikleri piyasa düşmanı gibi değil, savunmasız kişinin yanına bir soru koyan düşünürler gibi okumayı sağlar. Onların derdi fiyatı dondurmak değil; fiyatın insan ihtiyacını ezdiği anı fark etmektir.
+
 ## 3.5 Faiz yasağı: usury günahı
 
 Q.78'in alt başlığı (Aquinas baskılarında bazen Q.77'den ayrı, bazen aynı bölüm içinde) faiz konusudur:

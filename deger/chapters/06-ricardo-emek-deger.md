@@ -54,6 +54,19 @@ Bu, açıkça toprak-sahibi sınıfının (büyük çoğunluğu Parlamento'da te
 
 Bu nokta önemlidir: Ricardo'nun rant teorisi sadece bir teknik iktisat teoremidir değil; aynı zamanda 19. yüzyıl sınıf çatışmalarının yapısal bir teşhisidir. Her sınıfın çıkarı (toprak sahibi, kapitalist, işçi) niye farklıdır, niye birbirinden ayrı politika tercihleri vardır — Ricardo'nun çerçevesi bunu net bir şekilde gösterir.
 
+### Tahıl fiyatı pusulası: aynı yasa üç sınıfa nasıl çarpar?
+
+Ricardo'yu anlamak için tahıl fiyatını yalnız pazardaki bir sayı gibi değil, üç sınıfın hayatına aynı anda değen bir işaret gibi düşün. *Corn Laws* tahıl fiyatını yüksek tutunca herkes aynı ülkede yaşar; ama aynı fiyat herkese aynı anlama gelmez.
+
+| Aktör | Yüksek tahıl fiyatı ne demek? | Neden bu bakış makul? | Karşı okuma |
+|---|---|---|---|
+| Toprak sahibi | Rantın artması | Verimli toprağa sahip olduğu için fiyat farkından pay alır | Bu kazanç üretim başarısından çok kıtlık ve ayrıcalıktan gelir |
+| Sanayi kapitalisti | Kârın sıkışması | İşçinin geçim maliyeti artarsa ücret baskısı yükselir | Kapitalist işçinin ucuz ekmeğini kendi kârı için ister mi? |
+| İşçi hanesi | Ekmek bütçesinin zorlanması | Tahıl fiyatı doğrudan sofraya iner | Ücret artsa bile kira, gıda ve iş güvencesi birlikte sorulmalı |
+| Devlet / parlamento | Sınıflar arası denge sorunu | Toprak aristokrasisi siyasette güçlüdür | Yasa kamu yararı mı, egemen sınıfın çıkarı mı? |
+
+Bu pusula Ricardo'nun modelini daha canlı yapar. Rant teorisi soyut değildir; ekmek fiyatı, Parlamento çıkarı, sanayi kârı ve işçi sofrası aynı zincirde birbirine bağlanır.
+
 ## 6.5 Kâr ve azalan getiriler
 
 Ricardo'nun bir başka tezi, uzun-vadeli "azalan getiri" (*diminishing returns*) ve onun sonucu olan "durağan-durum" (*stationary state*)'dur. Mantığı şöyle:

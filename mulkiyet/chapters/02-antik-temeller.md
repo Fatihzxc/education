@@ -75,6 +75,19 @@ Bu eşitsizliği düzeltmek için yapılan girişimler — özellikle Tiberius v
 
 Bu noktanın iktisat tarihi açısından önemi: Roma'nın *hukuken* mükemmel bir mülkiyet sistemi vardı ama *fiilen* o sistemin işleyişi son derece eşitsizdi. Mülkiyetin teorik formu ile pratik sonuçları arasındaki bu gerilim, daha sonraki tüm büyük mülkiyet teorilerinin de — Locke'tan Marx'a, Ostrom'a — temel sorularından biri olacaktır.
 
+### Sessiz kalanlar kartı: dominium kimin sesiyle yazıldı?
+
+Roma hukuku çok güçlü bir kavram dili kurdu; ama bu dilin kimleri daha rahat konuşturduğunu sormak gerekir. *Dominium* sahibi kişi hukukta görünürdür. Onun tarlasını işleyen kiracı, köle, borçlu küçük çiftçi veya fethedilen halk ise çoğu zaman başka birinin hakkının nesnesi olarak görünür.
+
+| Roma sahnesi | Hukukun gördüğü | Sessiz kalan taraf | Kontrol sorusu |
+|---|---|---|---|
+| Latifundia | Büyük toprak sahibinin tam yetkisi | Köle emeği ve küçük çiftçi kaybı | Tam sahiplik hangi emek düzeniyle ayakta duruyor? |
+| Kiralanan tarla | Sözleşme ve kira hakkı | Kuraklık riskini taşıyan kiracı | Risk kime, gelir kime gidiyor? |
+| *Res nullius* | Sahipsiz sayılan şeyin edinimi | Orayı kullanan ama Roma hukukunca sahip sayılmayan topluluk | "Sahipsiz" kimin hukuk diline göre söyleniyor? |
+| Gracchus reformları | Toprak dağılımını düzeltme girişimi | Reform için bedel ödeyen siyasi muhalifler ve yoksullar | Güçlü mülkiyet hakkı eşitsizliği düzeltmeye izin veriyor mu? |
+
+Bu kart antik mirası daha dürüst okutur. Roma'nın hukuk dili gerçekten parlaktır; ama parlak bir hukuk dili, eşitsiz bir toplumun içinde çalışıyorsa, onun kimi koruduğunu ayrıca sormak gerekir.
+
 ## 2.8 Antik mirasın izleri
 
 Antik Yunan ve Roma'nın mülkiyet düşüncesinin sonraki yüzyıllara altı izi var:
