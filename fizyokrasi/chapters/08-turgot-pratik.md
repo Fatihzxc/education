@@ -108,6 +108,19 @@ Turgot'yu yalnız “ilerici reformcu” diye okumak kolaydır; ama öğrenme a�
 | *Corvée* yerine para vergisi | Angaryayı kaldırıp yol masrafını parasal ve genel bir yük haline getirmek. | Yol yükünden kurtulan köylü, daha rasyonel maliye. | Vergi muafiyetine alışmış toprak sahibi ve ayrıcalıklı tabaka. | Vergi adaletini anlatacak temsil kanalı. | Reform, imtiyazlı sınıflar için “saldırı” gibi görünür. |
 | Saray harcamalarını kısmak | Hazine açığını azaltmak. | Devlet maliyesi ve reform programının güvenilirliği. | Saray çevresi, emekli maaşı ve bağış ağına bağlı gruplar. | Politik destek koalisyonu. | Reformcu bakan yalnızlaşır; saray desteği erir. |
 
+### Geçiş maliyeti pusulası: reform doğruysa bile kim bekleyemez?
+
+Turgot'nun hikayesi bize çok temel bir ders verir: Bir reform uzun vadede doğru olabilir, ama kısa vadede bazı insanlar bekleyemez. Ekmek fiyatı bugün yükseliyorsa, "gelecekte piyasa dengeye gelir" cümlesi aç hane için yeterli değildir.
+
+| Reform alanı | Uzun vadeli akıl | Kısa vadeli korku | Tampon soru |
+|---|---|---|---|
+| Tahıl serbestliği | Üretici teşvik edilir, arz artar | Şehirli yoksul ekmeği hemen pahalı alır | Geçici stok ve destek var mı? |
+| Lonca kaldırma | Giriş engeli kırılır | Usta ve kalfa güvencesini kaybeder | Yeni beceri ve kredi kanalı var mı? |
+| Angaryanın kaldırılması | Zorunlu emek daha adil vergiye çevrilir | Para vergisi nakit sıkıntısı yaratabilir | Yük gelir gücüne göre mi dağıtılıyor? |
+| Harcama disiplini | Hazine güven kazanır | Saray ağından geçinenler direnç gösterir | Reform koalisyonu kimlerden oluşuyor? |
+
+Bu pusula reformu yavaşlatmak için değil, reformu yaşanabilir kılmak için var. İyi fikir, geçiş maliyetini görmediğinde halkın gözünde kötü niyete benzeyebilir.
+
 ## 8.7 Tarihsel "ne olurdu" sorusu
 
 Turgot'nun düşüşü, Fransız 18. yüzyılının en büyük *kontrafaktüeli*ni doğurur. Altı edikt geri alınmamış olsa, Turgot 1776 sonrası altı-on yıl daha görevde kalıp programını derinleştirebilseydi, 1788 mali çöküşü önlenebilir miydi? 1789 Devrimi engellenebilir veya başka bir biçim alabilir miydi?

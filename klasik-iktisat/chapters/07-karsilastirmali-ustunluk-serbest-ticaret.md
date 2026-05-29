@@ -119,6 +119,20 @@ League'in benzersizliği üç düzeyde işler. **Birincisi**, bilimsel argüman:
 
 League aynı zamanda klasik iktisadın entelektüel pratiğin ötesine — *Wealth of Nations* ya da *Principles* okurlarının teorik tartışmasından kamusal söylemin egemen çerçevesine — geçişinin sahnesidir. 1840'ların sonunda İngiliz politik söyleminde "serbest ticaret" sözcüğü ahlaki bir mertebeye kavuşmuştu: bilimsel doğru + halk yararı + sanayi modernliği. Mercantilist gümrük düzeninin meşruluğu aynı oranda eridi.
 
+### Kampanya metni okuma kılavuzu: ucuz ekmek kimin diliydi?
+
+Anti-Corn-Law League'i yalnız "bilim kazandı" diye okumak eksik olur. Kampanya, Ricardo'nun modelini, sanayici çıkarını, işçi geçim baskısını ve ahlaki kamu dilini aynı afişte birleştirdi. Bu yüzden ucuz ekmek hem gerçek bir halk ihtiyacıydı hem de güçlü bir sınıf koalisyonunun diliydi.
+
+| Okuma katmanı | Ne görür? | Neyi kaçırabilir? | Kontrol sorusu |
+|---|---|---|---|
+| Model | Serbest ticaret verimlilik sağlar | Geçiş maliyetini ve güç farkını | Kim hemen kaybediyor, kim uzun vadede kazanıyor? |
+| Sanayici | Ucuz tahıl, düşük ücret baskısını hafifletir | Kâr çıkarını halk diliyle saklayabilir | Ucuz ekmek işçinin pazarlık gücünü artırıyor mu? |
+| İşçi | Ekmek fiyatı doğrudan hayat meselesidir | Ücretlerin nasıl belirlendiğini | Ekmek ucuzlarken ücret ne oluyor? |
+| Toprak sahibi | Koruma kalkarsa rantı düşer | Gıda güvenliği argümanını | Güvenlik mi savunuluyor, ayrıcalık mı? |
+| Kamu kampanyası | Afiş, konuşma ve imza ile baskı kurar | Basit slogan karmaşık modeli düzleştirir | Slogan hangi gerçeği taşıyor, hangisini saklıyor? |
+
+Bu kılavuz kampanyayı küçültmez. Tam tersine, başarılı politik iktisat metninin nasıl çalıştığını gösterir: teori, çıkar, korku ve umut aynı cümlede birleşir.
+
 ## 7.9 1846: lağv, Tory bölünmesi, liberal hegemonya
 
 Politik momentumu son hızda artıran etmen iktisadi argüman değil bir insani felaket oldu: **İrlanda kıtlığı**. 1845 sonbaharında *Phytophthora infestans* mantarının yol açtığı patates çürüğü İrlanda hasadını yıktı; bu, küçük çiftçi ve emekçinin temel besin maddesiydi. Ardından gelen üç-dört yıllık *Great Famine* (1845-49) İrlanda nüfusunun yaklaşık beşte birini yok etti — ya açlıktan ya da ABD'ye, İngiltere'ye, Avustralya'ya göç ederek. Britanya hükümetinin İrlanda kıtlığına yetersiz tepkisi — *laissez-faire* doktrinine sıkı bağlılık, devlet müdahalesinden kaçınma — sonradan ciddi tarihsel eleştirilere konu olacaktı; ama 1845-46 anında patates çürüğü tahıl ithalatı sorununu acil bir kamu sağlık meselesine dönüştürdü^[12].

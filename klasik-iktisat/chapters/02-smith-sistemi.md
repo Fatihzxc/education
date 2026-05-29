@@ -150,6 +150,20 @@ Dördüncüsü Polanyi'nin 1944 müdahalesidir; bunu 2.10'da işledik. Beşincis
 
 Bu altı karşı-okumanın ortak noktası şudur: Smith'i "doğruluk-yanlışlık" ekseninde değil, *konum* ekseninde okurlar. Smith bir teorisi olan adam değil, bir teorik sistem inşa eden adamdır — ve her sistem, belirli bir tarihsel-sınıfsal konumdan inşa edilir. Smith'in konumu (Glasgow tüccar çevresi, aristokratik himaye, İskoç Aydınlanması ağı) onun sistemini hem mümkün kıldı hem de sınırlandırdı. Karşı-okumaların değeri, Smith'i çürütmelerinde değil, *başka bir konumdan görüldüğünde sistemin nereye kadar gittiğini* göstermelerindedir.^[3]
 
+### Kamusal sahne: tüccar, gümrük memuru, ev içi emek ve koloni
+
+Smith'in sistemi büyük ve zariftir; ama sistem kelimesi bazen insan yüzlerini geri plana iter. Bu yüzden Smith'i okurken beş kitabın mimarisini, o mimarinin içinde yaşayan farklı aktörlerle birlikte düşünmek gerekir.
+
+| Sahne | Smith'in sistemi ne görür? | Eksik kalabilecek taraf | Kontrol sorusu |
+|---|---|---|---|
+| Tüccar | Rekabet, uzmanlaşma ve pazar genişliği | Tekel ve imtiyaz arayışı | Piyasa özgürlüğü gerçekten rekabet mi üretiyor? |
+| Gümrük memuru | Devlet geliri ve ticaret düzeni | Tahsilatın gündelik maliyeti | Vergi kime görünür, kime gizlenir? |
+| Ev içi emek | Doğrudan üretken emek sayılmayabilir | Bakım ve yeniden üretim emeği | Piyasa dışı emek sistemi nasıl ayakta tutuyor? |
+| Koloni | Pazar genişlemesi ve ticaret ağı | Zor, bağımlılık ve hammadde baskısı | Ulusal servet başka yerdeki kayıpla mı büyüyor? |
+| İşçi | İş bölümüyle üretkenlik artışı | Tekdüze iş ve zihinsel daralma | Verimlilik artışı insanı da büyütüyor mu? |
+
+Bu sahne kartı Smith'i daha adil okutur. Onun sistemi piyasayı, devleti ve ahlakı birlikte düşünür; ama okur olarak bizim görevimiz, sistemin hangi emekleri ve hangi güç ilişkilerini kısık sesle bıraktığını da duymaktır.
+
 ## 2.12 Kapanış — *Das Adam Smith Problem* ve sistemin açık ucu
 
 Bu bölümün başında *Theory of Moral Sentiments*'a değindik; kapatırken oraya geri dönmek zorundayız. 19. yüzyılın ikinci yarısında Bruno Hildebrand, Lujo Brentano gibi Alman tarihsel ekol iktisatçıları Smith'in 1759 *TMS*'inde kurduğu sempati-merkezli ahlak teorisi ile 1776 *Wealth*'taki kendi-çıkar-merkezli iktisat çerçevesinin uyumsuz olduğunu öne sürdüler. Sanki Paris seyahatinde Fransız Aydınlanması'nın akıl-merkezli atmosferinde "fransızlaşmış" bir Smith, kendi gençliğindeki ahlakçı Smith'i geride bırakmış gibi. Bu tartışma *Das Adam Smith Problem* olarak Alman iktisat literatürüne girdi.

@@ -103,6 +103,20 @@ Bu teorinin pratik silah olarak kullanımı 1830-1846 arası *Manchester School*
 
 Bu mirasın karanlık yüzünü 1840'larda Alman milliyetçi iktisatçı Friedrich List, *Das Nationale System der politischen Ökonomie* (1841) eserinde acımasız bir tarihsel örnek üzerinden teşhir eder: Portekiz. 1703 *Methuen Anlaşması* ile Portekiz, İngiliz tekstil ürünlerine düşük gümrük tanır karşılığında şarabını İngiltere'ye ayrıcalıklı koşullarla ihraç etme hakkı kazanır; Portekiz "karşılaştırmalı üstünlüğü"ne — şaraba — uzmanlaşır, kendi tekstil sanayisi İngiliz rekabeti altında çöker. Sonuç: Portekiz 200 yıl boyunca Avrupa'nın iktisadi olarak en geri ülkelerinden biri olarak kalır; tarımsal bir tek-mahsul ekonomisine kilitlenir, sanayileşme dalgasına katılamaz. List'in formülasyonu sert ve hatırda kalıcıdır: ona göre Ricardo'nun karşılaştırmalı üstünlük teoremi, Portekiz dramının matematikselleştirilmesinden başka bir şey değildir. Bu teorem, *zaten sanayileşmiş* bir ülkenin (Britanya) *henüz sanayileşmemiş* bir ülkeyi (Portekiz, ve daha sonra Almanya, ABD, sömürge dünyası) tarımsal hammadde tedarikçisi konumunda dondurmasının teorik gerekçelendirmesidir. List'in bu eleştirisi 20. yüzyılda Latin Amerika *dependencia* okulundan (Prebisch, Furtado, Cardoso) Doğu Asya kalkınma-devleti modeline (Wade, Amsden) uzanan kuramsal hatların ortak başlangıç noktasıdır. Karşılaştırmalı üstünlük teoremini matematiksel olarak çürütmeden — ki teorem kendi varsayımları içinde tutarlıdır — onun *politik-tarihsel uygulanma koşullarının asimetrisini* gösterir: teorem, eşitler arasında karşılıklı kazanç vaat ederken; eşitsizler arasında, daha gelişmiş tarafın gelişmemiş tarafı *kalıcı bir tabi konumda* sabitlemesinin aracına dönüşür.
 
+### Soyut modelin sahası: ekmek, makine ve pazarlık gücü
+
+Ricardo'nun modelleri çok soyuttur; bu onların zayıflığı değil, gücüdür. Ama soyut modelin hayatta nereye değdiğini görmezsek, kimin nefesinin daraldığını kaçırırız. Ricardo'yu okurken ekmek fiyatı, makineleşme ve pazarlık gücü hep birlikte düşünülmelidir.
+
+| Saha | Ricardo neyi gösterir? | Gündelik karşılık | Karşı soru |
+|---|---|---|---|
+| Ekmek fiyatı | Ücret ve kâr arasındaki baskıyı | İşçinin geçim maliyeti | Ucuz ekmek kimin siyasi dili oldu? |
+| Rant | Kıt toprağın payı çekmesini | Toprak sahibinin emeksiz kazancı | Rant yalnız tarımda mı, kentte de mi? |
+| Makine | Verimlilik artışının bölüşüm etkisi | Bazı işlerin yok olması | Teknoloji kazancı kimde kalıyor? |
+| Finans kapitalist | Sermaye birikimi ve kâr oranı | Yatırım yönü ve kredi gücü | Soyut sermaye hangi sınıfın elinde? |
+| Geç sanayileşen ülke | Serbest ticaretin verimlilik mantığı | Öğrenme aşamasında rekabet baskısı | Model eşit güç varsayıyor mu? |
+
+Bu kart Ricardo'yu yere indirir. Onun soyutluğu, gerçek hayatı yok saymak için değil, bölüşüm kavgasının çıplak iskeletini görmek için kullanılmalıdır.
+
 ## 4.7 Parasal teori ve *currency principle*
 
 Ricardo'nun parasal düşüncesi, *Principles* Ch XXVII'de — "On Currency and Banks" — özet olarak yer alır, ama gerçek kaynakları daha eskidir. 1810'da yayımladığı *The High Price of Bullion, a Proof of the Depreciation of Bank Notes* broşürü Ricardo'nun adını politik-iktisadi tartışmalara ilk kez sokan eserdir; ve ölümünden sonra 1824'te basılan *Plan for the Establishment of a National Bank* posthumous broşürü — onun parasal teorisinin politika uzantısıdır. *Principles* Ch XXVII bu iki eserin damıtılmış teorik çekirdeğidir.

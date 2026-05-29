@@ -88,6 +88,19 @@ Modern eleştiri iki büyük damardan ilerler. Birincisi *Boserup* hattı. Danim
 
 İkinci damar Amartya Sen'in *entitlement* (yetki) yaklaşımıdır. Sen'in 1981 tarihli *Poverty and Famines: An Essay on Entitlement and Deprivation* eseri, kıtlıkların tarihini yeniden okur. Bulgu çarpıcı: 20. yüzyılın büyük kıtlıklarının çoğunda — 1943 Bengal, 1959-61 Çin, 1974 Bangladeş, 1972-74 Etiyopya — fiziksel gıda stoku düşmemiş, ya çok az düşmüştü. Asıl kırılan, bazı toplumsal kesimlerin gıdaya *erişim hakkı* (entitlement) idi: ücret düşüşü, fiyat patlaması, taşıma çöküşü, savaş-kaynaklı yerinden edilme, dağıtım altyapısının kırılması. 1943 Bengal kıtlığında pirinç tarlaları olağan üretimini yapmıştı; ama askeri tedarik, fiyat manipülasyonu ve dağıtım çöküşü, Kalküta'nın kırsalında bir milyondan fazla insanın açlıktan ölmesine yol açtı. Sen'in *kapabiliteler* (capabilities) yaklaşımına (`deger/12-sen-kapabiliteler.md`) açılan bu çerçeve, Malthus'un fiziksel-biyolojik bağırsak-modelini yerine *kurumsal-haklar* modelini koyar.
 
+### Kıtlık dosyası: doğa, teknoloji, yetki
+
+Malthus'u doğru anlamak için kıtlığı tek kutuya koymamak gerekir. Bazen gerçekten biyofizik sınır vardır; bazen teknoloji sınırı yukarı iter; bazen de sorun gıda yokluğu değil, insanların gıdaya erişim hakkını kaybetmesidir.
+
+| Açıklama hattı | Kıtlığı nasıl açıklar? | Güçlü tarafı | Kontrol sorusu |
+|---|---|---|---|
+| Malthus | Nüfus gıdadan hızlı artar | Sınır ve taşıma kapasitesini ciddiye alır | Nüfus baskısı gerçekten ana neden mi? |
+| Boserup | Nüfus baskısı teknolojik yoğunlaşmayı tetikler | İnsan yaratıcılığını ve tarımsal yeniliği görür | Teknolojiye kim erişiyor? |
+| Sen | Gıda olabilir, ama erişim hakkı kırılır | Dağılım, fiyat ve kurumları merkeze alır | Kim satın alamıyor, kim taşıyamıyor, kim dışlanıyor? |
+| Ekolojik okuma | Gezegen sınırları zorlanır | İklim ve kaynak tabanını görünür kılar | Sınır herkes için aynı mı hissediliyor? |
+
+Bu dosya Malthus'u ezber değil, ayrım yapma aracı haline getirir. Kıtlık dediğinde hemen sormalısın: Doğa mı sınır koyuyor, teknoloji mi yetmiyor, yoksa yetki ve dağılım mı kırılıyor?
+
 ## 3.9 Mirası — *dismal science*'dan iklim krizine
 
 Klasik iktisadı *dismal science* — "karanlık bilim" — yapan figür Malthus'tur. Bu deyimin kökenine ilişkin yaygın bir yanlış anlama vardır; tarihi kayda geçirmek gerekir. İfade ilk kez Thomas Carlyle'ın 1849'da yayınladığı *Occasional Discourse on the Negro Question* başlıklı uzun makalede geçer.^[3] Carlyle'ın bağlamı modern okuyucunun beklediğinin tersinedir: o, klasik iktisatçıları (özellikle J.S. Mill'i ve John Bright'ı) *köleliği reddettikleri* için "karanlık" buluyordu. Carlyle, Britanya İmparatorluğu'nun Karayipler'deki eski-köle topluluklarının "tembelleştiği" — çünkü piyasa-temelli emek baskısı çekmedikleri — yönündeki ırkçı-mistik tezini savunmak için klasik iktisadın evrensel piyasa-akıl çerçevesine saldırıyordu. "Karanlık" sözcüğünün ahlâki yükü, Malthusyan pesimizmden değil, sömürgeci-ırkçı reaksiyondan geliyordu. İfade sonradan, hem hatip Carlyle'ın hem de bağlamın unutulmasıyla, Malthusyan nüfus pesimizminin etiketi haline geldi. Bugün hâlâ böyle kullanılır; ama tarih yine de yerli yerinde durur, ve Carlyle'ın kullanımının köleliği yeniden meşrulaştırma denemesinin parçası olduğu bilinmelidir.

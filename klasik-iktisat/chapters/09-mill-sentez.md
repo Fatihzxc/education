@@ -72,6 +72,19 @@ Politik etki olarak: Mill, 1865-1868 arası Westminster Parlamentosu'nda milletv
 
 Bu bölüm, klasik iktisadın cinsiyet-körlüğünün önemli bir istisnasıdır. Smith, Ricardo, Malthus — hiçbiri kadınların hukuksal-iktisadi konumunu sistemli olarak ele almamıştı. Mill, bu boşluğu kapatır; klasik iktisadın bireyci-rasyonel mantığının cinsiyet-eksenli sonuçlarını söze döker. 20. yüzyıl feminist iktisadının çok sonradan geliştireceği argümanların kavramsal kökü, Mill'in bu 1869 metnindedir (9.11).
 
+### Özgürlük ilkesi nerede kırılır: ev, fabrika, koloni
+
+Mill'i güçlü yapan şey, özgürlük ilkesini iktisat, siyaset ve ahlak arasında taşımasıdır. Ama tam da bu yüzden şu soru önemlidir: Aynı özgürlük ilkesi ev içinde, fabrikada ve kolonide aynı kuvvetle işliyor mu?
+
+| Sahne | Mill'in ilkesinin vaadi | Kırılma riski | Kontrol sorusu |
+|---|---|---|---|
+| Ev | Kadının birey olarak tanınması | Hukuki hak ile aile içi bağımlılık ayrılabilir | Özgürlük evin kapısından içeri giriyor mu? |
+| Fabrika | Sözleşme ve bireysel tercih | İşsizlik korkusu tercihi daraltır | Rıza geçim baskısı altında ne kadar serbest? |
+| Koloni | Medenileştirme diliyle yönetim savunulabilir | Evrensel özgürlük istisnaya dönüşür | Özgürlük ilkesi neden imparatorlukta askıya alınıyor? |
+| Parlamento | Temsil ve kamusal akıl | Mülksüzler ve kadınlar dışarıda kalabilir | Kimin sesi temsil ediliyor? |
+
+Bu kart Mill'i daha zor ama daha değerli bir düşünür yapar. Onu yalnız liberal özgürlük savunucusu olarak değil, kendi ilkesinin sınırlarında test edilen bir geçiş figürü olarak okumak gerekir.
+
 ## 9.7 Felsefi temeller — faydacılığın revizyonu, *System of Logic*, demokrasinin koşulları
 
 Mill'in iktisadi yazısının arkasındaki felsefi altyapı, klasik iktisat tarihçileri tarafından çoğu zaman parantez içinde geçilir; oysa *Principles*'ın karakteristik tonu — etik vurgu, kurumsal-tarihsel duyarlılık, demokratik reformculuk — bu altyapıdan beslenir. Mill'in üç felsefi eseri — *A System of Logic* (1843), *Utilitarianism* (1861) ve *Considerations on Representative Government* (1861) — *Principles* ile birlikte okunduğunda sentezin asıl genişliği belirir.^[7]

@@ -61,6 +61,20 @@ Bu sönüş, Chartism'in başarısız olduğu anlamına gelmemelidir. Hareketin 
 
 Klasik politik ekonomi açısından Chartism şu önemi taşır: 1832'de kurulan burjuva politik düzenin entelektüel meşrulaştırması, ilk kez ciddi bir sınıf-tabanlı meydan okumayla karşılaşır. Klasik teori bu meydan okumayla nasıl başa çıkacak? Cevap kademelidir: Ricardian-katı kanat (McCulloch, Senior) yeniden mülk-tabanlı vatandaşlığı savunarak; J.S. Mill ise (Bölüm 9'da göreceğimiz gibi) klasik sistemin içine *etik-politik genişleme* katarak — Chartism'in bazı taleplerini meşru kabul ederek, demokratik genişlemenin klasik iktisada nasıl uyarlanacağını arayarak.
 
+### Kamu sahnesi: dilekçe, fabrika raporu, roman ve komisyon tutanağı
+
+Klasik iktisadın politik bağlamını anlamak için yalnız parlamentodaki yasaya bakmak yetmez. Dönemin nasıl hissedildiğini dilekçeler, fabrika raporları, gazeteler, romanlar ve komisyon tutanakları birlikte gösterir. Her kaynak başka bir ışık yakar.
+
+| Kaynak türü | Ne gösterir? | Sınırı | Nasıl kullanılır? |
+|---|---|---|---|
+| Chartist dilekçe | İşçi sınıfının siyasal talebini | Örgütlü olanın sesini büyütür | Talebi sınıf ve temsil kriziyle bağla |
+| Fabrika raporu | Çalışma saati, çocuk emeği, kaza ve sağlık | Devlet gözünün diliyle yazılır | Sayıyı işçinin gündelik bedeniyle oku |
+| Gazete | Korku, propaganda ve kamu ritmini | Siyasi tarafgirlik taşır | Hangi sınıfın gazetesi olduğunu sor |
+| Roman | Dönemin duygusunu ve ahlaki basıncını | Kurgusal yoğunlaştırma yapar | Duygu bilgisini kanıt değil, deneyim penceresi olarak kullan |
+| Komisyon tutanağı | Tanıklık ve politika malzemesi | Kimin çağrıldığı seçilmiştir | Susmayan kadar susturulanı da ara |
+
+Bu sahne kartı, politik iktisadı sadece büyük teorisyenlerin cümlelerinden çıkarmayı sağlar. Teori sokakta, fabrikada, gazete sütununda ve mahkeme benzeri komisyon masasında da yaşar.
+
 ## 8.6 Factory Acts ve Iron Law'un kırılması
 
 Klasik iktisadın en sert teorik önermelerinden biri *Iron Law of Wages* — Demir Ücret Yasası — olarak bilinir. Bu yasa Malthus-Ricardo çerçevesinin doğal bir sonucudur: ücretler geçim seviyesinin üstüne çıktığında nüfus artar; nüfus artışı emek arzını çoğaltır; emek arzı arttıkça ücretler yine geçim seviyesine iner. Sonuç olarak işçi sınıfının uzun-vade refahı *yapısal* olarak imkânsızdır. Bu önermenin politik sonucu nettir: işçi koşullarını iyileştirmek için devlet müdahalesi anlamsızdır, çünkü piyasa güçleri bu iyileştirmeyi nüfus mekanizması üzerinden tersine çevirecektir. *Klasik iktisadın laissez-faire ilkesi tam burada politik bir argüman olur*.

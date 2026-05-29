@@ -46,6 +46,19 @@ Birincisi, **Jean Charles Léonard de Sismondi**. *Nouveaux principes d'économi
 
 Bu üç damar — Sismondi, ütopyacı sosyalistler, Alman tarihçileri — kanon dışında bırakılırken sadece teorik olarak değil, **kurumsal olarak** da dışarıda bırakılmıştır: ana akım üniversite kürsüleri, dergi yayını, kanonik sözlük maddeleri Britanya hattını seçmiştir. Bu kitap klasik iktisadın merkezini izleyecektir, ama kanonu okurken kanonun ne dışarıda bıraktığını da görmemiz gerekir; çünkü "klasik" denilen şey, dışarıda bıraktıklarının üstünden okunduğunda farklı bir profil çizer.
 
+### Kanon pusulası: kim içeride, kim dışarıda, kimden öğreniyoruz?
+
+Bir kanon, okura yol haritası verir; ama aynı anda bazı yolları gölgede bırakır. Bu yüzden klasik iktisada başlarken "kim haklıydı?" sorusundan önce "hangi sesler merkeze alındı?" sorusunu sormak çok öğreticidir.
+
+| Merkeze alınan | Neyi güçlü açıklar? | Dışarıda kalan | Ne sorar? |
+|---|---|---|---|
+| Smith-Ricardo hattı | Üretim, ticaret, bölüşüm ve piyasa düzeni | Sismondi | Kriz ve emekçinin kırılganlığı nerede? |
+| Malthus | Nüfus, geçim ve sınır düşüncesi | Yoksulların kendi anlatısı | Yoksulluk doğa mı, kurum mu? |
+| Mill | Liberal reform ve özgürlük | Kadın hareketi, sendika, koloni eleştirisi | Özgürlük kimler için tam işliyor? |
+| Britanya merkezli ders kitabı | Sanayi kapitalizminin ana modeli | Alman tarihçi okul, geç kalkınan ülkeler | Evrensel teori her ülkeye aynı mı uygulanır? |
+
+Bu pusula kanonu yıkmak için değil, onu daha dürüst kullanmak için var. Büyük isimleri öğrenirken, onların yanında konuşamayanların sorularını da masada tutarsan klasik iktisat çok daha canlı hale gelir.
+
 ## 1.5 Bu kitabın benzersiz konumu
 
 Klasik iktisat, bu kitap dizisinin 25 temadan oluşan kütüphanesinde Smith'i, Ricardo'yu ve Marx'ı *ilk kez işleyen* kitap değildir; tam tersine, kendinden önce dört kardeş kitap bu üç ismi her biri farklı bir açıdan, parça parça ele almıştır. Bu durum bir tekrarla değil, bir yeniden-çerçevelemeyle çözülecektir.
