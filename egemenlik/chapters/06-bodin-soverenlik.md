@@ -74,6 +74,20 @@ Farkları:
 
 İki düşünür birlikte, modern "*mutlak egemenlik*" doktrininin teorik omurgasını oluşturur. Sonraki yüzyıllarda bu doktrin liberal/anayasal eleştirilerle (Locke, Montesquieu) karşılaşacak; ama tam olarak yıkılmayacaktır. Modern devletin "*meşru zor tekeli*" (Weber, Bölüm 11), Bodin-Hobbes geleneğinin modern formudur.
 
+### Bölünmez egemenlik kartı: barış mı, itaat mi?
+
+Bodin'in "egemenlik bölünmez" fikri iç savaş ortamında çok anlaşılır görünür. Çünkü parçalanmış otorite, herkesin kendi adına yasa ve şiddet üretmesi demektir. Ama aynı fikir başka bir açıdan bakıldığında, itiraz ve çoğulculuğu susturan bir merkeze de dönüşebilir.
+
+| Aktör | Bodin'in formülü ne kazandırır? | Ne kaybettirebilir? | Kontrol sorusu |
+|---|---|---|---|
+| Kral / merkez | Son söz ve düzen kurma gücü | Keyfiliğe yaklaşma riski | Sınır nerede, kim denetliyor? |
+| İç savaş yorgunu halk | Güvenlik ve tahmin edilebilirlik | İtaat zorunluluğu | Barış için ne kadar özgürlükten vazgeçiliyor? |
+| Dini azınlık | Tek hukuk altında korunma ihtimali | Merkezin dini tercihi baskı olabilir | Birlik, farklı inancı taşıyabiliyor mu? |
+| Şehir ve yerel güçler | Daha büyük pazar ve hukuk birliği | Eski özerkliklerin kaybı | Yerel haklar düzen düşmanı mı? |
+| Modern okur | Devletin neden merkezileştiğini anlar | Egemenliği doğal ve kaçınılmaz sanabilir | Bölünmezlik çözüm mü, tarihsel tercih mi? |
+
+Bu kart Bodin'in kök sebebini netleştirir: O, kaosun içinden düzen arıyordu. Ama doğru okuma burada durmaz; düzenin hangi sesleri kısarak kurulduğunu da sorar.
+
 ## 6.6 Bodin'in Westphalia sistemine etkisi
 
 1576'da yazılan *République*, 1648 Westphalia Antlaşması'nın kavramsal hazırlığıdır. Westphalia, modern uluslararası devletler sisteminin doğum belgesidir: Otuz Yıl Savaşları'nın sonunda, Avrupa devletleri birbirlerinin egemenliğini *eşit* ve *karşılıklı* olarak tanıdı.

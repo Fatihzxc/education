@@ -80,6 +80,20 @@ Pratikte bu, Müslüman toplumlarda kadınların mal varlığı üzerinde Avrupa
 
 Bu nüans, Mülkiyet kitabının ilerleyen bölümlerinde — özellikle Bölüm 10 (Osmanlı timar/tapu/miras) — sistematik olarak işlenir.
 
+### Asabiyye kartı: dayanışma kimin mülkünü korur?
+
+İbn Haldun'da asabiyye yalnız güzel bir dayanışma kelimesi değildir; iktidarın ve mülkün taşıyıcı gücüdür. Bir grup birlikte hareket edebildiği için devleti kurar, toprağı korur, vergiyi toplar. Ama aynı dayanışma, dışarıda kalanlar için baskı ve dışlanma anlamına da gelebilir.
+
+| Bakış | Asabiyye ne sağlar? | Mülkiyetle bağı | Karşı soru |
+|---|---|---|---|
+| Hanedan | Fetih, düzen ve vergi toplama kapasitesi | Mülkü merkezileştirir | Güç büyüyünce adalet azalıyor mu? |
+| Kabile / grup | Korunma ve ortak hareket | Toprak ve ganimet paylaşımı | Paylaşım grup içinde eşit mi? |
+| Köylü | Güvenlik ve istikrar umudu | Tarlayı işleme imkanı | Vergi güvenliği mi, yükü mü artırıyor? |
+| Tüccar | Yol güvenliği ve pazar düzeni | Mal hareketi korunur | Devlet güçlenince keyfi müdahale artıyor mu? |
+| Dışarıda kalan | Düzene dahil edilmediğinde zayıflar | Hakları tanınmayabilir | Asabiyye dayanışma mı, kapalı kulüp mü? |
+
+Bu kart İbn Haldun'u daha canlı yapar: Onun teorisinde mülkiyet, yalnız tapu ya da mal değildir; dayanışma, zor, vergi ve meşruiyetle birlikte yürüyen bir güç ilişkisidir.
+
 ## 3.7 İbn Haldun'un teorik konumu
 
 İbn Haldun'un mülkiyet konusundaki konumu, Aristoteles, Aquinas, Locke gibi düşünürlerden bir önemli noktada ayrılır: o, mülkiyetin *meşruiyet*'i sorusunu doğrudan ele almaz. Aristoteles "özel mülkiyet doğaldır" der; Aquinas "mülkiyet doğal hukuka uygundur" der; Locke "mülkiyet emeğin meyvesidir" der. Hepsi bir *normatif* argüman geliştirir.

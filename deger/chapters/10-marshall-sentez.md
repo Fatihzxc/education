@@ -77,6 +77,20 @@ Marshall'ın arz-talep dili öğreticidir çünkü karmaşık bir pazarı tek gr
 
 Bu kart Marshall'ı reddetmez. Tam tersine, onu daha dikkatli kullanır. Denge fiyatı güçlü bir araçtır; ama fiyat etiketinin yanında gelir, emek zamanı, çevresel bedel ve pazarlık gücü de durduğunda daha dürüst konuşur.
 
+### Makasın gölge tarafı: denge kimin hikayesini düzleştirir?
+
+Marshall'ın arz-talep makası çok öğreticidir; çünkü fiyatın tek taraftan doğmadığını gösterir. Ama denge çizgisi temizleştikçe bazı toplumsal pürüzler silinebilir. Bu yüzden makası kullanırken, çizginin arkasındaki güç ilişkisini de sormak gerekir.
+
+| Alan | Makas neyi iyi açıklar? | Neyi düzleştirebilir? | Kontrol sorusu |
+|---|---|---|---|
+| Tüketici | Talep eğrisi ve ödeme isteği | Gelir eşitsizliği yüzünden isteğin bastırılmasını | İstemiyor mu, alamıyor mu? |
+| Üretici | Maliyet ve arz tepkisi | Büyük firma ile küçük üretici farkını | Aynı maliyet eğrisi herkese uyar mı? |
+| İşçi | Ücretin piyasa fiyatı gibi oluşmasını | Pazarlık gücü, sendika ve işsizlik korkusunu | Emek gerçekten sıradan mal gibi mi? |
+| Tekel | Arzı kısıp fiyatı yükseltme gücünü | Rekabet varsayımı altında görünmezleşebilir | Piyasada kaç gerçek seçenek var? |
+| Kamu | Vergi, dışsallık ve refah hesabını | Ölçülemeyen zararları | Fiyat çevre ve bakım emeğini duyuyor mu? |
+
+Bu okuma Marshall'ı değersizleştirmez. Aksine onu doğru yerde kullanmayı öğretir: makas fiyat mekanizmasını gösterir, ama toplumun bütün adalet sorusunu tek başına taşıyamaz.
+
 ## 10.5 Marshall'ın sentezinin gücü ve sınırı
 
 Marshall'ın sentezi, 1890'lardan 1930'lara kadar — yaklaşık kırk yıl — mikroekonominin standart çerçevesi oldu. Üç sebepten dolayı başarılıydı:

@@ -124,6 +124,20 @@ Bu üç-aşamalı program, 20. yüzyılın büyük sosyalist deneyimlerini (Sovy
 
 Marx'ın programının pratik başarısızlığı, onun *analitik* gücünden farklı bir konudur. *Kapital*'in kapitalist mülkiyetin nasıl çalıştığı analizi, sosyalist devletlerin yıkılışına rağmen, modern eleştirel düşüncenin temel kaynağı olarak kalmıştır.
 
+### Kolektif mülkiyet kontrol kartı: çözüm kime özgürlük, kime yeni güç?
+
+Marx'ın çözümünü öğrenirken iki şeyi aynı anda tutmak gerekir. Birincisi, özel sermaye mülkiyeti gerçekten büyük bir güç eşitsizliği üretir. İkincisi, bu mülkiyet devlet ya da kolektif adına kaldırıldığında, gücün nereye taşındığı ayrıca sorulmalıdır.
+
+| Aktör | Marxçı vaatte ne kazanır? | Tarihsel risk ne olabilir? | Kontrol sorusu |
+|---|---|---|---|
+| İşçi | Üretim aracından dışlanma biter | Devlet işveren haline gelirse pazarlık yine zayıflayabilir | Yönetimde gerçek söz hakkı var mı? |
+| Parti / devlet | Planlama ve ortak amaç kurar | Yeni ayrıcalıklı bürokrasi doğabilir | Güç kimin elinde denetleniyor? |
+| Küçük üretici | Büyük sermaye baskısından kurtulabilir | Zorunlu kolektifleştirme geçim özerkliğini kırabilir | Küçük mülkiyet ile sermaye mülkiyeti ayrılıyor mu? |
+| Tüketici | Temel ihtiyaçlara erişim güvenceye alınabilir | Kıtlık ve kalite sorunu çıkabilir | Üretim hedefi insan ihtiyacını gerçekten duyuyor mu? |
+| Muhalif yurttaş | Sınıf tahakkümüne itiraz dili kazanır | Siyasi çoğulculuk bastırılabilir | Ekonomik eşitlik siyasal özgürlükle birlikte mi kuruluyor? |
+
+Bu kart Marx'ı kolayca reddetmek için değil, ciddiye almak için var. Çünkü gerçek soru "özel mülkiyet iyi mi kötü mü?"den daha zordur: Gücü hangi mülkiyet biçimi üretir, hangi kurumlar o gücü denetleyebilir?
+
 ## 8.7 Marx ile Locke'un karşıtlığı
 
 Marx'ın kapitalist mülkiyet eleştirisi, Locke'un emek-mixing tezinin tam karşıtı bir konuma yerleşir. İki çerçeveyi yan yana koymak öğreticidir:

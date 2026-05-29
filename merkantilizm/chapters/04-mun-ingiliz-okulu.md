@@ -80,6 +80,20 @@ Magnusson bu sınıflandırmanın izlerini "Mun ve Misselden'den sonra ham madde
 
 Bu tür incelik, Mun'u "altın fetişisti" karikatürünün dışına çıkarır. Onun düşüncesi statik bir madeni para teorisi değil, **erken dinamik ticaret teorisidir**. Hangi malın hangi yönde aktığı, hangi tüketim çevriminin kapatıldığı, hangi sermayenin kaç kez döndüğü — hepsi hesaba katılır.
 
+### Tüccar bilançosu kartı: ulusal çıkar mı, şirket çıkarı mı?
+
+Mun'u okurken en kritik nokta şudur: Onun dili "ülke zenginleşsin" der, ama deneyimi büyük ölçüde tüccar ve şirket dünyasından gelir. Bu yüzden aynı ticaret bilançosu, Londra tüccarı için rasyonel bir hesap, işçi için iş imkanı, tüketici için pahalı mal, sömürge toplumları için ise güç kaybı anlamına gelebilir.
+
+| Göz | Aynı dış ticaret fazlasını nasıl okur? | Neyi haklı gösterebilir? | Karşı okuma sorusu |
+|---|---|---|---|
+| East India Company | Sermayenin uzak pazarda çoğalması | Tekel, ayrıcalık ve külçe çıkışı | Şirketin kazancı ulusun kazancı mı? |
+| Londra tüccarı | İhracat disiplini ve uzun vadeli kâr | Deniz gücü ve ticari koruma | Risk özel, koruma kamusal mı? |
+| İngiliz tüketici | Yerli üretim ve istihdam vaadi | Pahalı veya sınırlı ithalat | Koruma gündelik bütçeye nasıl iner? |
+| Sömürge / uzak pazar | Dünya ticaretine zorunlu eklemlenme | Hammadde ve vergi düzeni | Ticaret gönüllü mü, imtiyazlı güçle mi kuruluyor? |
+| Smithçi eleştiri | Para değil üretim kapasitesi önemlidir | Serbest ticaret argümanı | Serbestlik güç eşitsizliğini kendiliğinden düzeltir mi? |
+
+Bu kart Mun'u basitçe "yanlış para takıntısı" diye okumayı engeller. Daha doğru soru şudur: Ticaret bilançosu hangi aktörün hesabıdır, bu hesap kimin hayatında maliyet olarak görünür?
+
 ## Smith'in karşı saldırısı
 
 1776'da Adam Smith *Wealth of Nations*'ı yayımlar. Kitabın 4. Kitabı bütünüyle "mercantile system" eleştirisidir, ve Mun bu eleştirinin merkez hedeflerinden biridir. Smith'in en bilinen formülasyonu, Kitap 4, Bölüm 1'dedir:

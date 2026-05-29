@@ -80,6 +80,19 @@ Hayek'i anlamak için onu yalnızca "devlet karşıtı" diye okumak yetmez. O, b
 
 Bu tablo üç ismi birbirine düşman karikatürler gibi değil, farklı tehlikeleri gören düşünürler gibi okumamıza yardım eder.
 
+### Üç düşünür pusulası: aynı korkuya üç cevap
+
+Keynes, Friedman ve Hayek'i ezberlemek yerine aynı korku etrafında düşünmek daha öğreticidir: modern ekonomi kontrolden çıkarsa ne olur? Her biri bu korkuya başka bir yerden cevap verir. Biri talep çöküşünden, biri para disiplinsizliğinden, biri bilgi ve özgürlük kaybından korkar.
+
+| Düşünür | En çok neyden korkar? | Çözümü nerede arar? | Okurun kontrol sorusu |
+|---|---|---|---|
+| Keynes | Yatırım durur, talep çöker, işsizlik kalıcılaşır | Devletin talebi desteklemesinde | Müdahale geçici destek mi, kalıcı bağımlılık mı? |
+| Friedman | Para arzı disiplinsizleşir, enflasyon güveni bozar | Kurallı para politikasında | Kural krizde yeterince esnek mi? |
+| Hayek | Merkezi akıl yerel bilgiyi bastırır | Fiyat sinyali ve piyasa sürecinde | Piyasa gücü bilgiyi gerçekten dağıtıyor mu? |
+| Kamu gözü | İş, fiyat, kira ve gelecek kaygısı aynı anda yaşanır | Bazen destek, bazen istikrar, bazen özgürlük ister | Hangi korku bugün daha baskın? |
+
+Bu pusula üç düşünürü birbirine karıştırmayı engeller. Tartışma yalnız "devlet mi piyasa mı?" değildir; hangi tehlikeyi en gerçek saydığınla ilgilidir.
+
 ## Neoklasik sentez ve yeni kırılmalar
 
 Savaş sonrası dönemde Keynesçi makro ile neoklasik mikro bir araya getirildi. Buna çoğu zaman neoklasik sentez denir. Mikro düzeyde bireyler ve firmalar arz-talep mantığıyla analiz edilir; makro düzeyde ise devletin toplam talebi yönetebileceği kabul edilir.

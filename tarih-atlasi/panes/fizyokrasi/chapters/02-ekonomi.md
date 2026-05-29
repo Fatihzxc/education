@@ -74,6 +74,20 @@ Bu düşüncenin çok keskin bir politik sonucu vardı. Çünkü Fransa'da vergi
 
 Bunu bugünkü dille şöyle düşünebiliriz: Bir vergi önerisi yalnızca muhasebe meselesi değildir. "Vergi nereden alınacak?" sorusu aynı zamanda "toplumdaki güç ve yük nasıl dağıtılacak?" sorusudur. Fizyokratların tek vergi fikri bu yüzden masum bir teknik öneri değil, eski düzenin hassas yerine dokunan bir reform fikriydi.
 
+### Tek vergi kartı: sadeleşme kime ferahlık, kime yük?
+
+Fizyokratların tek vergi fikri ilk bakışta çok çekicidir: karmaşık vergiler kalksın, fazla nerede doğuyorsa vergi oradan alınsın. Ama "sade" olan her zaman "adil" olmak zorunda değildir. Çünkü toprağın geliri, mülk sahibi, kiracı, köylü ve şehirli ekmek bütçesi arasında farklı hissedilir.
+
+| Aktör | Tek vergi ona nasıl görünür? | Olası kazanç | Olası risk |
+|---|---|---|---|
+| Devlet | Tahsilat sadeleşir | Daha anlaşılır maliye | Tek kaynağa aşırı bağımlılık |
+| Mülk sahibi | Rant doğrudan hedef olur | Diğer dolaylı vergiler azalabilir | Toprak gelirinin paylaşımı tartışılır |
+| Kiracı çiftçi | Vergi mülk sahibine yazılmış gibi görünür | Aracılar azalabilir | Yük kira yoluyla ona aktarılabilir |
+| Şehirli halk | Ekmek üzerindeki dolaylı yük azalabilir | Daha ucuz temel tüketim umudu | Hasat ve fiyat şoku yine bütçeyi vurur |
+| Karşı okuma | Sanayi ve emek de değer üretir der | Modelin kör noktasını açar | Tarımı küçümsemeden çoğul üretimi görmek gerekir |
+
+Bu kart fizyokrasinin kök problemini açık tutar: dağınık ve adaletsiz vergi düzenine sade bir cevap aranıyordu. Ama doğruya yaklaşmak için sade cevabın yükü kime aktardığını da izlemek gerekir.
+
 ## Neden bu fikir hem güçlü hem hatalıydı?
 
 Güçlüydü, çünkü vergi meselesini "devlet para istiyor" seviyesinden çıkarıp "vergi hangi fazla üzerinden alınmalı?" seviyesine taşıdı. Bu hâlâ çok önemli bir sorudur. Gelir vergisi emeği etkileyebilir, tüketim vergisi yoksulu zorlayabilir, sermaye vergisi yatırımı değiştirebilir. Toprak rantı ise farklıdır; toprak çoğaltılamaz ve yerinden oynatılamaz. Bu yüzden toprak değer vergisi fikri bugün bile güçlüdür.

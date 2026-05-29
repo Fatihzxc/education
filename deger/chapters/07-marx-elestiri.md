@@ -85,6 +85,19 @@ Bir gömlek üretildiğinde, onun değerinin arkasında — Marx'ın çözümlem
 
 Bu sonuç önemlidir. Çünkü Marx, emek-değer teorisinin Smith-Ricardo versiyonunu reddetmez; ama onun *epistemik konumunu* dönüştürür. Smith ve Ricardo için emek-değer evrensel bir yasadır; Marx için ise yalnızca kapitalist üretim modu içinde geçerli olan bir yapısal ilişkidir. Başka bir üretim modunda — Marx'ın hayal ettiği gelecek bir komünist toplumda — emek-değer artık geçerli olmayacaktır; çünkü mübadele ilişkisinin kendisi artık merkezi olmayacaktır.
 
+### Vitrin sahnesi: fiyat etiketi neyi saklar?
+
+Meta fetişizmini en basit haliyle bir vitrin önünde düşünebiliriz. Bir ayakkabının etiketi bize fiyatı gösterir; ama o fiyata gelene kadar geçen emek süresini, işçinin yorgunluğunu, tedarik zincirini, kira baskısını ve marka gücünü doğrudan göstermez. Marx'ın derdi tam buradadır: şeyler konuşur, insanlar susar.
+
+| Vitrinde görünen | Arkada kalabilecek ilişki | Marxçı soru | Karşı okuma |
+|---|---|---|---|
+| Fiyat etiketi | Ücret, kâr ve kira bölüşümü | Değer kimin emeğinden geldi? | Tüketici açısından kalite ve fayda da önemlidir |
+| Marka | Pazarlama ve statü arzusu | İmaj emeği sömürüyü saklıyor mu? | Marka güven ve kalite bilgisi de taşıyabilir |
+| İndirim | Talep çekme ve stok eritme | Zarar kime aktarılıyor? | Rekabet tüketiciye gerçek kazanç sağlayabilir |
+| Hızlı teslimat | Depo emeği ve algoritmik takip | Konfor kimin temposunu hızlandırıyor? | Lojistik yenilik verimlilik de üretebilir |
+
+Bu sahne Marx'ın kavramını yere indirir. Meta fetişizmi "insanlar eşyaya tapıyor" demek değildir; toplumsal ilişkilerin eşya ve fiyat biçiminde görünmesi demektir.
+
 ## 7.7 Transformasyon problemi
 
 *Kapital* I'in mantığında bir teknik sorun vardır ve Marx bunu eserin geri kalan ciltlerinde çözmeye çalışır: değerin fiyata dönüşmesi.
