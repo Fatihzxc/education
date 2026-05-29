@@ -12,6 +12,18 @@ Bu kurgunun gücü, sömürüyü bir *aldatma* ya da *haksız fiyat* meselesi ol
 
 Marx bu çekirdeğin etrafına bir dinamik ekler. Kapitalistler rekabet altında makineye yatırım yapar (sabit sermaye artar, emek payı düşer); bu bir "yedek sanayi ordusu" — yapısal işsiz kitlesi — üretir, ücretleri bastırır; ve kâr oranının düşme eğilimi, krizler, sermaye yoğunlaşması izler. Sömürü tek tek kötü patronların değil, sistemin hareket yasasının ürünüdür.
 
+### Bir işgünü hesabı: artı-değeri sayıyla görmek
+
+Marx'ın "sömürü" dediği şey yalnız ahlaki bir öfke değildir; bir ölçüm dili kurma denemesidir. Küçük bir hayali hesap bunu görünür yapar.
+
+| Durum | Gerekli emek | Artı emek | Artı-değer oranı | Ne değişti? |
+|---|---:|---:|---:|---|
+| Başlangıç | 6 saat | 6 saat | %100 | İşçi geçimini 6 saatte üretir, 6 saat artı değer yaratır |
+| İşgünü uzarsa | 6 saat | 8 saat | %133 | Mutlak artı-değer artar; beden ve zaman üzerindeki baskı büyür |
+| Geçim malları ucuzlarsa | 4 saat | 8 saat | %200 | Göreli artı-değer artar; ücret aynı görünse bile oran değişir |
+
+Bu tablo Marx'ın temel sezgisini elle tutulur hale getirir: Kârın kaynağı yalnız malın pahalı satılması değildir; üretim sürecinde işçinin ücretine denk kısmın ötesinde çalıştırılmasıdır. Karşı okuma burada başlar: Bu hesabın dışında girişim riski, koordinasyon, teknoloji ve piyasa talebi nasıl hesaba katılacak?
+
 ## 4.3 Kopuş değil, radikalleşme
 
 Marx'ı "klasiğe karşı" değil "klasiğin radikalleşmesi" olarak okumak kritiktir, çünkü Marx'ın kendisi de öyle okudu. *Theorien über den Mehrwert*'te (Artı-Değer Teorileri) Quesnay'i, Smith'i ve özellikle Ricardo'yu büyük bir saygıyla inceler; onları "klasik politik ekonomi" diye adlandıran — bir övgü olarak — Marx'tır.^[2] Quesnay'in *Tableau*'sunu "iktisadi düşüncenin o güne kadar sorumlu olduğu en parlak fikir" diye över; Ricardo'nun, kendi sınıf çıkarına ters düşse bile sistemin mantığını sonuna kadar takip eden "bilimsel dürüstlüğü"nü takdir eder.

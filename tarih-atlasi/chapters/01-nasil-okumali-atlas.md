@@ -164,6 +164,14 @@ Atlası okurken her dönemi küçük bir soru dosyası gibi düşün. Amaç "han
 
 Bu paketin kısa kuralı şu: Her bölümde "merkezde kim konuşuyor?" ve "aynı olay kenarda nasıl yaşanıyor?" sorularını birlikte sor.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Dünya tarihi tek çizgili bir ilerleme hikayesi değildir; farklı bölgeler farklı ekoloji, vergi, savaş, ticaret ve meşruiyet baskıları altında düşünür.
+- **Baskın bakış:** Güçlü devletler, imparatorluklar, arşiv bırakan kurumlar ve kazanan merkezler tarihi daha kolay yazdırır.
+- **Güçlü karşı fikir:** Bölgesel, halk merkezli ve karşılaştırmalı okuma; kenarda kalanların aynı olayı başka türlü yaşadığını gösterir.
+- **Doğruya yaklaşma soruları:** Bu dönemde merkez neresi, kenar neresi, bağlantı kime güç getirdi, kime bedel yükledi?
+- **Öğrenme desteği:** Her bölüm için beş satırlı kanıt dosyası aç: bölge farkı, sayı/ölçek, halk sesi, karşı anlatı, bugünkü yankı.
+
 ## İleri düzey okuma
 
 Temel haritayı kurduktan sonra atlası daha ileri bir soruyla oku: Bir fikir akımı hangi zorunluluğa cevap verirken, hangi zorunluluğu perdeledi?

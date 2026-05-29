@@ -26,6 +26,19 @@ Bu hizalanma en keskin biçimde **Mısır Yasaları** (*Corn Laws*) etrafında g
 
 Ricardo'nun kendi konumu bu hizalanmayı çıplak gösterir. Bir Londra borsa simsarı ve toprak sahibi olan Ricardo, 1819-1823 arası Avam Kamarası üyesiyken serbest ticareti ve 1815 tarihli Mısır Yasası'nın kaldırılmasını savundu. *Principles*'ında (1817) rant ile kâr arasında *yapısal* bir ters ilişki kurar: nüfus arttıkça daha az verimli araziye geçilir, tahıl pahalanır, rant şişer, kâr sıkışır — yani toprak aristokrasisi, sanayi sermayesinin doğal düşmanıdır. Bu, "bilimsel bir teoremin politik kullanım-değeri"nin ders kitabı örneğidir: rant teorisi aynı anda hem gerçek bir analitik buluş hem de toprak sınıfına karşı sanayi sınıfının silahıdır. Yasanın 1815'te konup 1846'da kalkması arasındaki otuz yıllık yay, klasik doktrinin politik zaferinin de takvimidir. Derini `klasik-iktisat` Bölüm 4 ve 8'de.
 
+### Ucuz ekmek mi, ucuz emek mi?
+
+Mısır Yasaları kavgasını yalnız toprak sahibi ile sanayici arasındaki parlamento mücadelesi gibi okumak eksik kalır. Aynı mesele işçinin sofrasına da iner. Ucuz ithal tahıl, işçi için daha ucuz ekmek demektir; ama sanayici için aynı zamanda daha düşük geçim ücreti baskısı anlamına gelebilir. Yani aynı "ucuz ekmek" cümlesi iki ayrı deftere yazılır.
+
+| Aktör | Ucuz tahıldan ne kazanabilir? | Ne kaybedebilir veya neyi gizleyebilir? |
+|---|---|---|
+| İşçi | Ekmek ve temel gıda ucuzlar, hane bütçesi rahatlar | Ücret "geçim maliyeti düştü" diye baskılanabilir |
+| Sanayici | Ücret maliyeti düşer, kâr ve ihracat gücü artar | Serbest ticaret dili kendi sınıf çıkarını evrensel gösterir |
+| Toprak sahibi | Tüketici olarak ucuz gıdadan yararlanır | Rantı ve politik ağırlığı azalır |
+| Geç sanayileşen ülke | Ucuz ithal mal tüketebilir | Kendi sanayisini kurma fırsatını kaybedebilir |
+
+Bu yüzden serbest ticaretin halktaki karşılığını tek cümleyle kapatamayız. Bazen gerçekten ucuzluk ve bolluk getirir; bazen de güçlü üreticinin avantajını doğal kural gibi gösterir. Doğru okuma ikisini aynı anda tutar.
+
 ## 3.3a Kısa çıkar haritası: aynı fikir kime ne yapıyor?
 
 Smith-Ricardo hattını öğrenirken iki düzeyi birlikte tutmak gerekir. Birinci düzeyde teori vardır: işbölümü, emek, fiyat, rant, serbest ticaret. İkinci düzeyde bu teorinin tarihsel kullanım yeri vardır.

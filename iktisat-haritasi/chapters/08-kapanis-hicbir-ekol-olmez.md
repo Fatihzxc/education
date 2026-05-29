@@ -44,6 +44,21 @@ Harita geçmişi anlamak için başladı, ama burada kalırsa eksik kalır. Ayn�
 
 Bu alıştırma seni ezberden çıkarır. Artık "hangi ekol doğru?" diye sormazsın; "hangi sorun için hangi mercek aydınlatıyor, hangi tarafı karanlıkta bırakıyor?" diye sorarsın.
 
+### Doğruya yaklaşma defteri
+
+Bu kitabı bitirdikten sonra elinde tek bir sonuç cümlesi değil, tekrar kullanılabilir bir okuma alışkanlığı kalsın. Her yeni fikir akımı, politika raporu veya güncel tartışma için şu defteri doldur.
+
+| Defter satırı | Yazılacak soru | Cevap neyi açar? |
+|---|---|---|
+| Kök yara | Bu fikir hangi korkuya, krize veya tıkanıklığa cevap veriyor? | Fikri havadan indirmiş olursun |
+| Analitik alet | Hangi kavramla daha önce görünmeyen bir şeyi görünür kılıyor? | Teorinin gerçek gücünü ayırırsın |
+| Taşıyıcı güç | Bu fikri kim yayıyor, kim finanse ediyor, kim ders kitabına sokuyor? | Fikrin neden yükseldiğini anlarsın |
+| Görünmeyen kişi | İşçi, kadın, köylü, borçlu, koloni, göçmen veya doğa nerede duruyor? | Kazananın anlatısına hapsolmazsın |
+| En güçlü itiraz | Karşı tarafın en iyi argümanı ne? | Kendi sevdiğin fikri de sınarsın |
+| Bugünkü yankı | Aynı refleks bugün hangi adla geri dönüyor? | Tarihi canlı bir düşünme aracına çevirirsin |
+
+Bu defterin amacı seni kararsız bırakmak değildir. Tam tersine, daha sağlam karar vermeni sağlar. Çünkü bir fikrin hem haklı gördüğü yeri hem eksik bıraktığı yeri aynı anda gördüğünde, onu ne putlaştırırsın ne de kolayca çöpe atarsın.
+
 ## 8.5 Son söz
 
 İktisat, doğa bilimi olamayacağı için *bitmez* — sürekli yeniden okunması gereken bir bilim ve sanattır. Bir denklem doğru çözülebilir; ama hangi denklemin kurulacağı, hangi değişkenin "veri", hangisinin "açıklanacak" sayılacağı, her zaman bir konumdan verilen kararlardır. Bu yüzden harita asla tamamlanmaz; yeni krizler yeni düğümler ekler, eski düğümler yeni biçimlerde geri döner.

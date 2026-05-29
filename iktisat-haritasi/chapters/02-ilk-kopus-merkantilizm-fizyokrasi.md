@@ -28,6 +28,19 @@ Burada nüans önemlidir: fizyokratlar toprak sahibi soyluları *vergilendirdikl
 
 Bu içeriden-reform stratejisi soyut kalmadı; 1774-76'da gerçek bir sınava girdi. Fizyokrat çevreden gelen Turgot, Fransa'nın maliye bakanı olarak tahıl ticaretini serbestleştirdi, loncaları ve köylü angaryasını (*corvée*) kaldırmaya, vergi yükünü toprağa kaydırmaya girişti — ve iki yıl içinde tam da dokunduğu ayrıcalıklı sınıfların (parlementler, soyluluk, lonca ustaları) direnişiyle görevden alındı. Doktrinin sınıf-hizalanışı, en açık biçimde *uygulanmaya çalışıldığında* çarptığı duvarda görünür oldu. Sınıf katmanının tam okuması kardeş kitap `fizyokrasi` Bölüm 6'da ("ideolojinin prototipi"), Turgot denemesi ise Bölüm 8'dedir.
 
+### Ekmek fiyatı halk için ne demekti?
+
+Fizyokratların tahıl serbestliği reformu, reformcu bürokrat için "doğal akışın önünü açmak" demekti. Ama şehirli yoksul için mesele çok daha yalındı: Ekmek bugün alınabilecek mi? Bu farkı görmeden fizyokrasiyi yalnız model olarak anlarız, toplum olarak anlayamayız.
+
+| Göz | Aynı reformu nasıl görür? | Korkusu ne? |
+|---|---|---|
+| Fizyokrat reformcu | Tahıl serbest dolaşırsa üretici teşvik edilir, kıtlık bölgelerine mal akar | Eski ayrıcalıkların ekonomiyi boğması |
+| Köylü üretici | Daha iyi fiyat ve daha geniş pazar bulabilir | Vergi ve kira artışı kazancı geri alabilir |
+| Şehirli yoksul | Tüccar tahılı saklıyor, fiyat yükseliyor gibi hissedebilir | Ekmek pahalanırsa hane bütçesi çöker |
+| Devlet | Piyasa düzenlenirse vergi tabanı güçlenir | Fiyat isyanı siyasal güveni kırabilir |
+
+Burada kök gerilim şudur: Uzun vadeli üretkenlik ile kısa vadeli geçim güvenliği aynı anda korunmazsa reform ahlaken kırılganlaşır. Turgot'nun tahıl serbestliği denemesinde sokakta duyulan tepki, yalnız "cehalet" değil; geçim korkusunun politik dile dönüşmesiydi.
+
 ### Geçiş matrisi: merkantilizmden fizyokrasiye ne değişti?
 
 Bu kopuşu akılda tutmanın en iyi yolu, iki ekolü "biri yanlış, biri doğru" diye değil, farklı krizlere verilen cevaplar gibi görmektir.

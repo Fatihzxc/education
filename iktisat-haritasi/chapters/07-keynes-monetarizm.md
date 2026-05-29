@@ -32,6 +32,19 @@ Monetarizmi haritada yeniden **mor** boyamamın nedeni budur: ideolojik olarak, 
 
 Anti-Whig uyarısı burada da geçerli: monetarizmin 1980'lerde kazanması "doğru olduğu için" değil, en azından "yalnızca doğru olduğu için" değildi; açıklayamadığı kendi krizleri (2008'de para-miktarı hedeflemesinin iflası) sonradan geldi.
 
+### Politika bedeli defteri: aynı kriz, farklı yük
+
+Makro tartışmalar bazen "faiz artsın mı, kamu harcaması artsın mı?" gibi teknik cümlelere sıkışır. Oysa her politika bir bedeli başka gruplara dağıtır. Keynesçilik ile monetarizmi anlamak için bu dağılımı açıkça yazmak gerekir.
+
+| Politika refleksi | Neyi onarmak ister? | Muhtemel bedel | Bedeli daha çok kim hisseder? | Karşı soru |
+|---|---|---|---|---|
+| Kamu harcaması | Talep çöküşünü ve işsizliği durdurmak | Bütçe açığı, borç, enflasyon riski | Vergi mükellefi, sabit gelirli, gelecekteki bütçe | Harcama üretim kapasitesini mi, geçici tüketimi mi artırıyor? |
+| Faiz indirimi | Yatırım ve kredi akışını canlandırmak | Varlık balonu, döviz/enflasyon baskısı | Kiracı, tasarruf sahibi, ithalata bağımlı hane | Ucuz para kime kredi oluyor, kime fiyat artışı? |
+| Sıkı para | Enflasyon beklentisini kırmak | İşsizlik, iflas, kredi daralması | Borçlu hane, küçük işletme, iş arayanlar | Enflasyonla mücadele bedeli adil dağılıyor mu? |
+| Harcama kesintisi | Kamu borcu ve para güvenini korumak | Kamu hizmeti kaybı, yoksulluk, talep daralması | Yoksul hane, kamu çalışanı, hizmete bağımlı bölgeler | Güven kazanılırken toplumun hangi bağı zayıflıyor? |
+
+Bu defter sana şunu öğretir: Keynesçi veya monetarist olmak yalnız teknik tercih değildir. Her tercih, bir toplumsal acıyı daha görünür, başka bir acıyı daha sessiz yapar.
+
 ## 7.6 Bugün: kapanmayan salınım
 
 Keynes-monetarizm gerilimi çözülmedi; *salınım* olarak devam ediyor. 2008 küresel finansal krizi monetarist-yeni-klasik çerçeveyi sarstı — kimse krizi öngöremedi, ve çıkış yine Keynesçi araçlarla (kurtarma paketleri, mali teşvik, niceliksel gevşeme) oldu. 2020 pandemisinde devletler tarihte görülmemiş ölçekte harcama yaptı — Keynes geri döndü. Ardından 2021-2023 enflasyon dalgası monetarist soruları (para arzı, faiz) yeniden gündeme getirdi.

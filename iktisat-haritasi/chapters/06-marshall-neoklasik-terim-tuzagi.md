@@ -26,6 +26,31 @@ Klasik-Marx ailesinde iktisat açıkça *politik* iktisattı: değer, dağılım
 
 Bu, bir "yalan" değildir; gerçek bir analitik daralma-ve-derinleşmedir (matematiksel kesinlik kazanılır, politik kapsam daralır). Ama işlevi nettir: sınıf ve güç sorularını analizin merkezinden uzaklaştıran, iktisadı "tarafsız teknik bir bilim" gibi sunan bir çerçeve. Dağılımın *adil* olduğu (herkes marjinal katkısı kadar alır) örtük olarak varsayılır. İki katman yine ayrılamaz: gerçek bir matematiksel ilerleme, ve aynı anda iktisadın depolitizasyonu.
 
+### Denge etiketi kontrol kartı
+
+Neoklasik dili anlamanın zor tarafı şudur: çok sade ve temiz görünür. "Denge", "etkinlik", "marjinal katkı" gibi kelimeler teknik duyulur. Ama her teknik kelime, bazı soruları merkeze alırken bazılarını kenara iter. Bu kart, o sessiz kaymayı yakalamak için var.
+
+| Teknik kelime | İlk bakışta ne gösterir? | Hangi soruyu sessizleştirebilir? | Okurun kontrol sorusu |
+|---|---|---|---|
+| Denge | Arz ve talebin karşılaştığı fiyat | Bu dengeye hangi güç ilişkileriyle gelindi? | Denge herkes için katlanılabilir mi? |
+| Etkinlik | Kaynakların israf edilmeden kullanılması | Dağılım adil mi, ihtiyaçlar karşılanıyor mu? | Etkin sonuç kimin hayatını daraltıyor? |
+| Marjinal katkı | Her faktörün son birimde üretime eklediği şey | Pazarlık gücü, mülkiyet ve işsizlik sonucu değiştiriyor mu? | Katkı gerçekten bağımsız ölçülebiliyor mu? |
+| Ceteris paribus | Diğer şeyleri sabit tutup ilişkiyi berraklaştırma | Tarih, kurum, hukuk ve sınıf sabit tutulunca ne kayboluyor? | Sabit sayılan şey gerçekte hareketli mi? |
+
+Bu kart neoklasik dili reddetmek için değil, onu doğru yerde kullanmak için var. Model sana mekanizmayı gösterir; ama modelin dışarıda bıraktığı güç ilişkisini ayrıca sormazsan mekanizma, tarafsız gerçekliğin tamamı gibi görünür.
+
+### Talep, ihtiyaç değil ödeme gücüdür
+
+Arz-talep grafiğinde "talep" kelimesi gündelik dildeki "ihtiyaç" anlamına gelmez. Talep, ödeme gücüyle desteklenmiş istektir. Bu ayrım çok önemlidir; çünkü bir insanın ekmeğe, ilaca veya eve ihtiyacı olabilir, ama parası yoksa o ihtiyaç grafikte güçlü bir talep gibi görünmez.
+
+| Örnek | İhtiyaç var mı? | Ödeme gücü var mı? | Grafikte ne görünür? | Halk gözüyle soru |
+|---|---|---|---|---|
+| Düşük gelirli kiracı | Evet, barınma zorunlu | Sınırlı | Talep zayıf veya piyasadan dışlanmış görünür | Ev ihtiyacı neden "talep yok" gibi okunuyor? |
+| Varlıklı yatırımcı | Barınma ihtiyacı olmayabilir | Güçlü | Talep güçlü görünür, fiyatı yukarı iter | Piyasa hangi ihtiyacı ödüllendiriyor? |
+| Sağlık hizmeti | Hayati ihtiyaç olabilir | Gelire bağlı | Ödeme gücü olmayan ihtiyaç eksik temsil edilir | Etkin fiyat, adil erişim demek mi? |
+
+Bu yüzden neoklasik talep analizini öğrenirken şu cümleyi yanında tut: Piyasa, ihtiyacı değil, satın alma gücüyle ifade edilen ihtiyacı duyar. Bu cümle, modelin gücünü azaltmaz; ama modelin ahlaki sınırını gösterir.
+
 ## 6.4 İki katmanın ayrılamazlığı
 
 Marshall örneği, iki-katman tezinin "sınıf çıkarı"ndan daha geniş olduğunu gösterir. Burada doktrin belirli bir sınıfın *programı* değil; daha çok, belirli bir toplumsal düzenin *normalleşmesine* hizmet eden bir çerçevedir. Denge dili, kapitalist piyasayı bir kavga alanı olarak değil, bir uyum mekanizması olarak resmeder. Bu resim analitik olarak verimlidir *ve* politik olarak konumludur — çünkü hangi soruların sorulabilir, hangilerinin "iktisat-dışı" sayılacağını da belirler. Sömürü, güç, sınıf — bunlar marshallcı çerçevede sorulamaz hale gelmez, ama merkezden kenara itilir. Neyin sorulabilir olduğunu belirlemek, en sessiz ama en güçlü ideolojik harekettir.
