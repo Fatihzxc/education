@@ -22,6 +22,16 @@
     <!-- theme-registry.js doldurur -->
   </main>
 
+  <section class="pane-shortcuts" aria-labelledby="paneShortcutTitle">
+    <div class="pane-shortcuts-head">
+      <span>Dünya Tarihi Atlası</span>
+      <h2 id="paneShortcutTitle">Pane kısayolları</h2>
+    </div>
+    <div class="pane-shortcut-grid" id="paneShortcutGrid" aria-label="Pane kısa yolları">
+      <!-- index.html script'i doldurur -->
+    </div>
+  </section>
+
   <footer class="landing-footer">
     <a href="roadmap.html">Yol Haritası</a>
     ·
@@ -45,6 +55,7 @@
     'use strict';
     var themes = window.MerkantilizmThemes || [];
     var grid = document.getElementById('themeGrid');
+    var paneGrid = document.getElementById('paneShortcutGrid');
     function esc(s) {
       return String(s == null ? '' : s)
         .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -60,6 +71,23 @@
           '<span>' + t.chapterCount + ' bölüm</span>' +
           '<span class="status-badge">' + esc(statusLabel[t.status] || t.status) + '</span>' +
         '</div>' +
+      '</a>';
+    }).join('');
+
+    var paneShortcuts = [
+      { title: 'Merkantilizm', period: '1500-1750', color: '#c98a3a', href: 'tarih-atlasi/appendix/panes.html#merkantilizm' },
+      { title: 'Fizyokrasi', period: '1750-1780', color: '#8ab36b', href: 'tarih-atlasi/appendix/panes.html#fizyokrasi' },
+      { title: 'Klasik İktisat', period: '1776-1870', color: '#65a6b7', href: 'tarih-atlasi/appendix/panes.html#klasik' },
+      { title: 'Marx ve Artı-Değer', period: '1848-1890', color: '#c96d6d', href: 'tarih-atlasi/appendix/panes.html#marx' },
+      { title: 'Marjinalizm', period: '1871-1930', color: '#a996d8', href: 'tarih-atlasi/appendix/panes.html#marjinalizm' },
+      { title: 'Keynesçilik', period: '1930-1980+', color: '#7fa5c9', href: 'tarih-atlasi/appendix/panes.html#keynes' }
+    ];
+    paneGrid.innerHTML = paneShortcuts.map(function(pane) {
+      return '<a class="pane-shortcut-card" style="--pane-color:' + esc(pane.color) + '" href="' + esc(pane.href) + '">' +
+        '<span class="pane-dot" aria-hidden="true"></span>' +
+        '<strong>' + esc(pane.title) + '</strong>' +
+        '<small>' + esc(pane.period) + '</small>' +
+        '<em>Pane’i aç</em>' +
       '</a>';
     }).join('');
   })();
