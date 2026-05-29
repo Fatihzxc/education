@@ -100,6 +100,14 @@ Bu mini kitabın amacı fizyokratları ne yüceltmek ne de hızlıca çöpe atma
 
 Kısa akılda kalacak cümle şu olabilir: Fizyokrasi, ekonomiyi toprağın ürettiği fazla ve devletin bu fazlayı bozmadan yönetme arzusu üzerinden okumaya çalışan ilk büyük sistemlerden biridir.
 
+## İleri düzey okuma
+
+Temeli kurduktan sonra fizyokrasiyi daha ileri düzeyde şöyle okuyabiliriz: Bu ekol yalnızca "tarım önemlidir" demek değildir; ekonomik düzeni **doğal yasa** fikriyle meşrulaştırma girişimidir.
+
+Fizyokratlar için toplumun zenginliği keyfî emirlerle değil, doğanın ve üretimin düzenini anlayarak artar. Bu yüzden devletin görevi her şeyi yönetmek değil, doğal düzeni bozan ayrıcalıkları, iç gümrükleri ve karmaşık vergileri temizlemektir. Burada özgürlük fikri vardır, ama bu özgürlük modern bireycilikten çok tarımsal üretimin önündeki engellerin kaldırılması anlamına gelir.
+
+İleri soru şudur: "Doğal düzen" gerçekten tarafsız bir keşif midir, yoksa toprak sahibi ve reformcu bürokratların çıkarlarına uygun bir siyasal dil mi üretir? Fizyokrasinin gücü de sınırı da bu sorudadır.
+
 ## Kaynakça
 
 [^1]: François Quesnay. *Tableau économique* (1758). Ekonomiyi sınıflar arası yıllık akış olarak gösteren ilk büyük model denemesi.

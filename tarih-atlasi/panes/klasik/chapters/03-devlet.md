@@ -80,6 +80,14 @@ Bir yandan klasikler devletin ayrıcalık dağıtan, tekel kuran, rantı koruyan
 
 Kısa sonuç şu: Klasik iktisatta devlet, piyasanın dışında duran bir figür değildir. Piyasayı kuran, sınırlandıran, bazen bozan, bazen insanileştiren güçtür.
 
+## İleri düzey okuma
+
+Devlet kartının ileri düzeyinde klasik liberalizmi basit "devlet karşıtlığı" gibi okumamak gerekir. Smith devleti tamamen dışlamaz; adalet, savunma, altyapı ve eğitim gibi alanlarda devlete görev verir. Mill ise özgürlük fikrini sosyal reformla birlikte düşünür.
+
+Klasiklerin asıl itirazı çoğu zaman devlete değil, ayrıcalıklı devlete yöneliktir: tekel, lonca engeli, toprak aristokrasisinin çıkarı, keyfî imtiyaz. Bu yüzden klasik devlet anlayışı "hiç devlet yok" değil, "piyasa genişliğini ve hukuki eşitliği bozan ayrıcalıklar temizlensin" çizgisindedir.
+
+İleri soru şudur: Devlet müdahalesi ne zaman ayrıcalık üretir, ne zaman ortak altyapı kurar? Klasik iktisadı güçlü kılan şey, bu ayrımı tamamen kaybetmemesidir.
+
 ## Kaynakça
 
 [^1]: UK Parliament, "The great famine"; Britannica, "Corn Law". İki kaynak da 1846 repeal bağlamını ve Corn Laws'un tahıl fiyatlarıyla ilişkisini özetler.

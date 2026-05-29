@@ -96,6 +96,14 @@ Fabrika daha çok üretir; ama çalışma günü uzunsa hayat ağırlaşabilir. 
 
 Kısa sonuç şu: Klasik iktisadı anlamak, yalnızca büyüme mantığını değil, büyümenin insanların bedeninde ve evinde nasıl yaşandığını görmektir.
 
+## İleri düzey okuma
+
+Toplum kartında ileri düzey okuma, klasik iktisadın "sınıf" kelimesini bugünkü kimlik anlamıyla değil, üretim ve gelir kaynağı anlamıyla kullandığını görmektir. İşçi ücretle, kapitalist kârla, toprak sahibi rantla yaşar. Bu ayrım toplumu soyut bireyler toplamı olmaktan çıkarır.
+
+Bu bakış güçlüdür, çünkü gelir kaynaklarının toplumsal konumu nasıl belirlediğini gösterir. Ama eksiktir de: Kadınların bakım emeği, kolonilerdeki zor, kölelik sonrası emek rejimleri ve ev içi üretim çoğu zaman arka planda kalır.
+
+İleri soru şudur: Sınıfı gelir kaynağı üzerinden görmek bize ne kazandırır, hangi emek biçimlerini görünmez bırakır? Klasik iktisadı bugün genişletmek için bu soruyu sormak gerekir.
+
 ## Kaynakça
 
 [^1]: The National Archives, "Victorian Industrial Towns". Sanayi şehirlerinin büyümesi ve Londra nüfus ölçeği için kullanıldı.

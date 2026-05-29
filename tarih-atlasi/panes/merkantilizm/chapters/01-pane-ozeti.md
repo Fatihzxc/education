@@ -89,6 +89,14 @@ Bu mini kitap, ana [Merkantilizm kitabının](../../../merkantilizm/book.html) y
 
 Bundan sonraki bölümlerde aynı odaya tek tek gireceğiz: önce ekonomi masasına, sonra devlet masasına, sonra savaş ve maliye masasına. Ama aklımızda hep aynı temel soru kalacak: **Bu insanlar neden böyle düşündü?**
 
+## İleri düzey okuma
+
+Temeli kurduktan sonra merkantilizmi daha derin bir yerden şöyle okuyabiliriz: Bu yalnızca "altın biriktirme takıntısı" değildir; erken modern devletin **güç üretme teknolojisidir**.
+
+Devletin sürekli savaş yaptığı, vergi toplama kapasitesinin sınırlı olduğu, deniz ticaretinin büyük risk taşıdığı bir dünyada hazine, gemi, gümrük, imtiyazlı şirket ve koloni aynı zincire bağlanır. Para burada yalnızca alışveriş aracı değil, asker maaşı, donanma bütçesi ve diplomatik güç demektir. Bu yüzden merkantilist akıl, bugünün serbest piyasa dilinden daha çıplak konuşur: Zenginlik ile güç birbirini besler.
+
+İleri düzeyde asıl soru şudur: Merkantilizm bir teori mi, yoksa devlet kurma pratiği mi? Cevap ikisi arasında durur. Tutarlı bir okul değildir, ama aynı probleme verilen benzer cevaplardan oluşan bir yönetim aklıdır.
+
 ## Kaynakça
 
 [^1]: Charles Tilly. *Coercion, Capital, and European States, AD 990-1992* (1990). Tilly'nin savaş ve devlet kapasitesi arasındaki karşılıklı ilişkiyi anlatan temel çerçevesi.

@@ -98,6 +98,14 @@ Ama eksilttiği bir şey de vardır. Üretim ilişkileri, sınıf çatışması,
 
 Bu yüzden en iyi okuma şudur: Marjinalizm iyi bir büyüteçtir, ama tek büyüteç değildir. Fiyatı ve tercihi anlamak için çok işe yarar; güç, tarih ve kurumları anlamak için başka araçlarla birlikte kullanılmalıdır.
 
+## İleri düzey okuma
+
+Ekonomi kartında ileri düzey okuma, marjinal fayda ile marjinal maliyetin yalnızca teknik eğriler olmadığını görmektir. Bu araçlar dünyayı karar noktalarına böler: bir birim daha tüketmek, bir işçi daha almak, bir ürün daha üretmek, bir saat daha çalışmak.
+
+Bu parçalama öğreticidir; karmaşık ekonomiyi anlaşılır hale getirir. Ama her parçalama gibi bir şeyleri de dışarıda bırakır. Karar veren bireyin geliri nereden geldi? Piyasadaki fiyat gücü eşit mi? Firma gerçekten rekabet baskısı altında mı, yoksa tekel gücü mü var? Emek piyasasında işçi "seçiyor" mu, yoksa geçinmek için razı mı oluyor?
+
+İleri soru şudur: Marjinal analiz bize kararın mantığını gösterir, ama karar alanının nasıl kurulduğunu açıklamaya yeter mi? Bu soruyu sormak, marjinalizmi reddetmek değil; onu tarih ve kurumlarla birlikte kullanmaktır.
+
 ## Kaynakça
 
 [^1]: Alfred Marshall. *Principles of Economics* (1890). Arz-talep, makas benzetmesi, kısmi denge ve tüketici artığı tartışmaları için temel metin.

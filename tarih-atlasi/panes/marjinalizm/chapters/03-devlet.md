@@ -82,6 +82,14 @@ piyasa sahnesi
 
 Bu yüzden "neoklasik dönem devletsiz dönemdir" demek yanıltıcı olur. Daha doğru ifade şudur: Devlet çoğu zaman piyasanın dışındaki bir düşman gibi değil, piyasa düzenini mümkün kılan arka plan kurumu gibi düşünülür.
 
+## İleri düzey okuma
+
+Devlet kartında ileri katman, neoklasik politika dilinin "verimlilik" ile "adalet" arasındaki ilişkiyi nasıl yeniden kurduğunu görmektir. Bir politika teknik olarak kaynak dağılımını iyileştirebilir; ama bu iyileşmenin kimin refahını artırdığı, kimin gücünü azalttığı ayrı bir sorudur.
+
+Neoklasik dil çoğu zaman devlet müdahalesini piyasa aksaklığı üzerinden gerekçelendirir: tekel, dışsallık, kamu malı, bilgi asimetrisi. Bu güçlü bir araçtır. Ama hak, tarihsel haksızlık ve sınıfsal güç gibi meseleler yalnızca "aksaklık" diliyle tam yakalanamayabilir.
+
+İleri soru şudur: Devlet yalnızca piyasa bozulduğunda mı devreye girer, yoksa piyasanın kendisi zaten devletin hukuk ve güç düzeniyle mi kurulur? Bu soru neoklasik devlet anlayışını daha derin okumamızı sağlar.
+
 ## Kısa sonuç
 
 Marjinalizm siyaseti yok etmedi; siyasetin konuşma biçimini değiştirdi. Bazı meseleleri "hak ve çatışma" dilinden "verimlilik ve refah" diline taşıdı. Bu taşıma öğrenmek için yararlı olabilir, çünkü sorunları daha net ölçtürür. Ama yetmez; çünkü insan dünyası yalnızca ölçülebilen maliyetlerden ibaret değildir.

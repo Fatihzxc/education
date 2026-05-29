@@ -80,6 +80,14 @@ Bu yüzden en sağlıklı cümle belki şudur: Merkantilizm, tek bir okuldan ço
 
 Ve bu yüzden onu öğrenmek yalnızca geçmiş bir teoriyi öğrenmek değildir. Tarihsel düşünmeyi öğrenmektir: bir etiketin neyi gösterdiğini, neyi sakladığını ve kimin işine yaradığını sormak.
 
+## İleri düzey okuma
+
+Düşünce kartını ileri düzeyde okurken merkantilist metinlerdeki "ulusal çıkar" diline dikkat etmek gerekir. Bu dil doğal ve masum görünür, ama aslında yeni bir siyasal özne kurar: Hazine, ticaret, nüfus ve donanma aynı bedene aitmiş gibi konuşan devlet.
+
+Bu dönemde iktisat henüz bağımsız bir bilim değildir; siyaset, ahlak, savaş ve yönetim bilgisinin içindedir. Bu yüzden merkantilist düşünürleri modern ders kitabı iktisatçısı gibi okumak yanıltıcı olur. Onlar çoğu zaman hükümdara, bürokrata veya tüccar sınıfa pratik öğüt verir.
+
+İleri soru şu: Bir düşünce ne zaman "bilimsel açıklama", ne zaman "yönetim rehberi" olur? Merkantilizm bu sınırı bulanıklaştırır. Tam da bu yüzden önemlidir; çünkü iktisadi düşüncenin devlet aklından nasıl doğduğunu gösterir.
+
 ## Kaynakça
 
 [^1]: Eli F. Heckscher. *Mercantilism* (1935). Merkantilizmi birleştirici, güç artırıcı, korumacı ve parasal bir sistem olarak okur.

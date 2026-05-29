@@ -96,6 +96,14 @@ Fizyokratların bize bıraktığı temel soru hâlâ canlıdır:
 
 Eğer bu soruyu sormayı öğrenirsek, yalnızca 18. yüzyıl Fransa'sını değil, bugünkü kira, arsa, platform tekeli, doğal kaynak ve karbon vergisi tartışmalarını da daha iyi görürüz.
 
+## İleri düzey okuma
+
+Ekonomi kartında ileri katman, fizyokratların "net ürün" fikrini bugünkü değer tartışmalarına bağlamaktır. Onlara göre tarım, harcanandan fazla ürün veren gerçek üretken alandır. Sanayi ve ticaret faydalıdır, ama net artığı asıl toprak doğurur.
+
+Bugünden bakınca bu iddia dar görünür; çünkü sanayi, teknoloji ve hizmetler de değer yaratır. Ama fizyokratların sezgisi tamamen boşa çıkmaz: Her ekonomi sonunda enerjiye, toprağa, gıdaya ve ekolojik sınırlara bağlıdır. Para ve finans bu temeli silemez.
+
+İleri soru şudur: Bir ekonomide "üretken" olanı nasıl tanımlarız? Sadece fiyatı olan şey mi üretkendir, yoksa toplumu ayakta tutan maddi-ekolojik temel ayrıca görülmeli midir? Fizyokrasi, modern ekolojik iktisada bu yüzden beklenmedik bir kapı açar.
+
 ## Kaynakça
 
 [^1]: Henry George. *Progress and Poverty* (1879). Toprak değer vergisi fikrinin modern klasik metni; fizyokrat tek vergi düşüncesinin 19. yüzyıldaki en güçlü yeniden doğuşudur.

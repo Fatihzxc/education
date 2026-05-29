@@ -103,6 +103,14 @@ Klasik iktisat bize bu yüzden çok temel bir alışkanlık kazandırır: Toplam
 
 Kısa sonuç şu: Klasik iktisadın ekonomi kartı, zenginliği yalnızca üretim miktarı olarak değil, üretimden doğan gelirin sınıflar arasındaki hareketi olarak görmeyi öğretir.
 
+## İleri düzey okuma
+
+Ekonomi kartında ileri katman, klasiklerin büyüme ile bölüşümü birbirinden ayırmamasıdır. Bir ülke zenginleşebilir; ama bu zenginleşmenin kâr, ücret ve rant arasında nasıl paylaşıldığı ayrı bir sorudur. Ricardo'nun gücü burada ortaya çıkar: Toprak rantı arttığında sanayi kârı sıkışabilir; bu da büyümenin sınıfsal sınırını gösterir.
+
+Klasiklerde ekonomi, toplam pastanın büyümesi kadar pastanın dilimlenmesiyle de ilgilidir. Bu yüzden klasik iktisat, bugünkü "büyüme oldu mu?" sorusuna hemen ikinci soruyu ekler: Büyümenin getirisi kime aktı?
+
+İleri soru şudur: Bir ekonominin verimli olması, adil bölüştüğü anlamına gelir mi? Klasik iktisat bu iki meseleyi aynı masada tutmamızı sağlar.
+
 ## Kaynakça
 
 [^1]: David Ricardo. *On the Principles of Political Economy and Taxation* (1817). Emek-değer, rant, kâr ve karşılaştırmalı üstünlük tartışmalarının klasik metni.

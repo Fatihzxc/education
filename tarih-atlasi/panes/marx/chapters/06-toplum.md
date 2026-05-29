@@ -81,6 +81,14 @@ Bir kişi yoksul olabilir ama küçük mülk sahibidir. Bir kişi düzenli ücre
 
 Kısa sonuç şu: Proletarya, Marx'ta yalnızca acı çeken sınıf değil, kapitalizmin işleyişini anlayabilecek ve dönüştürebilecek tarihsel aktördür.
 
+## İleri düzey okuma
+
+Toplum kartında ileri katman, sınıf bilincinin otomatik doğmadığını görmektir. Aynı fabrikada çalışan insanlar benzer koşulları paylaşabilir; ama bu ortak koşulun ortak siyasal bilince dönüşmesi örgütlenme, dil, deneyim ve çatışma gerektirir.
+
+Marxçı ayrım burada önemlidir: Sınıf yalnızca gelir düzeyi değil, üretim ilişkisi içindeki konumdur. Fakat bu konumun tarihsel aktör haline gelmesi kendiliğinden olmaz. Sendika, gazete, parti, grev, yenilgi, anı ve dayanışma bu bilinci inşa eder.
+
+İleri soru şudur: İnsanlar ne zaman yalnızca aynı acıyı yaşayan kişiler olmaktan çıkıp ortak bir tarihsel özneye dönüşür? Marx pane'inin toplum kartı bu dönüşümün hem maddi hem kültürel bir süreç olduğunu gösterir.
+
 ## Kaynakça
 
 [^1]: Karl Marx. *Das Kapital, Band I* (1867), özellikle "kapitalist birikimin genel yasası"; Karl Marx ve Friedrich Engels, *The Communist Manifesto* (1848).

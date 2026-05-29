@@ -97,6 +97,14 @@ Bir vergi düzenini değerlendirirken şu dört soruyu sormak iyi olur: Para top
 
 Hazineyi doldurmak yetmez. Hazineyi doldururken toplumu taşıyan zemini çökertmemek gerekir.
 
+## İleri düzey okuma
+
+Askerî-mali kartın ileri katmanında fizyokrasi, Fransa'nın mali krizine verilmiş bir cevap gibi görünür. Savaşlar, saray harcamaları, borç ve karmaşık vergi düzeni devleti sıkıştırır. Fizyokratların tek vergi fikri, bu sıkışmayı sade bir mali ilkeye bağlamak ister: Artık nerede doğuyorsa vergi oradan alınmalıdır.
+
+Bu fikir teknik görünür, ama siyasal olarak patlayıcıdır. Çünkü ayrıcalıklı sınıfların vergi muafiyetlerini sorgular. Toprak rantını vergilendirmek, yalnızca maliye reformu değil, toplumsal güç dağılımına müdahaledir.
+
+İleri soru şudur: Devletin mali krizi kimi görünür kılar? Vergi reformu çoğu zaman sadece bütçe açığını kapatma işi değildir; hangi sınıfın devlete ne borçlu olduğunu yeniden tanımlama işidir.
+
 ## Kaynakça
 
 [^1]: Steven L. Kaplan. *Bread, Politics and Political Economy in the Reign of Louis XV* (1976). Tahıl, fiyat ve siyasal meşruiyet bağlantısını ayrıntılı biçimde işler.

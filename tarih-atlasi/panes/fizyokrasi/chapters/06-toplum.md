@@ -84,6 +84,14 @@ Bir teoriyi temelden anlamak, yalnızca mantığını anlamak değildir. O mant�
 
 Kısa sonuç şu: Fizyokrasi toprağı merkeze koydu; ama biz onu okurken toprağın üstündeki insanları da merkeze koymalıyız.
 
+## İleri düzey okuma
+
+Toplum kartında ileri düzey okuma, fizyokratların "üretken sınıf" dediği köylü ve çiftçi dünyasının ne kadar karmaşık olduğunu görmektir. Toprağı işleyen herkes aynı konumda değildir: büyük kiracı çiftçi, küçük köylü, gündelikçi, toprak sahibi ve vergi memuru aynı tarımsal düzenin farklı yerlerinde durur.
+
+Fizyokrasi tarımı yüceltir, ama bu yüceltme köylünün gerçek hayatını otomatik olarak özgürleştirmez. Tahıl ticaretinin serbestleşmesi üretimi artırabilir; fakat kıtlık ve fiyat dalgalanması yoksul tüketiciyi zorlayabilir.
+
+İleri soru şudur: Bir sektör "toplumun temeli" ilan edildiğinde o sektördeki insanların hepsi kazanır mı? Fizyokrasi bize üretkenlik övgüsü ile toplumsal adaletin aynı şey olmadığını hatırlatır.
+
 ## Kaynakça
 
 [^1]: Cynthia A. Bouton. *The Flour War: Gender, Class, and Community in Late Ancien Régime French Society* (1993). 1775 un savaşlarını sınıf, topluluk ve gündelik hayat üzerinden okur.

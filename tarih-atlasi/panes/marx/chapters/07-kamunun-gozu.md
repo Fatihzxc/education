@@ -72,6 +72,14 @@ Marx'ın teorisi serttir; ama kamusal hayat onu daha da karmaşık hale getirir.
 
 Kısa sonuç şu: Marx'ın kamusal yüzü, artı-değer formülünün insan hayatına, örgütlenmeye, korkuya ve hikâyeye dönüşmüş halidir.
 
+## İleri düzey okuma
+
+Kamunun gözü kartında ileri düzey mesele, romanların ve işçi basınının yalnızca "duygu" sağlamadığıdır. Bu metinler, kapitalist toplumun normal saydığı şeyleri tuhaflaştırır. Fabrika disiplini, yoksul mahalle, çocuk emeği, kira baskısı ve açlık artık kader değil, tarihsel düzenin sonucu gibi görünür.
+
+Bu, ideoloji kavramına açılır. İdeoloji yalnızca yalan değildir; insanların içinde yaşadıkları düzeni doğal, kaçınılmaz ve normal görmelerini sağlayan anlam ağıdır. Roman ve gazete bu ağı güçlendirebilir de, yırtabilir de.
+
+İleri soru şudur: Halk bir dönemi yalnızca yaşar mı, yoksa onu anlatan metinler sayesinde farklı biçimde görmeyi de öğrenir mi? Marxçı kamu okuması ikinci cevabı ciddiye alır.
+
 ## Kaynakça
 
 [^1]: Friedrich Engels. *The Condition of the Working Class in England* (1845); Émile Zola, *Germinal* (1885); Maksim Gorki, *Ana* (1906).

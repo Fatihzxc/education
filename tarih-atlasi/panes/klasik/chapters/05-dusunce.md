@@ -87,6 +87,14 @@ Bu yüzden klasik düşünceyi öğrenmek geçmişe ait bir ders değil, bugünk
 
 Klasiklerin gücü burada: Bize her ekonomik mekanizmanın arkasından bölüşüm ve kurum sorusunu sormayı öğretirler.
 
+## İleri düzey okuma
+
+Temel düşünce hattından sonra klasik iktisadı daha ileri düzeyde bir gerilim olarak okuyabiliriz: Klasikler hem özgürlük dilini kurar hem de kapitalist düzenin sert sınırlarını görünür kılar.
+
+Smith piyasayı ahlaki ve kurumsal bir düzen içinde düşünür. Ricardo bölüşüm çatışmasını keskinleştirir. Malthus sınırsız ilerleme iyimserliğini nüfus ve talep sorunuyla bozar. Mill ise klasik sistemi liberal reform, kadın hakları, kooperatifler ve durağan durum düşüncesiyle yumuşatır.
+
+İleri soru şudur: Klasik iktisat kapitalizmin savunusu mu, yoksa kapitalizmi eleştirmenin de dilini veren bir kaynak mı? Cevap ikisidir. Marx'ın klasiklerden çıkabilmesi tesadüf değildir; çünkü klasikler üretim, emek ve bölüşüm sorularını gerçekten açmıştır.
+
 ## Kısa sonuç
 
 Klasik iktisat, ahlak felsefesinden çıkıp politik iktisada dönüşürken şu gerilimi yanında taşıdı: Ekonominin işleyen mekanizmalarını bulmak istiyordu, ama bu mekanizmalar insan hayatını, adaleti ve özgürlüğü sürekli geri çağırıyordu.

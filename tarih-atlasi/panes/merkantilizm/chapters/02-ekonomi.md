@@ -87,6 +87,14 @@ Merkantilist ekonomi bize bu yüzden hâlâ bir şey söyler. Zenginlik yalnızc
 
 Asıl mesele mekanizmayı görmektir: Para nereden geliyor, nereye gidiyor, hangi üretimi doğuruyor, hangi gücü finanse ediyor, hangi insanlara bedel yüklüyor?
 
+## İleri düzey okuma
+
+Ekonomi kartını ileri düzeyde okurken para birikimini dar bir "kasa sevgisi" gibi görmemek gerekir. Erken modern dünyada para, özellikle gümüş ve altın, uluslararası ödeme gücüdür. Devlet dışarıdan silah, gemi malzemesi, askerî uzman veya lüks tüketim malı alacaksa güvenilir ödeme aracına ihtiyaç duyar.
+
+Bu yüzden ticaret fazlası fikri yalnızca muhasebe değildir; dış bağımlılığı azaltma ve savaş kapasitesi yaratma arzusudur. Ama burada kritik bir gerilim doğar: Bir ülkenin sürekli fazla vermesi, başka yerlerde açık ve baskı yaratır. Dünya ticareti herkesin aynı anda fazla verebileceği bir oyun değildir.
+
+İleri düzey soru şudur: Merkantilist iktisat, piyasa verimliliğinden çok **ödemeler gücü** düşünür. Modern döviz krizi, rezerv biriktirme ve cari açık tartışmalarında bu eski aklın izleri hâlâ görünür.
+
 ## Kaynakça
 
 [^1]: Earl J. Hamilton. *American Treasure and the Price Revolution in Spain, 1501-1650* (1934). Amerika gümüşü ile Avrupa fiyatları arasındaki ilişkiyi klasik biçimde tartışır.

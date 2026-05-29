@@ -88,6 +88,14 @@ Birinci Dünya Savaşı, 19. yüzyılın liberal ticaret ve altın standardı d�
 
 Bu kırılma marjinalizm açısından şunu gösterir: Piyasa dengesi fikri güçlü bir düşünme aracıdır, ama tarih bazen dengeyi değil, kopuşu anlatır. Savaş, borç, enflasyon, işsizlik ve siyasal radikalleşme, modelin sakin çizgilerinin dışında çok sert gerçeklikler üretir.
 
+## İleri düzey okuma
+
+Askerî-mali kartta ileri düzey okuma, denge teorisinin hangi tarihsel gürültüleri sessizleştirdiğini sormaktır. Model bir piyasayı temiz varsayımlarla kurar; ama aynı dönemde imparatorluklar liman, maden, borç ve askerî rota için rekabet eder.
+
+Bu durum bize şunu öğretir: Fiyat sistemi çok bilgi taşır, ama bütün güç ilişkilerini fiyat olarak göstermez. Stratejik boğaz, sömürge idaresi, savaş tehdidi veya borç diplomasisi çoğu zaman piyasa değişimi gibi değil, siyasal zor ve güvenlik kaygısı gibi çalışır.
+
+İleri soru şudur: Denge modeli hangi koşullarda iyi bir soyutlama, hangi koşullarda yanıltıcı bir sakinlik üretir? 1871-1930 dünyası bu soruyu güçlü biçimde sordurur.
+
 ## Kısa sonuç
 
 Marjinalizm bize fiyatı, kıtlığı ve bireysel tercihi anlatır. Ama 1871-1930 dünyasını anlamak için aynı anda altın standardını, imparatorluk rekabetini, savaş finansmanını ve devlet kapasitesini de görmek gerekir.

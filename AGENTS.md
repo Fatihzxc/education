@@ -14,6 +14,7 @@ Uygulama standardı:
 - Önce en basit fikirle başla; sonra adım adım karmaşıklığı artır.
 - Teknik terim kullanırsan hemen sade biçimde açıkla.
 - "Çünkü", "bu yüzden", "buradan şu sonuç çıkar", "bunu şöyle düşünebiliriz" gibi akıl yürütme bağlarını görünür kıl.
+- Pane/mini kitap bölümlerinde temel anlatım kurulduktan sonra ayrıca **"İleri düzey okuma"** katmanı ekle. Bu katman daha derin mekanizmayı, görünmeyen varsayımı, teori içi gerilimi veya tarihsel-politik sonucu açmalı; akademikleşmeden okuru bir seviye yukarı taşımalıdır.
 - Roman, gazete, halk anlatısı, gündelik hayat ve kamunun gözü gibi malzemeleri yalnızca süs olarak değil, dönemin nasıl hissedildiğini anlamak için kullan.
 - Skill'in teknik olarak bulunmadığı CLI'larda aynı standardı elle uygula ve gerekirse review notunda bunu belirt.
 

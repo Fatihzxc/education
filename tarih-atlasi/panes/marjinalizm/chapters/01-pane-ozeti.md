@@ -89,6 +89,14 @@ Bunu şöyle düşünebilirsin:
 
 Kısa sonuç şu: Marjinalizm, iktisadın merceğini "mal nasıl üretildi?" sorusundan "son birim kim için ne kadar değerli?" sorusuna çevirir. Bu mercek çok şey gösterir. Ama her mercek gibi, bazı şeyleri de görüntünün dışında bırakır.
 
+## İleri düzey okuma
+
+Temel fikri öğrendikten sonra marjinalizmi daha ileri düzeyde şöyle okuyabiliriz: Bu ekol yalnızca yeni bir değer teorisi getirmez; iktisadın **başlangıç noktasını** değiştirir.
+
+Klasik ve Marxçı hatta başlangıç noktası çoğu zaman üretim, sınıf ve bölüşümdür. Marjinalizmde ise başlangıç noktası kıtlık içindeki bireysel tercihtir. Bu değişim çok güçlüdür, çünkü fiyat oluşumunu sade ve esnek biçimde açıklamayı sağlar. Ama aynı zamanda bazı soruları geriye iter: Mülkiyet başlangıçta nasıl dağıldı? Kimler piyasaya hangi güçle giriyor? Tercihler nasıl oluşuyor?
+
+İleri soru şudur: Bir model hangi soruyla başlıyorsa hangi dünyayı daha görünür kılar? Marjinalizmin gücü tercih anını netleştirmesidir; sınırı ise tercih anından önceki tarihsel güçleri çoğu zaman veri kabul etmesidir.
+
 ## Kaynakça
 
 [^1]: William Stanley Jevons. *The Theory of Political Economy* (1871). Marjinal fayda ve matematiksel iktisat dili için temel metinlerden biri.

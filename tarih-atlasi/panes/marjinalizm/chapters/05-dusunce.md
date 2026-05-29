@@ -101,6 +101,14 @@ neoklasik iktisat
 
 Bu sentez bugün ders kitaplarında o kadar normal görünür ki tarihsel bir kırılma olduğu unutulur. Talep eğrisi, arz eğrisi, denge fiyatı, marjinal maliyet, tüketici artığı gibi kavramlar sanki hep oradaymış gibi gelir. Oysa bunlar belirli bir tarihsel inşa sürecinin ürünüdür.
 
+## İleri düzey okuma
+
+Düşünce kartında ileri düzey nokta, Jevons-Menger-Walras-Marshall hattının aynı devrimi farklı bilim idealleriyle kurmasıdır. Jevons matematiksel kesinlik ister. Menger nedensel-öznel açıklama kurar. Walras bütün sistemi denklemleştirmek ister. Marshall ise öğretilebilir, esnek ve zaman duyarlı bir sentez peşindedir.
+
+Bu fark önemlidir, çünkü "marjinalizm" tek renkli değildir. Aynı değer kaymasını paylaşır, ama yöntem konusunda ayrılır. Avusturya çizgisi süreç, bilgi ve girişimciye; Lausanne çizgisi matematiksel dengeye; Cambridge çizgisi ise kısmi denge ve zaman ayrımlarına daha yakındır.
+
+İleri soru şudur: Bir ekolü aynı sonuca vardığı için tek parça mı saymalıyız, yoksa kullandığı yöntemlerin farklılığını ayrıca mı izlemeliyiz? Marjinalizm ancak ikinci yolla gerçekten anlaşılır.
+
 ## Kısa sonuç
 
 Jevons iktisadı hesaplanabilir fayda diline yaklaştırdı. Menger değeri insan ihtiyacının öznel düzenine bağladı. Walras bütün piyasaları tek bir denge sistemi gibi hayal etti. Marshall bu fikirleri daha sakin, öğretilebilir ve uzun ömürlü bir senteze çevirdi.

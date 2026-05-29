@@ -91,6 +91,14 @@ Kısa sonuç şu: Kamunun gözü, klasik iktisadın insan yüzüdür. Teorinin n
 
 Bir okur için pratik yöntem şu olabilir: Önce Smith veya Ricardo'da kavramı öğren; sonra aynı dönemin romanına, gazetesine veya parlamento tartışmasına bak. Kavramın hayatta hangi duyguya dönüştüğünü o zaman daha iyi anlarsın. "Ücret" kelimesi bir modelde sade görünür; Dickens veya Gaskell dünyasında ise çocukluk, aile, hastalık ve onur meselesine dönüşür.
 
+## İleri düzey okuma
+
+Kamunun gözü kartında ileri düzey nokta, klasik iktisadın yalnızca düşünürler arasında değil, gazete, broşür, roman ve parlamento tartışmalarında da yaşadığıdır. Corn Laws, yoksul yasaları, fabrika koşulları ve serbest ticaret halkın gündelik hayatına dokunan meselelerdi.
+
+Bu yüzden romanlar ve gazeteler teorinin dışında değildir. Dickens'ın yoksulluk sahneleri, Engels'in işçi sınıfı anlatısı veya dönemin reform broşürleri, klasik iktisadın soyut kavramlarının toplumsal karşılığını gösterir. Ücret, rant ve kâr yalnızca tablo satırı değil, yaşam biçimidir.
+
+İleri soru şudur: Bir iktisat teorisi halk tarafından nasıl hissedilir? Klasik dönemde cevap, ekmek fiyatı, fabrika saati, yardım yasası, şehir kalabalığı ve reform umudu üzerinden verilir.
+
 ## Kaynakça
 
 [^1]: Friedrich Engels. *The Condition of the Working Class in England* (1845).

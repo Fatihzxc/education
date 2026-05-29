@@ -76,6 +76,14 @@ Merkantilist çağ bize çıplak bir ders verir: Ekonomi savaşın arka odası d
 
 Bu yüzden son soru yalnızca "ordu nasıl ödenir?" değil. Aynı zamanda şudur: **Bu orduyu ödeyen düzenin bedelini kim taşır?**
 
+## İleri düzey okuma
+
+Askerî-mali güç kartında ileri düzey nokta şudur: Merkantilizm, ticaret ile savaşı iki ayrı dünya olarak görmez. Donanma ticareti korur; ticaret gümrük geliri ve hazine üretir; hazine donanmayı besler. Bu döngü kırıldığında devletin dış gücü de içerideki mali düzeni de sarsılır.
+
+Bu yüzden imtiyazlı şirketleri yalnızca özel girişim gibi okumak eksik kalır. Doğu Hindistan şirketleri, koloni şirketleri ve tekel hakları çoğu zaman devlet egemenliğinin dışarıya uzanan yarı-kamusal kollarıdır. Şirket kâr eder, ama aynı zamanda bayrak taşır, kale kurar, anlaşma yapar, bazen savaşır.
+
+İleri soru şudur: Merkantilist çağda kapitalizm özel sektörün devletten kurtulmasıyla mı büyüdü, yoksa devlet şiddeti ve ticari imtiyazla iç içe mi genişledi? Bu soru modern küresel kapitalizmi anlamak için de hâlâ keskindir.
+
 ## Kaynakça
 
 [^1]: Charles Tilly. *Coercion, Capital, and European States, AD 990-1992* (1990). Savaş, vergi ve devlet kapasitesi ilişkisi için temel çerçeve.

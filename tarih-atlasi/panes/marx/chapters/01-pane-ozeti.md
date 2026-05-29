@@ -79,6 +79,14 @@ Birinci yanlış: "Marx'a göre kâr sadece patronun işçiyi kandırmasıdır."
 
 Kısa sonuç şu: Marx pane'i, klasik iktisadın "değer emekten gelir" cümlesini alır ve şu soruya çevirir: O halde emekçinin üretmediği değil, ürettiği fazla kime kalıyor?
 
+## İleri düzey okuma
+
+Temeli öğrendikten sonra Marx'ı daha ileri düzeyde şöyle okuyabiliriz: Marx'ın asıl hamlesi, kapitalizmi yalnızca eşitsiz gelir dağılımı olarak değil, **eşit görünen mübadele ile eşitsiz üretim arasındaki bağ** olarak çözmesidir.
+
+Piyasada işçi ve kapitalist hukuken eşit taraflar gibi görünür. Biri emek-gücünü satar, diğeri satın alır. Marx'ın keskin noktası, sömürünün bu eşitlik bozulduğu için değil, bu eşitlik biçimi içinde gerçekleştiğini söylemesidir. Yani sorun yalnızca hileli ücret veya kötü patron değildir; emek-gücünün meta haline gelmesidir.
+
+İleri soru şudur: Kapitalizmde özgür sözleşme gerçekten özgür müdür, yoksa yaşamak için emek-gücünü satmak zorunda kalmak bu özgürlüğün sınırını mı çizer? Marx pane'inin derinliği burada başlar.
+
 ## Kaynakça
 
 [^1]: Karl Marx. *Das Kapital, Band I* (1867). Emek-gücü, artı-değer, çalışma günü ve meta fetişizmi tartışmaları için ana metin.

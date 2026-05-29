@@ -72,6 +72,14 @@ Merkantilist çağda bu "görme" isteği hızlandı. Tüccar raporları, gümrü
 
 Bugün de benzer bir şey yaşıyoruz. Devletler tedarik zincirlerini, enerji bağımlılığını, stratejik sektörleri, veri akışını ve finans hareketlerini izlemek istiyor. Dil değişti, ama temel refleks çok tanıdık: Bir şeyi ulusal güvenlik meselesi saydığında, devlet onu görmek ve yönlendirmek ister.
 
+## İleri düzey okuma
+
+Devlet kartının ileri katmanında merkantilizm, iç piyasayı birleştirme projesi olarak görünür. İç gümrükleri azaltmak, ölçüleri standartlaştırmak, limanları düzenlemek, yolları güvenli hale getirmek ve lonca/şirket imtiyazlarını yönetmek, devletin ekonomik alanı okunabilir kılma çabasıdır.
+
+Ama aynı devlet dışarıya karşı korumacı olabilir. Yani merkantilist devlet içeride birleştirir, dışarıda sınır çizer. Bu ikili hareket önemlidir: Ulusal piyasa çoğu zaman serbestliğin değil, devletin uzun düzenleme emeğinin sonucudur.
+
+İleri düzeyde şunu sorabiliriz: Serbest piyasa dediğimiz alan gerçekten devletten önce mi gelir, yoksa devletin hukuk, ölçü, güvenlik ve altyapı kurmasıyla mı mümkün olur? Merkantilizm bu soruya sert bir cevap verir: Piyasa, güç tarafından açılan ve korunan bir alandır.
+
 ## Kaynakça
 
 [^1]: Eli F. Heckscher. *Mercantilism* (1935). Özellikle "unifying system" çerçevesi, merkantilist politikaların ulusal pazar ve devlet birliği kurma işlevini anlatır.

@@ -68,6 +68,14 @@ Marx'ın devlet kartı bize şunu öğretir: Bir hakkın kâğıt üzerinde var 
 
 Kısa sonuç şu: Marx için devlet, kapitalist toplumun dışında duran tarafsız bir seyirci değildir. Hukuk ve mülkiyet biçimleriyle o toplumun işleyişini taşır.
 
+## İleri düzey okuma
+
+Devlet kartında ileri düzey okuma, Marx'ın devleti yalnızca kaba baskı aygıtı olarak görmediğini fark etmekle başlar. Devlet hukuk, mülkiyet, sözleşme, para ve güvenlik düzenini kurarak kapitalist ilişkilerin normal işlemesini sağlar. Bu işlev çoğu zaman açık şiddetten daha önemlidir.
+
+Hukuk herkesi eşit yurttaş olarak tanır; ama üretim araçlarına sahip olanla yalnızca emek-gücüne sahip olan aynı maddi konumda değildir. Bu yüzden Marxçı okuma biçimsel eşitlik ile maddi eşitsizlik arasındaki ayrımı sürekli canlı tutar.
+
+İleri soru şudur: Devlet bir sınıfın doğrudan emri midir, yoksa sınıf ilişkilerinin yeniden üretildiği daha karmaşık bir kurumlar alanı mı? Marx'ı güçlü okumak için ikinci ihtimali ciddiye almak gerekir.
+
 ## Kaynakça
 
 [^1]: Karl Marx. *Das Kapital, Band I* (1867), özellikle çalışma günü bölümü; Karl Marx ve Friedrich Engels, *The Communist Manifesto* (1848), devlet ve sınıf dili için temel metin.

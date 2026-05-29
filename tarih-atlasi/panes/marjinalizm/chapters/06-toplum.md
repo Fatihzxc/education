@@ -97,6 +97,14 @@ Bunu şöyle düşünebilirsin:
 
 Bu yer değiştirme iktisadı daha temiz ve öğretilebilir kıldı. Ama toplumsal çatışmanın bazı taraflarını da sessizleştirdi. İşte bu yüzden pane'i okurken hem tüketici hem işçi gözünü açık tutmak gerekir.
 
+## İleri düzey okuma
+
+Toplum kartında ileri düzey okuma, "tüketici" figürünün tarafsız olmadığını görmektir. Tüketici modeli insana seçim yapan özne olarak bakar; bu özgürleştirici olabilir, çünkü insanların zevklerini ve ihtiyaçlarını ciddiye alır. Ama aynı model, gelir eşitsizliğini ve toplumsal baskıyı çoğu zaman arka plana iter.
+
+Bir kişi bir ürünü seçmediğinde gerçekten istemediği için mi seçmez, yoksa geliri yetmediği için mi? Bir kadın ev içi emeği ücretsiz yaptığı için mi "piyasa dışında" görünür? Reklam, statü ve alışkanlık tercihleri nasıl şekillendirir?
+
+İleri soru şudur: Tercihler verili midir, yoksa toplum tarafından mı biçimlendirilir? Bu soru marjinalist tüketici modelini daha olgun kullanmamızı sağlar.
+
 ## Kısa sonuç
 
 Marjinalizm toplumun gündelik yüzünü daha iyi yakaladı: fiyatlar, tercihler, ürünler, hane bütçesi, tüketim ve uzmanlık. Ama sınıf, güç ve tarihsel eşitsizlik bazen gölgede kaldı.

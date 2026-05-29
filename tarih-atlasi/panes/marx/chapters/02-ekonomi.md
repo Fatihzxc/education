@@ -93,6 +93,14 @@ Piyasada işçi ve kapitalist eşit sözleşme tarafları gibi görünür. Üret
 
 Kısa sonuç şu: Artı-değer, kötü niyetli hırsızlığın değil, kapitalist üretim ilişkisinin kalbidir.
 
+## İleri düzey okuma
+
+Ekonomi kartının ileri katmanında artı-değerin yalnızca tek tek fabrikalarda değil, bütün sistemin yeniden üretiminde nasıl çalıştığını düşünmek gerekir. Kapitalist kâr elde eder, bu kârın bir kısmını yeniden yatırıma çevirir, üretim genişler, rekabet baskısı artar ve işçiler üzerindeki verimlilik baskısı yoğunlaşır.
+
+Bu yüzden Marx'ta sömürü sabit bir ahlaki suç değil, dinamik bir birikim mekanizmasıdır. Rekabet kapitalisti de zorlar: Daha fazla makine, daha hızlı üretim, daha düşük maliyet, daha geniş pazar. Kapitalist tek tek iyi niyetli olsa bile sistem onu artı-değeri büyütmeye iter.
+
+İleri soru şudur: Kapitalizmde kriz dışarıdan gelen bir kaza mı, yoksa birikim baskısının iç sonucu mu? Marx'ın ekonomi kartı bu soruya "iç sonuç olabilir" diye cevap verir.
+
 ## Kaynakça
 
 [^1]: Karl Marx. *Das Kapital, Band I* (1867). Artı-değer oranı, mutlak/göreli artı-değer ve meta fetişizmi için temel kaynak.

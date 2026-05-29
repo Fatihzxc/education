@@ -85,6 +85,14 @@ Marx'ın askerî-mali güç kartı bize şunu öğretir: Kapitalizmi yalnızca m
 
 Kısa sonuç şu: Sermaye büyürken yalnızca üretimi değil, mekânı, devleti, ticaret yollarını ve insanların hayatını da yeniden düzenler.
 
+## İleri düzey okuma
+
+Askerî-mali kartın ileri düzeyi, sermaye birikiminin neden sürekli genişleme eğilimi taşıdığını görmektir. Daha çok kâr için daha çok pazar, daha ucuz hammadde, daha uygun emek ve daha güvenli yatırım alanı aranır. Bu arayış ticaretle ilerleyebilir; ama çoğu zaman devlet gücü, borç, donanma ve sömürge şiddetiyle de birleşir.
+
+Marxçı okuma burada kapitalizmi ulusal sınırlar içinde kapalı bir sistem olarak görmez. Sermaye, kendi sınırlarını aşmaya çalışan bir ilişkidir. Bu yüzden emperyalizm yalnızca dış politika değil, birikim baskısının dünya ölçeğindeki biçimlerinden biri olarak okunabilir.
+
+İleri soru şudur: Bir metropoldeki ucuz mal, uzak bir coğrafyadaki zor, borç ve hammadde düzeniyle nasıl bağlanır? Marx pane'i dünya tarihine tam bu bağlantı sorusuyla açılır.
+
 ## Kaynakça
 
 [^1]: Karl Marx. *Das Kapital, Band I* (1867), özellikle "ilkel birikim" bölümü; Rosa Luxemburg, *The Accumulation of Capital* (1913), genişleme ve dış alan tartışmaları için sonraki önemli metinlerden biridir.

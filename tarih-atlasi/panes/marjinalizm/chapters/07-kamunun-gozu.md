@@ -97,6 +97,14 @@ Kamunun gözünü anlamak istiyorsan üçlü bir okuma yap:
 
 Bu üçü birlikte olduğunda tarih daha canlı olur. Çünkü artık yalnızca "marjinalizm ne dedi?" diye sormazsın. "Bu düşünce hangi dünyada makul göründü, hangi insan deneyimlerini aydınlattı, hangilerini gölgede bıraktı?" diye de sorarsın.
 
+## İleri düzey okuma
+
+Kamunun gözü kartında ileri düzey mesele, uzman dilinin kamu hayatında nasıl otorite kazandığıdır. Arz-talep eğrisi, fiyat endeksi, istatistik tablo ve uzman yorumu ekonomiyi anlaşılır kılabilir; ama aynı zamanda sıradan insanın deneyimini ikinci plana itebilir.
+
+Bu yüzden roman, gazete ve istatistik birlikte okunmalıdır. İstatistik ölçeği verir; roman duyguyu verir; gazete gündelik siyaseti verir; ders kitabı mekanizmayı verir. Birini tek başına alırsak eksik kalırız.
+
+İleri soru şudur: Ekonomi bilgisi kimin diliyle konuşuyor? Uzman dili halkın yaşadığı şeyi açıklıyor mu, yoksa onu daha soğuk ve uzak bir terime mi çeviriyor? Marjinalist-neoklasik çağda bu soru özellikle önem kazanır.
+
 ## Kısa sonuç
 
 Marjinalizm kamunun hayatına büyük sloganlarla değil, ders kitabı, uzmanlık, istatistik, gazete dili ve tüketim kültürüyle girdi. Romanlar ise bu teknik dilin insan yüzünü gösterdi: arzu, statü, borç, iş, şehir, korku ve yükselme isteği.

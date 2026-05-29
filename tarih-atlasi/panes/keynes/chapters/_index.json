@@ -1,0 +1,13 @@
+{
+  "title": "Keynesçilik ve Monetarizm Pane'i",
+  "subtitle": "Buhran, toplam talep, refah devleti, stagflasyon, para ve kriz",
+  "chapters": [
+    { "num": 1, "slug": "01-pane-ozeti", "title": "Pane Özeti — Keynesçilik ve monetarizmi nasıl hayal etmeli?", "subtitle": "Piyasa kendi kendine tam istihdama döner mi?", "estWords": 1700, "status": "draft" },
+    { "num": 2, "slug": "02-ekonomi", "title": "Ekonomi — Toplam talep neden bu kadar önemli?", "subtitle": "İşsizlik, çarpan, faiz, para arzı ve enflasyon", "estWords": 1900, "status": "draft" },
+    { "num": 3, "slug": "03-devlet", "title": "Devlet — Refah devleti ile piyasa karşı-devrimi", "subtitle": "Talep yönetimi, sosyal güvenlik, merkez bankası ve kurallar", "estWords": 1800, "status": "draft" },
+    { "num": 4, "slug": "04-askeri-mali-guc", "title": "Askerî ve Mali Güç — Savaş, bütçe ve Soğuk Savaş ekonomisi", "subtitle": "Savaş ekonomisi, Bretton Woods, borç ve devlet kapasitesi", "estWords": 1800, "status": "draft" },
+    { "num": 5, "slug": "05-dusunce", "title": "Düşünce — Keynes, Friedman ve Hayek neyi tartıştı?", "subtitle": "Belirsizlik, para, fiyat sinyali ve kural fikri", "estWords": 1900, "status": "draft" },
+    { "num": 6, "slug": "06-toplum", "title": "Toplum — Orta sınıf refahından güvencesizliğe", "subtitle": "Sendika, ücret, tüketim toplumu ve 1970 sonrası kırılma", "estWords": 1900, "status": "draft" },
+    { "num": 7, "slug": "07-kamunun-gozu", "title": "Kamunun Gözü — İşsizlik kuyruğu, mutfak enflasyonu, kriz haberleri", "subtitle": "Steinbeck, Buhran fotoğrafları, televizyon ve gazete dili", "estWords": 2000, "status": "draft" }
+  ]
+}

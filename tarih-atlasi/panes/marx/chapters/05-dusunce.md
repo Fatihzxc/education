@@ -70,6 +70,14 @@ Birinci yanlış: "Marx her şeyi ekonomiye indirger." Marx üretim ilişkilerin
 
 Kısa sonuç şu: Marx'ın düşünce kartı, felsefenin soyut hareketini fabrikanın, ücretin ve dünya ticaretinin somut dünyasına indirir.
 
+## İleri düzey okuma
+
+Düşünce kartında ileri düzey okuma, Marx'ın üç mirası yalnızca yan yana koymadığını, onları birbirine karşı çalıştırdığını görmektir. Alman felsefesinden tarihsel-diyalektik düşünmeyi, İngiliz iktisadından emek-değer ve bölüşüm sorularını, Fransız sosyalizminden eşitlik ve devrim ufkunu alır.
+
+Ama Marx bunları basitçe toplamaz. Felsefeyi maddi üretim ilişkilerine indirir; iktisadı kendi iç çelişkilerine kadar iter; sosyalizmi ahlaki özlem olmaktan çıkarıp tarihsel sınıf mücadelesiyle bağlar.
+
+İleri soru şudur: Marx bir iktisatçı mı, filozof mu, tarihçi mi, siyaset teorisyeni mi? Güçlü cevap şudur: Marx'ın etkisi tam da bu ayrımları bozmasından gelir. Onu yalnızca bir alana sıkıştırınca düşüncesinin keskinliği azalır.
+
 ## Kaynakça
 
 [^1]: Karl Marx. *Economic and Philosophic Manuscripts* (1844), *The German Ideology* (1845-46), *Das Kapital* (1867); Friedrich Engels, *Socialism: Utopian and Scientific* (1880).

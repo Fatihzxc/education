@@ -104,6 +104,14 @@ Fizyokrasi bize şunu öğretir: Bir fikir kamusal hayata indiğinde, artık yal
 
 Kısa sonuç şu: Kamunun gözü teorinin düşmanı değildir. Teorinin eksik gördüğü duygusal ve toplumsal gerçeği gösteren ikinci bir penceredir.
 
+## İleri düzey okuma
+
+Kamunun gözü kartında ileri düzey mesele, ekmek fiyatının yalnızca ekonomik gösterge değil, siyasal duygu olmasıdır. Fizyokratlar tahıl ticaretinin serbestleşmesini doğal düzenin gereği sayabilir; ama halk için tahıl, hayatın kendisidir. Ekmek pahalılaştığında teori değil, açlık konuşur.
+
+Bu yüzden fizyokrat reformların kamu gözündeki kaderi çok kırılgandır. Uzman "uzun vadede üretim artar" diyebilir; ama halk "bugün çocuk ne yiyecek?" diye sorar. İki soru da gerçektir, fakat zaman ufukları farklıdır.
+
+İleri soru şudur: Ekonomik reformların doğruluğu yalnızca uzun vadeli verimlilikle mi ölçülür, yoksa kısa vadeli geçim güvenliği de reformun parçası mıdır? Fizyokrasi bu gerilimi çok erken görünür kılar.
+
 ## Kaynakça
 
 [^1]: Voltaire. *L'Homme aux quarante écus* (1768). Fizyokrat vergi ve doğal düzen iddialarına dönemin en ünlü hicivli tepkilerinden biri.

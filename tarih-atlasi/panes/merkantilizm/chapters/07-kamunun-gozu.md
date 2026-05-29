@@ -76,6 +76,14 @@ Bu yüzden romanlar, broşürler ve seyahatnameler bize kuru teorinin veremediğ
 
 Ve belki en temel ders şudur: Her iktisadî düzen kendi hikâyesini de üretir. İnsanlar yalnızca para, vergi ve mal akışıyla yönetilmez; bu akışların anlamlı göründüğü hikâyelerle de yaşar.
 
+## İleri düzey okuma
+
+Kamunun gözü kartında ileri düzey okuma, popüler metinlerin yalnızca dönemi yansıtmadığını, dönemi **kurduğunu** görmektir. Broşürler, gazeteler, seyahatnameler ve ticaret anlatıları halka kimin dost, kimin rakip, hangi malın değerli, hangi denizin fırsat alanı olduğunu öğretir.
+
+Bu metinler "ulusal çıkar"ı gündelik hayal gücüne indirir. Uzak liman, baharat, gümüş, korsan, şirket hissesi ve donanma haberi aynı kamu sahnesinde buluşur. Böylece ticaret politikası yalnızca saray ve meclis meselesi olmaktan çıkar; halkın gurur, korku ve merak duygusuna bağlanır.
+
+İleri soru şudur: Kamuoyu ekonomik politikayı pasifçe mi izler, yoksa gazete ve popüler anlatı üzerinden ona duygu ve meşruiyet mi sağlar? Merkantilist çağda ikinci cevap çok güçlüdür.
+
 ## Kaynakça
 
 [^1]: Daniel Defoe. *Robinson Crusoe* (1719) ve Defoe'nun ticaret/toplum üzerine kamusal yazıları. Defoe, ticaret insanı ve girişimci özne hayalini anlamak için verimli bir penceredir.

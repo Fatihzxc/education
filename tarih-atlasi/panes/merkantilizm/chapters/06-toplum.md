@@ -85,6 +85,14 @@ Eğer yalnızca devletin hazinesine bakarsak, köleyi görmeyiz. Yalnızca tücc
 
 Tam resim, hepsini aynı anda tutmaya çalışmaktır.
 
+## İleri düzey okuma
+
+Toplum kartının ileri katmanında merkantilizmin görünmeyen bedelleri açılır. Hazine ve ticaret büyürken bu büyümenin yükünü kim taşır? Denizciler, tersane işçileri, koloni halkları, köleleştirilen insanlar, küçük üreticiler ve şehir yoksulları bu hikâyenin sessiz tarafıdır.
+
+Merkantilist akıl nüfusu çoğu zaman üretim ve savaş kapasitesi olarak görür. Çok nüfus, çok emek ve çok asker demektir. Bu bakış toplumu insan topluluğu olmaktan çıkarıp devlet gücünün hammaddesi gibi de okuyabilir.
+
+İleri düzeyde temel soru şudur: Bir devletin zenginleşmesi toplumun bütün kesimleri için aynı anlama mı gelir? Merkantilizm bize "ulusal zenginlik" denilen şeyin içinde çok farklı kazanç ve kayıp hatları olabileceğini öğretir.
+
 ## Kaynakça
 
 [^1]: Sven Beckert. *Empire of Cotton: A Global History* (2014). "War capitalism" çerçevesi, erken modern ticaret genişlemesinin şiddet, kölelik ve sömürgecilikle bağını anlatır.

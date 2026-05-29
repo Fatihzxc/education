@@ -80,6 +80,14 @@ Turgot'nun hikâyesi, iyi niyetli ve akıllı reformun bile toplumsal güven olm
 
 Kısa sonuç şu: Fizyokratlar güçlü devleti özgürlüğün düşmanı olarak değil, eski engelleri temizleyecek araç olarak düşündüler. Ama bu araç halkın acısını duymadığında, reform özgürlük değil soğuk bir emir gibi görünür.
 
+## İleri düzey okuma
+
+Devlet kartında ileri düzey okuma, fizyokrasinin reformcu ama yukarıdan kurulan karakterini görmektir. Fizyokratlar ayrıcalıkların kaldırılmasını, vergilerin sadeleşmesini ve tahıl ticaretinin serbestleşmesini ister. Bunlar halk için özgürlük gibi görünebilir; ama uygulama çoğu zaman aydınlanmış bürokrat ve monark eliyle düşünülür.
+
+Burada ince bir gerilim vardır. Fizyokrasi keyfî devlete karşı doğal düzeni savunur; ama bu doğal düzeni halka danışan demokratik bir siyasetle değil, bilen uzmanların ve reformcu yöneticilerin aklıyla kurmak ister.
+
+İleri soru şudur: Bir reform doğru bir ekonomik sezgi taşısa bile, kim tarafından ve kimin bedeliyle uygulanır? Fizyokrasi bize reform fikrinin hem özgürleştirici hem de tepeden inmeci olabileceğini öğretir.
+
 ## Kaynakça
 
 [^1]: Turgot'nun XVI. Louis'ye 1774 tarihli program mektubundaki ünlü formül: "Point de banqueroute, point d'augmentation d'impôts, point d'emprunts."

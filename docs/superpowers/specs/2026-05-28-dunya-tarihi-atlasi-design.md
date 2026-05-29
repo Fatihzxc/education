@@ -45,6 +45,7 @@ Her bölüm bir dönemdir. Bölüm içinde bölgeler karşılaştırılır. Her 
 - `tarih-atlasi/panes/klasik/book.html`
 - `tarih-atlasi/panes/marx/book.html`
 - `tarih-atlasi/panes/marjinalizm/book.html`
+- `tarih-atlasi/panes/keynes/book.html`
 
 Pane örnekleri:
 
@@ -113,7 +114,7 @@ Bu model zamanla genişletilebilir: bölgesel paneller (Osmanlı, Çin, Avrupa, 
 - `tarih-atlasi/book.html#bolum/1` pilot bölümünü render eder.
 - Diğer 11 bölüm pending stub olarak görünür.
 - `tarih-atlasi/appendix/panes.html` pane/kart modelini ilk kullanılabilir prototip olarak gösterir.
-- `tarih-atlasi/panes/merkantilizm/book.html`, `tarih-atlasi/panes/fizyokrasi/book.html`, `tarih-atlasi/panes/klasik/book.html`, `tarih-atlasi/panes/marx/book.html` ve `tarih-atlasi/panes/marjinalizm/book.html` ilk tam kalite mini kitaplar olarak çalışır.
-- Merkantilizm, Fizyokrasi, Klasik İktisat, Marx ve Marjinalizm kartları mini kitaplarda doğru bölümlere bağlanır.
+- `tarih-atlasi/panes/merkantilizm/book.html`, `tarih-atlasi/panes/fizyokrasi/book.html`, `tarih-atlasi/panes/klasik/book.html`, `tarih-atlasi/panes/marx/book.html`, `tarih-atlasi/panes/marjinalizm/book.html` ve `tarih-atlasi/panes/keynes/book.html` ilk tam kalite mini kitaplar olarak çalışır.
+- Merkantilizm, Fizyokrasi, Klasik İktisat, Marx, Marjinalizm ve Keynesçilik kartları mini kitaplarda doğru bölümlere bağlanır.
 - Bölüm 1, kullanıcının büyük amacını uygulanabilir bir okuma yöntemine çevirir.
 - Sonraki yazım turları her bölümde aynı mercek düzenini korur.

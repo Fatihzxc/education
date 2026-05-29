@@ -89,6 +89,14 @@ Klasik iktisat bize burada şu alışkanlığı kazandırır: Para ve ticareti y
 
 Kısa sonuç şu: Klasik iktisat barışçı serbest ticaret dili kurdu; ama bu dil savaş, borç, donanma ve imparatorluk dünyasının içinde doğdu.
 
+## İleri düzey okuma
+
+Askerî-mali güç kartında klasik iktisadı ileri düzeyde okumak, serbest ticaret fikrinin arkasındaki güç düzenini görmektir. İngiltere serbest ticareti savunurken aynı zamanda donanma, finans, sanayi ve imparatorluk kapasitesi bakımından güçlüydü. Bu, serbest ticaret argümanını otomatik olarak geçersiz kılmaz; ama hangi konumdan söylendiğini görmemizi sağlar.
+
+Ricardo'nun karşılaştırmalı üstünlük teorisi analitik olarak çok güçlüdür. Fakat gerçek dünyada ticaret yalnızca verimlilik hesabı değildir; gemi rotaları, gümrükler, savaşlar, koloniler ve finansal merkezler üzerinden kurulur.
+
+İleri soru şudur: Serbest ticaret herkes için aynı fırsatı mı açar, yoksa güçlü olanın kurduğu düzen içinde farklı ülkeleri farklı yerlere mi yerleştirir? Klasik iktisadı tarih atlasına bağlayan ana soru budur.
+
 ## Kaynakça
 
 [^1]: David Ricardo. *The High Price of Bullion* (1810). Kâğıt para, altın ve fiyatlar tartışmasının savaş dönemi bağlamında klasik metinlerinden biridir.

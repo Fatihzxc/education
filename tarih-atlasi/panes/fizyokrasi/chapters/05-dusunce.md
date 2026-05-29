@@ -80,6 +80,14 @@ Doğal düzeni anlamak güzel. Kimin doğal düzeninden söz edildiğini sormak 
 
 Kısa sonuç şu: Fizyokrat düşünce bize ekonominin görünmeyen bağlantılarını aramayı öğretir; ama aynı zamanda "doğa" adına konuşan her teoriyi insani sonuçlarıyla sınamamız gerektiğini hatırlatır.
 
+## İleri düzey okuma
+
+Düşünce kartında ileri düzey nokta, fizyokrasinin iktisada ilk "sistem" görüntülerinden birini vermesidir. Quesnay'nin *Tableau Économique*'i ekonomiyi parçalar toplamı değil, sınıflar arasında dolaşan bir akım gibi gösterir. Bu, modern milli gelir hesaplarının ve girdi-çıktı tablolarının uzak atası gibi düşünülebilir.
+
+Buradaki büyük yenilik şudur: Ekonomi artık yalnızca hükümdarın hazinesi veya tüccarın kârı değildir; toplumun içinde dolaşan düzenli bir akış olarak görülebilir. Bu bakış iktisadı daha soyut ve model kurulabilir hale getirir.
+
+İleri soru şudur: Bir tablo dünyayı aydınlatır mı, yoksa bazı şeyleri görünmez mi kılar? Fizyokrat tablo toprağı ve sınıf akışını görünür yapar; ama sanayi, koloni ve emek çeşitliliğini geriye iter.
+
 ## Kaynakça
 
 [^1]: Pierre-Paul Le Mercier de la Rivière. *L'Ordre naturel et essentiel des sociétés politiques* (1767). Fizyokrat doğal düzen düşüncesinin en sistematik metinlerinden biri.

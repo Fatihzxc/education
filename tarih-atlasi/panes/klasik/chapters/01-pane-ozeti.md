@@ -99,6 +99,14 @@ Birinci yanlış: "Klasik iktisat serbest piyasayı savundu, konu bu." Hayır. S
 
 Kısa sonuç şu: Klasik iktisat, büyüyen sanayi dünyasının hem umutlarını hem çatlaklarını düşünmeye çalışan ilk büyük politik iktisat dilidir.
 
+## İleri düzey okuma
+
+Temeli edindikten sonra klasik iktisadı daha ileri düzeyde şöyle okuyabiliriz: Bu ekol, kapitalizmi yalnızca piyasa alışverişi olarak değil, **üretim ve bölüşüm sistemi** olarak düşünür.
+
+Smith'te işbölümü ve piyasa genişliği, Ricardo'da kâr-rant-ücret gerilimi, Malthus'ta nüfus ve talep sorunu, Mill'de reform ve özgürlük meselesi bir araya gelir. Yani klasik iktisadın merkezinde "fiyat nasıl oluşur?" sorusundan önce "toplumun toplam ürünü nasıl büyür ve kimler arasında nasıl bölüşülür?" sorusu vardır.
+
+İleri soru şudur: Modern iktisat fiyat ve tercih dilini çok güçlendirdi, ama klasiklerin bölüşüm ve sınıf sorularını zayıflattı mı? Klasik iktisadı bugün değerli kılan şey, tam da bu büyük sistem sorularını açık tutmasıdır.
+
 ## Kaynakça
 
 [^1]: UK Parliament, "The 1833 Factory Act" ve "The great famine" sayfaları; The National Archives, "Victorian Industrial Towns" eğitim kaynağı. Bu kaynaklar Factory Act sınırları, Corn Laws repeal bağlamı ve şehirleşme ölçeği için kullanıldı.
