@@ -76,6 +76,13 @@ Merkantilist çağ bize çıplak bir ders verir: Ekonomi savaşın arka odası d
 
 Bu yüzden son soru yalnızca "ordu nasıl ödenir?" değil. Aynı zamanda şudur: **Bu orduyu ödeyen düzenin bedelini kim taşır?**
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Donanma, kale, asker maaşı ve borçlanma için düzenli gelir gerekiyordu; ticaret ile savaş birbirinden ayrı değildi.
+- **Baskın bakış:** Savaş devleti ve imparatorluk rekabeti öne çıkar; vergi veren halkın ve zorla çalıştırılanların sesi geride kalabilir.
+- **Güçlü karşı fikir:** Güç kapasitesi büyürken toplumsal maliyet ve sömürge şiddeti refah anlatısını bozabilir.
+- **Doğruya yaklaşma soruları:** Orduyu kim finanse ediyor, şirket imtiyazı kamu gücü mü özel kâr mı, güvenlik kimin güvenliği?
+
 ## İleri düzey okuma
 
 Askerî-mali güç kartında ileri düzey nokta şudur: Merkantilizm, ticaret ile savaşı iki ayrı dünya olarak görmez. Donanma ticareti korur; ticaret gümrük geliri ve hazine üretir; hazine donanmayı besler. Bu döngü kırıldığında devletin dış gücü de içerideki mali düzeni de sarsılır.

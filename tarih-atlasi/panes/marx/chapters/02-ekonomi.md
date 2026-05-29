@@ -93,6 +93,13 @@ Piyasada işçi ve kapitalist eşit sözleşme tarafları gibi görünür. Üret
 
 Kısa sonuç şu: Artı-değer, kötü niyetli hırsızlığın değil, kapitalist üretim ilişkisinin kalbidir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Kârın kaynağı ve sermaye birikiminin neden sürekli genişlemek istediği açıklanmalıydı.
+- **Baskın bakış:** Üretim süreci ve emek-gücü merkezde durur; tüketici tercihi ve girişim riski daha az görünür.
+- **Güçlü karşı fikir:** Neoklasik okuma kârı marjinal verimlilik, risk ve zaman tercihiyle açıklar.
+- **Doğruya yaklaşma soruları:** Artı-değer ölçümü nasıl kuruluyor, rekabet kapitalisti neye zorluyor, ücretli emek dışındaki değer kaynakları nasıl hesaba katılıyor?
+
 ## İleri düzey okuma
 
 Ekonomi kartının ileri katmanında artı-değerin yalnızca tek tek fabrikalarda değil, bütün sistemin yeniden üretiminde nasıl çalıştığını düşünmek gerekir. Kapitalist kâr elde eder, bu kârın bir kısmını yeniden yatırıma çevirir, üretim genişler, rekabet baskısı artar ve işçiler üzerindeki verimlilik baskısı yoğunlaşır.

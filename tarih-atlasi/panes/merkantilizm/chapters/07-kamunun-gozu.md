@@ -76,6 +76,13 @@ Bu yüzden romanlar, broşürler ve seyahatnameler bize kuru teorinin veremediğ
 
 Ve belki en temel ders şudur: Her iktisadî düzen kendi hikâyesini de üretir. İnsanlar yalnızca para, vergi ve mal akışıyla yönetilmez; bu akışların anlamlı göründüğü hikâyelerle de yaşar.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Okyanus ticareti, savaş haberleri, yeni mallar ve şirket hikâyeleri halkın hayal dünyasını genişletti.
+- **Baskın bakış:** Gazete ve macera anlatısı çoğu zaman tüccarın, denizcinin ve imparatorluğun heyecanını taşır.
+- **Güçlü karşı fikir:** Bu metinler şiddeti romantikleştirebilir; koloni halkı, köle emeği ve savaş mağdurları başka bir hikâye anlatır.
+- **Doğruya yaklaşma soruları:** Anlatı kimin macerası, kimin felaketi, hangi veri veya tanıklık bu duyguyu dengeler?
+
 ## İleri düzey okuma
 
 Kamunun gözü kartında ileri düzey okuma, popüler metinlerin yalnızca dönemi yansıtmadığını, dönemi **kurduğunu** görmektir. Broşürler, gazeteler, seyahatnameler ve ticaret anlatıları halka kimin dost, kimin rakip, hangi malın değerli, hangi denizin fırsat alanı olduğunu öğretir.

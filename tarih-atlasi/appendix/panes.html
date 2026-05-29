@@ -244,6 +244,35 @@
       line-height: 1.38;
     }
 
+    .method-strip {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .method-strip div {
+      min-height: 132px;
+      padding: 15px;
+      border: 1px solid color-mix(in srgb, var(--pane-color) 34%, var(--atlas-line));
+      background: color-mix(in srgb, var(--pane-color) 8%, rgba(16, 17, 15, 0.78));
+    }
+
+    .method-strip b {
+      display: block;
+      margin-bottom: 8px;
+      color: var(--pane-color, var(--atlas-accent));
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .method-strip span {
+      color: var(--atlas-ink);
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: 15.5px;
+      line-height: 1.38;
+    }
+
     .perspective-grid {
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -339,7 +368,8 @@
       }
 
       .perspective-grid,
-      .problem-strip {
+      .problem-strip,
+      .method-strip {
         grid-template-columns: 1fr;
       }
 
@@ -399,6 +429,10 @@
         problem: 'Zenginlik nasıl biriktirilir?',
         conflict: 'Tüccar, saray, donanma ve sömürge çıkarları aynı masada buluşur.',
         publicEye: 'Kamu gözünde dünya uzak pazar, gemi, fırsat ve tehlike olarak görünür; Defoe gibi yazarlar ticaret insanını roman kişisine dönüştürür.',
+        rootCause: 'Savaş devleti, hazine ihtiyacı, okyanus ticareti ve imparatorluk rekabeti aynı anda büyür.',
+        dominantView: 'Devlet adamı ve büyük tüccar gözü baskındır.',
+        counterView: 'Smith-Hume çizgisi üretim ve refahı; koloni eleştirisi sömürü bedelini hatırlatır.',
+        truthQuestion: 'Ulusal çıkar kimin çıkarı, bedeli kim ödüyor?',
         miniBook: '../panes/merkantilizm/book.html#bolum/1',
         cardLinks: {
           economy: '../panes/merkantilizm/book.html#bolum/2',
@@ -440,6 +474,10 @@
         problem: 'Gerçek fazla nereden doğar?',
         conflict: 'Toprak sahibi çıkarı, reformcu devlet aklı ve Aydınlanma salonları iç içedir.',
         publicEye: 'Kamu gözünde mesele ekmek, tahıl serbestisi, vergi adaleti ve saray reformudur; roman kadar salon, ansiklopedi ve politik polemik belirleyicidir.',
+        rootCause: 'Tarım, ekmek fiyatı, vergi ayrıcalıkları ve borç krizi aynı düğümde birleşir.',
+        dominantView: 'Reformcu bürokrat ve toprak rantını merkez alan salon dili baskındır.',
+        counterView: 'Şehirli yoksul geçim güvenini; klasik iktisat sanayi ve iş bölümünü hatırlatır.',
+        truthQuestion: 'Doğal düzen kimin düzeni, kısa vadeli bedel kime düşüyor?',
         cards: {
           economy: 'Produit net, tarımsal fazla, tek vergi ve tahıl serbestisi merkezî kavramlardır.',
           politics: 'Reform yukarıdan beklenir; Quesnay ve Turgot çizgisinde bilgili devlet adamı figürü belirir.',
@@ -472,6 +510,10 @@
         problem: 'Büyüme, bölüşüm ve piyasa düzeni nasıl açıklanır?',
         conflict: 'Sanayi burjuvazisi, toprak aristokrasisi ve işçi sınıfı arasındaki gerilim teorinin içine girer.',
         publicEye: 'Kamu gözünde sanayi çağı fabrika, şehir yoksulluğu, reform ve sınıf çatışmasıdır; Dickens ve Gaskell bu atmosferi sezdirir.',
+        rootCause: 'Sanayi, şehirleşme, ücretli emek ve tahıl yasaları yeni büyüme-bölüşüm sorusu doğurur.',
+        dominantView: 'İngiliz sanayi ve liberal reform dünyasının sesi güçlüdür.',
+        counterView: 'İşçi hareketi, Marx ve kalkınmacı korumacılık serbestlik anlatısını zorlar.',
+        truthQuestion: 'Büyüme kime akıyor, serbestlik hangi bağımlılığı kuruyor?',
         cards: {
           economy: 'Emek-değer, iş bölümü, rant, ücret, kâr ve karşılaştırmalı üstünlük ana düğümlerdir.',
           politics: 'Parlamento reformu, Corn Laws, serbest ticaret ve liberal devlet tartışması merkezîleşir.',
@@ -505,6 +547,10 @@
         problem: 'Değeri emek yaratıyorsa artı kime kalır?',
         conflict: 'Sermaye sahibi ile ücretli emek arasındaki ilişki teorinin ana sahnesidir.',
         publicEye: 'Kamu gözünde kapitalizm fabrika disiplini, grev, yoksulluk ve devrim korkusudur; gerçekçi roman bunu iktisat kitaplarından farklı bir dille taşır.',
+        rootCause: 'Üretkenlik artarken işçinin ürettiği fazlanın kime kaldığı sorusu sertleşir.',
+        dominantView: 'Emek, sınıf mücadelesi ve üretim süreci tarafından konuşur.',
+        counterView: 'Liberal sözleşme, marjinalist değer ve kurumsal reform itirazları güçlüdür.',
+        truthQuestion: 'Sözleşen tarafların maddi gücü eşit mi?',
         cards: {
           economy: 'Artı-değer, sömürü, sermaye birikimi, kriz ve meta fetişizmi birlikte düşünülür.',
           politics: 'Devlet sınıf ilişkilerinden bağımsız değildir; hukuk biçimsel eşitliği korurken maddi eşitsizlik sürebilir.',
@@ -538,6 +584,10 @@
         problem: 'Fiyat ve değer bireysel tercih üzerinden açıklanabilir mi?',
         conflict: 'Emek-değer hattının politik sonuçları zayıflarken piyasa düzeni daha teknik bir dil kazanır.',
         publicEye: 'Kamu gözünde teori daha az romanesk, daha çok uzmanlık ve ders kitabı dünyasına çekilir; ama tüketici, seçim ve rasyonalite dili gündelik hayata sızar.',
+        rootCause: 'Emek-değer açıklaması kıtlık, tercih ve fiyat hareketlerini açıklamakta zorlanır.',
+        dominantView: 'Ders kitabı, uzman ve model kurucu iktisatçı gözü baskındır.',
+        counterView: 'Marxçı ve kurumsalcı eleştiri emek, mülkiyet ve güç ilişkilerini geri çağırır.',
+        truthQuestion: 'Model neyi veri kabul ediyor, tercih öncesi güç nasıl dağılıyor?',
         cards: {
           economy: 'Marjinal fayda, kıtlık, denge, fiyat ve bireysel tercih açıklamanın merkezine yerleşir.',
           politics: 'Laissez-faire savunuları teknik piyasa diliyle güçlenir; sosyal reform tartışmaları da devam eder.',
@@ -571,6 +621,10 @@
         problem: 'Piyasa kendi kendine tam istihdam üretir mi?',
         conflict: 'İşsizlik, enflasyon, devlet harcaması, merkez bankası ve sınıf uzlaşması tartışmanın çekirdeğidir.',
         publicEye: 'Kamu gözünde ekonomi artık borsa ekranı değil işsizlik kuyruğu, refah devleti, mutfak enflasyonu ve kriz haberidir; Steinbeck gibi yazarlar Buhranı insan yüzüyle gösterir.',
+        rootCause: 'Büyük Buhran talep çöküşünü, 1970’ler ise enflasyon ve para güveni krizini açığa çıkarır.',
+        dominantView: 'Keynes işsiz hane ve talebi; monetarizm fiyat istikrarı ve para güvenini merkeze alır.',
+        counterView: 'Talep yönetimi enflasyon, sıkı para ise işsizlik üretebilir.',
+        truthQuestion: 'Hangi güven kırıldı ve politika bedelini kim ödüyor?',
         cards: {
           economy: 'Toplam talep, çarpan, faiz, para arzı, enflasyon ve beklentiler makro dilin ana araçları olur.',
           politics: 'Refah devleti ve planlama ile deregülasyon ve merkez bankası bağımsızlığı karşı karşıya gelir.',
@@ -637,6 +691,12 @@
           '<div><b>Problem</b><span>' + esc(pane.problem) + '</span></div>' +
           '<div><b>Çatışma</b><span>' + esc(pane.conflict) + '</span></div>' +
           '<div><b>Kamu gözü</b><span>' + esc(pane.publicEye) + '</span></div>' +
+        '</section>' +
+        '<section class="method-strip" style="--pane-color:' + esc(pane.color) + '">' +
+          '<div><b>Kök sebep</b><span>' + esc(pane.rootCause) + '</span></div>' +
+          '<div><b>Baskın bakış</b><span>' + esc(pane.dominantView) + '</span></div>' +
+          '<div><b>Karşı fikir</b><span>' + esc(pane.counterView) + '</span></div>' +
+          '<div><b>Kontrol sorusu</b><span>' + esc(pane.truthQuestion) + '</span></div>' +
         '</section>' +
         '<section class="perspective-grid" style="--pane-color:' + esc(pane.color) + '">' +
           card('Ekonomi', pane.cards.economy, '', pane.cardLinks && pane.cardLinks.economy) +

@@ -70,6 +70,13 @@ Birinci yanlış: "Marx her şeyi ekonomiye indirger." Marx üretim ilişkilerin
 
 Kısa sonuç şu: Marx'ın düşünce kartı, felsefenin soyut hareketini fabrikanın, ücretin ve dünya ticaretinin somut dünyasına indirir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Felsefe, politik iktisat ve sosyalist eleştiri sanayi toplumunun çelişkisini tek başına açıklamaya yetmiyordu; Marx bunları birleştirdi.
+- **Baskın bakış:** Tarihsel materyalist ve sınıf merkezli bakış baskındır.
+- **Güçlü karşı fikir:** Fikirlerin, dinin, ulusun, cinsiyetin ve kültürün göreli özerkliği Marxçı indirgemeye karşı hatırlatılır.
+- **Doğruya yaklaşma soruları:** Bu açıklama hangi alanı maddi temele bağlıyor, hangi alanın kendi gücünü azaltıyor, sınıf analizi nerede aydınlatıyor?
+
 ## İleri düzey okuma
 
 Düşünce kartında ileri düzey okuma, Marx'ın üç mirası yalnızca yan yana koymadığını, onları birbirine karşı çalıştırdığını görmektir. Alman felsefesinden tarihsel-diyalektik düşünmeyi, İngiliz iktisadından emek-değer ve bölüşüm sorularını, Fransız sosyalizminden eşitlik ve devrim ufkunu alır.

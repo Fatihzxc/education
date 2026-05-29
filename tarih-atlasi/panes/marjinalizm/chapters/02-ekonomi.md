@@ -98,6 +98,13 @@ Ama eksilttiği bir şey de vardır. Üretim ilişkileri, sınıf çatışması,
 
 Bu yüzden en iyi okuma şudur: Marjinalizm iyi bir büyüteçtir, ama tek büyüteç değildir. Fiyatı ve tercihi anlamak için çok işe yarar; güç, tarih ve kurumları anlamak için başka araçlarla birlikte kullanılmalıdır.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Fiyatı yalnızca maliyet veya emekle değil, kıtlık içindeki son birimin faydasıyla açıklama ihtiyacı doğdu.
+- **Baskın bakış:** Tüketici ve firma kararını modelleyen iktisatçı gözü baskındır.
+- **Güçlü karşı fikir:** Gelir eşitsizliği, tekel gücü ve pazarlık zorunluluğu tercih modelini sınırlar.
+- **Doğruya yaklaşma soruları:** Talep isteği mi satın alma gücünü mü gösteriyor, fiyat kimin gücünü yansıtıyor, marjinal karar hangi kurumsal alanda veriliyor?
+
 ## İleri düzey okuma
 
 Ekonomi kartında ileri düzey okuma, marjinal fayda ile marjinal maliyetin yalnızca teknik eğriler olmadığını görmektir. Bu araçlar dünyayı karar noktalarına böler: bir birim daha tüketmek, bir işçi daha almak, bir ürün daha üretmek, bir saat daha çalışmak.

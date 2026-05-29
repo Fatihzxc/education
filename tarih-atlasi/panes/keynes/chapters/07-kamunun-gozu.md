@@ -112,6 +112,13 @@ Kamunun gözünü yakalamak için dört malzemeyi birlikte oku:
 
 Bu dört malzeme birlikte olduğunda Keynesçilik ve monetarizm yalnızca politika reçetesi olmaktan çıkar; 20. yüzyıl insanının güven ve korku tarihine dönüşür.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** İşsizlik kuyruğu, savaş karnesi, mutfak enflasyonu ve kriz haberleri makro teoriyi gündelik duyguya çevirdi.
+- **Baskın bakış:** Roman işsizliği ve göçü, televizyon/gazete enflasyon ve kriz paniğini görünür kılar; her mecra kendi çerçevesini taşır.
+- **Güçlü karşı fikir:** Roman dramatize edebilir, gazete siyasal taraf tutabilir, uzman dili insan acısını soğutabilir.
+- **Doğruya yaklaşma soruları:** Bu hissiyat hangi veriyle karşılaştırılmalı, haber kimin çıkarıyla yazılmış, uzman terimi ev bütçesinde neye denk geliyor?
+
 ## İleri düzey okuma
 
 Temel kamu gözünü gördükten sonra daha ileri bir şey fark edebiliriz: Makro iktisat modern toplumda yalnızca politika üretmez, **duygu yönetir**.

@@ -85,6 +85,13 @@ Eğer yalnızca devletin hazinesine bakarsak, köleyi görmeyiz. Yalnızca tücc
 
 Tam resim, hepsini aynı anda tutmaya çalışmaktır.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Nüfus, emek ve denizcilik kapasitesi devlet gücünün hammaddesi gibi görülmeye başladı.
+- **Baskın bakış:** Tüccar, devlet ve liman şehri daha görünürdür; köleleştirilmiş emek, gemici ve küçük üretici geride kalır.
+- **Güçlü karşı fikir:** Ulusal zenginlik artarken toplumun alt kesimleri daha güvencesiz, daha zorlanmış veya daha sessiz hale gelebilir.
+- **Doğruya yaklaşma soruları:** Büyüme kimin bedenine yükleniyor, kim yerinden ediliyor, kim "çalışkan nüfus" diye araçsallaştırılıyor?
+
 ## İleri düzey okuma
 
 Toplum kartının ileri katmanında merkantilizmin görünmeyen bedelleri açılır. Hazine ve ticaret büyürken bu büyümenin yükünü kim taşır? Denizciler, tersane işçileri, koloni halkları, köleleştirilen insanlar, küçük üreticiler ve şehir yoksulları bu hikâyenin sessiz tarafıdır.

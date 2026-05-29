@@ -89,6 +89,13 @@ Klasik iktisat bize burada şu alışkanlığı kazandırır: Para ve ticareti y
 
 Kısa sonuç şu: Klasik iktisat barışçı serbest ticaret dili kurdu; ama bu dil savaş, borç, donanma ve imparatorluk dünyasının içinde doğdu.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Napolyon savaşları, kamu borcu, altın-para tartışması ve imparatorluk ticareti iktisadi düşünceyi zorladı.
+- **Baskın bakış:** İngiliz mali ve deniz gücü serbest ticareti güvenle savunabilecek konumdadır.
+- **Güçlü karşı fikir:** Geç sanayileşen ülkeler ve koloniler için serbest ticaret bağımlılığı kalıcılaştırabilir.
+- **Doğruya yaklaşma soruları:** Ticaret teorisi hangi güç koşulunda söyleniyor, donanma ve finans bu "özgürlüğü" nasıl koruyor, borç yükünü kim taşıyor?
+
 ## İleri düzey okuma
 
 Askerî-mali güç kartında klasik iktisadı ileri düzeyde okumak, serbest ticaret fikrinin arkasındaki güç düzenini görmektir. İngiltere serbest ticareti savunurken aynı zamanda donanma, finans, sanayi ve imparatorluk kapasitesi bakımından güçlüydü. Bu, serbest ticaret argümanını otomatik olarak geçersiz kılmaz; ama hangi konumdan söylendiğini görmemizi sağlar.

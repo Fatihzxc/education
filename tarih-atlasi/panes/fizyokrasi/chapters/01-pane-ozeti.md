@@ -100,6 +100,27 @@ Bu mini kitabın amacı fizyokratları ne yüceltmek ne de hızlıca çöpe atma
 
 Kısa akılda kalacak cümle şu olabilir: Fizyokrasi, ekonomiyi toprağın ürettiği fazla ve devletin bu fazlayı bozmadan yönetme arzusu üzerinden okumaya çalışan ilk büyük sistemlerden biridir.
 
+## Kök sebep ve karşı okuma merceği
+
+Fizyokrasinin kök sebebi Fransa'nın tarım, ekmek ve maliye sıkışmasıdır. Nüfus büyür, ekmek fiyatı siyasallaşır, devlet borçlanır, vergi düzeni ayrıcalıklarla doludur. Böyle bir dünyada "toprakta doğan fazla bozulmadan aksın" fikri makul görünür.
+
+Ama bu anlatı çoğu zaman reformcu bürokratın, salon aydınının ve toprak rantını merkezde görenlerin gözünden konuşur. Karşı fikirleri de duymak gerekir. Şehirli yoksul "tahıl serbestleşirse bugün ekmek pahalanacak mı?" diye sorar. Zanaatkâr "lonca engeli kalkarsa beni kim koruyacak?" der. Daha sonra Smith ve klasik iktisat "zenginlik yalnızca topraktan değil, emek, iş bölümü ve sanayiden de doğar" diye itiraz eder.
+
+| Taraf | Haklı gördüğü şey | Kör kalabileceği yer |
+|---|---|---|
+| Fizyokrat | Toprak, net ürün, sade vergi | Sanayi ve şehir emeğinin üretkenliği |
+| Şehirli tüketici | Ucuz ve güvenli ekmek | Uzun vadeli üretim teşviki |
+| Klasik itiraz | İş bölümü ve sanayi | Ekolojik-topraksal sınırlar |
+
+Doğruya yaklaşmak için şunu sor: Bu reform uzun vadede üretimi artırsa bile kısa vadede kimin geçimini sarsıyor? "Doğal düzen" denen şey gerçekten doğanın sesi mi, yoksa belirli bir sınıfın makul bulduğu düzen mi?
+
+## Dört kontrol sorusu
+
+- **Kök sebep:** Tarımsal üretim, ekmek fiyatı, vergi karmaşası ve devlet borcu Fransa'yı sıkıştırıyordu.
+- **Baskın bakış:** Reformcu bürokrat, salon aydını ve toprak rantını merkez alan göz daha çok konuşur.
+- **Güçlü karşı fikir:** Şehirli yoksul ve zanaatkâr için serbestleşme geçim güvencesini sarsabilir; klasik iktisat sanayinin üretkenliğini hatırlatır.
+- **Doğruya yaklaşma soruları:** Doğal düzen kimin düzeni, kısa vadeli bedeli kim ödüyor, üretim artışı halkın sofrasına nasıl dönüyor?
+
 ## İleri düzey okuma
 
 Temeli kurduktan sonra fizyokrasiyi daha ileri düzeyde şöyle okuyabiliriz: Bu ekol yalnızca "tarım önemlidir" demek değildir; ekonomik düzeni **doğal yasa** fikriyle meşrulaştırma girişimidir.

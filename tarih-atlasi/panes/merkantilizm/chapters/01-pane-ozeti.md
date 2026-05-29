@@ -89,6 +89,27 @@ Bu mini kitap, ana [Merkantilizm kitabının](../../../merkantilizm/book.html) y
 
 Bundan sonraki bölümlerde aynı odaya tek tek gireceğiz: önce ekonomi masasına, sonra devlet masasına, sonra savaş ve maliye masasına. Ama aklımızda hep aynı temel soru kalacak: **Bu insanlar neden böyle düşündü?**
 
+## Kök sebep ve karşı okuma merceği
+
+Bu pane'i okurken kendine küçük bir dürüstlük pusulası kur. Merkantilizm niye doğdu? Çünkü erken modern dünyada devletler sürekli savaşıyor, deniz ticareti büyüyor, vergi toplamak zorlaşıyor ve güvenilir ödeme aracı bulmak hayatî hale geliyordu. Yani kök sebep yalnızca "açgözlü tüccarlar altın istedi" değildir; savaş devleti, hazine ihtiyacı, okyanus ticareti ve imparatorluk rekabeti aynı anda çalışıyordu.
+
+Ama karşı okuma da gerekir. Smith ve Hume çizgisi şunu söyler: Bir ülkenin zenginliği kasadaki altınla değil, üretim kapasitesi, iş bölümü ve insanların refahıyla ölçülür. Koloni ve tekel zenginlik gibi görünürken, aslında hem sömürü hem de verimsizlik üretebilir.
+
+| Mercek | Sana neyi gösterir? | Sakın kaçırma |
+|---|---|---|
+| Merkantilist göz | Güç, hazine, donanma, ticaret fazlası | Bu bakış çoğu zaman devlet ve tüccar sınıfının gözüdür |
+| Klasik liberal itiraz | Tekel ve koruma refahı düşürebilir | Serbest ticaret de güçlü ülkenin çıkarına konuşabilir |
+| Koloni/işçi gözü | Zenginlik başka coğrafyalarda zorla üretilebilir | "Ulusal çıkar" herkesin çıkarı olmayabilir |
+
+Doğruya yaklaşmak için üç soru sor: Bu politika kimin güvenliğini artırıyor? Bedeli kim ödüyor? Anlatıyı yazan taraf hazineyi mi, insan hayatını mı merkeze alıyor?
+
+## Dört kontrol sorusu
+
+- **Kök sebep:** Sürekli savaş, hazine ihtiyacı, okyanus ticareti ve devlet kurma baskısı aynı anda büyüdü.
+- **Baskın bakış:** Devlet adamı ve büyük tüccar gözü daha güçlü konuşur; liman, gümrük ve donanma merkezde görünür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi zenginliği metal stokuna değil, üretim ve refaha bağlar; sömürge eleştirisi ise bedeli uzak coğrafyalarda arar.
+- **Doğruya yaklaşma soruları:** Kim güçleniyor, kim görünmez kalıyor, "ulusal çıkar" denen şey herkes için aynı anlama mı geliyor?
+
 ## İleri düzey okuma
 
 Temeli kurduktan sonra merkantilizmi daha derin bir yerden şöyle okuyabiliriz: Bu yalnızca "altın biriktirme takıntısı" değildir; erken modern devletin **güç üretme teknolojisidir**.

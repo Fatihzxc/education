@@ -80,6 +80,13 @@ Turgot'nun hikâyesi, iyi niyetli ve akıllı reformun bile toplumsal güven olm
 
 Kısa sonuç şu: Fizyokratlar güçlü devleti özgürlüğün düşmanı olarak değil, eski engelleri temizleyecek araç olarak düşündüler. Ama bu araç halkın acısını duymadığında, reform özgürlük değil soğuk bir emir gibi görünür.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Ayrıcalıklarla dolu vergi sistemi ve iç engeller üretim akışını ve devlet gelirini tıkıyordu.
+- **Baskın bakış:** Aydınlanmış reformcu devlet gözü baskındır; halkın pazardaki korkusu ve yerel koruma ihtiyacı geri planda kalabilir.
+- **Güçlü karşı fikir:** Tepeden reform doğru mekanizma görse bile siyasal meşruiyet ve geçim güvenliği olmadan kırılganlaşır.
+- **Doğruya yaklaşma soruları:** Reform kime danışıyor, kimi korumasız bırakıyor, vergi sadeleşince ayrıcalık gerçekten kırılıyor mu?
+
 ## İleri düzey okuma
 
 Devlet kartında ileri düzey okuma, fizyokrasinin reformcu ama yukarıdan kurulan karakterini görmektir. Fizyokratlar ayrıcalıkların kaldırılmasını, vergilerin sadeleşmesini ve tahıl ticaretinin serbestleşmesini ister. Bunlar halk için özgürlük gibi görünebilir; ama uygulama çoğu zaman aydınlanmış bürokrat ve monark eliyle düşünülür.

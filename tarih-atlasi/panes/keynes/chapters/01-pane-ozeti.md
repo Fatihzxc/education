@@ -77,6 +77,27 @@ Monetarizm: para, beklenti, kural ve piyasa sinyali
 
 Bu zincir bize bir düşünme disiplini verir: Teoriler yalnızca kitap içinde doğmaz. Krizlere cevap verirler. Kriz değişince hangi teori daha inandırıcı görünüyorsa o yükselir.
 
+## Kök sebep ve karşı okuma merceği
+
+Keynesçiliğin kök sebebi kitlesel işsizlik ve talep çöküşüdür. İnsanlar çalışmak isterken iş bulamıyor, fabrikalar kapasite varken üretmiyor, para korkuyla tutuluyordu. Bu dünyada "piyasa beklersek tam istihdama döner" sözü ikna edici olmaktan çıktı.
+
+Monetarizmin kök sebebi ise başka bir krizdir: 1970'lerde enflasyon, petrol şoku, bütçe baskısı ve beklenti bozulması. Friedman ve Hayek çizgisi "devlet her sorunu talep artırarak çözerse para güvenini yakar" diye itiraz etti. Yani burada iki karşı fikir, iki farklı yaraya bakar.
+
+| Teori | Kök korku | Karşı tarafın haklı uyarısı |
+|---|---|---|
+| Keynesçilik | İşsizlik, talep çöküşü, güven kaybı | Sürekli genişleme enflasyon ve borç üretebilir |
+| Monetarizm | Enflasyon, para güveni, devlet hatası | Sıkı para işsizliği ve toplumsal acıyı büyütebilir |
+| Hayekçi çizgi | Bilginin merkezde toplanamaması | Fiyat sinyali tek başına kriz ahlakını çözmez |
+
+Doğruya yaklaşmak için şunu sor: Bu dönemde asıl kırılan güven hangisi, iş ve gelir güveni mi, para ve fiyat güveni mi? Politikanın bedelini kim ödüyor: işsiz kalan mı, enflasyonla birikimi eriyen mi, borcu çeviremeyen mi?
+
+## Dört kontrol sorusu
+
+- **Kök sebep:** Büyük Buhran talep çöküşünü, 1970'ler stagflasyonu ise enflasyon ve para güveni sorununu görünür kıldı.
+- **Baskın bakış:** Keynesçilik işsiz kalan hane ve talep akışını, monetarizm fiyat istikrarı ve para güvenini merkeze alır.
+- **Güçlü karşı fikir:** Her iki taraf da diğerinin kör noktasını gösterir: talep yönetimi enflasyon, sıkı para işsizlik üretebilir.
+- **Doğruya yaklaşma soruları:** Hangi güven kırıldı, politika bedelini kim ödüyor, kriz talep mi arz mı para mı kurum krizi mi?
+
 ## İleri düzey okuma
 
 Temeli öğrendikten sonra bu pane'i daha incelikli okumak için şu ayrımı kullanabiliriz: Keynesçilik ile monetarizm yalnızca iki politika paketi değildir; **kapitalizmin hangi tür istikrarsızlığa daha açık olduğu** konusunda iki farklı sezgidir.

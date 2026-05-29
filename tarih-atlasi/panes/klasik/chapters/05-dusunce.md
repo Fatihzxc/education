@@ -87,6 +87,13 @@ Bu yüzden klasik düşünceyi öğrenmek geçmişe ait bir ders değil, bugünk
 
 Klasiklerin gücü burada: Bize her ekonomik mekanizmanın arkasından bölüşüm ve kurum sorusunu sormayı öğretirler.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Ahlak felsefesi, sanayi üretimi, nüfus baskısı ve reform siyaseti aynı düşünce alanında birleşti.
+- **Baskın bakış:** Eğitimli erkek reformcu ve iktisatçı sesi baskındır; işçi, kadın ve koloni deneyimi dolaylı girer.
+- **Güçlü karşı fikir:** Marx klasiklerin kavramlarını kapitalizme karşı çevirir; romantik ve sosyalist eleştiriler insanın piyasa içinde daraldığını söyler.
+- **Doğruya yaklaşma soruları:** Bu düşünür hangi toplumsal korkuya cevap veriyor, hangi sınıfın dilini makulleştiriyor, kendi teorisinin sınırını nerede görüyor?
+
 ## İleri düzey okuma
 
 Temel düşünce hattından sonra klasik iktisadı daha ileri düzeyde bir gerilim olarak okuyabiliriz: Klasikler hem özgürlük dilini kurar hem de kapitalist düzenin sert sınırlarını görünür kılar.

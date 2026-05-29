@@ -84,6 +84,13 @@ Bir teoriyi temelden anlamak, yalnızca mantığını anlamak değildir. O mant�
 
 Kısa sonuç şu: Fizyokrasi toprağı merkeze koydu; ama biz onu okurken toprağın üstündeki insanları da merkeze koymalıyız.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Kırsal toplum, üretim fazlası ve vergi yükü Ancien Régime'in toplumsal düğümünü oluşturuyordu.
+- **Baskın bakış:** Tarımı yücelten dil köylüyü üretken sınıf diye öne çıkarır, ama köylünün iç farklarını düzleştirebilir.
+- **Güçlü karşı fikir:** Büyük kiracı, küçük köylü, gündelikçi ve şehirli tüketici aynı tarımsal serbestleşmeyi aynı şekilde yaşamaz.
+- **Doğruya yaklaşma soruları:** Üretken denen sınıf içinde kim kazanıyor, kim risk taşıyor, ekmek fiyatı ve vergi yükü hane hayatını nasıl değiştiriyor?
+
 ## İleri düzey okuma
 
 Toplum kartında ileri düzey okuma, fizyokratların "üretken sınıf" dediği köylü ve çiftçi dünyasının ne kadar karmaşık olduğunu görmektir. Toprağı işleyen herkes aynı konumda değildir: büyük kiracı çiftçi, küçük köylü, gündelikçi, toprak sahibi ve vergi memuru aynı tarımsal düzenin farklı yerlerinde durur.

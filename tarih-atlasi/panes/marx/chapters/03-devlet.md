@@ -68,6 +68,13 @@ Marx'ın devlet kartı bize şunu öğretir: Bir hakkın kâğıt üzerinde var 
 
 Kısa sonuç şu: Marx için devlet, kapitalist toplumun dışında duran tarafsız bir seyirci değildir. Hukuk ve mülkiyet biçimleriyle o toplumun işleyişini taşır.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Hukuki eşitlik ile maddi eşitsizlik arasındaki fark kapitalist devleti anlamak için açılmalıydı.
+- **Baskın bakış:** Devlet, mülkiyet ve sınıf ilişkilerini yeniden üreten kurum olarak görünür.
+- **Güçlü karşı fikir:** Liberal ve demokratik okuma devletin hak, temsil ve reform kapasitesini daha bağımsız görür.
+- **Doğruya yaklaşma soruları:** Devlet hangi mülkiyet biçimini koruyor, hangi haklar gerçekten kullanılabilir, reform sınıf ilişkisini dönüştürüyor mu?
+
 ## İleri düzey okuma
 
 Devlet kartında ileri düzey okuma, Marx'ın devleti yalnızca kaba baskı aygıtı olarak görmediğini fark etmekle başlar. Devlet hukuk, mülkiyet, sözleşme, para ve güvenlik düzenini kurarak kapitalist ilişkilerin normal işlemesini sağlar. Bu işlev çoğu zaman açık şiddetten daha önemlidir.

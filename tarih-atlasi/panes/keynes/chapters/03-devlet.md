@@ -95,6 +95,13 @@ Devleti ya tamamen kurtarıcı ya da tamamen sorun gibi görmek kolaydır, ama t
 
 Bu tablo bize sıcak bir akıl verir: Devlet meselesi ideolojik sloganla bitmez. Hangi devlet? Hangi kapasiteyle? Hangi hesap verebilirlikle? Hangi sınıfsal dengede? Hangi kriz karşısında?
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Krizler devleti kurtarıcı gibi, enflasyon ve borç ise devleti sorun gibi gösterdi.
+- **Baskın bakış:** Keynesçi devlet talebi ve sosyal güvenliği, monetarist devlet kuralı ve merkez bankası güvenilirliğini savunur.
+- **Güçlü karşı fikir:** Devlet olmadan kriz derinleşebilir; fakat sınırsız devlet müdahalesi para ve bütçe güvenini aşındırabilir.
+- **Doğruya yaklaşma soruları:** Devlet bugün kimi koruyor, yarına hangi borcu bırakıyor, kurallar kriz anında esneklik tanıyor mu?
+
 ## İleri düzey okuma
 
 Temeli kavradıktan sonra devlet tartışmasını daha ileri bir yerden okuyabiliriz: Sorun yalnızca devletin **büyüklüğü** değil, devletin **zamanı yönetme biçimidir**.

@@ -91,6 +91,13 @@ Kısa sonuç şu: Kamunun gözü, klasik iktisadın insan yüzüdür. Teorinin n
 
 Bir okur için pratik yöntem şu olabilir: Önce Smith veya Ricardo'da kavramı öğren; sonra aynı dönemin romanına, gazetesine veya parlamento tartışmasına bak. Kavramın hayatta hangi duyguya dönüştüğünü o zaman daha iyi anlarsın. "Ücret" kelimesi bir modelde sade görünür; Dickens veya Gaskell dünyasında ise çocukluk, aile, hastalık ve onur meselesine dönüşür.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Gazete, roman, parlamento ve işçi anlatıları sanayi toplumunun acısını ve umudunu halka taşıdı.
+- **Baskın bakış:** Roman bazen orta sınıf vicdanıyla konuşur; gazete ise sahibi ve okur kitlesinin sınıfına göre çerçeve kurar.
+- **Güçlü karşı fikir:** Edebiyat acıyı görünür kılarken bazı mekanizmaları kişisel ahlaka indirger; iktisadi veri ise duyguyu soğutabilir.
+- **Doğruya yaklaşma soruları:** Bu metin kimi konuşturuyor, kimi susturuyor, roman duygusu ücret/fiyat/çalışma saati verisiyle nasıl karşılaştırılır?
+
 ## İleri düzey okuma
 
 Kamunun gözü kartında ileri düzey nokta, klasik iktisadın yalnızca düşünürler arasında değil, gazete, broşür, roman ve parlamento tartışmalarında da yaşadığıdır. Corn Laws, yoksul yasaları, fabrika koşulları ve serbest ticaret halkın gündelik hayatına dokunan meselelerdi.

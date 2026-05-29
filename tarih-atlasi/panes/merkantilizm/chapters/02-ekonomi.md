@@ -87,6 +87,13 @@ Merkantilist ekonomi bize bu yüzden hâlâ bir şey söyler. Zenginlik yalnızc
 
 Asıl mesele mekanizmayı görmektir: Para nereden geliyor, nereye gidiyor, hangi üretimi doğuruyor, hangi gücü finanse ediyor, hangi insanlara bedel yüklüyor?
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Dış ödeme gücü, savaş finansmanı ve ticaret dengesi korkusu para politikasını merkeze taşıdı.
+- **Baskın bakış:** Hazine ve ticaret bilançosu gözü baskındır; ekonomi çoğu zaman devlet kasasına akan para gibi okunur.
+- **Güçlü karşı fikir:** Para stoku tek başına refah değildir; üretim kapasitesi, iş bölümü ve halkın tüketim imkânı hesaba katılmalıdır.
+- **Doğruya yaklaşma soruları:** Ticaret fazlası kimin geliri oluyor, fiyatları kim ödüyor, para akışı üretim gücüne dönüşüyor mu?
+
 ## İleri düzey okuma
 
 Ekonomi kartını ileri düzeyde okurken para birikimini dar bir "kasa sevgisi" gibi görmemek gerekir. Erken modern dünyada para, özellikle gümüş ve altın, uluslararası ödeme gücüdür. Devlet dışarıdan silah, gemi malzemesi, askerî uzman veya lüks tüketim malı alacaksa güvenilir ödeme aracına ihtiyaç duyar.

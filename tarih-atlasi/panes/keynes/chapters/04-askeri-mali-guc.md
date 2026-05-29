@@ -97,6 +97,13 @@ Bu, makro politikanın ahlaki ağırlığını gösterir. Enflasyonu düşürmek
 
 Bu tablo, askerî-mali kartın neden gerekli olduğunu anlatır: Ekonomi politikası daima güç, bütçe ve bedel meselesidir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Savaş, yeniden inşa, Bretton Woods ve Soğuk Savaş devletin mali kapasitesini olağanüstü büyüttü.
+- **Baskın bakış:** Ulusal devlet ve merkez bankası kararları merkezde görünür; sömürge sonrası ülkelerin para bağımlılığı daha az duyulabilir.
+- **Güçlü karşı fikir:** Savaş harcaması talep yaratabilir ama refah harcamasıyla aynı toplumsal anlamı taşımaz.
+- **Doğruya yaklaşma soruları:** Harcama sosyal güvenlik mi askerî kapasite mi kuruyor, dolar/borç düzeni kime alan açıyor, maliyet hangi sınıfa veya ülkeye aktarılıyor?
+
 ## İleri düzey okuma
 
 Temel anlatıdan sonra daha derin katmana geçelim: 20. yüzyıl makro iktisadında devletin mali gücü, yalnızca sosyal refah için değil, **jeopolitik düzen kurmak** için de kullanıldı.

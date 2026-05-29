@@ -99,6 +99,27 @@ Birinci yanlış: "Klasik iktisat serbest piyasayı savundu, konu bu." Hayır. S
 
 Kısa sonuç şu: Klasik iktisat, büyüyen sanayi dünyasının hem umutlarını hem çatlaklarını düşünmeye çalışan ilk büyük politik iktisat dilidir.
 
+## Kök sebep ve karşı okuma merceği
+
+Klasik iktisadın kök sebebi sanayi kapitalizminin doğuşudur. Şehirler büyür, fabrikalar çoğalır, ücretli emek genişler, Corn Laws gibi yasalar ekmek fiyatı ve rant üzerinden sınıf çatışması yaratır. Klasik iktisat bu yeni dünyanın dilini kurar: büyüme nereden gelir, gelir kime gider, devlet hangi ayrıcalıkları kırmalı?
+
+Ama bu dili yalnızca sanayi burjuvazisinin zafer anlatısı gibi okumak tehlikelidir. Karşı fikirler hemen sahnededir. Malthus talep ve nüfus sınırını hatırlatır. İşçi hareketi "verimlilik artışı kimin hayatını iyileştiriyor?" diye sorar. Marx klasiklerin emek ve değer sorusunu alıp kârın kaynağına çevirir.
+
+| Anlatı | Güçlü gördüğü şey | Karşı okuma |
+|---|---|---|
+| Smithçi ilerleme | İş bölümü, piyasa genişliği, üretkenlik | İş bölümü insanı daraltabilir |
+| Ricardocu bölüşüm | Kâr, ücret, rant çatışması | Modelin arkasındaki tarihsel güç ilişkileri sorulmalı |
+| Serbest ticaret | Rant ayrıcalığını kırabilir | Sanayileşmemiş ülkeyi zayıf uzmanlığa hapsedebilir |
+
+Doğruya yaklaşmak için üç kontrol sorusu kullan: Büyüme kimin gelirini artırıyor? Serbestlik hangi eski ayrıcalığı kırıyor, hangi yeni bağımlılığı kuruyor? Bu anlatıda işçi, kadın, koloni ve yoksul şehirli nerede duruyor?
+
+## Dört kontrol sorusu
+
+- **Kök sebep:** Sanayi, şehirleşme, ücretli emek ve tahıl yasaları yeni bir büyüme-bölüşüm dünyası doğurdu.
+- **Baskın bakış:** İngiliz sanayi ve reform dünyasının dili güçlüdür; imparatorluk, kadın emeği ve koloni çoğu zaman kenarda kalır.
+- **Güçlü karşı fikir:** Marx, işçi hareketi ve kalkınmacı korumacılık klasik serbestlik anlatısına itiraz eder.
+- **Doğruya yaklaşma soruları:** Büyüme kime akıyor, serbest ticaret kimin konumundan söyleniyor, ucuz ekmek ile ücretli emek arasındaki bağ ne?
+
 ## İleri düzey okuma
 
 Temeli edindikten sonra klasik iktisadı daha ileri düzeyde şöyle okuyabiliriz: Bu ekol, kapitalizmi yalnızca piyasa alışverişi olarak değil, **üretim ve bölüşüm sistemi** olarak düşünür.

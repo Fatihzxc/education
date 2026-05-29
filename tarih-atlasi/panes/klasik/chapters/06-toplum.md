@@ -96,6 +96,13 @@ Fabrika daha çok üretir; ama çalışma günü uzunsa hayat ağırlaşabilir. 
 
 Kısa sonuç şu: Klasik iktisadı anlamak, yalnızca büyüme mantığını değil, büyümenin insanların bedeninde ve evinde nasıl yaşandığını görmektir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Fabrika, şehir yoksulluğu, çocuk emeği ve yeni orta sınıf ahlakı toplumsal düzeni yeniden kurdu.
+- **Baskın bakış:** Üretkenlik ve ilerleme dili güçlüdür; beden yorgunluğu, bakım emeği ve mahalle hayatı kolayca geri düşer.
+- **Güçlü karşı fikir:** İşçi basını, kadın hareketi ve sosyalist eleştiri verimliliğin insanî bedelini gösterir.
+- **Doğruya yaklaşma soruları:** Hangi emek ücretli diye görünür, hangi emek ev içinde saklı kalır, ilerleme kimin hayatını gerçekten iyileştirir?
+
 ## İleri düzey okuma
 
 Toplum kartında ileri düzey okuma, klasik iktisadın "sınıf" kelimesini bugünkü kimlik anlamıyla değil, üretim ve gelir kaynağı anlamıyla kullandığını görmektir. İşçi ücretle, kapitalist kârla, toprak sahibi rantla yaşar. Bu ayrım toplumu soyut bireyler toplamı olmaktan çıkarır.

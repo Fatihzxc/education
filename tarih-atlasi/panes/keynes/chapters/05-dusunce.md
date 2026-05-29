@@ -94,6 +94,13 @@ savaş sonrası neoklasik sentez
 
 1970'ler bu sentezi sarstı. Monetarizm, yeni klasik makro ve rasyonel beklentiler tartışmaları, Keynesçi politikanın sınırlarını öne çıkardı. Daha sonra yeni Keynesyen modeller de fiyat katılıkları, beklentiler ve piyasa aksaklıklarını daha teknik biçimde yeniden kurdu. Ama temel tartışma kapanmadı: Piyasa ne kadar kendiliğinden dengelenir? Devlet ne zaman ve nasıl müdahale etmelidir?
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Belirsizlik, para güveni ve dağınık bilgi modern ekonominin açıklanması gereken üç büyük sorunu haline geldi.
+- **Baskın bakış:** Keynes güven ve talep, Friedman para ve kural, Hayek fiyat sinyali ve bilgi tarafından konuşur.
+- **Güçlü karşı fikir:** Her düşünür diğerinin görmediği riski gösterir; hiçbirinin tek başına bütün krizleri açıklaması beklenmemeli.
+- **Doğruya yaklaşma soruları:** Sorun bilinmeyen gelecek mi geciken politika mı dağınık bilgi mi, hangi teori hangi krizde zayıflıyor?
+
 ## İleri düzey okuma
 
 Temeli öğrendikten sonra bu üç düşünürü daha ince bir eksende okuyabiliriz: Keynes, Friedman ve Hayek aslında **bilginin türü** konusunda ayrılır.

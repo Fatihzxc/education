@@ -85,6 +85,13 @@ Marx'ın askerî-mali güç kartı bize şunu öğretir: Kapitalizmi yalnızca m
 
 Kısa sonuç şu: Sermaye büyürken yalnızca üretimi değil, mekânı, devleti, ticaret yollarını ve insanların hayatını da yeniden düzenler.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Sermaye birikimi yeni pazar, hammadde, emek ve yatırım alanı aradıkça dünya ölçeğinde genişleme baskısı yarattı.
+- **Baskın bakış:** Emperyalizm ve zor, sermayenin genişleme mantığıyla birlikte okunur.
+- **Güçlü karşı fikir:** Jeopolitik, milliyetçilik ve devlet güvenliği yalnızca sermaye ihtiyacına indirgenemez.
+- **Doğruya yaklaşma soruları:** Hangi savaş veya sömürge hamlesi sermaye akışıyla bağlanıyor, hangisi stratejik korkuyla açıklanıyor, yerel aktörlerin payı ne?
+
 ## İleri düzey okuma
 
 Askerî-mali kartın ileri düzeyi, sermaye birikiminin neden sürekli genişleme eğilimi taşıdığını görmektir. Daha çok kâr için daha çok pazar, daha ucuz hammadde, daha uygun emek ve daha güvenli yatırım alanı aranır. Bu arayış ticaretle ilerleyebilir; ama çoğu zaman devlet gücü, borç, donanma ve sömürge şiddetiyle de birleşir.

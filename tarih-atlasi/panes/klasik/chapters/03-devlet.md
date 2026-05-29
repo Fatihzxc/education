@@ -80,6 +80,13 @@ Bir yandan klasikler devletin ayrıcalık dağıtan, tekel kuran, rantı koruyan
 
 Kısa sonuç şu: Klasik iktisatta devlet, piyasanın dışında duran bir figür değildir. Piyasayı kuran, sınırlandıran, bazen bozan, bazen insanileştiren güçtür.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Eski ayrıcalıklar, loncalar, tahıl tarifeleri ve imtiyazlar piyasa genişlemesinin önünde engel sayıldı.
+- **Baskın bakış:** Reformcu liberal göz, devleti ayrıcalıkları kaldıran hakem gibi görür.
+- **Güçlü karşı fikir:** Piyasa ancak hukuk, zor, mülkiyet ve imparatorluk altyapısıyla kurulur; devlet hiçbir zaman gerçekten yok değildir.
+- **Doğruya yaklaşma soruları:** Devlet hangi ayrıcalığı kırıyor, hangi mülkiyet düzenini koruyor, piyasa özgürlüğünden kim yararlanıyor?
+
 ## İleri düzey okuma
 
 Devlet kartının ileri düzeyinde klasik liberalizmi basit "devlet karşıtlığı" gibi okumamak gerekir. Smith devleti tamamen dışlamaz; adalet, savunma, altyapı ve eğitim gibi alanlarda devlete görev verir. Mill ise özgürlük fikrini sosyal reformla birlikte düşünür.

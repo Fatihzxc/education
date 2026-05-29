@@ -68,6 +68,17 @@ Bu atlasın pratik arayüzü **pane ve kart** mantığıyla düşünülmelidir. 
 
 Bu model özellikle iktisat ekolleri için verimlidir, çünkü ekoller yalnızca soyut teoriler değildir. Her ekol belli bir dünya deneyiminin içinden çıkar. Merkantilizm deniz, hazine, koloni ve tüccar imgesi olmadan anlaşılamaz. Fizyokrasi Fransa'nın tarımsal ve mali krizinden koparılamaz. Klasik iktisat fabrika, şehir yoksulluğu, Corn Laws ve reform siyasetinden ayrı okunamaz. Keynesçilik işsizlik kuyruğu, savaş ekonomisi ve refah devleti deneyimi olmadan eksik kalır.
 
+Her pane'i okurken artık dört kontrol sorusu özellikle kullanılmalıdır. Bu dört soru, okuru yalnızca kazananların veya ders kitabını yazan tarafın gözünde bırakmamak için vardır:
+
+| Kontrol | Soru | Neden gerekli? |
+|---|---|---|
+| Kök sebep | Bu fikir hangi maddi, siyasal veya toplumsal sıkışmadan doğdu? | Fikirleri boşlukta doğmuş parlak cümleler gibi okumayız |
+| Baskın bakış | Bu anlatıda kimin gözü daha çok konuşuyor? | Devlet, tüccar, sanayici, işçi, köylü veya uzman sesini ayırt ederiz |
+| Karşı fikir | Buna güçlü biçimde kim itiraz ederdi? | Tek taraflı doğru hissine kapılmayız |
+| Kontrol sorusu | Doğruya yaklaşmak için hangi veri, tanıklık veya karşı örnek gerekir? | Duygu, teori ve kanıtı birbirine karıştırmayız |
+
+Bu dört soru özellikle şunu sağlar: Bir ekolü önce kendi koşullarında adil biçimde anlarız; sonra onun hangi çıkarları, korkuları ve kör noktaları taşıdığını kontrol ederiz. Böylece ne kolayca yüceltiriz ne de hızlıca çöpe atarız.
+
 Bu yüzden her pane için en az altı kart gerekir:
 
 | Kart | Ne gösterir? |

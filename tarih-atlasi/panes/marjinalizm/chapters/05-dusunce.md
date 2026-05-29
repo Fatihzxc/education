@@ -101,6 +101,13 @@ neoklasik iktisat
 
 Bu sentez bugün ders kitaplarında o kadar normal görünür ki tarihsel bir kırılma olduğu unutulur. Talep eğrisi, arz eğrisi, denge fiyatı, marjinal maliyet, tüketici artığı gibi kavramlar sanki hep oradaymış gibi gelir. Oysa bunlar belirli bir tarihsel inşa sürecinin ürünüdür.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** İktisat daha kesin, matematiksel ve mikro temelli bir bilim dili arıyordu.
+- **Baskın bakış:** Jevons-Walras hattında formel model, Menger hattında öznel değer, Marshall hattında öğretilebilir sentez öne çıkar.
+- **Güçlü karşı fikir:** Tarihçi ve eleştirel iktisatçı, bu yöntemlerin sınıf, kurum ve güç sorularını daralttığını söyler.
+- **Doğruya yaklaşma soruları:** Bu düşünür neyi ölçülebilir kılıyor, neyi soyutluyor, aynı sonuç farklı yöntemlerle nasıl değişiyor?
+
 ## İleri düzey okuma
 
 Düşünce kartında ileri düzey nokta, Jevons-Menger-Walras-Marshall hattının aynı devrimi farklı bilim idealleriyle kurmasıdır. Jevons matematiksel kesinlik ister. Menger nedensel-öznel açıklama kurar. Walras bütün sistemi denklemleştirmek ister. Marshall ise öğretilebilir, esnek ve zaman duyarlı bir sentez peşindedir.

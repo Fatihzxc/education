@@ -72,6 +72,13 @@ Merkantilist çağda bu "görme" isteği hızlandı. Tüccar raporları, gümrü
 
 Bugün de benzer bir şey yaşıyoruz. Devletler tedarik zincirlerini, enerji bağımlılığını, stratejik sektörleri, veri akışını ve finans hareketlerini izlemek istiyor. Dil değişti, ama temel refleks çok tanıdık: Bir şeyi ulusal güvenlik meselesi saydığında, devlet onu görmek ve yönlendirmek ister.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Dağınık pazarları, ölçüleri, vergileri ve ticaret yollarını devlet eliyle okunabilir hale getirme ihtiyacı vardı.
+- **Baskın bakış:** Merkezî devletin düzen kurucu gözü baskındır; yerel özerklik ve küçük üretici kaygısı daha az duyulur.
+- **Güçlü karşı fikir:** Devletin birleştirdiği piyasa aynı zamanda baskı, tekel ve ayrıcalık üretebilir.
+- **Doğruya yaklaşma soruları:** Devlet hangi engeli kaldırıyor, hangi yeni bağımlılığı kuruyor, düzen kimin hayatını kolaylaştırıyor?
+
 ## İleri düzey okuma
 
 Devlet kartının ileri katmanında merkantilizm, iç piyasayı birleştirme projesi olarak görünür. İç gümrükleri azaltmak, ölçüleri standartlaştırmak, limanları düzenlemek, yolları güvenli hale getirmek ve lonca/şirket imtiyazlarını yönetmek, devletin ekonomik alanı okunabilir kılma çabasıdır.

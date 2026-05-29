@@ -103,6 +103,13 @@ Klasik iktisat bize bu yüzden çok temel bir alışkanlık kazandırır: Toplam
 
 Kısa sonuç şu: Klasik iktisadın ekonomi kartı, zenginliği yalnızca üretim miktarı olarak değil, üretimden doğan gelirin sınıflar arasındaki hareketi olarak görmeyi öğretir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Üretim artışı ve gelir bölüşümü aynı anda açıklanmak zorundaydı; kâr, ücret ve rant çatışması görünürleşti.
+- **Baskın bakış:** Sanayi kapitalisti ve politik iktisatçı üretkenlik ile birikimi merkeze alır.
+- **Güçlü karşı fikir:** İşçi ve sosyalist eleştiri, üretim artışının adil yaşam üretmediğini söyler; rantçı sınıf da kendi çıkarını savunur.
+- **Doğruya yaklaşma soruları:** Artan ürün kime gidiyor, ücret geçimle mi pazarlık gücüyle mi belirleniyor, rant üretim mi ayrıcalık mı?
+
 ## İleri düzey okuma
 
 Ekonomi kartında ileri katman, klasiklerin büyüme ile bölüşümü birbirinden ayırmamasıdır. Bir ülke zenginleşebilir; ama bu zenginleşmenin kâr, ücret ve rant arasında nasıl paylaşıldığı ayrı bir sorudur. Ricardo'nun gücü burada ortaya çıkar: Toprak rantı arttığında sanayi kârı sıkışabilir; bu da büyümenin sınıfsal sınırını gösterir.

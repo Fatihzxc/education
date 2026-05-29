@@ -96,6 +96,13 @@ Fizyokratların bize bıraktığı temel soru hâlâ canlıdır:
 
 Eğer bu soruyu sormayı öğrenirsek, yalnızca 18. yüzyıl Fransa'sını değil, bugünkü kira, arsa, platform tekeli, doğal kaynak ve karbon vergisi tartışmalarını da daha iyi görürüz.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Toprakta doğan artığın nereden geldiğini ve devlet maliyesine nasıl akacağını açıklama ihtiyacı vardı.
+- **Baskın bakış:** Büyük tarım, rant ve yıllık ürün akışı merkezde durur; sanayi ve kent emeği daha az üretken görünür.
+- **Güçlü karşı fikir:** Smith ve sonraki klasikler değer yaratımını emek, iş bölümü ve sanayi üretimiyle genişletir.
+- **Doğruya yaklaşma soruları:** Net ürün gerçekten yalnızca toprakta mı doğuyor, fiyatlar geçim güvenliğini nasıl etkiliyor, ekolojik temel ile insan emeği nasıl birlikte düşünülür?
+
 ## İleri düzey okuma
 
 Ekonomi kartında ileri katman, fizyokratların "net ürün" fikrini bugünkü değer tartışmalarına bağlamaktır. Onlara göre tarım, harcanandan fazla ürün veren gerçek üretken alandır. Sanayi ve ticaret faydalıdır, ama net artığı asıl toprak doğurur.

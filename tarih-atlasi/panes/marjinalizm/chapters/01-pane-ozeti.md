@@ -89,6 +89,27 @@ Bunu şöyle düşünebilirsin:
 
 Kısa sonuç şu: Marjinalizm, iktisadın merceğini "mal nasıl üretildi?" sorusundan "son birim kim için ne kadar değerli?" sorusuna çevirir. Bu mercek çok şey gösterir. Ama her mercek gibi, bazı şeyleri de görüntünün dışında bırakır.
 
+## Kök sebep ve karşı okuma merceği
+
+Marjinalizmin kök sebebi değer teorisindeki sıkışmadır. Emek-değer çizgisi fiyatların günlük hareketini, kıtlığın etkisini ve bireysel tercihin rolünü açıklamakta zorlanıyordu. 19. yüzyıl sonu daha matematiksel, daha mikro temelli, daha "bilimsel" görünen bir dil arıyordu. Marjinalizm bu ihtiyaca cevap verdi.
+
+Ama bu anlatı, çoğu zaman ders kitabını yazan ana akımın gözünden anlatılır. Karşı okuma şunu sorar: Değer tüketici tercihine kayınca emek, sınıf, mülkiyetin tarihsel dağılımı ve güç ilişkileri görünmezleşiyor mu? Marxçı ve kurumsalcı itiraz burada önemlidir.
+
+| Marjinalist mercek | Ne kazandırır? | Karşı fikir ne der? |
+|---|---|---|
+| Son birimin faydası | Fiyat ve kıtlık daha iyi açıklanır | Üretim ilişkisi ve sınıf geriye itilir |
+| Denge modeli | Karmaşa sadeleşir | Kriz, güç ve tarih fazla sakin görünür |
+| Bireysel tercih | İnsan seçen özne olur | Tercihler gelir, reklam ve statüyle biçimlenir |
+
+Doğruya yaklaşmak için şu soruları sor: Model neyi veri kabul ediyor? Tercih başlamadan önce mülkiyet ve gelir nasıl dağılmış? Bu açıklama fiyatı iyi anlatırken adaleti ve gücü dışarıda bırakıyor mu?
+
+## Dört kontrol sorusu
+
+- **Kök sebep:** Emek-değer açıklaması kıtlık, tercih ve günlük fiyat hareketlerini açıklamakta zorlandığında yeni bir değer dili arandı.
+- **Baskın bakış:** Ders kitabı, uzman ve model kurucu iktisatçı gözü güçlüdür.
+- **Güçlü karşı fikir:** Marxçı ve kurumsalcı okuma emek, mülkiyet, sınıf ve tarihsel gücün geri plana itildiğini söyler.
+- **Doğruya yaklaşma soruları:** Model neyi veri kabul ediyor, tercih öncesi gelir ve mülkiyet nasıl dağılıyor, denge dili krizi sakinleştiriyor mu?
+
 ## İleri düzey okuma
 
 Temel fikri öğrendikten sonra marjinalizmi daha ileri düzeyde şöyle okuyabiliriz: Bu ekol yalnızca yeni bir değer teorisi getirmez; iktisadın **başlangıç noktasını** değiştirir.

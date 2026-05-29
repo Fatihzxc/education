@@ -112,6 +112,13 @@ Bu yüzden politika seçimleri her zaman bedel taşır.
 
 Bu tablo bize şunu anlatır: Makro iktisat teknik görünür, ama sonunda toplumsal öncelik seçimidir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Ekonominin toplam harcama eksikliğiyle durabileceği ve para genişlemesiyle fiyatların hızlanabileceği aynı yüzyılda görüldü.
+- **Baskın bakış:** Keynesçi dil gelir-akış ve işsizliği, monetarist dil para arzı ve beklentileri öne çıkarır.
+- **Güçlü karşı fikir:** Talep artırma enflasyonu hafife alabilir; para sıkılaştırma reel üretim ve istihdam acısını küçümseyebilir.
+- **Doğruya yaklaşma soruları:** Sorun harcama eksikliği mi üretim kapasitesi mi, nominal genişleme reel refah üretiyor mu, enflasyonun yükü kime biniyor?
+
 ## İleri düzey okuma
 
 Temel mekanizmayı anladıktan sonra daha zor noktaya geçebiliriz: Keynesçilik ile monetarizm arasındaki tartışma, ekonomide **nominal** olanla **reel** olanın nasıl bağlandığı tartışmasıdır.

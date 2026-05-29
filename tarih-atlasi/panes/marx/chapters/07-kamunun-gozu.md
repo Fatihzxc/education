@@ -72,6 +72,13 @@ Marx'ın teorisi serttir; ama kamusal hayat onu daha da karmaşık hale getirir.
 
 Kısa sonuç şu: Marx'ın kamusal yüzü, artı-değer formülünün insan hayatına, örgütlenmeye, korkuya ve hikâyeye dönüşmüş halidir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Fabrika yoksulluğu, grevler, devrim korkusu ve işçi basını kapitalizmin insan yüzünü kamusal tartışmaya taşıdı.
+- **Baskın bakış:** İşçi ve sosyalist anlatı sömürüyü görünür kılar; burjuva gazetesi aynı olayı düzen tehdidi diye çerçeveleyebilir.
+- **Güçlü karşı fikir:** Roman acıyı yoğunlaştırabilir, parti gazetesi propagandaya kayabilir, resmî istatistik deneyimin duygusunu silebilir.
+- **Doğruya yaklaşma soruları:** Metnin sahibi kim, işçi kendi sesiyle mi konuşuyor, anlatı hangi veri ve karşı tanıklıkla dengelenebilir?
+
 ## İleri düzey okuma
 
 Kamunun gözü kartında ileri düzey mesele, romanların ve işçi basınının yalnızca "duygu" sağlamadığıdır. Bu metinler, kapitalist toplumun normal saydığı şeyleri tuhaflaştırır. Fabrika disiplini, yoksul mahalle, çocuk emeği, kira baskısı ve açlık artık kader değil, tarihsel düzenin sonucu gibi görünür.

@@ -80,6 +80,13 @@ Bu yüzden en sağlıklı cümle belki şudur: Merkantilizm, tek bir okuldan ço
 
 Ve bu yüzden onu öğrenmek yalnızca geçmiş bir teoriyi öğrenmek değildir. Tarihsel düşünmeyi öğrenmektir: bir etiketin neyi gösterdiğini, neyi sakladığını ve kimin işine yaradığını sormak.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Yönetici sınıflar, dağınık ticaret pratiklerini devlet gücü ve ulusal çıkar diliyle açıklamak istedi.
+- **Baskın bakış:** Broşür yazarı, tüccar danışman ve bürokrat sesi baskındır; teori çoğu zaman politika tavsiyesi olarak konuşur.
+- **Güçlü karşı fikir:** Tek doktrin varmış gibi anlatmak yanıltır; merkantilizm farklı çıkarların gevşek bir ailesidir.
+- **Doğruya yaklaşma soruları:** Bu metin kime öğüt veriyor, hangi çıkarı doğal gösteriyor, hangi deneyimi teori dışına itiyor?
+
 ## İleri düzey okuma
 
 Düşünce kartını ileri düzeyde okurken merkantilist metinlerdeki "ulusal çıkar" diline dikkat etmek gerekir. Bu dil doğal ve masum görünür, ama aslında yeni bir siyasal özne kurar: Hazine, ticaret, nüfus ve donanma aynı bedene aitmiş gibi konuşan devlet.

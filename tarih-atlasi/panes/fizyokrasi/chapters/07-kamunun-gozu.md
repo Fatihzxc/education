@@ -104,6 +104,13 @@ Fizyokrasi bize şunu öğretir: Bir fikir kamusal hayata indiğinde, artık yal
 
 Kısa sonuç şu: Kamunun gözü teorinin düşmanı değildir. Teorinin eksik gördüğü duygusal ve toplumsal gerçeği gösteren ikinci bir penceredir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Ekmek fiyatı, tahıl dolaşımı ve reform söylentileri ekonomik fikri doğrudan halk duygusuna bağladı.
+- **Baskın bakış:** Salon metni ve reform broşürü uzun vadeli düzeni anlatır; pazar kuyruğundaki insan bugünü sorar.
+- **Güçlü karşı fikir:** Roman, söylenti ve isyan dili reformun görmediği korkuyu anlatabilir; ama onlar da abartı ve panik taşıyabilir.
+- **Doğruya yaklaşma soruları:** Halkın korkusu hangi fiyat/vergi verisiyle karşılaştırılmalı, gazete kimin sesini taşıyor, reformun dili halka tepeden mi geliyor?
+
 ## İleri düzey okuma
 
 Kamunun gözü kartında ileri düzey mesele, ekmek fiyatının yalnızca ekonomik gösterge değil, siyasal duygu olmasıdır. Fizyokratlar tahıl ticaretinin serbestleşmesini doğal düzenin gereği sayabilir; ama halk için tahıl, hayatın kendisidir. Ekmek pahalılaştığında teori değil, açlık konuşur.

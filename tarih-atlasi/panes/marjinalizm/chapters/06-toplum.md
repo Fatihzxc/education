@@ -97,6 +97,13 @@ Bunu şöyle düşünebilirsin:
 
 Bu yer değiştirme iktisadı daha temiz ve öğretilebilir kıldı. Ama toplumsal çatışmanın bazı taraflarını da sessizleştirdi. İşte bu yüzden pane'i okurken hem tüketici hem işçi gözünü açık tutmak gerekir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Şehir, mağaza, reklam ve hane bütçesi dünyasında insan giderek tüketici olarak görünür hale geldi.
+- **Baskın bakış:** Seçen birey ve tüketici figürü baskındır; işçi, borçlu ve bakım emeği taşıyan kişi geride kalabilir.
+- **Güçlü karşı fikir:** Veblen, Marxçı ve feminist okuma tercihlerin statü, sınıf ve cinsiyet ilişkileriyle biçimlendiğini söyler.
+- **Doğruya yaklaşma soruları:** Tercih gerçekten özgür mü, gelir sınırı seçimi nasıl daraltıyor, tüketim statü ve reklamla nasıl kuruluyor?
+
 ## İleri düzey okuma
 
 Toplum kartında ileri düzey okuma, "tüketici" figürünün tarafsız olmadığını görmektir. Tüketici modeli insana seçim yapan özne olarak bakar; bu özgürleştirici olabilir, çünkü insanların zevklerini ve ihtiyaçlarını ciddiye alır. Ama aynı model, gelir eşitsizliğini ve toplumsal baskıyı çoğu zaman arka plana iter.

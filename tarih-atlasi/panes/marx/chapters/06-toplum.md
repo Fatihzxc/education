@@ -81,6 +81,13 @@ Bir kişi yoksul olabilir ama küçük mülk sahibidir. Bir kişi düzenli ücre
 
 Kısa sonuç şu: Proletarya, Marx'ta yalnızca acı çeken sınıf değil, kapitalizmin işleyişini anlayabilecek ve dönüştürebilecek tarihsel aktördür.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Ortak çalışma koşulları, işçilerin neden ve nasıl kolektif bir özneye dönüşebileceği sorusunu doğurdu.
+- **Baskın bakış:** Proletarya ve örgütlenme merkezde görünür; sınıf içinde cinsiyet, etnisite, beceri ve göç farkları gölgede kalabilir.
+- **Güçlü karşı fikir:** Liberal okuma bireysel hareketliliği, sendika dışı deneyimler ve kimlik mücadeleleri başka çatışma eksenlerini öne çıkarır.
+- **Doğruya yaklaşma soruları:** Ortak çıkar gerçekten ortak bilinç üretiyor mu, kim sınıfın içinde sessiz kalıyor, bakım emeği ve ev içi yeniden üretim nasıl hesaba katılıyor?
+
 ## İleri düzey okuma
 
 Toplum kartında ileri katman, sınıf bilincinin otomatik doğmadığını görmektir. Aynı fabrikada çalışan insanlar benzer koşulları paylaşabilir; ama bu ortak koşulun ortak siyasal bilince dönüşmesi örgütlenme, dil, deneyim ve çatışma gerektirir.

@@ -88,6 +88,13 @@ Birinci Dünya Savaşı, 19. yüzyılın liberal ticaret ve altın standardı d�
 
 Bu kırılma marjinalizm açısından şunu gösterir: Piyasa dengesi fikri güçlü bir düşünme aracıdır, ama tarih bazen dengeyi değil, kopuşu anlatır. Savaş, borç, enflasyon, işsizlik ve siyasal radikalleşme, modelin sakin çizgilerinin dışında çok sert gerçeklikler üretir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Denge teorisi yükselirken aynı çağda altın standardı, imparatorluk ve savaş hazırlığı büyük basınç üretiyordu.
+- **Baskın bakış:** Model piyasayı sakin bir uyum alanı gibi görür; devletlerarası güç rekabeti dışarıda kalabilir.
+- **Güçlü karşı fikir:** Tarihsel politik iktisat, fiyatların arkasında borç, donanma, koloni ve güvenlik zorunu arar.
+- **Doğruya yaklaşma soruları:** Denge hangi güç koşulunda kuruluyor, para düzeni kime disiplin uyguluyor, stratejik karar fiyat sinyaliyle açıklanabilir mi?
+
 ## İleri düzey okuma
 
 Askerî-mali kartta ileri düzey okuma, denge teorisinin hangi tarihsel gürültüleri sessizleştirdiğini sormaktır. Model bir piyasayı temiz varsayımlarla kurar; ama aynı dönemde imparatorluklar liman, maden, borç ve askerî rota için rekabet eder.

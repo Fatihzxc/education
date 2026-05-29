@@ -82,6 +82,13 @@ piyasa sahnesi
 
 Bu yüzden "neoklasik dönem devletsiz dönemdir" demek yanıltıcı olur. Daha doğru ifade şudur: Devlet çoğu zaman piyasanın dışındaki bir düşman gibi değil, piyasa düzenini mümkün kılan arka plan kurumu gibi düşünülür.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Piyasa koordinasyonunu teknik olarak açıklayan dil, devlet müdahalesinin gerekçelerini de teknikleştirdi.
+- **Baskın bakış:** Verimlilik, piyasa aksaklığı ve hakem devlet dili öne çıkar.
+- **Güçlü karşı fikir:** Adalet, tarihsel haksızlık ve sınıf gücü yalnızca aksaklık kategorisiyle yakalanamayabilir.
+- **Doğruya yaklaşma soruları:** Müdahale verimliliği mi adaleti mi hedefliyor, piyasa hangi hukukla kurulmuş, dışarıda kalan zararları kim taşıyor?
+
 ## İleri düzey okuma
 
 Devlet kartında ileri katman, neoklasik politika dilinin "verimlilik" ile "adalet" arasındaki ilişkiyi nasıl yeniden kurduğunu görmektir. Bir politika teknik olarak kaynak dağılımını iyileştirebilir; ama bu iyileşmenin kimin refahını artırdığı, kimin gücünü azalttığı ayrı bir sorudur.

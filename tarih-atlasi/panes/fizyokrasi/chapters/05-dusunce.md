@@ -80,6 +80,13 @@ Doğal düzeni anlamak güzel. Kimin doğal düzeninden söz edildiğini sormak 
 
 Kısa sonuç şu: Fizyokrat düşünce bize ekonominin görünmeyen bağlantılarını aramayı öğretir; ama aynı zamanda "doğa" adına konuşan her teoriyi insani sonuçlarıyla sınamamız gerektiğini hatırlatır.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Ekonomiyi tek tek emirler yerine yasaları olan bir dolaşım sistemi gibi anlama arzusu büyüdü.
+- **Baskın bakış:** Hekim, model kurucu ve ansiklopedi çevresi aklı öne çıkar; halkın deneyimi tabloya dolaylı girer.
+- **Güçlü karşı fikir:** Model ekonomiyi aydınlatırken sanayi, zor, koloni ve gündelik geçim korkusunu sadeleştirip dışarıda bırakabilir.
+- **Doğruya yaklaşma soruları:** Tablo neyi görünür yapıyor, neyi soyutluyor, doğal yasa dediği şey hangi tarihsel çıkarla örtüşüyor?
+
 ## İleri düzey okuma
 
 Düşünce kartında ileri düzey nokta, fizyokrasinin iktisada ilk "sistem" görüntülerinden birini vermesidir. Quesnay'nin *Tableau Économique*'i ekonomiyi parçalar toplamı değil, sınıflar arasında dolaşan bir akım gibi gösterir. Bu, modern milli gelir hesaplarının ve girdi-çıktı tablolarının uzak atası gibi düşünülebilir.

@@ -79,6 +79,27 @@ Birinci yanlış: "Marx'a göre kâr sadece patronun işçiyi kandırmasıdır."
 
 Kısa sonuç şu: Marx pane'i, klasik iktisadın "değer emekten gelir" cümlesini alır ve şu soruya çevirir: O halde emekçinin üretmediği değil, ürettiği fazla kime kalıyor?
 
+## Kök sebep ve karşı okuma merceği
+
+Marx'ın kök sebebi sanayi kapitalizminin sert çelişkisidir: Bir yanda üretkenlik, şehir, teknoloji ve zenginlik artar; öte yanda işçi uzun saatler çalışır, güvencesizleşir ve ürettiği değerin tamamına sahip olamaz. Marx bu gerilimi "kötü niyetli patronlar" düzeyinde değil, emek-gücünün meta haline gelmesi düzeyinde açıklar.
+
+Ama Marx'ı da tek hakikat sesi gibi okumamak gerekir. Karşı fikirler güçlüdür. Klasik liberal "piyasada özgür sözleşme var" der. Marjinalist "değer emekten değil, son birimin faydasından gelir" diye itiraz eder. Kurumsalcı okuma "hukuk, sendika, demokrasi ve refah devleti kapitalizmi dönüştürebilir" der.
+
+| Marxçı okuma | Karşı fikir | Okurun kontrol sorusu |
+|---|---|---|
+| Kâr artı-değerden gelir | Kâr risk, sermaye ve girişim karşılığıdır | Risk kimin, değer üretimi kimin üzerinde? |
+| Hukuki eşitlik yetmez | Sözleşme özgürlüğü temel haktır | Taraflar aynı maddi güçle mi sözleşiyor? |
+| Sınıf çatışması merkezdir | Bireysel tercih ve kurumlar fark yaratır | Sınıf dışındaki etkenler analizi nasıl değiştirir? |
+
+Doğruya yaklaşmak için Marx'ı hem güçlü hem sınırlı oku: Üretim ilişkisini görünür kıldığı yerde çok keskindir; bireysel motivasyon, kültür, kurum ve piyasa bilgisinin çeşitliliğini bazen fazla geri plana itebilir.
+
+## Dört kontrol sorusu
+
+- **Kök sebep:** Sanayi kapitalizmi üretkenliği artırırken işçi emeğinin artı ürününe kimin el koyduğu sorusu sertleşti.
+- **Baskın bakış:** Marx açıkça emek ve sınıf mücadelesi tarafından konuşur; bu taraflılık gizli değil, yöntemin parçasıdır.
+- **Güçlü karşı fikir:** Liberal sözleşme özgürlüğünü, marjinalizm öznel değeri, kurumsalcılık reform imkânlarını öne çıkarır.
+- **Doğruya yaklaşma soruları:** Sözleşen tarafların maddi gücü eşit mi, kâr hangi mekanizmadan doğuyor, sınıf dışındaki etkenler tabloyu nasıl değiştiriyor?
+
 ## İleri düzey okuma
 
 Temeli öğrendikten sonra Marx'ı daha ileri düzeyde şöyle okuyabiliriz: Marx'ın asıl hamlesi, kapitalizmi yalnızca eşitsiz gelir dağılımı olarak değil, **eşit görünen mübadele ile eşitsiz üretim arasındaki bağ** olarak çözmesidir.

@@ -97,6 +97,13 @@ Bir vergi düzenini değerlendirirken şu dört soruyu sormak iyi olur: Para top
 
 Hazineyi doldurmak yetmez. Hazineyi doldururken toplumu taşıyan zemini çökertmemek gerekir.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Savaş borçları ve vergi muafiyetleri devleti mali çıkmaza soktu; tek vergi bu çıkış arayışından doğdu.
+- **Baskın bakış:** Maliye reformcusu devletin sürdürülebilir gelirini arar; vergi yükünü taşıyan köylü ve şehirli ayrı deneyimler yaşar.
+- **Güçlü karşı fikir:** Toprak rantını vergilendirmek adil görünebilir, ama uygulama gücü ve siyasal direnç sonucu belirler.
+- **Doğruya yaklaşma soruları:** Vergi gerçekten artığın olduğu yere mi gidiyor, yük kimden kime kayıyor, savaş maliyeti hangi sınıfı zorluyor?
+
 ## İleri düzey okuma
 
 Askerî-mali kartın ileri katmanında fizyokrasi, Fransa'nın mali krizine verilmiş bir cevap gibi görünür. Savaşlar, saray harcamaları, borç ve karmaşık vergi düzeni devleti sıkıştırır. Fizyokratların tek vergi fikri, bu sıkışmayı sade bir mali ilkeye bağlamak ister: Artık nerede doğuyorsa vergi oradan alınmalıdır.

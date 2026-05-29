@@ -105,6 +105,13 @@ tüketim = gelir + borç + gelecek kaygısı
 
 Bu küçük ayrım çok şey anlatır. Aynı alışveriş görüntüsünün arkasında iki farklı toplum olabilir: biri gelir güveniyle tüketir, diğeri borç çevirerek.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Savaş sonrası tam istihdam ve refah devleti güven üretirken, 1970 sonrası enflasyon ve küresel rekabet bu güveni kırdı.
+- **Baskın bakış:** Keynesçi anlatıda ücretli orta sınıf ve sosyal haklar, monetarist dönüşte fiyat istikrarı ve esnek piyasa öne çıkar.
+- **Güçlü karşı fikir:** Refah devleti herkes için eşit işlemedi; piyasa disiplini ise riski bireyin omzuna yıkabilir.
+- **Doğruya yaklaşma soruları:** Risk kim tarafından taşınıyor, ücret mi borç mu tüketimi sürüklüyor, sendikasız ve güvencesiz çalışan nerede duruyor?
+
 ## İleri düzey okuma
 
 Temel hikâyeden sonra daha ileri katmanda şu soruyu sorabiliriz: Savaş sonrası refah düzeni yalnızca iyi niyetli sosyal politika mıydı, yoksa kapitalizmin kendi meşruiyetini koruma biçimi miydi?

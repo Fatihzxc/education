@@ -97,6 +97,13 @@ Kamunun gözünü anlamak istiyorsan üçlü bir okuma yap:
 
 Bu üçü birlikte olduğunda tarih daha canlı olur. Çünkü artık yalnızca "marjinalizm ne dedi?" diye sormazsın. "Bu düşünce hangi dünyada makul göründü, hangi insan deneyimlerini aydınlattı, hangilerini gölgede bıraktı?" diye de sorarsın.
 
+## Dört kontrol sorusu
+
+- **Kök sebep:** Uzmanlaşan iktisat, ders kitabı, istatistik ve gazete diliyle kamusal hayata sızdı.
+- **Baskın bakış:** Uzman ve istatistikçi dili baskındır; sıradan insanın deneyimi teknik terime çevrilebilir.
+- **Güçlü karşı fikir:** Roman, tanıklık ve eleştirel gazetecilik sayıların sakladığı statü, arzu ve güvencesizliği gösterir.
+- **Doğruya yaklaşma soruları:** İstatistik hangi deneyimi ölçüyor, hangi duyguyu ölçemiyor, gazete/roman kimin sınıf gözünü taşıyor?
+
 ## İleri düzey okuma
 
 Kamunun gözü kartında ileri düzey mesele, uzman dilinin kamu hayatında nasıl otorite kazandığıdır. Arz-talep eğrisi, fiyat endeksi, istatistik tablo ve uzman yorumu ekonomiyi anlaşılır kılabilir; ama aynı zamanda sıradan insanın deneyimini ikinci plana itebilir.
