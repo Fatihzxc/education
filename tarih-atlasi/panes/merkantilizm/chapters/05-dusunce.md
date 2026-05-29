@@ -30,6 +30,19 @@ Merkantilizm tartışmasını öğrenirken en faydalı şey, yazarların neye ı
 
 Bu matrisi bir uyarı levhası gibi kullanabiliriz. Merkantilizm tek bakışla bitmez; hangi soruyu sorduğumuza göre başka yüzü görünür.
 
+### Etiket kontrol kartı: bir dönemi kim adlandırıyor?
+
+Tarihsel etiketler masum değildir. "Merkantilizm" dediğimizde, dağınık bir dönemi tek kelimeyle tutarız; bu öğrenmeyi kolaylaştırır. Ama aynı anda Smith'in polemiğini, tarihçinin düzenleme arzusunu ve sonradan kazanan teorinin sesini de içeri alırız.
+
+| Etiketi kullanan | Ne kazanır? | Neyi saklayabilir? | Kontrol sorusu |
+|---|---|---|---|
+| Smith | Kendi serbestlik tezini daha parlak kurar | Devlet kapasitesi ve geç kalkınma sorununu | Eleştirdiği sistem gerçekten tek sistem miydi? |
+| Tarihçi | Karmaşık pratikleri sınıflandırır | Yerel farkları ve çelişkileri | Etiket açıklıyor mu, düzleştiriyor mu? |
+| Geç kalkınan ülke | Koruma ve öğrenme örnekleri bulur | Kötü korumacılığı meşrulaştırabilir | Koruma kapasite mi kuruyor, rant mı? |
+| Sömürge bakışı | Güç ve ticaret bağını açığa çıkarır | Avrupa içi devlet inşasını tek başına suç gibi gösterebilir | Kimin güvenliği, kimin kaybı üzerinden kuruldu? |
+
+Bu kartın amacı etiketi atmak değil, etiketi elinde çevirmektir. İyi okur, kelimeyi kullanır ama kelimenin kendisini de sorgular.
+
 ## Smith neden haklıydı, neden eksikti?
 
 Smith'in eleştirisinde güçlü bir taraf var. Serveti yalnızca altın ve gümüş gibi düşünmek gerçekten yanlıştır. Bir halkın gerçek zenginliği, tüketebildiği ve üretebildiği mal ve hizmetlerle ilgilidir. Ayrıca tekel imtiyazları, gümrükler ve şirket ayrıcalıkları çoğu zaman dar grupları zenginleştirip tüketiciyi yoksullaştırabilir.

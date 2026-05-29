@@ -52,6 +52,19 @@ tasarruf etmek daha da zorlaşır
 
 Keynes'in makroyu mikrodan ayıran büyük sezgilerinden biri budur. Tek tek doğru görünen davranış, toplu düzeyde yanlış sonuç verebilir.
 
+### Hane bütçesi kartı: tasarruf ne zaman erdem, ne zaman sorun?
+
+Tasarruf paradoksunu anlamanın en kolay yolu bir hane ile bütün ekonomiyi ayırmaktır. Tek bir hane için harcamayı kısmak akıllıca olabilir. Ama herkes aynı anda harcamayı kısarsa, birinin tasarrufu başkasının gelir kaybına dönüşebilir.
+
+| Düzey | Tasarruf nasıl görünür? | İyi tarafı | Tehlikeli tarafı |
+|---|---|---|---|
+| Tek hane | Gelecek için güvenlik | Borçtan kaçınır, dayanıklılık sağlar | Gelir çok düşükse zorunlu yoksunluğa dönüşür |
+| Esnaf | Müşteri azalması | Maliyet kontrolü öğrenilir | Satış düşerse işçi çıkarma başlar |
+| Tüm ekonomi | Harcama akışı yavaşlar | Kaynak israfı azalabilir | Gelir, üretim ve istihdam birlikte düşebilir |
+| Devlet | Talebi destekleme baskısı doğar | Çöküşü frenleyebilir | Borç ve enflasyon riski yaratabilir |
+
+Bu kart şunu netleştirir: Keynes tasarrufa ahlaki olarak karşı değildir. Onun sorusu daha yapısaldır: Herkes aynı anda güvenlik ararken, toplam sistem güvensiz hale geliyor mu?
+
 ## Faiz ve likidite tercihi
 
 Klasik-neoklasik düşüncede faiz çoğu zaman tasarruf ile yatırımı dengeleyen fiyat gibi anlatılır. Keynes buna itiraz eder. Ona göre insanlar belirsizlikte parayı sadece harcamak için değil, **elde tutmak** için de ister. Paranın elde tutulması güven hissi verir. Buna likidite tercihi diyebiliriz.

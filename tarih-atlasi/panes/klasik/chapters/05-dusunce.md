@@ -73,6 +73,19 @@ Bir düşünürün en güçlü cümlesini öğrenmek güzel bir başlangıçtır
 
 Bu matrisi okurken amaç taraf seçmek değildir. Amaç şu beceriyi kazanmaktır: Bir fikrin neyi aydınlattığını görünce, aynı anda neyi gölgede bıraktığını da sorabilmek.
 
+### Ders kitabı kanonu kartı: kim merkeze alındı, kim kenarda kaldı?
+
+Klasik iktisadı çoğu zaman Smith, Malthus, Ricardo ve Mill üzerinden öğreniriz. Bu kanon işe yarar; çünkü ana tartışma hattını tutar. Ama her kanon bir seçimdir. Seçim yapılınca bazı sesler merkeze, bazıları kenara gider.
+
+| Merkezdeki ses | Ne öğretir? | Kenarda kalabilecek ses | Kontrol sorusu |
+|---|---|---|---|
+| Smith | İş bölümü, piyasa ve ahlaki düzen | Kadın emeği, koloni deneyimi, kölelik eleştirileri | Piyasa özgürlüğü kime açık? |
+| Malthus | Nüfus ve geçim baskısı | Yoksulların kendi anlatısı | Yoksulluk doğa yasası mı, kurum sonucu mu? |
+| Ricardo | Bölüşüm ve rant mantığı | Kiracı, işçi ve koloni üreticisi | Soyut model kimin hayatını sadeleştiriyor? |
+| Mill | Özgürlük, reform ve durağan durum | Kadın hareketi, sendika, sosyalist tartışma | Liberal reform sınırı nerede duruyor? |
+
+Bu kart klasik düşünceyi genişletir. Büyük isimleri bırakmayız; ama onların yanında duyulmayan deneyimlerin hangi soruları açtığını da takip ederiz.
+
 ## Birbirlerine nasıl cevap verdiler?
 
 Bu düşünürleri ayrı ayrı kutular gibi değil, birbirine cevap veren sesler gibi okumak daha öğreticidir.

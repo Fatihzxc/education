@@ -95,6 +95,20 @@ Devleti ya tamamen kurtarıcı ya da tamamen sorun gibi görmek kolaydır, ama t
 
 Bu tablo bize sıcak bir akıl verir: Devlet meselesi ideolojik sloganla bitmez. Hangi devlet? Hangi kapasiteyle? Hangi hesap verebilirlikle? Hangi sınıfsal dengede? Hangi kriz karşısında?
 
+### Bütçe kararı kartı: aynı harcama kime sığınak, kime fatura?
+
+Devlet harcaması soyut bir sayı gibi görünür; ama toplumda farklı kapılardan içeri girer. Aynı bütçe kararı bir işsiz için gelir, bir müteahhit için ihale, bir vergi veren için yük, bir merkez bankası için enflasyon baskısı olabilir.
+
+| Göz | Devlet müdahalesini nasıl hisseder? | Haklı kaygısı | Kontrol sorusu |
+|---|---|---|---|
+| İşsiz hane | Gelir ve talep desteği | Hayatta kalma ve iş bulma | Destek geçici mi, kalıcı beceri de kuruyor mu? |
+| İşveren | Sipariş, kredi veya teşvik | Nakit akışı ve yatırım | Destek rekabeti bozuyor mu? |
+| Vergi veren | Bugünkü veya gelecekteki yük | Adalet ve etkinlik | Yük kime, fayda kime gidiyor? |
+| Merkez bankası | Talep ve fiyat baskısı | Para güveni | Harcama üretimi mi artırıyor, fiyatı mı? |
+| Muhalif yurttaş | Kayırma riski | Hesap verebilirlik | Karar şeffaf ve denetlenebilir mi? |
+
+Bu kart devlet tartışmasını slogan olmaktan çıkarır. Devlet bazen gerçekten sığınak olur; ama hangi araçla, hangi denetimle ve hangi maliyetle sorusu hiç kaybolmamalıdır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Krizler devleti kurtarıcı gibi, enflasyon ve borç ise devleti sorun gibi gösterdi.

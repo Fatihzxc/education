@@ -65,6 +65,19 @@ Bu yüzden pane'in devlet kartı iki uyarıyla okunmalı:
 | Dışsallık, tekel, kamu malı gibi aksaklıkları adlandırır | Siyasetin ahlaki ve tarihsel tarafını zayıflatabilir |
 | Reform için maliyet-fayda dili verir | Hak ve adalet sorununu verimlilik sorununa çevirebilir |
 
+### Teknikleşme kartı: politika ne zaman hesap gibi görünür?
+
+Marjinalist dönemde devlet tartışmasının dili daha teknik hale gelir: fayda, maliyet, etkinlik, denge, teşvik. Bu dil yararlıdır; çünkü bulanık tartışmaları ölçülebilir sorulara çeker. Ama aynı zamanda politik çatışmayı yalnız hesap meselesi gibi gösterebilir.
+
+| Teknik dil | Ne kazandırır? | Neyi soğutabilir? | Kontrol sorusu |
+|---|---|---|---|
+| Etkinlik | Kaynak israfını görür | Bölüşüm adaletini geri plana iter | Etkin olan kimin için iyi? |
+| Teşvik | Davranış mekanizmasını açıklar | Güç ve zorunluluğu tercih gibi okuyabilir | İnsan seçiyor mu, sıkışıyor mu? |
+| Denge | Sistemin nasıl durulduğunu gösterir | Kriz, tarih ve çatışmayı azaltabilir | Dengeye kim hangi bedelle geliyor? |
+| Refah hesabı | Politika etkisini karşılaştırır | Ölçülemeyen acıları dışarıda bırakabilir | Hangi zarar tabloya girmiyor? |
+
+Bu kart marjinalist dili reddetmez. Sadece şunu hatırlatır: Teknik açıklama bazen ışık tutar, bazen de yüksek sesli politik soruları kısık sesli matematiğe çevirir.
+
 ## Devlet hangi alanlarda vazgeçilmez kaldı?
 
 Marjinalist dil piyasanın koordinasyon gücünü vurgulasa da 1871-1930 dünyasında devlet hiç de küçük bir gölge değildir. Para düzeni, merkez bankacılığı, gümrük tarifeleri, patentler, demiryolları, eğitim, ordu, sömürge yönetimi, şehir altyapısı ve kamu sağlığı devletin elindedir.

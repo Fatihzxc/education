@@ -78,6 +78,20 @@ Bu blok Marx'ın kök sezgisini sadeleştirir: Kapitalizmin "başlangıç sermay
 
 Bu tablo bize şunu gösterir: Sermaye yalnızca para değildir. Bir ilişki kurma ve dünyayı dönüştürme gücüdür.
 
+### Ucuz malın dünya defteri
+
+Marxçı askerî-mali güç okuması, bir malın ucuzluğunu tek başına verimlilik başarısı gibi görmemeyi öğretir. Ucuz fiyat bazen teknoloji ve ölçekle açıklanır; bazen de uzak bir yerde düşük ücret, zayıf sendika, maden baskısı, borçlu devlet veya zorla kurulmuş ticaret düzeniyle mümkün olur.
+
+| Defter satırı | Görünen fayda | Sorulacak arka soru |
+|---|---|---|
+| Hammadde | Üretim maliyeti düşer | Maden, toprak veya enerji kimin denetiminde? |
+| Emek | Mal daha ucuz çıkar | Ücret ve çalışma temposu nasıl kuruldu? |
+| Lojistik | Uzak pazarlar birleşir | Liman, kanal ve rota güvenliği hangi güçle sağlanıyor? |
+| Finans | Büyük yatırım mümkün olur | Borç riski kimin üstünde kalıyor? |
+| Devlet | Ticaret anlaşması ve koruma sağlar | Kamu gücü şirket kârına mı çalışıyor? |
+
+Bu defter ucuz malı suçlamak için değil, fiyatın arkasındaki dünya ilişkisini görmek için var. Marxçı mercek tam burada keskinleşir: fiyat etiketi küçük, onu mümkün kılan güç ağı büyüktür.
+
 ## Kriz neden sistemin içinden gelir?
 
 Marx için kriz dışarıdan gelen talihsizlik değildir. Kapitalizmin kendi hareketinden doğabilir. Her kapitalist daha çok üretmek, maliyeti düşürmek ve pazarı genişletmek ister. Ama işçilerin alım gücü sınırlıysa, pazar tıkanabilir. Rekabet aşırı yatırım yaratabilir. Kâr oranları baskılanabilir. Borç sistemi şişebilir.
