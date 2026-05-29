@@ -109,6 +109,19 @@ Devlet harcaması soyut bir sayı gibi görünür; ama toplumda farklı kapılar
 
 Bu kart devlet tartışmasını slogan olmaktan çıkarır. Devlet bazen gerçekten sığınak olur; ama hangi araçla, hangi denetimle ve hangi maliyetle sorusu hiç kaybolmamalıdır.
 
+### Kamu güveni kartı: iyi araç neden bazen kötü hissedilir?
+
+Bir devlet politikası teknik olarak doğru tasarlanmış olabilir; yine de toplum onu güvensizlikle karşılayabilir. Çünkü insanlar yalnız sonuca değil, kararın nasıl alındığına, yükün kime kaldığına ve daha önce verilen sözlerin tutulup tutulmadığına da bakar.
+
+| Güven alanı | Devlet ne vaat eder? | Halk neyi kontrol eder? | Karşı okuma |
+|---|---|---|---|
+| Şeffaflık | Harcamanın gerekçesi açık | Para nereye gidiyor? | Bilgi yoksa söylenti büyür |
+| Adalet | Yük dengeli dağılacak | Vergi ve enflasyon kime biniyor? | Aynı politika farklı sınıflara farklı iner |
+| Geçicilik | Kriz aracı kalıcı olmayacak | Olağanüstü yetki normalleşiyor mu? | Kriz dili denetimi zayıflatabilir |
+| Kapasite | Devlet uygulayabilecek | Kurumlar işi gerçekten taşıyor mu? | İyi niyet kötü uygulamada güven kaybeder |
+
+Bu kart Keynesçi devlet fikrini daha gerçekçi yapar. Devlet krizde gerekli olabilir; ama gereklilik tek başına güven üretmez. Güven, kararın anlaşılır, denetlenebilir ve adil hissedilmesiyle kurulur.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Krizler devleti kurtarıcı gibi, enflasyon ve borç ise devleti sorun gibi gösterdi.

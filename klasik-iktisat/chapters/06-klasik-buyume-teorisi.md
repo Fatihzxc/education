@@ -6,6 +6,20 @@ Bu bölüm klasik iktisadın *büyüme teorisini* — uzun-vadeli ekonomik geni�
 
 Klasik büyüme teorisini incelemenin bugün özel bir aktüalitesi vardır. Sekiz milyarlık nüfus, daralan biyofiziksel sınırlar, iklim değişikliğinin sermaye birikim mantığıyla yapısal çatışması — bunlar Malthus'un, Ricardo'nun, Mill'in 19. yüzyıl başında sordukları sorulara şaşırtıcı bir tazelik kazandırmıştır. *Sınır var mıdır? Sınır nüfustan mı, verimden mi, kurumsal düzenden mi gelir? Büyümeyi yavaşlatmak rasyonel bir tercih olabilir mi?* Bu sorular ekoloji-iktisadı, *post-growth* tartışmaları ve *degrowth* hareketi içinde yeniden açılmaktadır. Klasiklerin "karanlık bilim" niteliği, modern büyüme iyimserliğinin uzun-vadeli sürdürülebilirliği üzerinde bir aynadır.
 
+### Temel büyüme pusulası: önce motoru, sonra freni gör
+
+Bu bölüm uzun ve kavramca yoğun görünebilir. Onu en baştan şöyle sadeleştirelim: Klasik büyüme teorisi, bir ekonominin hangi motorla ilerlediğini ve hangi frene çarptığını sorar. Motoru görmeden umut anlaşılmaz; freni görmeden kriz anlaşılmaz.
+
+| Mercek | Büyümenin motoru | Büyümenin freni | Okurun soracağı sade soru |
+|---|---|---|---|
+| Smith | İşbölümü, pazar genişliği, birikim | Tekel, dar pazar, kötü kurum | Üretim neden hızlanıyor? |
+| Malthus | Geçici refah artışı ve nüfus | Gıda ve geçim baskısı | Toplam artış kişi başına yetiyor mu? |
+| Ricardo | Kâr ve sermaye birikimi | Rant ve azalan toprak verimi | Büyümenin payını kim çekiyor? |
+| Mill | Maddi refahın belli bir eşiğe gelmesi | Sonsuz büyümenin hayatı daraltması | Yeterlilikten sonra neyi büyütmeliyiz? |
+| Marx | Sermayenin sürekli genişleme zorunluluğu | Sınıf çatışması, kriz ve yoğunlaşma | Büyüme kimin emeğiyle, kimin mülküyle oluyor? |
+
+Bu pusula bölümün geri kalanını daha okunur yapar. Her alt başlıkta aynı iki soruyu taşı: "Bu düşünür büyümeyi hangi mekanizmayla açıklıyor?" ve "Bu mekanizma hangi insanları veya sınırları geride bırakıyor?"
+
 ## 6.2 Smithian model — artan-getiri optimizmi
 
 *Wealth of Nations*'ın birinci kitabının üçüncü bölümü tek bir cümle etrafında örülmüştür: *"the division of labour is limited by the extent of the market."* İşbölümü pazarın genişliği ile sınırlıdır^[1]. Bu cümlenin tersi de doğrudur: işbölümü genişledikçe pazar genişler, pazar genişledikçe işbölümü genişler. Smith'in büyüme modelinin çekirdek mekanizması bu döngüdür — pozitif geri besleme, *virtuous cycle*.

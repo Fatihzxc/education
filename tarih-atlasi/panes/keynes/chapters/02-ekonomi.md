@@ -125,6 +125,19 @@ Bu yüzden politika seçimleri her zaman bedel taşır.
 
 Bu tablo bize şunu anlatır: Makro iktisat teknik görünür, ama sonunda toplumsal öncelik seçimidir.
 
+### Mini gösterge panosu: kriz hangi yüze sahip?
+
+Keynesçilik ve monetarizmi karıştırmamak için iki göstergeyi yan yana koy: işsizlik ve enflasyon. Bu iki sayı birlikte okunduğunda, krizin hangi tür acı ürettiği daha berrak görünür.
+
+| Durum | İşsizlik | Enflasyon | İlk akla gelen kaygı | Hangi mercek güçlenir? |
+|---|---:|---:|---|---|
+| Talep çöküşü | Yüksek | Düşük veya zayıf | İş ve gelir kaybı | Keynesçi talep yönetimi |
+| Aşırı ısınma | Düşük | Yüksek | Para güveni ve fiyat artışı | Monetarist disiplin |
+| Stagflasyon | Yüksek | Yüksek | Aynı anda işsizlik ve hayat pahalılığı | Karma açıklama: arz şoku, beklenti, kurumlar |
+| Durgun istikrar | Düşük | Düşük | Görünürde sakinlik, ama kırılganlık olabilir | Finansal ve kurumsal okuma |
+
+Bu tablo bir reçete değil, ilk teşhis aracıdır. Çünkü aynı sayıların arkasında enerji fiyatı, ücret pazarlığı, döviz, borç, savaş veya finansal panik olabilir. Yine de başlangıç için iyi bir pusula verir: Ekonomi hangi acıyı daha görünür hale getiriyor?
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Ekonominin toplam harcama eksikliğiyle durabileceği ve para genişlemesiyle fiyatların hızlanabileceği aynı yüzyılda görüldü.
