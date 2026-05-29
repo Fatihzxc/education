@@ -4,6 +4,43 @@
 
 ---
 
+## Okuma pusulası: Marx'ı dışarıdan değil, içeriden oku
+
+Bu yazının en temel fikri şu: Marx, klasik iktisadın dışından bağıran biri değildir; Smith ve Ricardo'nun kurduğu dili içeriden sıkıştıran biridir. Onların kavramlarını alır, "peki bu mantığı sonuna kadar götürürsek ne olur?" diye sorar.
+
+| Mercek | Bu yazıda neyi arayacağız? | Neden önemli? |
+|--------|-----------------------------|---------------|
+| **Kök sebep** | Sanayi kapitalizminin üretkenlik yaratırken sömürü, kriz ve yabancılaşma üretmesi | Marx'ın öfkesinin yalnız ahlaki değil, analitik bir problemden doğduğunu görürüz |
+| **Baskın bakış** | İşçi sınıfının deneyimi, ama burjuva entelektüel araçlarla kurulmuş bir teori | Marx'ın hem içeriden hem dışarıdan konuşan karmaşık konumunu anlarız |
+| **Güçlü karşı fikir** | Marjinalizm, liberal sözleşme özgürlüğü, kurumsal reformculuk, Poppercı eleştiri | Marx'ın açıklama gücünü ve sınırlarını birlikte tartarız |
+| **Kamu gözü** | Uzun işgünü, işçi gazetesi, sürgün, çocuk ölümü, fabrika raporu | Kapitalizmi yalnız model değil, yaşanan dünya olarak okuruz |
+| **Öğrenme desteği** | Gerekli emek / artı emek şeması ve görünüş / gerçeklik tablosu | Marx'ın zor kavramlarını zihinde tutabileceğin basit tutamaklar edinirsin |
+
+Marx'ı anlamanın sıcak ve sade yolu şudur: Önce onun kızgınlığını değil, sorduğu soruyu gör. Soru şudur: "Eğer herkes piyasada eşit ve özgür görünüyorsa, kâr düzenli biçimde nasıl ortaya çıkıyor?" Marx'ın büyük hamlesi bu görünürdeki eşitliğin arkasındaki üretim ilişkisine bakmasıdır.
+
+## Öğrenme desteği: iki tabloyu hep yanında tut
+
+Marx okurken iki küçük görsel tablo çok işe yarar.
+
+Birinci tablo, artıdeğer mantığını sadeleştirir:
+
+```text
+İş günü
+├── Gerekli emek: işçinin ücretini karşılayan değer
+└── Artı emek: kapitalistin el koyduğu değer
+```
+
+İkinci tablo, Marx'ın "görünüş" ile "gerçek ilişki" ayrımını gösterir:
+
+| Görünüş | Marx'ın sorduğu arka soru |
+|---------|---------------------------|
+| İşçi ücret karşılığı özgürce çalışır | İşçi yaşamak için emek-gücünü satmak zorunda mı? |
+| Kâr sermayenin ödülüdür | Kâr hangi emek zamanından doğuyor? |
+| Meta sadece fiyatı olan eşyadır | Bu fiyat hangi insan ilişkilerini saklıyor? |
+| Devlet tarafsız hukuk sağlar | Hukuk hangi mülkiyet düzenini normalleştiriyor? |
+
+Bu tablolar Marx'ı kolaylaştırır çünkü onun dili bazen ağır görünür; ama çoğu zaman yaptığı şey, gündelik bir görüntünün arkasındaki ilişkiyi sormaktır.
+
 ## 0. Çerçeve: Marx Neyi Eleştiriyor?
 
 Marx Smith ve Ricardo'yu **derinlemesine okur**, onları takdir eder, ama mantıklarını sonuna kadar götürdüklerinde göstermedikleri yeri görür.
@@ -404,6 +441,22 @@ Daha sonra ne olacaktır?
 
 ---
 
+## İleri düzey okuma: Marx'ın iki mirasını ayırmadan tartışma bulanıklaşır
+
+Marx'ı ileri düzeyde okurken en önemli ayrım şudur: Marx'ın kapitalizm analizi ile Marx adına kurulan siyasal projeler aynı şey değildir. Bu ayrım yapılmazsa tartışma hemen kilitlenir. Bir taraf "Sovyetler kötüydü, Marx bitti" der; diğer taraf "Marx haklıydı, pratikler sapmaydı" der. İkisi de meseleyi fazla hızlı kapatır.
+
+Daha sağlam okuma için üç katman ayır:
+
+| Katman | Soru | Sağlıklı okuma |
+|--------|------|----------------|
+| Analitik Marx | Kapitalizmde kâr, sınıf, kriz ve yabancılaşma nasıl işler? | Burada Marx hâlâ güçlü bir teşhis aracıdır |
+| Tarih felsefesi | Kapitalizm zorunlu olarak sosyalizme mi gider? | Burada Marx'ın bazı cümleleri fazla kesin, bazıları daha açık uçludur |
+| Politik miras | Marx adına kurulan rejimler onun teorisini nasıl kullandı? | Bu, analizden ayrı ama kaçınılamaz bir tarih sorusudur |
+
+İleri düzeyde bir başka gerilim de şudur: Marx klasik iktisadı eleştirir ama aynı zamanda ona çok şey borçludur. Emek-değer tartışması Ricardo olmadan, sınıf bölüşümü Smith ve Ricardo olmadan, kriz tartışması Malthus ve Say olmadan anlaşılamaz. Bu yüzden Marx'ı "tam kopuş" diye okumak eksik kalır. O daha çok içeriden patlatmadır: klasik iktisadın taşlarını kullanır, ama o taşlarla başka bir bina kurar.
+
+Son kontrol sorusu şu olsun: Marx bir yerde çok ikna edici geliyorsa, "hangi görünmeyen ilişkiyi açtı?" diye sor. Bir yerde fazla kesin veya kapalı geliyorsa, "burada analitik teşhis mi yapıyor, tarihsel kehanet mi kuruyor?" diye sor. Bu iki soru Marx'ı hem ciddiye almana hem de ona teslim olmamana yardım eder.
+
 ## 7. İlgili Dokümanlar
 
 - `klasik-iktisadin-olgunlasmasi-malthus-ricardo-mill.md` — **Bu dokümanın öncülü**: Marx'ın eleştirdiği klasik iktisat
@@ -429,4 +482,4 @@ Daha sonra ne olacaktır?
 
 ---
 
-*Son güncelleme: 26 Mayıs 2026*
+*Son güncelleme: 29 Mayıs 2026*

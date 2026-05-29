@@ -4,6 +4,46 @@
 
 ---
 
+## Okuma pusulası: bu yazıyı hangi gözle okuyalım?
+
+Bu yazının en basit iddiası şu: Adam Smith'i yalnız "çok zeki bir adam çok iyi bir kitap yazdı" diye okumak bizi eksik bırakır. Çünkü bir fikir, çoğu zaman yalnızca bir zihnin içinden değil, o zihni besleyen şehirlerden, sınıflardan, gelir ilişkilerinden, dostluk ağlarından ve devlet kurumlarından doğar.
+
+| Mercek | Bu yazıda neyi arayacağız? | Neden önemli? |
+|--------|-----------------------------|---------------|
+| **Kök sebep** | 1707 sonrası İskoçya'nın İngiliz pazarına ve imparatorluk ticaretine bağlanması | Smith'in serbest ticaret dilinin hangi maddi dünyadan çıktığını görürüz |
+| **Baskın bakış** | Glasgow tüccarı, üniversite hocası, aristokrat patronajı ve Britanya devlet aklı | "Evrensel akıl" gibi duran şeyin hangi sınıf konumundan makul göründüğünü anlarız |
+| **Güçlü karşı fikir** | List, Marx, Polanyi, feminist ve post-kolonyal okumalar | Smith'in doğru gördüğü yerlerle görünmez bıraktığı yerleri aynı anda tutarız |
+| **Kamu gözü** | Tütün limanı, sömürge emeği, gümrük, ekmek fiyatı, iş ve vergi | Teorinin halk hayatına nasıl değdiğini soyut bırakmayız |
+| **Öğrenme desteği** | Ağ haritası: kişi -> kurum -> para kaynağı -> çıkar | Fikri ezberlemek yerine hangi kanaldan beslendiğini takip ederiz |
+
+Bunu şöyle düşünebiliriz: Smith bir odada tek başına oturup "piyasa"yı icat etmedi. O odanın kirasını, kitaplığını, sohbet çevresini, maaşını ve okur kitlesini kuran bir dünya vardı. Bu dünya görülünce Smith küçülmez; tersine daha gerçek, daha anlaşılır ve daha ilginç hale gelir.
+
+## Öğrenme desteği: sayı + ses + şema
+
+Bu dokümanı okurken yanına küçük bir not kâğıdı açıp üç sütun tut:
+
+| Kanıt türü | Ne yazılır? | Sana ne kazandırır? |
+|------------|-------------|---------------------|
+| **Sayı** | Glasgow nüfusu, gümrük geliri, devlet borcu, ticaret hacmi gibi ölçek göstergeleri | "Bu dönüşüm ne kadar büyüktü?" sorusuna göz kararı değil, ölçüyle bakarsın |
+| **Ses** | Tüccar, profesör, gümrük memuru, kolonide çalışan köleleştirilmiş insan, tüketici | Aynı düzenin farklı insanlar için ne anlama geldiğini duyarsın |
+| **Şema** | Para -> üniversite -> kulüp -> kitap -> politika zinciri | Fikirlerin yalnız kitaplardan değil, kurumlardan da geçtiğini görürsün |
+
+Kısa şema:
+
+```text
+İmparatorluk ticareti
+        ↓
+Glasgow tüccar sermayesi
+        ↓
+Üniversite, kulüp, patronaj ağı
+        ↓
+Smith'in ahlak ve iktisat dili
+        ↓
+Serbest ticaretin Britanya lehine evrenselleştirilmesi
+```
+
+Bu şema sana kesin bir "Smith sadece tüccarların sözcüsüdür" cümlesi vermez. Daha iyi bir şey verir: Smith'in hangi dünyada niçin ikna edici göründüğünü anlama imkânı.
+
 ## 0. Yöntemsel Çerçeve
 
 Smith genellikle "tarafsız dehasıyla iktisadın doğa yasalarını keşfeden filozof" olarak sunulur. Bu doküman aksini iddia eder: **Smith, belirli bir sınıfın, belirli bir devletin, belirli bir tarihsel anın en parlak teorisyenidir.** Bunu görmek onu küçültmez — *yerini bulmak*.
@@ -323,6 +363,22 @@ Her büyük iktisat teorisi *yükselmekte olan bir sınıfın ihtiyacının teor
 
 ---
 
+## İleri düzey okuma: Smith'i neye indirgemeden eleştirelim?
+
+Burada daha zor ama çok verimli bir ayrım var. Smith'i eleştirmek, onu "yanlış" ilan etmek değildir. Daha doğru soru şudur: Smith hangi düzeyde haklı, hangi düzeyde eksik, hangi düzeyde sonradan başka güçler tarafından kullanıldı?
+
+Üç katmanı ayır:
+
+| Katman | Soru | Dikkat edilmesi gereken nokta |
+|--------|------|-------------------------------|
+| Analitik Smith | Piyasa, işbölümü, ticaret ve üretim hakkında neyi gerçekten açıklıyor? | Burada Smith çok güçlüdür; onu hafife almak okuru fakirleştirir |
+| Tarihsel Smith | Bu açıklama hangi şehir, sınıf, kurum ve imparatorluk ilişkisi içinde doğdu? | Burada "tarafsız evrensellik" iddiası zayıflar |
+| Kullanılan Smith | 19. ve 20. yüzyılda kimler Smith'i kendi politik projesi için bayrak yaptı? | Burada yazarın niyeti ile fikrin tarihsel işlevi ayrılır |
+
+İleri düzeyde mesele şudur: Bir fikrin doğru tarafı ile iktidara yarayan tarafı aynı anda bulunabilir. Smith'in işbölümü ve ticaret analizleri gerçekten açıklayıcıdır. Ama bu açıklayıcılık, Britanya'nın sömürge ticareti, donanma üstünlüğü ve sanayi avantajı içinde evrensel reçete gibi dolaşıma girdiğinde başka bir işlev kazanır.
+
+Bu yüzden iyi okur iki hatadan kaçınır. Birinci hata, Smith'i kutsal baba yapmak ve onun cümlelerini her çağ için hazır çözüm saymaktır. İkinci hata, Smith'i sadece sınıf ideoloğu diye kapatıp onun kavramsal gücünü görmemektir. Asıl öğrenme ikisinin arasında başlar: fikrin hem aydınlattığı yeri, hem gölgelediği yeri aynı anda tutabildiğinde.
+
 ## 10. İlgili Dokümanlar
 
 - `fizyokrasi-kok-sebep-analizi.md` — Smith'in karşılaştığı Fransız geleneğinin analizi
@@ -343,4 +399,4 @@ Her büyük iktisat teorisi *yükselmekte olan bir sınıfın ihtiyacının teor
 
 ---
 
-*Son güncelleme: 26 Mayıs 2026*
+*Son güncelleme: 29 Mayıs 2026*

@@ -4,6 +4,48 @@
 
 ---
 
+## Okuma pusulası: IV. Kitap neyi çözmeye çalışıyor?
+
+Bu yazıyı okurken önce çok basit bir yerden başlamak iyi olur: IV. Kitap, Smith'in "eski ekonomik düzenle" kavgasıdır. Smith burada yalnızca teknik ticaret teorisi kurmaz; merkantilist ayrıcalıkların, sömürge tekellerinin, gümrüklerin ve üretici çıkarlarının toplumu nasıl yönlendirdiğini tartışır.
+
+| Mercek | Bu dokümandaki karşılığı | Okurken soracağın soru |
+|--------|--------------------------|------------------------|
+| **Kök sebep** | Britanya'nın savaş, borç, sömürge ve ticaret tekeli içinde sıkışması | Smith hangi problemi çözmek istiyor: verimsizlik mi, ayrıcalık mı, imparatorluk krizi mi? |
+| **Baskın bakış** | Tüketici çıkarı, serbest ticaret ve verimli sermaye kullanımı | Bu bakış kimin için makul ve rahatlatıcı görünüyor? |
+| **Güçlü karşı fikir** | Merkantilist savunma, bebek sanayi koruması, post-kolonyal eleştiri, ekolojik sınır | Smith hangi koşullarda fazla iyimser kalıyor? |
+| **Kamu gözü** | Pahalı ithal mal, iş kaybı korkusu, koloni vergisi, savaş masrafı | Soyut politika evde, limanda ve kolonide nasıl hissediliyor? |
+| **Öğrenme desteği** | Argümanı üçe ayır: analitik, normatif, retorik | Smith'in kanıtladığı şeyle varsaydığı şeyi karıştırmazsın |
+
+Buradaki en önemli alışkanlık şu: Smith bir cümle kurduğunda hemen "bu bir analiz mi, değer yargısı mı, yoksa polemik hamlesi mi?" diye sor. Çünkü IV. Kitap'ta bu üçü sık sık yan yana gelir.
+
+## Öğrenme desteği: argümanı test etme tablosu
+
+Smith'in her argümanını küçük bir test tablosuna koyabilirsin:
+
+| Test sorusu | Ne işe yarar? | Örnek |
+|-------------|---------------|-------|
+| Hangi problemden doğdu? | Kök sebebi bulur | Sömürge tekeli, üretici lobisi, ticaret dengesi korkusu |
+| Hangi varsayıma dayanıyor? | Görünmeyen zemini açar | Gönüllü ticaret, rekabet, hukuki güvenlik, bilgiye erişim |
+| Kim kazanıyor, kim kaybediyor? | Güç ilişkisini görünür yapar | Tüketici, tüccar, üretici, koloni, işçi |
+| Bir istisna var mı? | Dogmatik okumayı engeller | Savunma, eşit vergileme, misilleme, kademeli geçiş |
+| Karşı veri ne olabilir? | Ezber yerine sınama üretir | Fiyatlar, reel ücretler, sömürge maliyeti, devlet borcu |
+
+Kısa görsel akış:
+
+```text
+Merkantil ayrıcalık
+        ↓
+Üretici ve tekel kârı yükselir
+        ↓
+Tüketici daha pahalı alır
+        ↓
+Sermaye verimsiz alana gider
+        ↓
+Smith: ayrıcalığı kaldır, rekabete aç
+```
+
+Ama bu akışın yanına mutlaka şu notu düş: Eğer ticaret gönüllü değilse, eğer taraflardan biri askeri veya sömürgeci güçle dayatıyorsa, Smith'in "karşılıklı yarar" dili hemen daha zor bir soruya dönüşür.
+
 ## 0. Genel Çerçeve: IV. Kitap Ne Yapıyor?
 
 ### Kitabın Yapısı (Hatırlatma)
@@ -425,6 +467,22 @@ Gerçek katkılar:
 
 ---
 
+## İleri düzey okuma: Smith'in en güçlü tarafı aynı zamanda sınırı olabilir
+
+İleri düzeyde IV. Kitap'ı şöyle okuyabilirsin: Smith, ayrıcalıklı üretici çıkarına karşı tüketiciyi ve genel refahı savunur. Bu hamle çok güçlüdür, çünkü devletin belirli tüccar ve şirket gruplarına verdiği imtiyazları görünür kılar. Yani Smith bize şunu öğretir: "Ulusal çıkar" diye sunulan şey bazen çok dar bir grubun kârıdır.
+
+Fakat aynı hamlenin sınırı da burada başlar. Smith tüketiciyi merkeze aldığında, üretim koşullarını, emek ilişkilerini, kolonyal zorlamayı ve ekolojik sınırı ikinci plana itebilir. Bir mal ucuzladığında tüketici kazanmış gibi görünür; ama o ucuzluğun arkasında kimin düşük ücret aldığı, hangi koloninin zorlandığı, hangi toprağın tüketildiği ayrıca sorulmalıdır.
+
+Bu yüzden IV. Kitap'ın ileri okuması üçlü bir denge ister:
+
+| Okuma düzeyi | Smith'ten ne öğreniriz? | Smith'e ne sorarız? |
+|--------------|-------------------------|---------------------|
+| Piyasa eleştirisi | Tekel ve imtiyaz refahı bozabilir | Rekabet gerçekten eşit koşullarda mı? |
+| Devlet eleştirisi | Devlet bazen dar üretici çıkarını korur | Devlet bazen piyasayı mümkün kılan hukuk ve güvenliği de kurmaz mı? |
+| İmparatorluk eleştirisi | Sömürge tekeli anavatana bile maliyetli olabilir | Koloninin kendi sesi ve kaybı neden merkeze alınmıyor? |
+
+Buradan çıkan olgun sonuç şudur: Smith'i iyi okumak, serbest ticarete otomatik inanmak değildir. Smith'i iyi okumak, her politika iddiasında şu soruyu sormayı öğrenmektir: Bu düzen hangi ayrıcalığı yıkıyor, hangi ayrıcalığı görünmez bırakıyor?
+
 ## 10. İlgili Dokümanlar
 
 - `adam-smith-sinif-network-analizi.md` — Smith'in **dış bağlamı**: sınıf konumu, ağ yapısı, fikrinin tarihsel kullanımı
@@ -446,4 +504,4 @@ Gerçek katkılar:
 
 ---
 
-*Son güncelleme: 26 Mayıs 2026*
+*Son güncelleme: 29 Mayıs 2026*

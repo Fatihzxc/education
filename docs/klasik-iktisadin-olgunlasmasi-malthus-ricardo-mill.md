@@ -4,6 +4,46 @@
 
 ---
 
+## Okuma pusulası: Smith'ten sonra sorun niye büyüdü?
+
+Bu yazının temel fikri şu: Smith kapıyı açtı, ama içeri giren dünya çok daha gürültülüydü. Fransız Devrimi, Napolyon savaşları, fabrika şehirleri, yoksul yasaları, tahıl fiyatları ve işçi hareketleri klasik iktisadı daha sert sorulara zorladı.
+
+| Mercek | Bu yazıda neyi arayacağız? | Neden önemli? |
+|--------|-----------------------------|---------------|
+| **Kök sebep** | Sanayi üretimi büyürken bölüşüm, nüfus, talep, rant ve kriz sorunlarının sertleşmesi | Klasik iktisadın niçin yalnız "piyasa" değil, aynı zamanda sınıf ve kriz teorisi olduğunu görürüz |
+| **Baskın bakış** | Malthus'ta toprak ve düzen; Ricardo'da finans-sanayi sermayesi; Mill'de reform liberalizmi | Aynı "klasik okul" içindeki farklı çıkarları ayırt ederiz |
+| **Güçlü karşı fikir** | İşçi hareketi, sosyalistler, korumacılar, Keynesyen talep eleştirisi | Klasik dilin hangi acıları ve kırılmaları açıklamakta zorlandığını görürüz |
+| **Kamu gözü** | Workhouse, çocuk emeği, ekmek fiyatı, Peterloo, Chartism | Teorinin sokakta ve evde nasıl yaşandığını unutmayız |
+| **Öğrenme desteği** | Bölüşüm üçgeni: ücret - kâr - rant | Her teorinin aslında pastanın kime gittiği sorusuna cevap verdiğini izleriz |
+
+Bu yazıyı okurken en işe yarayan soru şudur: "Bu düşünür hangi korkuya cevap veriyor?" Malthus'un korkusu nüfus ve yoksulluk taşmasıdır. Ricardo'nun korkusu rantın kârı sıkıştırmasıdır. Mill'in korkusu ise özgürlük fikrinin toplumsal acıyı görmezden gelmesidir.
+
+## Öğrenme desteği: klasik iktisadı üç göstergeyle izle
+
+Klasik iktisadı ezberlemek yerine üç küçük gösterge üzerinden izleyebilirsin:
+
+| Gösterge | Hangi soruyu açar? | Kimde özellikle görünür? |
+|----------|--------------------|---------------------------|
+| **Ekmek fiyatı** | Ücretler ve yoksulluk nasıl sıkışıyor? | Malthus, Corn Laws tartışması |
+| **Rant payı** | Toprak sahibi üretmeden nasıl gelir alıyor? | Ricardo |
+| **Talep boşluğu** | Üretim var ama alıcı yoksa kriz olur mu? | Malthus, sonra Keynes |
+
+Küçük şema:
+
+```text
+Sanayi büyür
+   ↓
+İşçi nüfusu ve şehirler büyür
+   ↓
+Ekmek, ücret, rant ve kâr birbirine bağlanır
+   ↓
+Malthus: sınır ve talep
+Ricardo: rant ve kâr
+Mill: reform ve özgürlük
+```
+
+Bu şema, klasik iktisadı tek bir doktrin gibi değil, aynı dönemin iç tartışması gibi okumaya yardım eder.
+
 ## 0. Sahne: 1776 Sonrası Britanya
 
 Smith *Wealth of Nations*'ı 1776'da yazdı. Sonraki 40 yılda Britanya'da üç tektonik dönüşüm üst üste oldu.
@@ -416,6 +456,21 @@ Mill bu soruların çoğunu görür ama radikal sonuçlardan çekinir:
 
 ---
 
+## İleri düzey okuma: klasik okulun içindeki çatlak okulun kendisidir
+
+Klasik iktisadı ileri düzeyde okurken en önemli nokta şudur: Bu okul tek parça değildir. Malthus, Ricardo ve Mill aynı geleneğin içinde durur; ama aynı dünyayı aynı yerden görmezler. Bu yüzden klasik iktisadın gücü, hazır cevap vermesinden değil, kapitalizmin temel gerilimlerini açıkta bırakmasından gelir.
+
+| Gerilim | Malthus ne görür? | Ricardo ne görür? | Mill ne ekler? |
+|---------|-------------------|--------------------|----------------|
+| Nüfus ve geçim | Doğal sınır ve yoksulluk baskısı | Ücretlerin kârı sıkıştırması | Eğitim, özgürlük ve reform ihtiyacı |
+| Rant ve sınıf | Toprak sahiplerinin düzen sağlayıcı rolü | Rantın kazanılmamış gelir oluşu | Rant vergisi ve bölüşüm reformu |
+| Kriz | Talep yetersizliği mümkündür | Say Yasası ile kriz geçici sayılır | Klasik çerçeveyi yumuşatır ama tam kırmaz |
+| İmparatorluk | Eğitim ve yönetim aygıtı | Finans ve parlamento bağlantısı | Doğu Hindistan Şirketi deneyimi |
+
+Burada güzel ama zor bir sonuç var: Klasik iktisat, sonraki tartışmaların çoğunu daha o anda içinde taşır. Keynes Malthus'u geri çağırır. Marx Ricardo'nun emek-değer çizgisini sonuna kadar götürür. Kalkınmacı iktisat Ricardo'nun serbest ticaret iyimserliğine itiraz eder. Feminist ve sosyal tarihçi okumalar ise Mill'in açtığı ama tamamlayamadığı özgürlük-bölüşüm gerilimini genişletir.
+
+Bu yüzden bu dokümanın ana dersi şudur: Bir okulun "olgunlaşması", onun bütün soruları çözmesi demek değildir. Bazen olgunlaşma, hangi soruların artık saklanamayacağını göstermektir. Malthus, Ricardo ve Mill tam olarak bunu yapar: yoksulluk, rant, kriz, özgürlük ve imparatorluk aynı masaya oturur.
+
 ## 7. İlgili Dokümanlar
 
 - `adam-smith-sinif-network-analizi.md` — Klasik iktisadın kurucusu Smith'in sınıf analizi
@@ -437,4 +492,4 @@ Mill bu soruların çoğunu görür ama radikal sonuçlardan çekinir:
 
 ---
 
-*Son güncelleme: 26 Mayıs 2026*
+*Son güncelleme: 29 Mayıs 2026*
