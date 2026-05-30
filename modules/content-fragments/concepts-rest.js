@@ -29,6 +29,13 @@
     {
       id: "thomas-aquinas",
       label: "Thomas Aquinas",
+      lens: {
+        root: "Ortaçağ dünyasında pazar, yalnız kâr alanı değil; günah, adalet, komşuluk ve geçim düzeniyle birlikte düşünülüyordu.",
+        dominant: "Aquinas'ın bakışı, fiyatı toplumun ahlaki dengesi içinde tutmak ister: alıcı da satıcı da insan onurunu zedelemeden yaşamalıdır.",
+        counter: "Salamanca ve modern piyasa okuması, değerin yalnız ahlaki ölçüyle değil, kıtlık, talep ve ortak takdirle oluştuğunu söyler.",
+        publicEye: "Esnaf ve alıcı için adil fiyat, soyut teori değil; ekmeğin, kumaşın ve borcun gündelik hayatta haksızlığa dönüşmemesi demektir.",
+        control: "Bir fiyat yasal ve gönüllü olsa bile, tarafların zorunlulukları eşit değilse gerçekten adil sayılır mı?"
+      },
       fullName: "Aziz Thomas Aquinas (1225-1274)",
       category: "pre-mercantilist",
       era: "13. yüzyıl",
@@ -50,6 +57,13 @@
     {
       id: "salamanca-okulu",
       label: "Salamanca Okulu",
+      lens: {
+        root: "Amerika gümüşü, fiyat artışı ve fetih ahlakı aynı anda patlayınca eski skolastik cevaplar yetmez hale geldi.",
+        dominant: "Salamanca düşünürleri, ticareti ve parayı ahlaki hukuk içinde anlamak ister; amaç hem piyasayı görmek hem vicdanı kaybetmemektir.",
+        counter: "Klasik merkantilist ve imparatorlukçu bakış, bu ahlaki sorgulamayı çoğu zaman devlet çıkarı ve hazine ihtiyacı karşısında ikinci plana iter.",
+        publicEye: "İspanya'da fiyatlar yükselirken, Amerika'da fetih ve maden emeği başka bir bedel üretiyordu; aynı gümüş iki ayrı hayatı etkiledi.",
+        control: "Bir teori fiyat mekanizmasını doğru sezse bile, imparatorluk çıkarı onu duymak istemiyorsa bilgi ne kadar etkili olur?"
+      },
       fullName: "Geç Skolastik İspanyol İlahiyatçıları (16. yy)",
       category: "pre-mercantilist",
       era: "16. yüzyıl",
@@ -72,6 +86,13 @@
     {
       id: "jean-bodin",
       label: "Jean Bodin",
+      lens: {
+        root: "Fransa din savaşları, para tağşişi ve fiyat artışıyla sarsılırken devletin hem egemenliğini hem de para düzenini açıklamak gerekiyordu.",
+        dominant: "Bodin'in gözüyle güçlü egemenlik, dağınık çatışmayı toparlayan ve ekonomik düzensizliği okunabilir kılan merkezdir.",
+        counter: "Liberal ve çoğulcu karşı okuma, mutlak egemenliğin düzen sağlarken yerel hakları ve denge mekanizmalarını boğabileceğini hatırlatır.",
+        publicEye: "Sıradan insan için egemenlik teorisi, çoğu zaman vergi, para değerinin düşmesi ve savaşın pazardaki fiyatlara yansıması olarak hissedilir.",
+        control: "Devlet düzen kurmak için güç topladığında, o gücü kim denetler ve bedeli kim öder?"
+      },
       fullName: "Jean Bodin (1530-1596)",
       category: "pre-mercantilist",
       era: "16. yüzyıl",
@@ -93,6 +114,13 @@
     {
       id: "giovanni-botero",
       label: "Giovanni Botero",
+      lens: {
+        root: "Erken modern devlet için nüfus, aynı anda asker, üretici, vergi kaynağı ve şehir canlılığı demekti.",
+        dominant: "Botero'nun bakışı nüfusu yük değil güç olarak görür; çok insan doğru düzenlenirse devletin kapasitesi büyür.",
+        counter: "Malthusçu karşı okuma, nüfus artışının kaynak sınırına çarpınca yoksulluk, kıtlık ve ücret baskısı üreteceğini savunur.",
+        publicEye: "Halk için nüfus siyaseti aile, iş, askerlik ve şehir kalabalığıdır; devletin güç hesabı evin geçim hesabıyla çakışmayabilir.",
+        control: "Nüfusu güç sayarken, insanların kendi hayatını mı yoksa devletin kapasitesini mi merkeze alıyoruz?"
+      },
       fullName: "Giovanni Botero (1544-1617)",
       category: "pre-mercantilist",
       era: "16-17. yüzyıl",
@@ -114,6 +142,13 @@
     {
       id: "antonio-serra",
       label: "Antonio Serra",
+      lens: {
+        root: "Madenleri olmayan bir krallık altın ve gümüşe nasıl ulaşır sorusu, üretim kapasitesi meselesini ticaretin merkezine taşıdı.",
+        dominant: "Serra için sanayi, tarımdan farklıdır; öğrenme, ölçek ve uzmanlaşma sayesinde ülkeyi daha yüksek gelir alanına çıkarabilir.",
+        counter: "Fizyokrat ve klasik serbest ticaret okuması, toprağı ya da mevcut karşılaştırmalı üstünlüğü daha doğal başlangıç noktası sayabilir.",
+        publicEye: "Zanaatkâr için sanayi politikası iş ve beceri; tüketici için fiyat; çiftçi için kaynakların şehir imalatına kayması anlamına gelebilir.",
+        control: "Bir ülke bugünkü ucuz üretimine mi razı olmalı, yoksa pahalı ve zor olsa da yarının sanayi kapasitesini mi kurmalı?"
+      },
       fullName: "Antonio Serra (?-1613?)",
       category: "classical-mercantilist",
       era: "17. yüzyıl",
@@ -171,6 +206,13 @@
     {
       id: "richard-cantillon",
       label: "Richard Cantillon",
+      lens: {
+        root: "Para, toprak, girişimci risk ve fiyatların nasıl birbirine bağlandığı hâlâ parçalı anlatılıyordu; Cantillon bu dolaşımı bütün olarak görmek istedi.",
+        dominant: "Cantillon'un bakışı, ekonomiyi tek bir emir zinciri değil, farklı aktörlerin risk aldığı ve fiyatların kademeli yayıldığı bir akış sistemi gibi okur.",
+        counter: "Basit miktar teorisi, para artışını ortalama fiyat artışı gibi görür; Cantillon etkisi ise paranın önce kimin eline geçtiğini sormayı gerektirir.",
+        publicEye: "Yeni para önce banker, saray veya tüccara ulaşırsa, ücretli ve küçük üretici fiyat artışını gelir artışından önce hissedebilir.",
+        control: "Para artışı herkesi aynı anda ve aynı ölçüde etkilemiyorsa, enflasyon tartışmasında kazananı ve kaybedeni nasıl ayırırız?"
+      },
       fullName: "Richard Cantillon (1680?-1734)",
       category: "karsit",
       era: "18. yüzyıl",
@@ -222,6 +264,13 @@
     {
       id: "anne-robert-jacques-turgot",
       label: "Turgot",
+      lens: {
+        root: "Fransa'da ayrıcalıklar, tahıl düzeni ve mali kriz öyle sıkışmıştı ki reform artık düşünce değil, yönetim sorunu haline geldi.",
+        dominant: "Turgot'nun reformcu gözüyle serbestlik, köylünün ve üretimin üzerindeki eski bağları gevşetip ekonomiyi nefes aldıracak bir yoldur.",
+        counter: "Şehirli yoksul ve lonca bakışı, ani serbestleşmenin ekmek fiyatını, iş güvenliğini ve toplumsal huzuru bozabileceğini söyler.",
+        publicEye: "Tahıl serbestisi teoride akış demektir; sokaktaki insan içinse ekmek fiyatı yükselirse doğrudan öfke ve açlık korkusudur.",
+        control: "Doğru görünen reform, geçiş bedelini taşıyacak insanları hesaba katmazsa neden başarısız olur?"
+      },
       fullName: "Anne-Robert-Jacques Turgot (1727-1781)",
       category: "karsit",
       era: "18. yüzyıl",
@@ -275,6 +324,13 @@
     {
       id: "david-ricardo",
       label: "David Ricardo",
+      lens: {
+        root: "Serbest ticaretin yalnız sezgiyle değil, açık bir karşılıklı kazanç mantığıyla savunulması gerekiyordu.",
+        dominant: "Ricardo'nun bakışı, ülkelerin mutlak güçlerine değil göreli fırsat maliyetlerine bakar; kazanç, uzmanlaşma düzeninden çıkar.",
+        counter: "List, Reinert ve Chang çizgisi, bugünkü göreli üstünlüğün geçmiş güç ilişkileriyle kurulduğunu ve sanayi öğrenmesini kilitleyebileceğini söyler.",
+        publicEye: "Ucuz ithalat tüketiciyi rahatlatabilir; fakat kapanan atölye, işsiz kalan usta ve kaybolan beceri başka bir tablo çizer.",
+        control: "Karşılaştırmalı üstünlük bugünü verimli kılarken, yarının üretim kapasitesini zayıflatıyorsa hâlâ iyi bir rehber midir?"
+      },
       fullName: "David Ricardo (1772-1823)",
       category: "karsit",
       era: "19. yüzyıl",
@@ -298,6 +354,13 @@
     {
       id: "john-stuart-mill",
       label: "John Stuart Mill",
+      lens: {
+        root: "Sanayi toplumunda yalnız üretimin nasıl arttığı değil, üretilenin nasıl bölüşüldüğü ve özgürlükle nasıl bağlandığı sorusu büyüdü.",
+        dominant: "Mill'in bakışı liberal geleneğin içinden konuşur ama katı değildir; piyasa düzeniyle sosyal reform arasında geçit arar.",
+        counter: "Daha sert laissez-faire okuma müdahaleyi tehlikeli görürken, Marxçı okuma Mill'in reformculuğunu mülkiyet ilişkilerini fazla nazikçe ele almakla eleştirir.",
+        publicEye: "İşçi, yoksul hane ve kooperatif arayan üretici için Mill, serbest piyasanın soğuk diline küçük ama önemli bir nefes payı açar.",
+        control: "Üretim kuralları doğa gibi işliyorsa bile, bölüşüm kuralları toplum tarafından yapılabiliyorsa hangi eşitsizlikler değiştirilebilir?"
+      },
       fullName: "John Stuart Mill (1806-1873)",
       category: "karsit",
       era: "19. yüzyıl",
@@ -319,6 +382,13 @@
     {
       id: "friedrich-list",
       label: "Friedrich List",
+      lens: {
+        root: "Sanayileşmiş İngiltere serbest ticareti savunurken, geç kalan Almanya ve ABD gibi ülkeler kendi üretici güçlerini nasıl kuracağını soruyordu.",
+        dominant: "List'in bakışı, ulusu bir öğrenme alanı gibi görür; bebek sanayi büyümeden açık rekabete atılırsa ezilebilir.",
+        counter: "Smith-Ricardo çizgisi, korumanın tüketiciyi pahalı mala mahkum edeceğini ve ayrıcalıklı üretici grupları yaratacağını savunur.",
+        publicEye: "Korumacılık işçiye ve sanayiciye zaman kazandırabilir; tüketiciye ise daha pahalı mal ve vergi yükü olarak dönebilir.",
+        control: "Koruma gerçekten öğrenme için mi kullanılıyor, yoksa verimsiz ayrıcalığı sonsuza kadar saklamak için mi?"
+      },
       fullName: "Friedrich List (1789-1846)",
       category: "karsit",
       era: "19. yüzyıl",
@@ -346,6 +416,13 @@
     {
       id: "eli-heckscher",
       label: "Eli Heckscher",
+      lens: {
+        root: "İktisat tarihi, dağınık erken modern politikaları anlamak için büyük bir kategoriye ihtiyaç duyuyordu: 'merkantilizm' bu ihtiyacı karşıladı.",
+        dominant: "Heckscher'in bakışı sistem kurucudur; farklı uygulamaları güçlü devlet ve ulusal pazar inşası etrafında toplar.",
+        counter: "Magnusson ve Coleman çizgisi, bu bütünlüğün fazla düzgün olduğunu ve tarihsel çeşitliliği tek kaba doldurduğunu söyler.",
+        publicEye: "Bu tür büyük tarih yazımı, halkın vergi, kıtlık, sömürge ve çalışma deneyimini çoğu zaman devlet kapasitesinin arka planına iter.",
+        control: "Bir kavram açıklama kolaylığı sağladığında, hangi farklı sesleri ve yerel ayrıntıları görünmez kılıyor?"
+      },
       fullName: "Eli Heckscher (1879-1952)",
       category: "modern-historian",
       era: "20. yüzyıl",
@@ -367,6 +444,13 @@
     {
       id: "lars-magnusson",
       label: "Lars Magnusson",
+      lens: {
+        root: "Merkantilizm tek bir öğreti gibi anlatıldığında, dönemin kendi kelimeleri ve tartışma bağlamları kayboluyordu.",
+        dominant: "Magnusson'un bakışı, fikirleri sonradan verilmiş etiketlerle değil, yazıldıkları anda hangi işi gördükleriyle okumak ister.",
+        counter: "Reinert ve kalkınmacı okuma, dil çeşitliliğine rağmen korumacı sanayi politikalarının gerçek tarihsel etkisini küçümsememek gerektiğini söyler.",
+        publicEye: "Dil tartışması soyut görünebilir; ama bir politikayı 'ulusal kalkınma' ya da 'tekelci ayrıcalık' diye adlandırmak insanların onu nasıl meşrulaştırdığını değiştirir.",
+        control: "Bir fikir akımı gerçekten var mı, yoksa sonraki kuşakların anlamak için çizdiği kullanışlı bir harita mı?"
+      },
       fullName: "Lars Magnusson (1952-)",
       category: "modern-historian",
       era: "20-21. yüzyıl",
@@ -388,6 +472,13 @@
     {
       id: "erik-reinert",
       label: "Erik Reinert",
+      lens: {
+        root: "Yoksul ülkelerin neden serbest ticaret reçetesiyle hızla zenginleşmediği sorusu, eski merkantilist sanayi korumasını yeniden gündeme getirdi.",
+        dominant: "Reinert'in bakışı, zengin ülkelerin gerçek tarihinde sanayi, öğrenme, ölçek ve korumanın belirleyici olduğunu vurgular.",
+        counter: "Ana akım serbest ticaret ve bazı revizyonist okuma, bu yaklaşımın başarısız korumacılık örneklerini ve devlet kapasitesi sorununu hafife aldığını savunur.",
+        publicEye: "Sanayi politikası iş, beceri ve ücret artışı vaat eder; ama kötü yönetilirse pahalı mal, vergi yükü ve kapalı çıkar grupları da doğurur.",
+        control: "Bir ülke koruma isterken gerçekten öğrenme mi yaratıyor, yoksa rekabet etmeyen ayrıcalıklı sektörleri mi büyütüyor?"
+      },
       fullName: "Erik S. Reinert (1949-)",
       category: "modern-historian",
       era: "21. yüzyıl",
@@ -413,6 +504,13 @@
     {
       id: "ha-joon-chang",
       label: "Ha-Joon Chang",
+      lens: {
+        root: "Zengin ülkelerin kendi yükselişinde kullandığı korumacı araçları yoksul ülkelere yasaklaması, kalkınma tartışmasının ahlaki düğümünü oluşturdu.",
+        dominant: "Chang'in bakışı, tarihsel hafızayı geri çağırır: bugünün serbest ticaret öğüdünü, dünün korumacı pratiğiyle karşılaştırır.",
+        counter: "Karşı okuma, geçmişte işe yarayan araçların her ülkede tekrarlanamayacağını; kurum, yolsuzluk ve küresel teknoloji farklarının sonucu değiştirdiğini söyler.",
+        publicEye: "Kalkınma politikası sıradan insan için fabrika işi, ucuz mal, vergi ve eğitim fırsatı gibi somut kapılardan hissedilir.",
+        control: "Merdiven gerçekten dışarıdan mı çekildi, yoksa içeride merdiveni kuracak kurumlar da eksik miydi?"
+      },
       fullName: "Ha-Joon Chang (1963-)",
       category: "modern-historian",
       era: "21. yüzyıl",
@@ -435,6 +533,13 @@
     {
       id: "sophus-reinert",
       label: "Sophus Reinert",
+      lens: {
+        root: "Fikirler kitap rafında durmaz; rakip devletler birbirinden öğrenirken çeviri, uyarlama ve taklit yoluyla dolaşır.",
+        dominant: "Sophus Reinert'in bakışı, ekonomik fikirleri imparatorluk rekabetinin canlı araçları gibi okur: tercüme etmek, rakibin tekniğini kendi dünyana çevirmektir.",
+        counter: "Yapısal tarih okuması, çeviri olsa bile kurum, sermaye ve güç dengesi yoksa fikrin tek başına politika yaratamayacağını hatırlatır.",
+        publicEye: "Bir metnin çevrilmemesi halkın gündelik hayatında görünmezdir; ama uzun vadede hangi politikanın hayal edilebilir olduğuna sınır çizebilir.",
+        control: "Bir toplum yalnız mal ve teknoloji ithal edip fikir dilini çevirmediğinde, hangi seçenekleri hiç düşünemez hale gelir?"
+      },
       fullName: "Sophus A. Reinert (1973-)",
       category: "modern-historian",
       era: "21. yüzyıl",
@@ -606,6 +711,13 @@
     {
       id: "populationism",
       label: "Populationism (Nüfus Politikası)",
+      lens: {
+        root: "Erken modern devlet için boş toprak, asker ihtiyacı, vergi tabanı ve üretim kapasitesi nüfus sorusunda birleşti.",
+        dominant: "Merkantilist bakış nüfusu güç kaynağı sayar: daha çok insan, doğru örgütlenirse daha çok üretim ve daha büyük ordu demektir.",
+        counter: "Malthusçu ve geçim odaklı karşı okuma, nüfus artışının kaynak, ücret ve gıda baskısını büyütebileceğini söyler.",
+        publicEye: "Devlet nüfusu sayı olarak görürken, aile için mesele çocuk bakımı, iş bulma, askerlik ve evin geçimidir.",
+        control: "Nüfus politikasında insanı kapasite olarak mı, kendi hayatı olan özne olarak mı görüyoruz?"
+      },
       category: "policy",
       era: "16-18. yüzyıl",
       depth: {
@@ -655,6 +767,13 @@
     {
       id: "manufactures-royales",
       label: "Manufactures Royales",
+      lens: {
+        root: "Fransa pahalı lüks mamulleri dışarıdan almak yerine kendi beceri, kalite ve ihracat kapasitesini kurmak istedi.",
+        dominant: "Colbertçi bakış için kraliyet imalathanesi, dağınık zanaatı disipline eden ve ülkeye prestijli üretim kazandıran bir okul gibidir.",
+        counter: "Liberal karşı okuma, devlet imtiyazının gerçek rekabeti bozup saraya yakın üreticileri koruyabileceğini söyler.",
+        publicEye: "Usta için yeni iş ve standart; küçük üretici için ağır kural; tüketici için pahalı ama kaliteli yerli mal anlamına gelebilir.",
+        control: "Devletin kurduğu üretim kapasitesi ne zaman öğrenme alanı, ne zaman pahalı bir prestij projesi olur?"
+      },
       category: "policy",
       era: "17-18. yüzyıl",
       depth: {
@@ -676,6 +795,13 @@
     {
       id: "lonca-sistemi",
       label: "Lonca Sistemi (Guild System)",
+      lens: {
+        root: "Şehir üretiminde kalite, eğitim, fiyat ve geçim güvenliği piyasanın tek başına bırakılamayacağı kadar hassas görülüyordu.",
+        dominant: "Lonca bakışı, mesleği bir geçim ahlakı ve ustalık zinciri olarak korur; amaç kötü malı, hileyi ve düzensiz rekabeti sınırlamaktır.",
+        counter: "Smithçi ve liberal karşı okuma, loncanın giriş engeli, yüksek fiyat ve yenilik direnci ürettiğini savunur.",
+        publicEye: "Çırak için meslek yolu, usta için statü, tüketici için kalite güvencesi, dışarıda kalan işçi için kapalı kapı olabilir.",
+        control: "Kaliteyi koruyan kural ile yeni geleni dışlayan ayrıcalık arasındaki çizgiyi nereden çizeriz?"
+      },
       category: "policy",
       era: "12-19. yüzyıl",
       depth: {
@@ -697,6 +823,13 @@
     {
       id: "import-substitution",
       label: "İthal İkamesi (Import Substitution)",
+      lens: {
+        root: "Bir ülke sürekli pahalı mamul alıp ucuz hammadde satıyorsa, zenginleşme merdiveninin alt basamağında sıkışabilir.",
+        dominant: "Kalkınmacı bakış için ithal ikamesi, dış bağımlılığı azaltan ve yerli sanayiye öğrenme zamanı veren geçiş stratejisidir.",
+        counter: "Liberal ve rekabetçi karşı okuma, kapalı pazarın verimsiz şirketler, pahalı ürün ve teknoloji tembelliği üretebileceğini söyler.",
+        publicEye: "Tüketici kısa vadede pahalı ve sınırlı seçenekle karşılaşabilir; işçi ve mühendis içinse yeni beceri ve istihdam kapısı açılabilir.",
+        control: "Yerli üretim koruması ihracata ve öğrenmeye bağlanıyor mu, yoksa içeride rahat bir tekel mi kuruyor?"
+      },
       category: "policy",
       era: "17-21. yüzyıl",
       depth: {
@@ -774,6 +907,13 @@
     {
       id: "low-interest-policy",
       label: "Düşük Faiz Politikası",
+      lens: {
+        root: "Ticaret ve sanayi sermaye ister; pahalı borç girişimciyi boğduğunda devlet faizi politika aracı olarak düşünmeye başlar.",
+        dominant: "Child çizgisi için düşük faiz, yatırımı ve ticareti canlandıran bir kalkınma kaldıraçıdır.",
+        counter: "Locke ve daha piyasa odaklı okuma, faizi yapay biçimde bastırmanın kredi kıtlığı, güven kaybı ve enflasyon üretebileceğini savunur.",
+        publicEye: "Borçlanan tüccar için rahatlama, tasarruf sahibi için gelir kaybı, ücretli için ise fiyat artışı riski doğabilir.",
+        control: "Faizi düşürmek üretimi mi artırıyor, yoksa paraya güveni zayıflatıp başka bir krizi mi hazırlıyor?"
+      },
       category: "policy",
       era: "17-18. yüzyıl",
       depth: {
@@ -820,6 +960,13 @@
     {
       id: "classical-political-economy",
       label: "Klasik Politik İktisat",
+      lens: {
+        root: "Sanayi, piyasa, nüfus ve bölüşüm aynı anda büyüyünce iktisat, ahlak felsefesinden kopmadan daha sistemli bir açıklama dili kurdu.",
+        dominant: "Klasik bakış, refahı iş bölümü, üretken emek, rekabet ve uzun dönem bölüşüm yasalarıyla açıklamaya çalışır.",
+        counter: "Marx, List ve kurumsalcı okuma; sınıf gücü, ulusal gelişme aşaması ve kurum farklarını bu genel yasaların içine geri çağırır.",
+        publicEye: "Klasik metinlerdeki ücret, rant ve kâr; işçi için geçim, toprak sahibi için gelir, sanayici için yatırım kararıdır.",
+        control: "Klasik iktisat toplumun mekanizmasını mı keşfediyor, yoksa sanayileşen Britanya'nın deneyimini evrensel yasa gibi mi anlatıyor?"
+      },
       category: "karsit",
       era: "18-19. yüzyıl",
       depth: {
@@ -898,6 +1045,13 @@
     {
       id: "wool-acts",
       label: "Wool Acts",
+      lens: {
+        root: "Britanya kendi yün sanayisini korumak isterken İrlanda'nın aynı alanda rekabet etmesini siyasal olarak sınırladı.",
+        dominant: "İngiliz üretici ve parlamento için bu yasalar yerli sanayiyi ve istihdamı koruyan stratejik bir kalkınma aracıdır.",
+        counter: "İrlanda açısından aynı politika, başka bir toplumun sanayi öğrenmesini kıran ve onu hammadde üretimine sıkıştıran bağımlılık düzenidir.",
+        publicEye: "İngiliz dokumacı için iş güvencesi, İrlandalı zanaatkâr için meslek kaybı ve göç baskısı aynı kararın iki yüzüdür.",
+        control: "Bir ülkenin koruma politikası başka bir bölgenin üretim hakkını yok ediyorsa, bunu yalnız ulusal çıkar diye okuyabilir miyiz?"
+      },
       category: "policy",
       era: "17-18. yüzyıl",
       depth: {
@@ -945,6 +1099,13 @@
     {
       id: "south-sea-bubble",
       label: "South Sea Bubble + Mississippi Bubble",
+      lens: {
+        root: "Devlet borcu, imtiyazlı şirket kârı ve sömürge hayali birleşince finansal beklenti gerçek gelirden kopabildi.",
+        dominant: "Yatırımcı ve mali devlet bakışı, şirket hisselerini borcu hafifleten ve gelecekteki ticaret kârına ortak eden yeni bir araç gibi gördü.",
+        counter: "Kriz okuması, şeffaf olmayan imtiyaz ve kalabalık coşkusunun servet değil kırılganlık ürettiğini söyler.",
+        publicEye: "Zengin spekülatör kadar küçük birikim sahibi de yükseliş hikayesine kapılabilir; çöküş geldiğinde kayıp topluma yayılır.",
+        control: "Bir finansal yenilik gerçek üretim kapasitesine mi dayanıyor, yoksa insanların aynı hikayeye inanmasına mı?"
+      },
       category: "policy",
       era: "18. yüzyıl",
       depth: {

@@ -85,6 +85,13 @@
   {
     "id": "lutfi-pasa",
     "label": "Lütfi Paşa",
+    "lens": {
+      "root": "Klasik Osmanlı düzeninde mesele dış fazla biriktirmekten önce hazineyi, orduyu ve halkın geçimini dengede tutmaktı.",
+      "dominant": "Lütfi Paşa'nın gözü devlet adamının gözüdür: iyi yönetim, gelir-gider disiplinini ve eski düzenin ölçüsünü korumalıdır.",
+      "counter": "Merkantilist Avrupa okuması, bu iç denge dilinin dış rekabet ve sanayi birikimi sorusunu yeterince açmadığını söyler.",
+      "publicEye": "Halk için hazine disiplini bazen vergi düzeni, bazen iaşe güvenliği, bazen de savaş masrafının sınırlandırılması olarak hissedilir.",
+      "control": "Dengeyi korumak ne zaman bilgelik, ne zaman değişen dünya karşısında geç kalma olur?"
+    },
     "fullName": "Lütfi Paşa (ö. 1564)",
     "career": "Kanuni Sultan Süleyman'ın sadrazamı (1539-1541)",
     "category": "ottoman-thinker",
@@ -134,6 +141,13 @@
   {
     "id": "koci-bey",
     "label": "Koçi Bey",
+    "lens": {
+      "root": "Tımar, yeniçeri, maliye ve liyakat düzeni sarsılınca Osmanlı aydını bu değişimi bozulma diliyle açıklamaya çalıştı.",
+      "dominant": "Koçi Bey için sorun eski kanunun terk edilmesidir; çözüm, merkezî disiplinin ve klasik düzenin onarılmasıdır.",
+      "counter": "Mehmet Genç ve dönüşüm tarihçiliği, bu tabloyu yalnız çürüme değil, savaş teknolojisi ve mali yapı değişimi olarak okumayı önerir.",
+      "publicEye": "Köylü için tımarın çözülmesi yeni vergi baskısı, asker için maaş ve disiplin sorunu, şehirli için fiyat ve güvenlik kaygısı demektir.",
+      "control": "Bir dönemin insanı 'bozulma' dediğinde, biz bunu aynen mi almalıyız, yoksa hangi yapısal dönüşümü gördüğünü mü sormalıyız?"
+    },
     "fullName": "Koçi Bey (ö. ~1650)",
     "career": "IV. Murad ve Sultan İbrahim'in danışmanı; ıslahat risaleleri yazarı",
     "category": "ottoman-thinker",
@@ -190,6 +204,13 @@
   {
     "id": "katip-celebi",
     "label": "Kâtip Çelebi",
+    "lens": {
+      "root": "Askeri giderler, gelir açığı ve kayıt düzeni büyüdükçe Osmanlı maliyesi daha açık hesap ve teşhis ihtiyacı duydu.",
+      "dominant": "Kâtip Çelebi'nin bakışı pratik ve ölçülüdür: önce açığı, gideri ve idari aksaklığı gör; sonra düzeni onar.",
+      "counter": "Dış rekabet ve sanayi politikası okuması, bu mali gerçekçiliğin küresel güç değişimini yeterince kavramadığını söyleyebilir.",
+      "publicEye": "Mali açık sıradan insana yeni vergi, askerî tahsilat, fiyat baskısı veya yerel görevlilerin sertliği olarak dönebilir.",
+      "control": "Bir devlet kendi iç hesabını iyi tutsa bile, dış dünyanın hızlanan rekabet hesabını kaçırırsa ne olur?"
+    },
     "fullName": "Mustafa bin Abdullah, Hacı Halife (1609-1657)",
     "career": "Polymath; tarihçi, bibliyograf, mali müşavir",
     "category": "ottoman-thinker",
@@ -236,6 +257,13 @@
   {
     "id": "naima",
     "label": "Naima",
+    "lens": {
+      "root": "Osmanlı yöneticileri uzun ömürlü bir devletin neden gevşediğini ve nasıl yenilenebileceğini anlamak istiyordu.",
+      "dominant": "Naima'nın sesi resmi tarihçinin sesidir; devleti canlı bir organizma gibi görür ve çöküşü ahlaki-mali düzen bozulmasıyla açıklar.",
+      "counter": "Modern tarihçilik, döngü anlatısının dönüşüm, adaptasyon ve yerel güçlerin yükselişini fazla karamsar gösterebileceğini söyler.",
+      "publicEye": "Halk için devlet döngüsü soyut değildir; vergi memuru, asker geçişi, kıtlık, güvenlik ve yerel ayan gücü olarak hissedilir.",
+      "control": "Döngü teorisi bize düzenin kırılganlığını mı gösteriyor, yoksa değişimi baştan çöküş diye adlandırmaya mı itiyor?"
+    },
     "fullName": "Naima Mustafa Efendi (1655-1716)",
     "career": "Resmi vakanüvis (court historian); *Tarih-i Naima* yazarı",
     "category": "ottoman-thinker",
@@ -289,6 +317,13 @@
   {
     "id": "defterdar-sari-mehmed",
     "label": "Defterdar Sarı Mehmed Paşa",
+    "lens": {
+      "root": "İltizam ve malikâne düzeni büyürken devlet gelir toplamak zorundaydı; fakat bu aracılar yeni güç ve istismar kanalları da açıyordu.",
+      "dominant": "Sarı Mehmed Paşa maliyeci gözüyle konuşur: kayıt, açık artırma, rüşvetle mücadele ve hazine geliri düzenin kalbidir.",
+      "counter": "Toplumsal ve köylü odaklı okuma, gelir maksimizasyonunun üretici üzerindeki baskıyı artırabileceğini hatırlatır.",
+      "publicEye": "Mültezim için vergi hakkı yatırım, köylü için tahsilat baskısı, merkez için nakit akışı demektir.",
+      "control": "Devlet gelirini artıran mekanizma üreticinin yaşama ve üretme isteğini zayıflatıyorsa uzun vadede kazanç mı kayıp mı üretir?"
+    },
     "fullName": "Defterdar Sarı Mehmed Paşa (ö. 1717)",
     "career": "Birden fazla kez baş defterdar; *Nesayihü'l-vüzerâ ve'l-ümerâ* yazarı",
     "category": "ottoman-thinker",
@@ -404,6 +439,13 @@
   {
     "id": "halil-inalcik",
     "label": "Halil İnalcık",
+    "lens": {
+      "root": "Osmanlı tarihi uzun süre ya zafer anlatısı ya da gerileme anlatısı olarak okunuyordu; arşiv temelli sosyal-iktisadi açıklama gerekiyordu.",
+      "dominant": "İnalcık'ın bakışı, devleti yalnız padişah kararlarıyla değil; tımar, çift-hane, reaya ve ticaret ağlarıyla birlikte okur.",
+      "counter": "Daha eleştirel karşı okuma, klasik düzen fikrinin 16. yüzyılı fazla merkez alıp çevresel ve toplumsal çeşitliliği sakinleştirebileceğini söyler.",
+      "publicEye": "Köylü, sipahi, esnaf ve tüccar İnalcık'ın dünyasında tarihin kenar süsü değil; düzenin gerçek taşıyıcılarıdır.",
+      "control": "Bir imparatorluğu anlamak için saray kararlarına mı, yoksa vergi defteri, köy düzeni ve pazar ilişkilerine mi bakıyoruz?"
+    },
     "fullName": "Halil İnalcık (1916-2016)",
     "career": "İktisat ve sosyal tarihçi; Ankara, Chicago, Bilkent üniversiteleri",
     "category": "modern-historian",
@@ -444,6 +486,13 @@
   {
     "id": "sevket-pamuk",
     "label": "Şevket Pamuk",
+    "lens": {
+      "root": "Osmanlı'nın küresel ekonomiyle ilişkisini anlamak için yalnız kurum hikayesi yetmez; fiyat, para ve ücret serileri de gerekir.",
+      "dominant": "Pamuk'un bakışı sayısal ve karşılaştırmalıdır: akçe, fiyat devrimi ve reel ücretler üzerinden uzun dalgaları görünür kılar.",
+      "counter": "Yalnız sayı odaklı okuma, yerel deneyimi, siyasal kararın anlamını ve insanların krizi nasıl hissettiğini eksik bırakabilir.",
+      "publicEye": "Akçe tağşişi hazine tekniği gibi görünür; pazardaki insan içinse maaşın erimesi ve mal fiyatının değişmesidir.",
+      "control": "Bir fiyat serisi bize büyük resmi gösterirken, o fiyatın evlerde ve pazarlarda nasıl yaşandığını ayrıca nasıl anlarız?"
+    },
     "fullName": "Şevket Pamuk (1950-)",
     "career": "Osmanlı ve Türk iktisat tarihçisi; Boğaziçi, LSE",
     "category": "modern-historian",
@@ -596,6 +645,13 @@
   {
     "id": "gelenekcilik",
     "label": "Gelenekçilik",
+    "lens": {
+      "root": "Geniş ve çok çeşitli bir imparatorlukta düzenin bozulmaması, çoğu zaman yenilikten daha acil bir güvenlik sorusu gibi görünüyordu.",
+      "dominant": "Osmanlı merkezi için gelenekçilik, kanun-i kadîmi koruyarak herkesin yerini ve yükümlülüğünü öngörülebilir tutma çabasıdır.",
+      "counter": "Kalkınmacı ve yenilikçi karşı okuma, bu istikrar arzusunun teknoloji, finans ve sanayi dönüşümünü yavaşlatabileceğini söyler.",
+      "publicEye": "Esnaf için gelenek güvence, genç girişimci için kapalı kapı, tüketici için alışılmış kalite, taşra için eski yüklerin sürmesi olabilir.",
+      "control": "Düzeni korumakla değişimi boğmak arasındaki farkı, sonuç ortaya çıkmadan nasıl ayırt ederiz?"
+    },
     "category": "ottoman-concept",
     "era": "15-19. yüzyıl",
     "depth": {
@@ -638,6 +694,13 @@
   {
     "id": "kapitulasyonlar",
     "label": "Kapitülasyonlar",
+    "lens": {
+      "root": "Osmanlı güçlü olduğu dönemde dış tüccarı kendi pazarına çekmek isterken, zamanla aynı ayrıcalıklar egemenlik ve sanayi kapasitesi sorununa dönüştü.",
+      "dominant": "Erken Osmanlı bakışı için kapitülasyon, sultanın verdiği kontrollü bir lütuf ve ticareti canlandırma aracıdır.",
+      "counter": "19. yüzyıl kalkınmacı okuma, bu ayrıcalıkların Osmanlı'yı korumasız pazara çevirdiğini ve yerli üreticiyi zayıflattığını söyler.",
+      "publicEye": "Avrupalı tüccar için düşük gümrük fırsat, yerli zanaatkâr için rekabet baskısı, devlet içinse zamanla gelir ve yargı kaybıdır.",
+      "control": "Bir politika güçlü eldeyken araç, zayıf eldeyken bağımlılık haline geliyorsa onu hangi dönemden okuyacağız?"
+    },
     "category": "ottoman-policy",
     "era": "16-20. yüzyıl",
     "depth": {
@@ -684,6 +747,13 @@
   {
     "id": "ihtisab-narh",
     "label": "İhtisab ve Narh Sistemi",
+    "lens": {
+      "root": "Şehir pazarında ekmek, et, ölçü ve kalite bozulursa yalnız ekonomi değil toplumsal huzur da bozulurdu.",
+      "dominant": "Osmanlı iaşe bakışı için narh, piyasayı yok etmek değil, temel mallarda hileyi ve aşırı fiyatı sınırlamaktır.",
+      "counter": "Liberal karşı okuma, fiyat tavanının üretici kârını ve arz isteğini azaltarak kıtlığı büyütebileceğini söyler.",
+      "publicEye": "Alıcı için narh güvence; esnaf için denetim ve bazen baskı; muhtesib için çarşıdaki devlet otoritesidir.",
+      "control": "Fiyatı adil tutmak ile üreticinin üretme motivasyonunu korumak aynı anda nasıl mümkün olur?"
+    },
     "category": "ottoman-policy",
     "era": "14-19. yüzyıl",
     "depth": {
@@ -722,6 +792,13 @@
   {
     "id": "men-i-ihracat",
     "label": "Men-i İhracat",
+    "lens": {
+      "root": "Temel mallar dışarıya gidip içeride kıtlık doğurursa başkent, ordu ve halkın geçimi tehlikeye girebilirdi.",
+      "dominant": "İaşeci bakış için ihracat yasağı, kârı değil önce içerideki geçimi koruyan bir güvenlik supabıdır.",
+      "counter": "Tüccar ve kalkınmacı karşı okuma, ihracat kısıtının sermaye birikimini, üretici gelirini ve dış pazar öğrenmesini sınırladığını söyler.",
+      "publicEye": "Şehirli tüketici için ucuz mal, taşra üreticisi için düşük satış imkanı, kaçakçı için riskli fırsat anlamına gelebilir.",
+      "control": "Kısa vadede halkı koruyan ihracat yasağı uzun vadede üretim gücünü zayıflatıyorsa hangi bedel daha ağırdır?"
+    },
     "category": "ottoman-policy",
     "era": "15-19. yüzyıl",
     "depth": {
@@ -760,6 +837,13 @@
   {
     "id": "iltizam-malikane",
     "label": "İltizam ve Malikâne Sistemi",
+    "lens": {
+      "root": "Sürekli savaş ve nakit ihtiyacı, tımarın ayni-askeri düzeninden daha hızlı para getiren vergi kiralama yöntemlerine geçişi hızlandırdı.",
+      "dominant": "Merkez hazine için iltizam ve malikâne, gelecekteki vergiyi bugünün nakdine çeviren pratik bir çözümdür.",
+      "counter": "Köylü ve toplumsal tarih okuması, aynı mekanizmanın aracı sermaye gücünü artırıp üreticiyi daha sert tahsilata açabileceğini söyler.",
+      "publicEye": "Mültezim için yatırım, ayan için yerel güç, köylü için vergi baskısı, merkez için kısa vadeli nakit anlamına gelir.",
+      "control": "Devletin nakit krizini çözen araç toplumun üretici tabanını aşındırıyorsa bu çözüm ne kadar sürdürülebilir?"
+    },
     "category": "ottoman-policy",
     "era": "16-19. yüzyıl",
     "depth": {
@@ -807,6 +891,13 @@
   {
     "id": "timar",
     "label": "Tımar Sistemi",
+    "lens": {
+      "root": "Erken Osmanlı genişlemesi, hem asker besleyen hem toprağı işlettiren hem de merkezi kontrolü koruyan bir düzene ihtiyaç duyuyordu.",
+      "dominant": "Klasik Osmanlı bakışı için tımar, toprağı özel mülk yapmadan askerlik, vergi ve köylü düzenini aynı çerçevede tutar.",
+      "counter": "Mülkiyet ve kapitalist gelişme okuması, toprağın devlet merkezli kalmasının özel sermaye ve tarımsal yatırım güdüsünü sınırladığını söyler.",
+      "publicEye": "Sipahi için gelir ve görev, köylü için koruma ama aynı zamanda yükümlülük, merkez için düşük nakit maliyetli ordu demektir.",
+      "control": "Merkezi düzeni güçlendiren toprak rejimi, uzun vadede yerel yatırım ve piyasa gelişimini nasıl etkiler?"
+    },
     "category": "ottoman-policy",
     "era": "14-17. yüzyıl",
     "depth": {

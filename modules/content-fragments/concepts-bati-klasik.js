@@ -211,6 +211,13 @@
     {
       id: 'gerard-malynes',
       label: 'Gerard Malynes',
+      lens: {
+        root: 'İngiltere henüz dış ticaret ve finans ağlarında kırılganken külçe çıkışı, kambiyo ve yabancı tacir etkisi doğrudan servet kaybı gibi görünüyordu.',
+        dominant: 'Malynes için sorun, paranın ve kambiyonun kötü yönetilmesidir; devlet bu akışı sıkı tutarsa ulusal servet korunabilir.',
+        counter: 'Misselden ve Mun, tek tek para çıkışına değil toplam ticaret dengesine bakmak gerektiğini söyleyerek bu dar külçeci bakışı aşar.',
+        publicEye: 'Tüccar için kambiyo kuralı kâr hesabıdır; sıradan alıcı içinse para değerindeki oynama fiyat ve geçim baskısı olarak hissedilir.',
+        control: 'Para ülkeden çıktığında gerçekten servet mi kaçar, yoksa doğru ticari çevrimde daha büyük kazanç olarak geri dönebilir mi?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -247,6 +254,13 @@
     {
       id: 'edward-misselden',
       label: 'Edward Misselden',
+      lens: {
+        root: 'East India Company gibi uzak ticaretler ilk anda gümüş çıkışı yaratınca, bunun zarar mı yatırım mı olduğu tartışma konusu oldu.',
+        dominant: 'Misselden toplam hesabı görmek ister: para, mal, navlun ve yeniden ihracat aynı döngü içinde düşünülmelidir.',
+        counter: 'Malynes çizgisi külçe çıkışını tehlike sayarken, Smithçi karşı okuma dış fazla hedefinin kendisini sorunlu bulur.',
+        publicEye: 'Şirket için Asya ticareti fırsat, yerli üretici için rekabet, tüketici için yeni mal, denizci için iş anlamına gelebilir.',
+        control: 'Bir ticaret işlemini tek anlık para çıkışıyla mı, yoksa bütün dolaşımın sonunda bıraktığı değerle mi ölçmeliyiz?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -283,6 +297,13 @@
     {
       id: 'antoine-de-montchrestien',
       label: 'Antoine de Montchrestien',
+      lens: {
+        root: 'Fransa için üretim, işsizlik ve dış rekabet artık sadece hane ya da lonca meselesi değil, krallığın gücü meselesi haline gelmişti.',
+        dominant: 'Montchrestien ekonomiyi devletin yönetmesi gereken ulusal bir alan olarak görür; çalışabilir nüfus üretime bağlanmalıdır.',
+        counter: 'Liberal karşı okuma, bu devletçi dilin girişim özgürlüğünü ve yerel çeşitliliği boğabileceğini söyler.',
+        publicEye: 'İşsiz veya yoksul insan için bu dil iş ve disiplin demektir; zanaatkâr içinse hem destek hem denetim getirebilir.',
+        control: 'Ekonomiyi ulusal güç alanı yapmak üretimi büyütürken, bireyin kendi geçim tercihlerini ne kadar daraltır?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -405,6 +426,13 @@
     {
       id: 'william-petty',
       label: 'William Petty',
+      lens: {
+        root: 'Savaş, vergi ve koloni rekabeti büyüdükçe devletin tahmin, sayım ve hesap yapma kapasitesi stratejik hale geldi.',
+        dominant: 'Petty için iyi politika önce saymayı gerektirir; nüfus, gelir, toprak ve vergi kapasitesi ölçülürse devlet kendini daha iyi yönetir.',
+        counter: 'Karşı okuma, insanı ve toprağı sadece devlet muhasebesinin kalemine indirgeme riskini hatırlatır.',
+        publicEye: 'Sayım ve vergi hesabı sıradan insanın hayatına nüfus kaydı, yeni vergi ve bazen askeri yük olarak girer.',
+        control: 'Bir toplumu saymak onu anlamak mıdır, yoksa yönetilebilir parçalara ayırmak mıdır?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -441,6 +469,13 @@
     {
       id: 'josiah-child',
       label: 'Josiah Child',
+      lens: {
+        root: 'Hollanda ticari üstünlüğü karşısında İngiltere sermayeyi ucuzlatıp ticareti hızlandırmanın yollarını arıyordu.',
+        dominant: 'Child için düşük faiz, tüccarın yatırım cesaretini büyüten ve ülkenin rekabet gücünü artıran bir araçtır.',
+        counter: 'Locke ve piyasa faizi savunusu, faizi yasayla bastırmanın kredi kıtlığı ve güven sorunu doğurabileceğini söyler.',
+        publicEye: 'Borçlanan tüccar için düşük faiz fırsat, tasarruf sahibi için gelir kaybı, ücretli içinse fiyat ve iş etkisi demektir.',
+        control: 'Ucuz kredi gerçek üretimi mi büyütüyor, yoksa riskin ve borcun üstünü geçici olarak mı örtüyor?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -474,6 +509,13 @@
     {
       id: 'charles-davenant',
       label: 'Charles Davenant',
+      lens: {
+        root: 'Savaş finansmanı, gümrük geliri ve imparatorluk ticareti karmaşıklaştıkça devlet daha hesaplı bir politika diline ihtiyaç duydu.',
+        dominant: 'Davenant ticareti kamu geliriyle birlikte okur; mesele yalnız mal akışı değil, mali devletin ayakta kalmasıdır.',
+        counter: 'Smithçi okuma, bu mali-ticari hesabın tekel ve imtiyazları meşrulaştırabileceğini savunur.',
+        publicEye: 'Gümrük geliri devlete kaynak olurken, tüketici bunu fiyatlarda; liman işçisi işte; vergi mükellefi dolaylı yükte hisseder.',
+        control: 'Devlet gelirini artıran ticaret politikası toplum refahını da artırıyor mu, yoksa yalnız savaş kasasını mı dolduruyor?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -510,6 +552,13 @@
     {
       id: 'philipp-von-hornigk',
       label: 'Philipp von Hoernigk',
+      lens: {
+        root: 'Habsburg dünyası, kara imparatorluğu koşullarında kaynaklarını içeride işleyerek askeri ve mali dayanıklılık kurmak istiyordu.',
+        dominant: 'Hoernigk için ülke kendi hammaddesini işlemeli, nüfusunu çalıştırmalı ve pahalı mamul bağımlılığından çıkmalıdır.',
+        counter: 'Serbest ticaret okuması, bu kendine yeterlilik hedefinin pahalı üretim ve kapalı ekonomi riski taşıdığını söyler.',
+        publicEye: 'Yerli imalat iş yaratabilir; ama ithalat kısıtı tüketicinin seçeneğini azaltır ve fiyatı yükseltebilir.',
+        control: 'Kendine yeterlilik güvenlik mi sağlar, yoksa dış dünyadan öğrenme ve rekabet kanalını mı daraltır?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -544,6 +593,13 @@
     {
       id: 'bernard-de-mandeville',
       label: 'Bernard de Mandeville',
+      lens: {
+        root: 'Ticari toplum büyüdükçe eski ahlak dili, lüks, arzu ve tüketimin ekonomik canlılıkla ilişkisini açıklamakta zorlandı.',
+        dominant: 'Mandeville kışkırtıcı biçimde kişisel tutkuların iş, talep ve toplumsal hareket doğurabileceğini söyler.',
+        counter: 'Ahlaki ekonomi ve cumhuriyetçi erdem okuması, lüksün bağımlılık, eşitsizlik ve yozlaşma üretebileceğini savunur.',
+        publicEye: 'Lüks tüketim zanaatkâra iş, yoksula kıskançlık ve borç, elitlere statü dili olarak görünebilir.',
+        control: 'Toplumsal zenginlik bazen ahlaken rahatsız edici arzularla büyüyorsa, iktisat ile erdemi nasıl birlikte düşünürüz?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -576,6 +632,13 @@
     {
       id: 'john-law',
       label: 'John Law',
+      lens: {
+        root: 'Fransa ağır borç, metal para kıtlığı ve yavaş ticaret içinde krediyle yeni bir dolaşım enerjisi kurmaya çalıştı.',
+        dominant: 'Law için güvenilir kağıt para ve banka kredisi, atıl kaynakları harekete geçirip devleti borç baskısından çıkarabilir.',
+        counter: 'Balon eleştirisi, kredi genişlemesi gerçek gelir ve şeffaflıkla bağını koparırsa güvenin bir anda çökeceğini söyler.',
+        publicEye: 'Yükseliş döneminde hisse zenginlik umudu yaratır; çöküşte küçük birikim sahibi de fiyat, panik ve güven kaybıyla zarar görür.',
+        control: 'Kredi ekonomiyi canlandıran bir köprü mü, yoksa gerçek üretimden koparsa çöken bir hayal mi?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker-statesman',
@@ -614,6 +677,13 @@
     {
       id: 'james-steuart',
       label: 'James Steuart',
+      lens: {
+        root: 'Smith öncesi dünyada işsizlik, ticaret, para ve devlet yönetimi için tek tip serbestlikten daha dikkatli bir geçiş dili aranıyordu.',
+        dominant: 'Steuart ekonomiyi tarihsel aşamaları olan karmaşık bir düzen gibi görür; devlet adamı geçişleri yönetmelidir.',
+        counter: 'Smithçi doğal özgürlük okuması, bu yönetim arzusunun imtiyaz, hata ve gereksiz müdahale üreteceğini savunur.',
+        publicEye: 'Yönetilen ekonomi işçiye istikrar, tüketiciye bazen pahalı mal, girişimciye ise hem koruma hem bürokrasi getirebilir.',
+        control: 'Piyasa düzeni kendiliğinden oluşmuyorsa devlet ne kadar yön vermeli; yön verince ne zaman özgürlüğü boğar?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
