@@ -139,6 +139,20 @@ Bu çatışmanın çözümlenmeyen yapısı, modern mülkiyet tartışmalarını
 
 Cevap, sadece olguların incelenmesinden çıkmaz; teorik çerçeveden çıkar. Aynı olay, iki farklı çerçevede iki farklı *gerçeklik* üretir. Bu kitap boyunca tekrar tekrar görüyoruz: mülkiyet "kavramı", sadece bir hukuksal kategori değil; bir politik yorum çerçevesidir.
 
+### İki yüz tablosu: mülkiyet ne zaman güvenlik, ne zaman dışlama?
+
+Rousseau ve Proudhon'u öğrenirken mülkiyeti tek renkle okumamak gerekir. Aynı kurum bazen insanı korur, bazen başkasının hayat alanını kapatır. Aşağıdaki tablo bu ikiliği zihinde açık tutmak için var.
+
+| Sahne | Güvenlik sağlayan yüz | Dışlayan yüz | Kontrol sorusu |
+|---|---|---|---|
+| Kişisel eşya ve ev | Kişiye mahremiyet, emek karşılığı ve istikrar verir | Barınma piyasasında başkasını dışarıda bırakabilir | Kullanım hakkı mı, gelir çekme hakkı mı baskın? |
+| Tarla | Uzun vadeli emek ve bakım için güven verir | Ortak otlak veya geçim alanı çitle kapatılabilir | Önceki ortak kullanım ne oldu? |
+| Sermaye | Üretim aracı kurar, iş ve kapasite yaratabilir | Başkalarının emeğinden sürekli gelir çekebilir | Kazanç emekten mi, sahiplik konumundan mı geliyor? |
+| Kredi ve faiz | Bugünkü imkanı geleceğe bağlayabilir | Borçluyu bağımlı ve kırılgan hale getirebilir | Risk ile ödül aynı kişide mi? |
+| Kooperatif | Sahiplik ile çalışma arasında bağ kurar | Büyüdükçe yeni hiyerarşiler üretebilir | Karar hakkı gerçekten çalışanlarda mı? |
+
+Bu tablo Rousseau'nun şüphesini ve Proudhon'un ayrımını birlikte tutar. Mülkiyet bazen özgürlüğün zemini, bazen de özgürlüğün sınırı olabilir; doğru okuma bu iki yüzü aynı anda görür.
+
 ---
 
 ## Dört kontrol sorusu

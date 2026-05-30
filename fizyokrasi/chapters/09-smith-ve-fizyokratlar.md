@@ -100,6 +100,20 @@ Smith'in fizyokratlardan miras aldığı kavramların kendi beş ciltlik mimaris
 
 Bu uzun yay — Quesnay'den George'a, oradan modern toprak değer vergisi (LVT) tartışmalarına ve ekolojik iktisada — Smith'in 1776'da reddettiği fizyokrat içgörünün hayatta kalmasının ve dönüşümünün hikâyesidir. Smith bu hikâyenin önemli bir uğrağıdır, ama son sözü değildir. Fizyokratlar Smith tarafından "aşıldıkları" ölçüde bile, onların sorduğu sorular — toprağın özel statüsü, artığın gerçek kaynağı, doğal düzenin iktisadi yasaları — modern iktisat tartışmasından hiçbir zaman tam çıkmadı. Smith ile fizyokratlar arasındaki diyalog, 18. yüzyılda Paris ile Edinburgh arasında başladı; ve hâlâ bitmedi.
 
+### Miras-itiraz tablosu: Smith neyi aldı, neyi dönüştürdü?
+
+Smith ile fizyokratları karşılaştırırken "etkilendi mi, etkilenmedi mi?" ikiliği yetmez. Daha iyi soru şudur: Hangi kavramı miras aldı, hangi kısmını genişletti, hangi kısmına itiraz etti?
+
+| Fizyokrat miras | Smith'in aldığı şey | Smith'in dönüştürdüğü şey | Karşı soru |
+|---|---|---|---|
+| Doğal düzen | Ekonomide kendiliğinden işleyen düzenlilik fikri | Metafizik doğa yasası yerine daha seküler piyasa düzeni | Bu düzen gerçekten kendiliğinden mi, kurumlarla mı kuruluyor? |
+| Serbest tahıl ticareti | Engellerin fiyat ve üretim sinyalini bozduğu fikri | İngiliz ticaret ve sanayi dünyasına daha geniş serbestlik programı | Serbestlik güçlü üreticiye mi, zayıf tüketiciye mi yarıyor? |
+| Üretken emek | Artık ve üretkenlik sorusunun önemi | Tarım tekelini kırıp imalatı da üretken sayma | Hangi emek neden üretken sayılıyor? |
+| Dolaşım modeli | Ekonominin sınıflar arası akış olarak okunması | Tableau'nun dar tarımsal şemasını geniş nesir sistemine çevirme | Model derinliği mi, teori genişliği mi daha açıklayıcı? |
+| Toprak/rant hassasiyeti | Toprağın özel statüsünü görme | Toprağı tek kaynak olmaktan çıkarma | Toprak hâlâ neden farklı bir mülkiyet türü? |
+
+Bu tablo Smith'i tek başına başlayan kahraman gibi de, fizyokratların kopyası gibi de okumayı engeller. Büyük sentezler çoğu zaman önceki fikrin hem öğrencisi hem eleştirmenidir.
+
 ---
 
 ## Dört kontrol sorusu

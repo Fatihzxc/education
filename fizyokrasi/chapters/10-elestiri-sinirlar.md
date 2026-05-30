@@ -162,6 +162,20 @@ Paradoks — başarısız doktrin, kurucu doktrin — fizyokrasinin neden iktisa
 
 Son iki bölüm çerçeveyi tamamlar. Bölüm 11 fizyokrasinin Devrim sonrası kurumsal mirasını — Fransız Devrimi sırasındaki etkisi, 19. yüzyıl liberal iktisadıyla devamlılıklar, "doğal düzen" mantığının modern serbest piyasa söylemine eklemlenişi — inceleyecek. Bölüm 12 çağdaş yankıları toparlayacak: girdi-çıktı analizinin politika kullanımları, Marx-okulu artık-değer hesabı, ekolojik iktisadın "doğa-temelli üretkenlik" tezini yeniden gündeme getirmesi, ve fizyokratik mirasın 21. yüzyıl düşüncesindeki sessiz canlılığı.
 
+### Eleştiri matrisi: hangi sınır hangi sonraki soruyu doğurdu?
+
+Fizyokrasiyi iyi öğrenmek için yanlışlarını yalnız "hata" diye işaretlemek yetmez. Bazı hatalar düşünce tarihinde verimli olur; çünkü sonraki kuşaklara çözülmesi gereken açık problemi bırakır.
+
+| Fizyokrat sınır | Neyi eksik gördü? | Sonraki düşüncede neye dönüştü? | Kontrol sorusu |
+|---|---|---|---|
+| Tarımı tek üretken sektör sayma | İmalat, ticaret ve sistem-düzeyi artığı | Smith'in geniş üretken emek anlayışı, Marx'ın artık-değer analizi | Artık bir sektörden mi, bütün üretim ağından mı doğar? |
+| Kapalı krallık modeli | Sömürge, köle emeği, dış ticaret ve çevre bölgeler | Dünya-sistemi, sömürgecilik ve küresel emek zinciri eleştirileri | Modelin dışında bırakılan dünya, modelin koşulu olabilir mi? |
+| Sermaye teorisinin zayıflığı | Üretilmiş üretim araçları ve zaman | Smith-Ricardo sermaye birikimi, Marx'ın sermaye döngüsü | Sermaye doğa uzantısı mı, geçmiş emeğin birikimi mi? |
+| Bakım emeğinin yokluğu | Ev içi emek ve toplumsal yeniden üretim | Feminist iktisat ve ulusal hesap eleştirisi | Üretim saymadığımız emek sistemi nasıl ayakta tutuyor? |
+| Bilim adına tepeden reform | Halkın geçim korkusu ve meşruiyet ihtiyacı | Teknokrasi, demokrasi ve uzman yönetimi tartışmaları | Doğru mekanizma halk güveni olmadan çalışır mı? |
+
+Bu matris bölümün ana dersini sakinleştirir: Fizyokrasi hem yanıldı hem yol açtı. Onu değerli yapan şey, kusursuz olması değil; sonraki büyük tartışmaların düğüm yerlerini erken görünür kılmasıdır.
+
 ---
 
 ## Dört kontrol sorusu
