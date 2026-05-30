@@ -21,7 +21,14 @@
       .modern-section-label.today { background: rgba(0,212,255,0.15); color: var(--accent); }
       .modern-section-label.history { background: rgba(168,139,250,0.15); color: #a78bfa; }
       .modern-section-label.diff { background: rgba(251,191,36,0.15); color: var(--warning); }
+      .modern-section-label.update { background: rgba(34,197,94,0.14); color: var(--success); }
       .modern-section p { color: var(--text-primary); font-size: 13px; line-height: 1.6; }
+      .modern-freshness { margin: 10px 0; padding: 10px; background: rgba(34,197,94,0.06); border: 1px solid rgba(34,197,94,0.18); border-radius: var(--radius-sm); }
+      .modern-freshness p { margin-top: 5px; color: var(--text-primary); font-size: 12px; line-height: 1.55; }
+      .modern-updated { display: block; color: var(--text-muted); font-size: 11px; line-height: 1.4; }
+      .modern-source-links { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
+      .modern-source-links a { display: inline-flex; align-items: center; min-height: 24px; padding: 3px 8px; border: 1px solid var(--border); border-radius: 999px; color: var(--text-secondary); background: var(--bg-card); font-size: 11px; text-decoration: none; }
+      .modern-source-links a:hover { color: var(--accent); border-color: var(--accent); }
       .modern-lens { margin: 12px 0; padding: 10px; background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: var(--radius-sm); }
       .modern-lens-title { color: var(--text-primary); font-size: 12px; font-weight: 700; margin-bottom: 8px; }
       .modern-lens-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(145px, 1fr)); gap: 7px; }
@@ -66,6 +73,37 @@
     `;
   }
 
+  function safeHref(value) {
+    try {
+      const url = new URL(String(value || ''), window.location.href);
+      return (url.protocol === 'http:' || url.protocol === 'https:') ? url.href : '#';
+    } catch (err) {
+      return '#';
+    }
+  }
+
+  function renderSourceLinks(sourceLinks) {
+    const rows = (sourceLinks || []).filter(link => link && link.url && link.label);
+    if (!rows.length) return '';
+    return `
+      <div class="modern-source-links" aria-label="Kontrol kaynakları">
+        ${rows.map(link => `<a href="${escapeHtml(safeHref(link.url))}" target="_blank" rel="noopener noreferrer">${escapeHtml(link.label)}</a>`).join('')}
+      </div>
+    `;
+  }
+
+  function renderFreshness(item) {
+    if (!item.updatedAt && !item.evidence && !(item.sourceLinks || []).length) return '';
+    return `
+      <div class="modern-freshness">
+        <span class="modern-section-label update">GÜNCELLİK NOTU</span>
+        ${item.updatedAt ? `<span class="modern-updated">${escapeHtml(item.updatedAt)} itibarıyla kontrol edildi.</span>` : ''}
+        ${item.evidence ? `<p>${escapeHtml(item.evidence)}</p>` : ''}
+        ${renderSourceLinks(item.sourceLinks)}
+      </div>
+    `;
+  }
+
   ModernLinks.prototype.init = function(containerId) {
     injectStyles();
     this.container = document.getElementById(containerId);
@@ -85,6 +123,7 @@
         <div class="modern-card">
           <h3>${l.title}</h3>
           ${renderLens(l.lens)}
+          ${renderFreshness(l)}
           ${l.today ? `<div class="modern-section"><span class="modern-section-label today">BUGÜN</span><p>${l.today}</p></div>` : ''}
           ${l.historical ? `<div class="modern-section"><span class="modern-section-label history">TARİHSEL PARALEL</span><p>${l.historical}</p></div>` : ''}
           ${l.difference ? `<div class="modern-section"><span class="modern-section-label diff">ÖNEMLİ FARK</span><p>${l.difference}</p></div>` : ''}

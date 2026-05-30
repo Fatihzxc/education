@@ -330,9 +330,16 @@
         publicEye: `Bir işçi için fabrika umudu; bir hane için pahalı beyaz eşya; bir çiftçi için karşı tarife riski olabilir.`,
         aid: `Zinciri şöyle oku: ithalat baskısı -> siyasi tepki -> tarife -> fiyat/misilleme -> kimin kazandığı ve kimin ödediği.`
       },
-      today: `Trump 2018'de Çin malları üzerinde %25 tarife getirdi, 2025'te %60+ tehdit etti. Çelik, alüminyum, beyaz eşya, yarı iletken sektörlerinde küresel ticaret savaşı.`,
-      historical: `Klasik merkantilist korumacılığın 21. yy geri dönüşü. Hörnigk'in 1684 "9 kuralı"ndan birkaçı (ham ihracat yasağı, mamul üretim teşviki, lüks ithal vergisi) Trump 232 ve 301 maddeleri altında uygulamada.`,
-      difference: `17. yy korumacılığında küresel değer zincirleri yoktu; bir tarife sadece bitmiş mala uygulanırdı. Bugün bir iPhone parçaları 5 ülkede üretiliyor, montajı Çin'de yapılıyor — tarife karmaşıklığı çok daha yüksek, eski tip karşı tarifeler kolayca işe yaramıyor.`,
+      updatedAt: `30 Mayıs 2026`,
+      evidence: `Bu kartta tek bir oran ezberletmek yerine döngüyü izliyoruz: 2018'den gelen Çin Section 301 hattı, 2025'te karşılıklılık tarifeleriyle sertleşti; sonra pazarlık ve askıya alma adımları geldi. Bu yüzden asıl soru "tarife kaç?" değil, "hangi sektör, hangi ülke, hangi istisna ve hangi misilleme altında?" sorusudur.`,
+      sourceLinks: [
+        { label: `White House: Çin anlaşması`, url: `https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/` },
+        { label: `White House: karşılıklı tarifeler`, url: `https://www.whitehouse.gov/presidential-actions/2025/04/modifying-reciprocal-tariff-rates-to-reflect-trading-partner-retaliation-and-alignment/` },
+        { label: `USTR: Section 301 istisnaları`, url: `https://ustr.gov/about/policy-offices/press-office/press-releases/2025/november/ustr-extends-exclusions-china-section-301-tariffs-related-forced-technology-transfer-investigation` }
+      ],
+      today: `2018'de Çin'e dönük Section 301 tarifeleriyle başlayan çizgi, 2025'te daha geniş "karşılıklılık tarifeleri" ve misilleme dalgalarıyla büyüdü. Kasım 2025 anlaşması sonrasında ABD, Çin için yükseltilmiş karşılıklı tarifeleri 10 Kasım 2026'ya kadar askıda tuttuğunu ve %10 karşılıklı tarife tabanını koruduğunu açıkladı. Bu tabloyu bir ticaret savaşı sloganı gibi değil, pazarlık, istisna, misilleme ve fiyat etkisi zinciri gibi okumak gerekir.`,
+      historical: `Klasik merkantilist korumacılığın 21. yy geri dönüşü. Hörnigk'in 1684 "9 kuralı"ndan birkaçını hatırla: ham ihracatın sınırlanması, mamul üretimin desteklenmesi, lüks ithalata yük bindirilmesi. Trump dönemi tarifeleri de aynı sezgiye yaslanır: dışarıdan gelen rekabeti pahalılaştır, içeride üretimi ve pazarlık gücünü koru.`,
+      difference: `17. yy korumacılığında küresel değer zincirleri bugünkü kadar iç içe değildi; bir tarife çoğu zaman bitmiş mala uygulanırdı. Bugün bir telefonun çipi, yazılımı, ekranı, montajı ve patenti farklı ülkelerde olabilir. Bu yüzden modern tarife yalnız rakibi değil, kendi üreticini ve tüketicini de vurabilir; eski reçete aynı kelimeyle geri dönse bile etkisi çok daha karmaşıktır.`,
       conceptRefs: [`protectionism`, `philipp-von-hornigk`, `balance-of-trade`]
     },
     {
@@ -345,7 +352,13 @@
         publicEye: `Çinli mühendis için kariyer sıçraması; küçük üretici için disiplinli tedarik baskısı; dış ülkede işçi için rekabet tehdidi olabilir.`,
         aid: `Colbert ile benzerliği üretimi seçmesidir; farkı ise bugünkü ölçek, veri, çip ve küresel tedarik ağlarının çok daha karmaşık olmasıdır.`
       },
-      today: `2015'te ilan edilen 10-yıl stratejisi: yarı iletken, robotik, EV, biyoteknoloji, havacılık sektörlerinde küresel liderlik. Devlet sübvansiyonu, lokal pazar korumacılığı, yabancı teknoloji transferi zorunluluğu.`,
+      updatedAt: `30 Mayıs 2026`,
+      evidence: `Çin'in resmi dili bunu imalatın niteliğini yükseltme ve dışa bağımlılığı azaltma programı olarak anlatır. ABD/Avrupa merkezli karşı okuma ise aynı programda sübvansiyon, pazar erişimi ve teknoloji transferi baskısı görür. Doğruya yaklaşmak için iki sesi birlikte duymak gerekir.`,
+      sourceLinks: [
+        { label: `CSET: resmi plan çevirisi`, url: `https://cset.georgetown.edu/publication/notice-of-the-state-council-on-the-publication-of-made-in-china-2025/` },
+        { label: `CSIS: plan analizi`, url: `https://www.csis.org/analysis/made-china-2025` }
+      ],
+      today: `2015'te yayımlanan Made in China 2025, Çin'in düşük maliyetli montajdan yüksek teknoloji ve marka üreten imalata çıkma programıydı. Planın kalbinde şunu görürsün: ülke yalnız daha çok üretmek değil, daha zor taklit edilen üretim basamaklarına çıkmak istiyor. Öncelikli alanlar arasında yeni bilgi teknolojileri, robotik, havacılık, denizcilik, hızlı tren, yeni enerjili araçlar, güç ekipmanları, tarım makineleri, yeni malzemeler ve biyofarma/ileri tıbbi cihazlar sayılır.`,
       historical: `Colbertizm'in 21. yy versiyonu: devletin doğrudan sanayi politikası, "national champions" (Huawei, BYD, SAIC) Saint-Gobain ve Gobelins'in modern karşılığı. Friedrich List 1841 "infant industry" + Hörnigk "kaynak haritalama" mantığı.`,
       difference: `Colbert dünyanın ~%10'unun ekonomik aktörüydü; Çin bugün küresel imalatın %30'u, küresel ticaretin %15'i. Ölçek ve karşılıklı bağımlılık seviyesi tarih dışı; küresel sistem Çin'in tek taraflı politikasından sistematik etkilenir.`,
       conceptRefs: [`jean-baptiste-colbert`, `manufactures-royales`, `friedrich-list`, `import-substitution`, `ha-joon-chang`]
@@ -360,9 +373,15 @@
         publicEye: `Avrupalı işçi için fabrika koruması; dış üretici için ek belge ve maliyet; tüketici için daha pahalı ama daha temiz ürün ihtimali doğar.`,
         aid: `Soruyu ikiye ayır: karbon kaçağını gerçekten azaltıyor mu, yoksa çevre gerekçesiyle sanayi koruması mı yapıyor?`
       },
-      today: `AB Karbon Sınır Düzenleme Mekanizması (Carbon Border Adjustment Mechanism) Ekim 2023'te geçiş dönemi, Ocak 2026'da tam uygulama. Çelik, çimento, alüminyum, gübre, hidrojen ithal edenlerden karbon vergisi alınır.`,
+      updatedAt: `30 Mayıs 2026`,
+      evidence: `"Karbon vergisi" kısa bir anlatım sağlar ama mekanizma teknik olarak raporlama, gömülü emisyon hesabı ve CBAM sertifikası üzerinden işler. Bu ayrım önemli; çünkü tartışma yalnız "vergi var mı?" değil, iklim standardının ticaret kapısında nasıl ölçüldüğü meselesidir.`,
+      sourceLinks: [
+        { label: `AB Komisyonu: CBAM`, url: `https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en` },
+        { label: `AB Komisyonu: geçiş dönemi`, url: `https://taxation-customs.ec.europa.eu/news/carbon-border-adjustment-mechanism-starts-weekend-its-transitional-phase-2023-09-29_en` }
+      ],
+      today: `AB Karbon Sınır Düzenleme Mekanizması 1 Ekim 2023'te geçiş dönemiyle başladı. 2023-2025 arasında ithalatçılar esas olarak raporlama yaptı; 2026'dan itibaren çimento, demir-çelik, alüminyum, gübre, elektrik ve hidrojen ithalatında gömülü emisyonlar için CBAM sertifikası alma yükümlülüğü doğuyor. Basitçe söylersek: AB, "içeride karbon pahalıysa dışarıdan kirli ve ucuz üretim gelmesin" demeye çalışıyor.`,
       historical: `Mun'un 1664 "ulusal stratejik mal koruması" mantığının yeşil versiyonu. Stratejik mal artık askeri madde değil, karbon-yoğun sanayi — ama amaç aynı: yerli üreticiye rekabet avantajı, dış üreticiye dezavantaj.`,
-      difference: `CBAM "çevre standardı" kostümü altında, klasik tarifeler ise açıkça ulusal çıkar gerekçeliydi. Bu retorik fark uluslararası kabul edilebilirliği artırır ama özünde aynı korumacı sonucu üretir. WTO uyumluluğu hâlâ tartışmalı.`,
+      difference: `CBAM kendini klasik gümrük vergisi gibi değil, karbon fiyatını eşitleme aracı gibi sunar. Bu yüzden fark yalnız retorik değildir; ölçüm, raporlama ve sertifika sistemi üzerinden işler. Ama dış üretici açısından sonuç yine pazar kapısında ek maliyet olabilir. Karşı okuma burada başlar: İklim adaleti mi, yeşil korumacılık mı, yoksa ikisi birden mi?`,
       conceptRefs: [`protectionism`, `thomas-mun`, `balance-of-trade`]
     },
     {
@@ -375,7 +394,14 @@
         publicEye: `Yeni fabrika kurulan şehirde iş umudu doğar; ama vergi mükellefi, tüketici ve dış tedarikçi maliyetin başka yüzünü taşır.`,
         aid: `Hamilton bağlantısını akılda tut: geri kalmış sanayiyi korumak ile hegemon sanayiyi yeniden konumlandırmak aynı şey değildir.`
       },
-      today: `Inflation Reduction Act (2022): $369 milyar yeşil enerji + batarya sübvansiyonu. CHIPS and Science Act (2022): $52 milyar yarı iletken üretim teşviki. Tesla, GM, Ford, Intel, TSMC ABD'ye reshoring.`,
+      updatedAt: `30 Mayıs 2026`,
+      evidence: `Buradaki paraları tek seferlik kasa ödemesi gibi düşünme. Vergi kredisi, hibe, kredi, araştırma fonu ve fabrika teşviki birlikte çalışır. Bu yüzden mesele sadece "devlet para verdi" değil, devletin hangi üretim ağını kendi toprağına bağlamak istediğidir.`,
+      sourceLinks: [
+        { label: `Treasury: IRA`, url: `https://home.treasury.gov/news/press-releases/jy0911` },
+        { label: `NIST: CHIPS fonları`, url: `https://www.nist.gov/chips/chips-incentives-funding-opportunities` },
+        { label: `CHIPS for America`, url: `https://www.chips.gov/` }
+      ],
+      today: `Inflation Reduction Act (2022), temiz enerji, batarya ve iklim yatırımlarını büyük vergi kredileriyle destekledi; kamu tartışmasında bu paket çoğu zaman yaklaşık 369 milyar dolarlık iklim/enerji yatırımı diye anıldı. CHIPS and Science Act ise yarı iletken üretimi, araştırması ve işgücü için 52 milyar doların üzerinde federal destek açtı. Bu iki yasa, ABD'nin "piyasa kendiliğinden ayarlasın" çizgisinden stratejik sektörlerde daha açık bir sanayi politikasına döndüğünü gösterir.`,
       historical: `Alexander Hamilton'ın 1791 *Report on Manufactures* sanayi politikası önerisinin doğrudan iki yüzyıl sonra geri dönüşü. Hamilton kendi zamanında İngiliz sanayi hegemonyasından ABD'yi korumak için aynı tedbirleri (tarife + sübvansiyon + tekel) önermişti.`,
       difference: `Hamilton döneminde ABD geri kalmış ülkeydi; bugün ABD hegemonu konumda ama göreceli düşüş tehdidiyle sanayi kapasitesini yeniden kurmaya çalışıyor. IRA + CHIPS Act klasik "infant industry" değil, olgun sanayiyi stratejik olarak yeniden yerleştirme hamlesidir. Karşı okuma şunu sorar: bütçe maliyeti, müttefiklerle sübvansiyon yarışı, tüketici fiyatları ve küresel tedarik zinciri kırılması kimin omzuna biniyor?`,
       conceptRefs: [`protectionism`, `import-substitution`, `friedrich-list`, `manufactures-royales`]
@@ -390,7 +416,13 @@
         publicEye: `Çiftçi için alım güvencesi, mühendis için teknoloji alanı, tüketici için fiyat ve kalite sorusu aynı anda oluşur.`,
         aid: `İki mirası ayır: iaşecilik temel mal güvenliğini, Colbertvari çizgi stratejik sanayi inşasını anlatır.`
       },
-      today: `Şeker pancarı taban fiyat alımı (TMO), TOGG yerli otomobil 2023 üretimi, savunma sanayii yerlileştirme (BAYRAKTAR, ALTAY tankı), lojistik koridor stratejisi (Orta Koridor), gıda kendine yeterlilik (Tarım Kredi Kooperatifi).`,
+      updatedAt: `30 Mayıs 2026`,
+      evidence: `Yıl yıl değişen alım fiyatları yerine daha kalıcı politika diline bakmak öğretici: kritik teknoloji, yerli üretim, yüksek katma değer, ithalat bağımlılığını azaltma ve stratejik kapasite. Çünkü kök sebep tek bir ürün fiyatı değil, dışa bağımlılık ile üretim öğrenmesi arasındaki gerilimdir.`,
+      sourceLinks: [
+        { label: `Sanayi Bakanlığı: HIT-30`, url: `https://hit30.sanayi.gov.tr/` },
+        { label: `2030 Sanayi ve Teknoloji Stratejisi`, url: `https://www.sanayi.gov.tr/assets/pdf/plan-program/2030SanayiveTeknolojiStratejisi.pdf?1742993337406=` }
+      ],
+      today: `Türkiye'de güncel çerçeve "Milli Teknoloji Hamlesi", 2030 Sanayi ve Teknoloji Stratejisi, Teknoloji Odaklı Sanayi Hamlesi ve HIT-30 gibi programlar etrafında kuruluyor. Basit fikir şu: ülke otomotiv/mobilite, savunma, yarı iletken, yeşil enerji ve ileri imalat gibi alanlarda daha çok yerli kapasite ve daha yüksek katma değer istiyor. Tarım ve gıda tarafında ise eski iaşecilik hassasiyetini hatırlatan temel mal güvenliği kaygısı hâlâ arka planda duruyor.`,
       historical: `İki katmanlı miras: (1) **Osmanlı iaşeciliği** (Genç tezi) — temel malların iç tedariği önceliği, fiyat denetimi, ihracat sınırlama; (2) **Klasik merkantilizm** (Colbertvari) — stratejik sanayi devlet desteğiyle inşa. Modern Türkiye iki mirastan da besleniyor: Tarım iaşecilik, savunma+otomotiv Colbertvari.`,
       difference: `Osmanlı dış pazara çıkmaya çalışmıyordu (iaşecilik iç odaklı); modern Türkiye ihracat-odaklı büyüme modelinde — bu Genç çerçevesinde paradoksal: iaşecilik mirası ihracat odaklı strateji ile gerilim halinde. Bu gerilim ekonomik politik tartışmaların alt metnini oluşturuyor.`,
       conceptRefs: [`iasecilik`, `manufactures-royales`, `mehmet-genc`, `import-substitution`, `protectionism`]
@@ -405,8 +437,14 @@
         publicEye: `Sanayi işçisi koruma ister; yoksul hane ucuz ürün ister; devlet ikisini aynı anda memnun etmekte zorlanır.`,
         aid: `Listçi koruma ancak öğrenme takvimi varsa anlamlıdır; sonsuz koruma, bebek sanayiyi hiç büyümeyen yetişkine çevirebilir.`
       },
-      today: `Mercosur (Brezilya, Arjantin, Uruguay, Paraguay) AB ile 25-yıl müzakeresi sonrası 2023 Aralık imza taslağı; iç tarifeler %35'e kadar yüksek kalıyor, AB'ye sınırlı pazar açımı. Brezilya yerli sanayi koruma savunusu.`,
-      historical: `Friedrich List'in 1841 Alman gümrük birliği Zollverein modelinin Güney Amerika versiyonu — komşu ülkeler iç gümrük kaldırıp dış gümrük yükseltir. List'in "ulusal sistem"i 19. yy Almanya'da, 20. yy ABD'de, 21. yy Çin'de işe yaradı; Mercosur aynı modeli deniyor.`,
+      updatedAt: `30 Mayıs 2026`,
+      evidence: `Bu başlıkta eski "taslak bekleniyor" dili artık yetersiz kalır: AB ve Mercosur 6 Aralık 2024'te siyasi anlaşmaya ulaştı; 2026'da anlaşma metinleri imza aşamasına taşındı. Ama bu, bölgesel koruma mantığının bittiği anlamına gelmez; ortak dış tarife ve ürün bazlı istisnalar hâlâ okumanın merkezindedir.`,
+      sourceLinks: [
+        { label: `AB Komisyonu: Mercosur anlaşması`, url: `https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-mercosur-agreement_en` },
+        { label: `Mercosur: ortak tarife sorgusu`, url: `https://polcom.mercosur.int/public/ncm/vigente` }
+      ],
+      today: `Mercosur, Brezilya, Arjantin, Uruguay ve Paraguay'ın ortak pazar projesidir; Venezuela üyeliği askıdadır, Bolivya'nın katılım süreci ise ayrı bir başlık olarak ilerler. AB ile uzun müzakerelerden sonra 6 Aralık 2024'te siyasi anlaşmaya varıldı ve 2026'da metinler imza sürecine taşındı. Buna rağmen mesele "tam açılma" değildir: Mercosur bir yandan AB'ye seçilmiş pazar açımı yapar, bir yandan da ortak dış tarife ve hassas sektör koruması mantığını sürdürür.`,
+      historical: `Friedrich List'in 1841 Alman gümrük birliği Zollverein modelini burada hatırlamak yararlı: komşu ülkeler içeride pazarı büyütür, dışarıya karşı ortak bir tarife dili kurar. List'in "ulusal sistem"i 19. yy Almanya'sında öğrenme alanı yaratmaya çalışmıştı; Mercosur da benzer biçimde tek tek zayıf kalabilecek ekonomilerin birlikte pazarlık gücü kazanmasını hedefler.`,
       difference: `Zollverein dönemi (1834) küresel rekabette ön sıralarda olan ülkeler yoktu — herkes nispeten geri kalmıştı. Bugün Mercosur Çin (ucuz emek) + ABD (yüksek teknoloji) sıkıştırması altında; "infant industry" stratejisi 200 yıl gerilemiş olabilir, dış rekabet çok daha sert.`,
       conceptRefs: [`friedrich-list`, `protectionism`, `ha-joon-chang`]
     }
