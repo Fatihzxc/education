@@ -101,6 +101,20 @@ Bu dönemin kamu hafızası çok güçlü metin ve görüntülerle taşınır. C
 
 Bu kaynaklar bize şunu öğretir: 1914-1945 yalnız devletlerin değil, insanların sinir sisteminin tarihidir.
 
+### Kanıt paketi: modern kapasitenin çift yüzünü ölçmek
+
+1914-1945 dönemini anlamak için yalnız "liderler ne yaptı?" diye sormak eksik kalır. Modern devlet kapasitesi; üretim, kayıt, propaganda, bilim ve şiddeti aynı anda büyüttü. Bu yüzden her büyük olayda hem kurumsal aracı hem insan bedelini birlikte izle.
+
+| Kanıt izi | Ne aramalısın? | Karşı okuma |
+|---|---|---|
+| Seferberlik | Asker sayısı, zorunlu çalışma, üretim hedefi, karne | Ulusal birlik dili hangi bedeni ve sınıfı daha çok yüklüyor? |
+| Bürokrasi | Kimlik kaydı, kamp, tren, emir zinciri, istatistik | Düzen aracı nasıl yok etme aracına dönüşüyor? |
+| Propaganda | Radyo, afiş, okul, tören, düşman imgesi | Halkın rızası mı kuruluyor, korkusu mu yönetiliyor? |
+| Ekonomi | İşsizlik, enflasyon, savaş üretimi, borç | Kriz hangi ideolojiyi makul gösteriyor? |
+| Tanıklık | Günlük, roman, fotoğraf, mahkeme ifadesi | Büyük anlatı hangi küçük hayatı silikleştiriyor? |
+
+Bu paketi kullanınca dönem daha ağır ama daha anlaşılır hale gelir. Modernlik burada yalnız ilerleme değil; büyük ölçekli örgütleme gücüdür. O güç hangi ahlaki sınırla birleşirse başka, hangi düşmanlaştırma diliyle birleşirse bambaşka sonuç üretir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1914-1945 dönemi, sanayi gücü, ulus-devlet seferberliği, ekonomik kriz ve ideolojik kutuplaşmanın birleşmesinden doğar.

@@ -100,6 +100,20 @@ Bu dönemi daha iyi anlamak için Avrupa anlatısını merkeze koyup diğer böl
 
 Bu üç pencere ufku açar: Erken modern dünya tek taraflı Avrupa enerjisinin sonucu değildir. Eski merkezler, yeni zor araçları ve değişen para akışları birbirine çarpınca doğmuştur.
 
+### Kanıt paketi: bağlantıyı üç akışla sınamak
+
+Bu dönemde "bağlantı arttı" demek tek başına yetmez. Bağlantı bazen ticaret, bazen zor, bazen din ve hukuk diliyle kuruldu. Aynı gemi bir tüccar için fırsat, zorla taşınan insan için felaket, devlet için vergi ve donanma kaynağı olabilir.
+
+| Kanıt izi | Ne aramalısın? | Kimin sesi eksik kalabilir? |
+|---|---|---|
+| Mal akışı | Gümüş, şeker, baharat, tekstil ve silah hangi güzergâhtan geçiyor? | Ürünü çıkaran maden işçisi, köle veya zanaatkâr |
+| Zor akışı | Kale, top, şirket imtiyazı, kölelik ve zorunlu emek nerede devreye giriyor? | Fetih kroniğinde adı geçmeyen yerli toplum |
+| Fikir akışı | Misyon, doğal hukuk, egemenlik ve ticaret hakkı hangi şiddeti sınırlandırıyor veya meşrulaştırıyor? | Hak diliyle korunmayan insanlar |
+| Para akışı | Gümüş, kredi, sigorta ve borç savaşı nasıl finanse ediyor? | Vergiyi ve fiyat oynaklığını taşıyan hane |
+| Karşı tanıklık | Seyahatnameye karşı köle tanıklığı, fetih kroniğine karşı yerli hafıza ne söylüyor? | Arşiv bırakması engellenmiş topluluklar |
+
+Bu paketin amacı şudur: Erken modern bağlantıyı ne romantikleştirmek ne de tek bir karanlığa indirgemek. Bağlantının hangi araçla kurulduğunu gördüğünde, kimin dünyasının genişlediğini ve kimin dünyasının daraldığını daha dürüst anlarsın.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1450-1650 dünyası, okyanus bağlantıları, barut orduları, gümüş akışı ve sömürgeci zorun aynı anda büyümesinden doğar.

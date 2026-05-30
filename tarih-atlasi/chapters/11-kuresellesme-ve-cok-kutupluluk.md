@@ -98,6 +98,20 @@ Bu dönemde kamu gözü çok parçalıdır. Gazete hâlâ önemlidir, ama sosyal
 
 Bu yüzden çağdaş dünyayı okurken yalnız veri değil, verinin kim tarafından nasıl gösterildiği de önemlidir.
 
+### Kanıt paketi: bağlantı kime alan, kime kırılganlık getiriyor?
+
+1991 sonrası dünyayı öğrenirken "küreselleşme iyi mi kötü mü?" sorusu fazla geniş kalır. Daha iyi soru şudur: Hangi bağlantı hangi aktöre hareket alanı açıyor, hangi aktörü daha kırılgan yapıyor?
+
+| Kanıt izi | Ne aramalısın? | Karşı soru |
+|---|---|---|
+| Tedarik zinciri | Üretim nerede, marka nerede, kâr nerede, risk nerede? | Ucuz ürünün görünmeyen emek ve çevre bedeli nerede kalıyor? |
+| Finans | Borç, faiz, konut fiyatı, sermaye çıkışı, kriz anı | Risk özel kârken, zarar kamusal faturaya mı dönüyor? |
+| Platform | Veri, algoritma, görünürlük, hesap kapatma, gig iş | Kullanıcı özgür mü, yoksa ölçülen ve yönlendirilen emek mi? |
+| İklim | Karbon, enerji faturası, sel, kuraklık, dönüşüm maliyeti | Tarihsel sorumluluk ile bugünkü büyüme hakkı nasıl dengeleniyor? |
+| Yerel tanıklık | İşini kaybeden bölge, göç eden aile, platform çalışanı, çiftçi | Ortalama küresel kazanç hangi yerel kaybı saklıyor? |
+
+Bu paket güncel dünyayı yavaşlatır. Bir haber gördüğünde hemen yargıya koşmak yerine bağlantı okunu çiz: hareket eden ne, duran kim, kazanç nerede birikiyor, risk kime kalıyor?
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** 1991 sonrası dünya, piyasa entegrasyonu, dijital teknoloji, Çin'in yükselişi, finansallaşma ve iklim sınırlarının birlikte çalışmasından doğar.

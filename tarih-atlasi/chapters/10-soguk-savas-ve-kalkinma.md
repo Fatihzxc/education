@@ -118,6 +118,20 @@ Soğuk Savaş'ın kamu gözü yalnız lider konuşmaları değildir. Bir ülkede
 
 Bu kamu gözü, Soğuk Savaş'ı harita üzerindeki iki renkli bloktan çıkarır. İnsanlar bu dönemi korku, umut, kuyruk, maaş ve okul üzerinden yaşadı.
 
+### Kanıt paketi: kalkınma vaadini bedel defteriyle oku
+
+1945 sonrası dönemde hemen herkes bir tür güven vaat etti: ABD refah ve tüketim güveni, Sovyetler plan ve iş güveni, yeni bağımsız ülkeler kalkınma ve egemenlik güveni, neoliberal dönüş para ve piyasa güveni. Ama her güven vaadi bir bedel dağılımı taşır.
+
+| Kanıt izi | Ne aramalısın? | Karşı soru |
+|---|---|---|
+| Plan ve bütçe | Kamu yatırımı, sanayi hedefi, eğitim ve sağlık harcaması | Devlet kapasite mi kuruyor, yeni ayrıcalık mı yaratıyor? |
+| Dış bağlantı | Yardım, kredi, askeri üs, ticaret anlaşması, teknoloji lisansı | Bağımsızlık hangi bağımlılıklarla sınırlanıyor? |
+| Hane deneyimi | Maaş, kuyruk, kira, okul, sağlık, iş güvencesi | Büyük kalkınma sayısı evde neye dönüşüyor? |
+| Siyasal baskı | Darbe, parti denetimi, sendika sınırı, güvenlik yasası | Kalkınma adına özgürlük nerede daralıyor? |
+| Karşı tanıklık | Göçmen işçi, köylü, kadın emeği, öğrenci hareketi, muhalif basın | Resmi plan kimin sesini başarı hikayesine katmıyor? |
+
+Bu defter sana şunu öğretir: Kalkınma yalnız fabrika sayısı değildir. Kimin güven kazandığı, kimin itaat etmeye zorlandığı ve kimin borçla geleceğe bağlandığı aynı hikayenin parçalarıdır.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Soğuk Savaş ve kalkınma dönemi, güvenlik rekabeti, dekolonizasyon, refah vaadi ve ekonomik yetişme arzusundan doğar.
