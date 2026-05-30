@@ -87,6 +87,20 @@ Burada ilginç bir gerilim vardır:
 
 Uzman dili gereksiz değildir; hatta çoğu zaman çok yararlıdır. Ama bu dilin insan deneyimiyle bağlantısı koparsa ekonomi soğuk bir hava durumu raporu gibi okunur. Oysa her sayı bir evin içine, bir sofraya, bir umut veya korkuya bağlanır.
 
+### Kanıt paketi: sayı, vitrin, hikaye
+
+Marjinalist-neoklasik dünya sessiz yayıldığı için kanıtı da sessiz yerlerde aramak gerekir: ders kitabı dili, istatistik tablosu, tüketim nesnesi, gazete yorumu ve roman sahnesi. Bunlar birlikte okunduğunda "tercih" kelimesinin hem gücü hem sınırı görünür.
+
+| Kanıt | Ne gösterir? | Karşı soru |
+|---|---|---|
+| Ders kitabı | Arz, talep, denge ve marjinal faydanın normal düşünme dili oluşunu | Bu dil hangi sınıf ve kurum deneyimini varsayıyor? |
+| İstatistik | Fiyat, işsizlik, bütçe ve ticaretin ölçülebilir hale gelişini | Ölçülen şey hangi duyguyu veya güvencesizliği dışarıda bırakıyor? |
+| Vitrin / reklam | Tercihin arzu, statü ve kimlikle bağını | Tercih ne kadar özgür, ne kadar toplumsal baskıyla kuruluyor? |
+| Roman | Şehir, borç, yükselme isteği ve statü kaygısını | Kurgu hangi mekanizmayı belirsiz bırakıyor? |
+| Gazete uzmanı | Teknik yorumun kamu diline dönüşmesini | Uzman dili halkın hayatını açıklıyor mu, uzaklaştırıyor mu? |
+
+Bu paket sana şunu hatırlatsın: Marjinalizm yalnız tüketici seçimi değildir; seçimin anlatıldığı, ölçüldüğü, öğretildiği ve arzulandığı bir kültür dünyasıdır.
+
 ## Bu pane için okuma yöntemi
 
 Kamunun gözünü anlamak istiyorsan üçlü bir okuma yap:

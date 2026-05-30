@@ -34,6 +34,19 @@ Bu korku bize şunu gösterir: Marx'ın fikirleri yalnızca kitap rafında durma
 
 Bu tablo bize Marx'ın kamusal hayatını çok sesli okumayı öğretir. Marx yalnızca kendi kitabında yaşamaz; ona karşı yazanlarda, ondan korkanlarda, onu slogan yapanlarda ve romanla hissedenlerde de yaşar.
 
+### Kanıt paketi: aynı sınıf çatışmasını dört kaynaktan oku
+
+Marx'ın kamu yüzünü anlamak için tek kaynağa yaslanma. İşçi gazetesi öfkeyi ve talebi gösterir; patron gazetesi üretim kaybını; devlet raporu düzen korkusunu; roman ise yorgun bedeni ve kırılan onuru. Hakikate yaklaşmak, bu sesleri birbirine ezdirmeden yan yana koymakla başlar.
+
+| Kaynak | Ne yakalar? | Neyi dengelemek gerekir? |
+|---|---|---|
+| İşçi basını | Ücret, çalışma saati, onur ve örgütlenme talebi | Hareket içi farklılıklar ve strateji tartışmaları |
+| Patron / ticaret gazetesi | Üretim, sözleşme, maliyet ve mülkiyet kaygısı | Çalışma temposu ve ücret baskısı |
+| Devlet raporu | Polis, kamu düzeni, grev ve devrim korkusu | Devletin düzeni kimin lehine koruduğu |
+| Roman / tanıklık | Sefaletin ve umudun insan yüzü | Sahnenin temsil gücü ve abartı ihtimali |
+
+Bu paket Marxçı okumanın temel disiplinini kurar: bir anlatıya hemen inanma, ama hiçbir anlatıyı da hemen susturma. Önce kimin konuştuğunu, sonra kimin konuşamadığını sor.
+
 ## Kamusal dolaşım akışı
 
 Marx'ın fikirleri toplumda düz bir çizgiyle yayılmaz. Farklı ellerde farklı biçim alır:

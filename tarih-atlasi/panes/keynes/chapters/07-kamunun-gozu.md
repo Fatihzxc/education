@@ -112,6 +112,20 @@ Kamunun gözünü yakalamak için dört malzemeyi birlikte oku:
 
 Bu dört malzeme birlikte olduğunda Keynesçilik ve monetarizm yalnızca politika reçetesi olmaktan çıkar; 20. yüzyıl insanının güven ve korku tarihine dönüşür.
 
+### Kanıt paketi: makro kavramı ev bütçesine indir
+
+Modern makro iktisadı öğrenmenin en iyi yollarından biri, her teknik terimin yanına gündelik bir iz koymaktır. Çünkü "faiz", "işsizlik", "enflasyon" ve "kamu harcaması" yalnız rapor kelimesi değildir; evin taksitine, market fişine, iş arama süresine ve devletin verdiği güvene dokunur.
+
+| Makro iz | Kamu malzemesi | Ne gösterir? | Karşı soru |
+|---|---|---|---|
+| İşsizlik oranı | Roman, fotoğraf, iş başvurusu kuyruğu | Sayının insan yüzünü | Yardım mı, iş mi, ücret mi eksik? |
+| Enflasyon | Market etiketi, gazete manşeti, mutfak bütçesi | Paraya güvenin nasıl aşındığını | Fiyat istikrarının bedeli kime çıkıyor? |
+| Faiz | Kredi taksiti, işletme borcu, merkez bankası haberi | Para politikasının haneye inişini | Borçlu ile tasarruf sahibi aynı şeyi mi yaşar? |
+| Kamu harcaması | Yol, okul, iş programı, savunma bütçesi | Devletin hangi hayatı desteklediğini | Harcama refah mı, savaş kapasitesi mi kuruyor? |
+| Kriz fotoğrafı | Ev kaybı, banka kuyruğu, protesto | Ekonomik çöküşün duygu hafızasını | Görsel acı hangi verilerle dengelenmeli? |
+
+Bu paket makro teoriyi küçültmez; onu öğrenilebilir yapar. Büyük grafik, küçük mutfağa inmeden tam anlaşılmaz.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** İşsizlik kuyruğu, savaş karnesi, mutfak enflasyonu ve kriz haberleri makro teoriyi gündelik duyguya çevirdi.

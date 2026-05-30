@@ -75,6 +75,19 @@ Bu üç sahne aynı dönemi farklı ışıklarla gösterir. Parlamento yasa dili
 
 Bu tablo ufku açar çünkü "kamu" dediğimiz şeyin tek ses olmadığını gösterir. Sanayi çağında her sınıf aynı dünyayı başka kelimelerle anlatır.
 
+### Kanıt paketi: roman-veri çift okuması
+
+Klasik çağın kamusal gözünü öğrenirken romanı ve veriyi birbirine rakip yapma. Roman duyguyu büyütür; veri ölçeği düzeltir. İkisi yan yana gelince hem insanı hem mekanizmayı görürsün.
+
+| Okuma çifti | Roman / tanıklık ne verir? | Veri / kayıt ne verir? | Soru |
+|---|---|---|---|
+| Fabrika sahnesi + çalışma saati | Beden yorgunluğu ve disiplin hissi | Çalışma gününün uzunluğu ve yaş grupları | Sözleşme gerçekten özgür mü? |
+| Ekmek sahnesi + fiyat serisi | Sofra korkusu | Geçim maliyeti ve ücret baskısı | Serbest ticaret kimin hayatını rahatlatıyor? |
+| Workhouse sahnesi + yoksul yasası kaydı | Utanç, dışlanma ve kurum soğukluğu | Yardım koşulu ve nüfus kapsamı | Yardım teşvik mi, insan onuru mu? |
+| Grev haberi + ücret/kâr verisi | Öfke ve dayanışma | Bölüşüm geriliminin maddi izi | Kavga ahlaki mi, yapısal mı? |
+
+Bu çift okuma, klasik iktisadı insana yaklaştırır. Smith veya Ricardo'daki kavramın, Dickens veya Gaskell'de hangi duyguya dönüştüğünü görmeye başlarsın.
+
 ## Osmanlı karşı-penceresi
 
 Osmanlı dünyasında klasik iktisat 19. yüzyılda daha çok tercüme, eğitim, mali reform ve Tanzimat tartışmaları içinden dolaştı. Burada sanayi şehri ve fabrika romanı İngiltere'deki kadar merkezi değildi. Daha çok devletin mali düzeni, dış ticaret, kapitülasyonlar, serbest ticaret anlaşmaları, ziraat ve eğitim dili öne çıktı.

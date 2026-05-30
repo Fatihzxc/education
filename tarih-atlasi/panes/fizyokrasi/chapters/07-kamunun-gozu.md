@@ -86,7 +86,7 @@ söylenti, hiciv, isyan, destek veya direnç
 
 Bir fikir bu basamaklardan geçerken değişir. İlk yazıldığı yerdeki anlamı ile pazarda duyulduğu anlamı aynı kalmayabilir.
 
-### Kaynak pusulası: hiciv, broşür ve isyan neyi gösterir?
+### Kanıt paketi: hiciv, broşür ve isyan neyi gösterir?
 
 Kamunun gözünü anlamak için tek tür kaynağa yaslanmak yetmez. Resmî metin reformun niyetini anlatır; broşür ikna dilini gösterir; hiciv kibri ve soyutluğu yakalar; isyan ise teorinin bedene, ekmeğe ve korkuya değdiği noktayı görünür kılar.
 
