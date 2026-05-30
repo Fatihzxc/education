@@ -14,49 +14,98 @@
 <body class="landing">
 
   <header class="landing-header">
-    <h1>Sosyal Bilimler Kütüphanesi</h1>
-    <p class="subtitle">Tematik kesişmeler — iktisat, felsefe, hukuk, siyaset bilimi</p>
+    <div>
+      <h1>Sosyal Bilimler Kütüphanesi</h1>
+      <p class="subtitle">Okunabilir ana giriş: kitaplar, atlas pane'leri ve sıradaki temalar.</p>
+    </div>
+    <nav class="landing-nav" aria-label="Ana gezinme">
+      <a href="library.html">Tüm Kitaplar</a>
+      <a href="roadmap.html">Yol Haritası</a>
+    </nav>
   </header>
 
-  <main class="theme-grid" id="themeGrid" aria-label="Tema'lar">
-    <!-- theme-registry.js doldurur -->
+  <main class="landing-main">
+    <section class="landing-section reading-desk" aria-labelledby="startTitle">
+      <div class="section-head">
+        <span>Okumaya başla</span>
+        <h2 id="startTitle">Önce yönünü seç, sonra derine in</h2>
+      </div>
+      <div class="start-grid" id="startGrid" aria-label="Başlangıç kitapları">
+        <!-- theme-registry.js doldurur -->
+      </div>
+    </section>
+
+    <section class="landing-section" aria-labelledby="mainBooksTitle">
+      <div class="section-head">
+        <span>Ana kitaplar</span>
+        <h2 id="mainBooksTitle">Kavram çekirdeği</h2>
+      </div>
+      <div class="main-books-grid" id="mainBooksGrid" aria-label="Ana kitaplar">
+        <!-- theme-registry.js doldurur -->
+      </div>
+    </section>
+
+    <section class="landing-section continuing-section" aria-labelledby="continuingTitle">
+      <div class="section-head">
+        <span>Devam edilenler</span>
+        <h2 id="continuingTitle">Taslaklar ve büyüyen hatlar</h2>
+      </div>
+      <div class="continuing-grid" id="continuingGrid" aria-label="Devam edilen kitaplar">
+        <!-- theme-registry.js doldurur -->
+      </div>
+    </section>
+
+    <section class="landing-method" aria-labelledby="landingMethodTitle">
+      <div class="landing-method-head">
+        <span>Okuma pusulası</span>
+        <h2 id="landingMethodTitle">Ana içerikleri tek çizgi gibi değil, kanıt paketi gibi oku</h2>
+      </div>
+      <div class="landing-method-grid">
+        <div>
+          <b>Kök düğümü bul</b>
+          <p>Her kitap önce şu soruya iner: Bu fikir hangi geçim, savaş, vergi, kriz ya da adalet sorununa cevap olarak doğdu?</p>
+        </div>
+        <div>
+          <b>Karşı fikri çağır</b>
+          <p>Bir anlatı ikna edici görünüyorsa hemen karşısına en güçlü itirazı koy. Doğruya yaklaşma burada başlar.</p>
+        </div>
+        <div>
+          <b>Bir sayı, bir ses ara</b>
+          <p>Ölçek için bir istatistik; dönem hissi için işçi, köylü, tüccar, kadın, borçlu ya da göçmen sesi ekle.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="pane-shortcuts" aria-labelledby="paneShortcutTitle">
+      <div class="pane-shortcuts-head">
+        <span>Dünya Tarihi Atlası</span>
+        <h2 id="paneShortcutTitle">Atlas içindeki pane mini kitapları</h2>
+      </div>
+      <div class="pane-shortcut-grid" id="paneShortcutGrid" aria-label="Pane kısa yolları">
+        <!-- theme-registry.js doldurur -->
+      </div>
+    </section>
+
+    <section class="landing-section planned-strip-section" aria-labelledby="plannedTitle">
+      <div class="section-head section-head-row">
+        <div>
+          <span>Planlanan temalar</span>
+          <h2 id="plannedTitle">Şimdilik ufuk çizgisi olarak kalsın</h2>
+        </div>
+        <a href="library.html#planned">Tam katalog</a>
+      </div>
+      <div class="planned-themes-strip" id="plannedThemesStrip" aria-label="Planlanan temalar">
+        <!-- theme-registry.js doldurur -->
+      </div>
+    </section>
   </main>
 
-  <section class="landing-method" aria-labelledby="landingMethodTitle">
-    <div class="landing-method-head">
-      <span>Okuma pusulası</span>
-      <h2 id="landingMethodTitle">Ana içerikleri tek çizgi gibi değil, kanıt paketi gibi oku</h2>
-    </div>
-    <div class="landing-method-grid">
-      <div>
-        <b>Kök düğümü bul</b>
-        <p>Her kitap önce şu soruya iner: Bu fikir hangi geçim, savaş, vergi, kriz ya da adalet sorununa cevap olarak doğdu?</p>
-      </div>
-      <div>
-        <b>Karşı fikri çağır</b>
-        <p>Bir anlatı ikna edici görünüyorsa hemen karşısına en güçlü itirazı koy. Doğruya yaklaşma burada başlar.</p>
-      </div>
-      <div>
-        <b>Bir sayı, bir ses ara</b>
-        <p>Ölçek için bir istatistik; dönem hissi için işçi, köylü, tüccar, kadın, borçlu ya da göçmen sesi ekle.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="pane-shortcuts" aria-labelledby="paneShortcutTitle">
-    <div class="pane-shortcuts-head">
-      <span>Dünya Tarihi Atlası</span>
-      <h2 id="paneShortcutTitle">Pane kısayolları</h2>
-    </div>
-    <div class="pane-shortcut-grid" id="paneShortcutGrid" aria-label="Pane kısa yolları">
-      <!-- index.html script'i doldurur -->
-    </div>
-  </section>
-
   <footer class="landing-footer">
+    <a href="library.html">Tüm Kitaplar</a>
+    ·
     <a href="roadmap.html">Yol Haritası</a>
     ·
-    <a href="merkantilizm/appendix/playground.html">Merkantilizm Appendix (eski oyun alanı)</a>
+    <a href="merkantilizm/appendix/playground.html">Merkantilizm Appendix</a>
     ·
     <a href="https://github.com/Fatihzxc/education">github.com/Fatihzxc/education</a>
   </footer>
@@ -70,53 +119,65 @@
     document.documentElement.setAttribute('data-theme', theme);
   })();
   </script>
-  <script src="modules/theme-registry.js?v=1"></script>
+  <script src="modules/theme-registry.js?v=2"></script>
   <script>
   (function() {
     'use strict';
+
     var themes = window.MerkantilizmThemes || [];
-    var grid = document.getElementById('themeGrid');
-    var paneGrid = document.getElementById('paneShortcutGrid');
+    var paneShortcuts = window.MerkantilizmPaneShortcuts || [];
+    var plannedThemes = window.MerkantilizmPlannedThemes || [];
+    var statusLabel = {
+      completed: 'tamamlandı',
+      draft: 'taslak',
+      pending: 'planlandı',
+      planned: 'planlandı'
+    };
+
     function esc(s) {
       return String(s == null ? '' : s)
         .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
     }
-    var statusLabel = { completed: 'tamamlandı', draft: 'taslak', pending: 'planlandı' };
-    grid.innerHTML = themes.map(function(t) {
-      var method = t.method || {};
-      return '<article class="theme-card status-' + esc(t.status) + '">' +
-        '<h2>' + esc(t.title) + '</h2>' +
-        '<p class="card-subtitle">' + esc(t.subtitle) + '</p>' +
-        '<p class="card-description">' + esc(t.description || '') + '</p>' +
-        '<div class="card-method" aria-label="Okuma pusulası">' +
-          '<div><b>Kök sebep</b><span>' + esc(method.root || '') + '</span></div>' +
-          '<div><b>Baskın bakış</b><span>' + esc(method.dominant || '') + '</span></div>' +
-          '<div><b>Karşı fikir</b><span>' + esc(method.counter || '') + '</span></div>' +
-          '<div><b>Ölçek</b><span>' + esc(method.scale || '') + '</span></div>' +
-          '<div><b>Öğrenme desteği</b><span>' + esc(method.aid || '') + '</span></div>' +
-          '<div><b>Halkta görünüm</b><span>' + esc(method.publicEye || '') + '</span></div>' +
+
+    function bookHref(theme, hash) {
+      return esc(theme.slug) + '/book.html' + (hash || '#bolum/1');
+    }
+
+    function bookCard(theme, mode) {
+      var method = theme.method || {};
+      var primaryText = mode === 'start' ? (method.aid || theme.description) : theme.description;
+      return '<article class="desk-card status-' + esc(theme.status) + '">' +
+        '<div class="desk-card-body">' +
+          '<span class="status-badge">' + esc(statusLabel[theme.status] || theme.status) + '</span>' +
+          '<h3>' + esc(theme.title) + '</h3>' +
+          '<p class="card-subtitle">' + esc(theme.subtitle) + '</p>' +
+          '<p>' + esc(primaryText || '') + '</p>' +
         '</div>' +
         '<div class="card-meta">' +
-          '<span>' + t.chapterCount + ' bölüm</span>' +
-          '<span class="status-badge">' + esc(statusLabel[t.status] || t.status) + '</span>' +
+          '<span>' + esc(theme.chapterCount) + ' bölüm</span>' +
+          '<span>' + esc((method.root || '').split(',')[0] || 'okuma hattı') + '</span>' +
         '</div>' +
         '<div class="card-actions">' +
-          '<a class="card-primary" href="' + esc(t.slug) + '/book.html#bolum/1">Kitabı aç</a>' +
-          '<a href="' + esc(t.slug) + '/book.html#icindekiler">İçindekiler</a>' +
+          '<a class="card-primary" href="' + bookHref(theme, '#bolum/1') + '">Kitabı aç</a>' +
+          '<a href="' + bookHref(theme, '#icindekiler') + '">İçindekiler</a>' +
         '</div>' +
       '</article>';
-    }).join('');
+    }
 
-    var paneShortcuts = [
-      { title: 'Merkantilizm', period: '1500-1750', color: '#c98a3a', href: 'tarih-atlasi/appendix/panes.html#merkantilizm', bookHref: 'tarih-atlasi/panes/merkantilizm/book.html#bolum/1', root: 'Savaş ve hazine', counter: 'Smith-Hume eleştirisi', publicEye: 'Vergi, pahalı mal, askerlik' },
-      { title: 'Fizyokrasi', period: '1750-1780', color: '#8ab36b', href: 'tarih-atlasi/appendix/panes.html#fizyokrasi', bookHref: 'tarih-atlasi/panes/fizyokrasi/book.html#bolum/1', root: 'Toprak ve vergi', counter: 'Sanayi değeri itirazı', publicEye: 'Ekmek, angarya, kıtlık' },
-      { title: 'Klasik İktisat', period: '1776-1870', color: '#65a6b7', href: 'tarih-atlasi/appendix/panes.html#klasik', bookHref: 'tarih-atlasi/panes/klasik/book.html#bolum/1', root: 'Sanayi ve bölüşüm', counter: 'Marx ve korumacılar', publicEye: 'Fabrika, ücret, oy hakkı' },
-      { title: 'Marx ve Artı-Değer', period: '1848-1890', color: '#c96d6d', href: 'tarih-atlasi/appendix/panes.html#marx', bookHref: 'tarih-atlasi/panes/marx/book.html#bolum/1', root: 'Sermaye ve sömürü', counter: 'Marjinal verimlilik', publicEye: 'Uzun işgünü, grev, yoksulluk' },
-      { title: 'Marjinalizm', period: '1871-1930', color: '#a996d8', href: 'tarih-atlasi/appendix/panes.html#marjinalizm', bookHref: 'tarih-atlasi/panes/marjinalizm/book.html#bolum/1', root: 'Tercih ve kıtlık', counter: 'Sınıf ve kurum eleştirisi', publicEye: 'Tüketim, borç, reklam' },
-      { title: 'Keynesçilik', period: '1930-1980+', color: '#7fa5c9', href: 'tarih-atlasi/appendix/panes.html#keynes', bookHref: 'tarih-atlasi/panes/keynes/book.html#bolum/1', root: 'Kriz ve talep', counter: 'Hayek-monetarist itiraz', publicEye: 'İşsizlik, maaş, kamu işi' }
-    ];
-    paneGrid.innerHTML = paneShortcuts.map(function(pane) {
+    function continuingCard(theme) {
+      var method = theme.method || {};
+      return '<article class="continue-item status-' + esc(theme.status) + '">' +
+        '<div>' +
+          '<span class="status-badge">' + esc(statusLabel[theme.status] || theme.status) + '</span>' +
+          '<h3>' + esc(theme.title) + '</h3>' +
+          '<p>' + esc(method.root || theme.description || '') + '</p>' +
+        '</div>' +
+        '<a href="' + bookHref(theme, '#bolum/1') + '">Devam et</a>' +
+      '</article>';
+    }
+
+    function paneCard(pane) {
       return '<article class="pane-shortcut-card" style="--pane-color:' + esc(pane.color) + '">' +
         '<span class="pane-dot" aria-hidden="true"></span>' +
         '<strong>' + esc(pane.title) + '</strong>' +
@@ -131,7 +192,36 @@
           '<a href="' + esc(pane.bookHref) + '">Pane mini kitabı</a>' +
         '</div>' +
       '</article>';
-    }).join('');
+    }
+
+    function plannedItem(theme) {
+      return '<article class="planned-theme-item">' +
+        '<strong>' + esc(theme.title) + '</strong>' +
+        '<p>' + esc(theme.question) + '</p>' +
+      '</article>';
+    }
+
+    document.getElementById('startGrid').innerHTML = themes
+      .filter(function(theme) { return theme.homeGroup === 'start'; })
+      .map(function(theme) { return bookCard(theme, 'start'); })
+      .join('');
+
+    document.getElementById('mainBooksGrid').innerHTML = themes
+      .filter(function(theme) { return theme.homeGroup === 'main'; })
+      .map(function(theme) { return bookCard(theme, 'main'); })
+      .join('');
+
+    document.getElementById('continuingGrid').innerHTML = themes
+      .filter(function(theme) { return theme.homeGroup === 'continue'; })
+      .map(continuingCard)
+      .join('');
+
+    document.getElementById('paneShortcutGrid').innerHTML = paneShortcuts.map(paneCard).join('');
+
+    document.getElementById('plannedThemesStrip').innerHTML = plannedThemes
+      .slice(0, 5)
+      .map(plannedItem)
+      .join('');
   })();
   </script>
 

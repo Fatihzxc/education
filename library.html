@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tüm Kitaplar — Sosyal Bilimler Kütüphanesi</title>
+  <meta name="description" content="Tamamlanan, taslak, planlanan ve atlas pane mini kitaplarını filtrelenebilir katalogda gör.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/book.css?v=6">
+  <link rel="stylesheet" href="styles/landing.css">
+</head>
+<body class="landing library-page">
+
+  <header class="landing-header">
+    <div>
+      <h1>Tüm Kitaplar</h1>
+      <p class="subtitle">Tam katalog: okunabilir kitaplar, atlas pane mini kitapları ve planlanan temalar.</p>
+    </div>
+    <nav class="landing-nav" aria-label="Ana gezinme">
+      <a href="index.html">Ana Sayfa</a>
+      <a href="roadmap.html">Yol Haritası</a>
+    </nav>
+  </header>
+
+  <main class="library-shell">
+    <section class="library-toolbar" aria-labelledby="libraryTitle">
+      <div>
+        <span class="section-kicker">Kütüphane görünümü</span>
+        <h2 id="libraryTitle">Bütün mevcut ve planlanan hatlar</h2>
+      </div>
+      <div class="filter-tabs" role="tablist" aria-label="Katalog filtresi">
+        <button type="button" class="active" data-filter="all" role="tab" aria-selected="true">Tümü</button>
+        <button type="button" data-filter="completed" role="tab" aria-selected="false">Tamamlananlar</button>
+        <button type="button" data-filter="draft" role="tab" aria-selected="false">Taslaklar</button>
+        <button type="button" data-filter="planned" role="tab" aria-selected="false">Planlananlar</button>
+        <button type="button" data-filter="pane" role="tab" aria-selected="false">Pane'ler</button>
+      </div>
+      <p class="library-count" id="libraryCount" aria-live="polite"></p>
+    </section>
+
+    <section class="library-grid" id="libraryGrid" aria-label="Filtrelenmiş katalog">
+      <!-- theme-registry.js doldurur -->
+    </section>
+  </main>
+
+  <footer class="landing-footer">
+    <a href="index.html">Ana Sayfa</a>
+    ·
+    <a href="roadmap.html">Yol Haritası</a>
+    ·
+    <a href="merkantilizm/appendix/playground.html">Merkantilizm Appendix</a>
+  </footer>
+
+  <script>
+  (function() {
+    var saved = null;
+    try { saved = localStorage.getItem('merkantilizm.theme'); } catch (e) {}
+    var theme = saved || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+  </script>
+  <script src="modules/theme-registry.js?v=2"></script>
+  <script>
+  (function() {
+    'use strict';
+
+    var readableBooks = window.MerkantilizmThemes || [];
+    var paneBooks = window.MerkantilizmPaneShortcuts || [];
+    var plannedThemes = window.MerkantilizmPlannedThemes || [];
+    var grid = document.getElementById('libraryGrid');
+    var count = document.getElementById('libraryCount');
+    var buttons = Array.prototype.slice.call(document.querySelectorAll('[data-filter]'));
+    var statusLabel = {
+      completed: 'tamamlandı',
+      draft: 'taslak',
+      pending: 'planlandı',
+      planned: 'planlandı',
+      pane: 'pane mini kitabı'
+    };
+
+    function esc(s) {
+      return String(s == null ? '' : s)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    function bookEntry(theme) {
+      var method = theme.method || {};
+      return {
+        kind: 'book',
+        filter: theme.status,
+        title: theme.title,
+        subtitle: theme.subtitle,
+        description: theme.description,
+        chapterLabel: theme.chapterCount + ' bölüm',
+        status: theme.status,
+        root: method.root,
+        dominant: method.dominant,
+        counter: method.counter,
+        publicEye: method.publicEye,
+        href: theme.slug + '/book.html#bolum/1',
+        detailHref: theme.slug + '/book.html#icindekiler'
+      };
+    }
+
+    function paneEntry(pane) {
+      return {
+        kind: 'pane',
+        filter: 'pane',
+        title: pane.title,
+        subtitle: pane.period,
+        description: 'Dünya Tarihi Atlası içinde yoğunlaştırılmış dönem pane okuması.',
+        chapterLabel: pane.plannedChapters + ' bölüm',
+        status: 'pane',
+        root: pane.root,
+        dominant: 'Atlas matrisi içinde ekonomi, devlet, savaş, düşünce, toplum ve halk gözü birlikte okunur.',
+        counter: pane.counter,
+        publicEye: pane.publicEye,
+        href: pane.bookHref,
+        detailHref: pane.href
+      };
+    }
+
+    function plannedEntry(theme) {
+      return {
+        kind: 'planned',
+        filter: 'planned',
+        title: theme.title,
+        subtitle: theme.subtitle,
+        description: theme.question,
+        chapterLabel: theme.plannedChapters + ' bölüm taslağı',
+        status: 'planned',
+        root: theme.root,
+        dominant: theme.dominant,
+        counter: theme.counter,
+        publicEye: theme.publicEye
+      };
+    }
+
+    var entries = readableBooks.map(bookEntry)
+      .concat(paneBooks.map(paneEntry))
+      .concat(plannedThemes.map(plannedEntry));
+
+    function actionLinks(entry) {
+      if (!entry.href) {
+        return '<div class="library-card-note">Şablon veri hazır; kitap dosyası oluşturulunca bağlantı eklenecek.</div>';
+      }
+      return '<div class="card-actions">' +
+        '<a class="card-primary" href="' + esc(entry.href) + '">Aç</a>' +
+        '<a href="' + esc(entry.detailHref || entry.href) + '">Detay</a>' +
+      '</div>';
+    }
+
+    function card(entry) {
+      return '<article class="library-card" data-entry-status="' + esc(entry.filter) + '">' +
+        '<div class="library-card-head">' +
+          '<span class="status-badge">' + esc(statusLabel[entry.status] || entry.status) + '</span>' +
+          '<span>' + esc(entry.chapterLabel) + '</span>' +
+        '</div>' +
+        '<h3>' + esc(entry.title) + '</h3>' +
+        '<p class="card-subtitle">' + esc(entry.subtitle) + '</p>' +
+        '<p class="library-card-description">' + esc(entry.description) + '</p>' +
+        '<dl class="library-lens">' +
+          '<div><dt>Kök sebep</dt><dd>' + esc(entry.root) + '</dd></div>' +
+          '<div><dt>Baskın bakış</dt><dd>' + esc(entry.dominant) + '</dd></div>' +
+          '<div><dt>Karşı fikir</dt><dd>' + esc(entry.counter) + '</dd></div>' +
+          '<div><dt>Halkta görünüm</dt><dd>' + esc(entry.publicEye) + '</dd></div>' +
+        '</dl>' +
+        actionLinks(entry) +
+      '</article>';
+    }
+
+    function setFilter(filter) {
+      var visible = entries.filter(function(entry) {
+        return filter === 'all' || entry.filter === filter;
+      });
+
+      buttons.forEach(function(button) {
+        var active = button.getAttribute('data-filter') === filter;
+        button.classList.toggle('active', active);
+        button.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+
+      grid.innerHTML = visible.map(card).join('');
+      count.textContent = visible.length + ' kayıt gösteriliyor';
+      if (location.hash.replace('#', '') !== filter && filter !== 'all') {
+        history.replaceState(null, '', '#' + filter);
+      } else if (filter === 'all' && location.hash) {
+        history.replaceState(null, '', location.pathname);
+      }
+    }
+
+    buttons.forEach(function(button) {
+      button.addEventListener('click', function() {
+        setFilter(button.getAttribute('data-filter'));
+      });
+    });
+
+    var initial = location.hash.replace('#', '');
+    if (!buttons.some(function(button) { return button.getAttribute('data-filter') === initial; })) {
+      initial = 'all';
+    }
+    setFilter(initial);
+  })();
+  </script>
+
+</body>
+</html>
