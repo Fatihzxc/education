@@ -548,6 +548,13 @@
     {
       id: "navigation-acts",
       label: "Navigation Acts",
+      lens: {
+        root: "İngiltere deniz taşımacılığında Hollanda üstünlüğünü kırmak ve sömürge ticaretini kendi limanlarına bağlamak istedi.",
+        dominant: "İngiliz devlet ve tüccar bakışı için bu yasalar, donanma gücü ve ticari güvenlik üreten meşru bir ulusal stratejiydi.",
+        counter: "Koloni tüccarı, Hollandalı taşıyıcı ve serbest ticaret savunucusu için aynı düzen tekel, pahalı taşıma ve siyasal bağımlılık demekti.",
+        publicEye: "Liman işçisi için iş, koloni üreticisi için kısıt, tüketici için fiyat, kaçakçı için fırsat doğurabilirdi.",
+        control: "Deniz gücü bahanesi kamu yararını mı koruyor, yoksa belli tüccarların tekelini ulus diliyle mi savunuyor?"
+      },
       category: "policy",
       era: "17-19. yüzyıl",
       depth: {
@@ -570,6 +577,13 @@
     {
       id: "calico-acts",
       label: "Calico Acts",
+      lens: {
+        root: "Hint pamukluları İngiliz yün ve pamuk üreticilerini ciddi biçimde zorladı; İngiltere kendi pazarını kapatarak öğrenme zamanı kazandı.",
+        dominant: "İngiliz üretici ve parlamento için yasak, yerli sanayi doğana kadar gerekli bir koruma kalkanı gibi görünüyordu.",
+        counter: "Hint dokumacı, tüketici ve sömürge eleştirisi için bu kalkan başkasının pazarını daraltan ve emeğini ucuzlatan bir güç aracıdır.",
+        publicEye: "Lancashire'da iş umudu büyürken Bengal dokumacısının pazarlık gücü kırıldı; aynı kumaş iki ayrı hayat hikayesi üretti.",
+        control: "Bir ülkenin sanayi devrimi başka bir bölgenin sanayisizleşmesine dayanıyorsa bunu doğal rekabet diye anlatabilir miyiz?"
+      },
       category: "policy",
       era: "18. yüzyıl",
       depth: {
@@ -612,6 +626,13 @@
     {
       id: "east-india-company",
       label: "Doğu Hindistan Şirketleri (EIC, VOC)",
+      lens: {
+        root: "Uzak ticaret pahalı, riskli ve askeri koruma istiyordu; devletler bu riski imtiyazlı şirketlere devrederek küresel kâr alanı açtı.",
+        dominant: "Şirket ve metropol devlet için EIC/VOC, ticaret, donanma, vergi ve diplomasi yükünü aynı kurumda toplayan verimli bir araçtı.",
+        counter: "Sömürge halkları, yerel üreticiler ve modern eleştiri için bu yapı özel kârı yarı-egemen zor gücüyle birleştiren tehlikeli bir düzendi.",
+        publicEye: "Londra yatırımcısı temettü görürken Bengal köylüsü vergi ve kıtlık riskiyle, Asyalı üretici ise zorlayıcı sözleşmeyle karşılaşabilirdi.",
+        control: "Bir şirket vergi topluyor, ordu kuruyor ve savaş yapıyorsa onu hâlâ sadece ticari aktör diye okuyabilir miyiz?"
+      },
       category: "colonial",
       era: "17-19. yüzyıl",
       depth: {
@@ -698,6 +719,13 @@
     {
       id: "asiento-de-negros",
       label: "Asiento de Negros",
+      lens: {
+        root: "Amerika plantasyonları zorla çalıştırılacak emek isterken Avrupa devletleri bu insan ticaretini kârlı bir imtiyaz sözleşmesine çevirdi.",
+        dominant: "Metropol devlet ve şirket açısından asiento, sömürge üretimini besleyen ve kamu borcuna gelir umudu veren stratejik bir tekeldi.",
+        counter: "Köleleştirilen Afrikalıların ve sömürge eleştirisinin gözünden bu, insanı mal gibi sayan şiddetli bir ticaret rejimidir.",
+        publicEye: "Avrupa borsasında beklenti ve hisse fiyatı yükselirken, Atlantik geçişinde aileler parçalandı ve bedenler çalışma makinesine indirildi.",
+        control: "Devlet gelirini artıran bir sözleşme insan hayatını mala çeviriyorsa iktisadi başarı diye anlatılabilir mi?"
+      },
       category: "colonial",
       era: "17-18. yüzyıl",
       depth: {
@@ -718,6 +746,13 @@
     {
       id: "triangular-trade",
       label: "Üçgen Ticaret (Triangular Trade)",
+      lens: {
+        root: "Avrupa mamulleri, Afrika'da zorla koparılan emek ve Amerika plantasyon malları aynı kâr döngüsüne bağlandı.",
+        dominant: "Metropol tüccarı için üçgen ticaret, gemiyi her aşamada dolu tutan ve sermaye devrini hızlandıran akıllı bir lojistik modeldi.",
+        counter: "Afrikalı toplumlar, köleleştirilen insanlar ve sömürge eleştirisi için bu model, kârın zor, savaş ve insan kaybı üzerine kurulmasıdır.",
+        publicEye: "Liverpool'da liman geliri artarken Afrika'da toplumsal yıkım, Karayipler'de plantasyon şiddeti ve Avrupa'da ucuz şeker aynı anda büyüdü.",
+        control: "Bir ticaret ağı kâr üretirken insan kaybını görünmez kılıyorsa, sayılar tek başına neyi saklar?"
+      },
       category: "colonial",
       era: "17-19. yüzyıl",
       depth: {
@@ -758,6 +793,13 @@
     {
       id: "public-credit",
       label: "Kamusal Kredi (Public Credit)",
+      lens: {
+        root: "Uzun savaşları ve donanmaları finanse etmek için devletin bugünkü vergi gelirinden fazlasına, yani geleceğe borçlanmasına ihtiyaç vardı.",
+        dominant: "Tüccar-banker ve mali devlet bakışı için kamusal kredi, güvenilir vergi düzeni sayesinde savaş kapasitesini büyüten modern bir buluştur.",
+        counter: "Vergi mükellefi ve borç eleştirisi açısından aynı sistem, gelecekteki halk gelirini bugünkü savaş ve imparatorluk projelerine ipotek edebilir.",
+        publicEye: "Tahvil sahibi faiz alırken, sıradan hane bu faizi tüketim vergileri ve dolaylı yükler üzerinden ödeyebilir.",
+        control: "Devletin borçlanma gücü özgürlük ve temsil pazarlığı mı doğuruyor, yoksa sürekli savaşın finansmanını mı kolaylaştırıyor?"
+      },
       category: "policy",
       era: "17-19. yüzyıl",
       depth: {
@@ -876,6 +918,13 @@
     {
       id: "chartered-companies",
       label: "Chartered Companies (İmtiyazlı Şirketler)",
+      lens: {
+        root: "Devletler uzak coğrafyada riskli ticareti ve sömürge operasyonlarını özel sermayeyle paylaşmak istedi.",
+        dominant: "Metropol açısından imtiyazlı şirket, kamu maliyetini azaltan ve özel sermayeyi ulusal stratejiye bağlayan pratik bir kurumdu.",
+        counter: "Yerel halklar ve anti-sömürgeci okuma, bu kurumda kâr hırsı ile egemen zorun birleştiğini görür.",
+        publicEye: "Yatırımcı için temettü, denizci için iş, yerel üretici için tek alıcı baskısı, köylü için vergi ve şiddet doğabilir.",
+        control: "Kâr amacı taşıyan bir kurum kamu yetkisi kullanınca hesap verme hakkı kimde kalır?"
+      },
       category: "colonial",
       era: "16-19. yüzyıl",
       depth: {
