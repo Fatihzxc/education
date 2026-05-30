@@ -54,6 +54,17 @@
     setupScrollSpy(chapter);
   };
 
+  BookToc.prototype.onContentsLoaded = function() {
+    _currentChapterNum = null;
+    if (_observer) { _observer.disconnect(); _observer = null; }
+    document.querySelectorAll('#tocList .chapter-link.current').forEach(el => {
+      el.classList.remove('current');
+    });
+    document.querySelectorAll('#tocList .section-link.active').forEach(el => {
+      el.classList.remove('active');
+    });
+  };
+
   function setupScrollSpy(chapter) {
     if (_observer) { _observer.disconnect(); _observer = null; }
     const reader = document.getElementById('bookReader');

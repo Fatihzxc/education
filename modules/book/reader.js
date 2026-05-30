@@ -90,6 +90,73 @@
     return `<nav class="chapter-nav" aria-label="Bölüm gezintisi">${prevHtml}${nextHtml}</nav>`;
   }
 
+  // Render a real contents screen for links that should not open chapter 1.
+  function formatWords(value) {
+    const num = Number(value || 0);
+    if (!num) return '';
+    return num.toLocaleString('tr-TR') + ' kelime';
+  }
+
+  function scrollReaderToTop() {
+    const reader = document.getElementById('bookReader');
+    if (reader) reader.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+    else window.scrollTo(0, 0);
+  }
+
+  function renderContentsPage(manifest) {
+    const chapters = manifest.chapters || [];
+    const totalWords = chapters.reduce((sum, ch) => sum + Number(ch.estWords || 0), 0);
+    const totalWordsText = totalWords ? totalWords.toLocaleString('tr-TR') + ' hedef kelime' : '';
+    const rows = chapters.map(ch => {
+      const statusText = ch.status === 'pending' ? 'Planlandı' : 'Hazır';
+      const words = formatWords(ch.estWords);
+      return `
+        <li class="book-contents-item status-${escapeHtml(ch.status || 'draft')}">
+          <a class="book-contents-link" href="#bolum/${ch.num}">
+            <span class="book-contents-num">${escapeHtml(ch.num)}.</span>
+            <span class="book-contents-main">
+              <strong>${escapeHtml(ch.title)}</strong>
+              ${ch.subtitle ? `<span>${escapeHtml(ch.subtitle)}</span>` : ''}
+            </span>
+            <span class="book-contents-meta">
+              ${words ? `<em>${escapeHtml(words)}</em>` : ''}
+              <small>${escapeHtml(statusText)}</small>
+            </span>
+          </a>
+        </li>
+      `;
+    }).join('');
+
+    return `
+      <div class="chapter-meta">İçindekiler</div>
+      <h1>${escapeHtml(manifest.title || 'Kitap')}</h1>
+      ${manifest.subtitle ? `<p class="chapter-subtitle">${escapeHtml(manifest.subtitle)}</p>` : ''}
+      <div class="book-contents-summary">
+        <span>${chapters.length.toLocaleString('tr-TR')} bölüm</span>
+        ${totalWordsText ? `<span>${escapeHtml(totalWordsText)}</span>` : ''}
+      </div>
+      <ol class="book-contents-list">${rows}</ol>
+    `;
+  }
+
+  async function showContents() {
+    const article = document.getElementById('bookArticle');
+    if (!article) return;
+    if (_activeNavController) {
+      try { _activeNavController.abort('contents'); } catch (e) {}
+    }
+    article.innerHTML = '<div class="book-loading">Yükleniyor…</div>';
+    const manifest = await loadManifest();
+    _currentChapter = null;
+    _footnotes = {};
+    article.innerHTML = renderContentsPage(manifest);
+    if (window.BookToc && window.BookToc.onContentsLoaded) {
+      window.BookToc.onContentsLoaded();
+    }
+    scrollReaderToTop();
+    document.title = `İçindekiler — ${manifest.title || 'Kütüphane'}`;
+  }
+
   // Extract `[^N]: ...` definitions (after rendering) and stash them, then strip the Kaynakça section
   function extractFootnoteDefs(raw) {
     const defs = {};
@@ -216,7 +283,7 @@
       } else if (window.BookProgress && window.BookProgress.restore) {
         window.BookProgress.restore(chapter.num);
       } else {
-        window.scrollTo(0, 0);
+        scrollReaderToTop();
       }
       if (window.Bookmarks && window.Bookmarks.markVisited) {
         window.Bookmarks.markVisited('chapter:' + chapter.num);
@@ -235,14 +302,18 @@
   }
 
   function parseHash() {
+    if (/^#(?:icindekiler|toc)$/.test(location.hash || '')) {
+      return { contents: true };
+    }
     const m = (location.hash || '').match(/^#bolum\/(\d+)(?:\/(\d+\.\d+))?$/);
-    if (!m) return { num: 1, sectionNum: null };
-    return { num: parseInt(m[1]), sectionNum: m[2] || null };
+    if (!m) return { contents: false, num: 1, sectionNum: null };
+    return { contents: false, num: parseInt(m[1]), sectionNum: m[2] || null };
   }
 
   function onHashChange() {
-    const { num, sectionNum } = parseHash();
-    go(num, sectionNum);
+    const route = parseHash();
+    if (route.contents) showContents();
+    else go(route.num, route.sectionNum);
   }
 
   function BookReader() {}
@@ -250,6 +321,10 @@
     const hash = '#bolum/' + num + (sectionNum ? '/' + sectionNum : '');
     if (location.hash !== hash) location.hash = hash;
     else go(num, sectionNum);
+  };
+  BookReader.prototype.contents = function() {
+    if (location.hash !== '#icindekiler') location.hash = '#icindekiler';
+    else showContents();
   };
   BookReader.prototype.currentChapter = function() { return _currentChapter; };
   BookReader.prototype.getManifest = function() { return _manifest; };
