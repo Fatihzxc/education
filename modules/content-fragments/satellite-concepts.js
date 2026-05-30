@@ -14,6 +14,13 @@
     {
       id: `is-bolumu`,
       label: `İş Bölümü (Division of Labor)`,
+      lens: {
+        root: `Tek kişinin yapamayacağı karmaşık üretim, birçok insanın uzmanlaşmış emeğini bir araya getirince mümkün hale gelir.`,
+        dominant: `Smith ve klasik iktisat için iş bölümü, verimlilik artışının en açık mekanizmasıdır: beceri artar, zaman kaybı azalır, alet gelişir.`,
+        counter: `Marx ve Durkheim çizgisi, aynı uzmanlaşmanın insanı yaptığı işin bütününden koparıp yabancılaştırabileceğini söyler.`,
+        publicEye: `İşçi için uzmanlaşma düzenli gelir ve beceri olabilir; ama aynı zamanda tekdüze iş, fabrika disiplini ve kendi emeğine uzaklaşma da olabilir.`,
+        control: `Verimlilik artışı kimin hayatını kolaylaştırıyor, kimin işini daha dar ve daha bağımlı hale getiriyor?`
+      },
       category: `karsit`,
       era: `14-19. yüzyıl`,
       depth: {
@@ -27,6 +34,13 @@
     {
       id: `vergi-devlet-dongusu`,
       label: `Vergi-Devlet Döngüsü (Laffer Öncülü)`,
+      lens: {
+        root: `Devlet gelir ararken üreticiyi fazla sıkarsa, vergi oranı yükselse bile üretim ve toplam gelir daralabilir.`,
+        dominant: `İbn Haldun'un bakışı, vergiyle üretme isteği arasındaki bağı görür; devletin gücü toplumun canlılığını boğmamalıdır.`,
+        counter: `Modern maliye okuması, her vergi artışının otomatik çöküş getirmediğini; kamu hizmeti, güven ve adaletin sonucu değiştirdiğini hatırlatır.`,
+        publicEye: `Köylü, esnaf ve ücretli için bu döngü soyut eğri değil; çalışmanın karşılığını alıp alamama ve vergi memuruyla karşılaşma meselesidir.`,
+        control: `Vergi yükü kamu düzeni ve hizmet üretiyor mu, yoksa üretme isteğini kıran çıplak tahsilata mı dönüşüyor?`
+      },
       category: `pre-mercantilist`,
       era: `14-21. yüzyıl`,
       depth: {
@@ -40,6 +54,13 @@
     {
       id: `asabiyye`,
       label: `Asabiyye (Grup Dayanışması)`,
+      lens: {
+        root: `Devlet yalnız kurumlarla değil, insanları birlikte hareket ettiren dayanışma ve güven duygusuyla da kurulur.`,
+        dominant: `İbn Haldun için asabiyye, siyasal gücün yakıtıdır; grup dayanışması güçlü olduğunda fetih ve devlet kurma mümkün olur.`,
+        counter: `Modern karşı okuma, bu döngünün şehir, hukuk, ticaret ve bireysel hakların dönüştürücü gücünü fazla ikincil gösterebileceğini söyler.`,
+        publicEye: `Bir topluluk için asabiyye güven ve aidiyet demektir; dışarıda kalan içinse dışlanma, zor ve hiyerarşi anlamına gelebilir.`,
+        control: `Dayanışma ne zaman ortak güç üretir, ne zaman dışarıdakini susturan kapalı bir sadakate dönüşür?`
+      },
       category: `pre-mercantilist`,
       era: `14. yüzyıl`,
       depth: {
@@ -53,6 +74,13 @@
     {
       id: `luxury-debate`,
       label: `Lüks Tartışması (Luxury Debate)`,
+      lens: {
+        root: `Ticari toplum büyüdükçe lüks tüketimin ahlaki çürüme mi yoksa iş ve talep kaynağı mı olduğu tartışmalı hale geldi.`,
+        dominant: `Mandeville-Hume-Smith hattı, arzunun ve tüketimin üretimi canlandırabileceğini; toplum sonuçlarının niyetlerden farklı olabileceğini gösterir.`,
+        counter: `Rousseau ve erdemci okuma, lüksün eşitsizlik, kıskançlık, borç ve kamusal ahlak kaybı doğurabileceğini savunur.`,
+        publicEye: `Zanaatkâr için lüks talebi iş, yoksul için dışlanma duygusu, elit için statü ve devlet için vergi tabanı olabilir.`,
+        control: `Bir harcama istihdam yaratıyor diye toplumsal olarak iyi midir, yoksa nasıl bir arzu ve eşitsizlik düzeni kurduğuna da bakmalı mıyız?`
+      },
       category: `pre-mercantilist`,
       era: `17-18. yüzyıl`,
       depth: {
@@ -66,6 +94,13 @@
     {
       id: `akce-devaluasyon`,
       label: `Akçe Devalüasyonu`,
+      lens: {
+        root: `Savaş ve hazine baskısı arttığında devlet, paranın içeriğini azaltarak kısa vadeli kaynak yaratmaya yöneldi.`,
+        dominant: `Mali devlet için tağşiş, zor zamanda nakit açığını kapatan pratik bir araç gibi görünebilir.`,
+        counter: `Pamuk ve para tarihi okuması, bu çözümün fiyatlara, ücretlere ve güvene yayılan uzun vadeli maliyetini görünür kılar.`,
+        publicEye: `Asker için maaşın alım gücü, esnaf için fiyat istikrarı, hane için pazar sepeti doğrudan etkilenir.`,
+        control: `Hazineyi rahatlatan para müdahalesi halkın güvenini ve alım gücünü eritiyorsa gerçekten çözüm sayılır mı?`
+      },
       category: `ottoman-policy`,
       era: `15-19. yüzyıl`,
       depth: {
@@ -79,6 +114,13 @@
     {
       id: `fiyat-devrimi`,
       label: `Fiyat Devrimi (Price Revolution)`,
+      lens: {
+        root: `Amerika gümüşü, nüfus artışı, savaş finansmanı ve arz baskıları birleşince Avrupa fiyatları uzun süreli yükselişe geçti.`,
+        dominant: `Para teorisi açısından fiyat devrimi, para arzı ile fiyat düzeyi arasındaki bağı görünür kılan büyük tarihsel laboratuvardır.`,
+        counter: `Modern revizyon, her şeyi gümüşe bağlamanın eksik olduğunu; nüfus, iklim, savaş ve kurumların birlikte çalıştığını söyler.`,
+        publicEye: `Halk için fiyat devrimi teori değil, ekmek, kira, ücret ve vergi arasında sıkışan gündelik geçim hesabıdır.`,
+        control: `Fiyat artışını tek nedenle açıklamak kolaydır; peki hangi bölgede hangi mekanizma daha belirleyiciydi?`
+      },
       category: `policy`,
       era: `16-17. yüzyıl`,
       depth: {
@@ -93,9 +135,9 @@
 
   // Add the missing events too
   const events = [
-    { id: `evt-1623-misselden-circle-commerce`, year: 1623, country: `İngiltere`, title: `Misselden - Circle of Commerce`, summary: { intro: `Misselden, ticareti tek yönlü para çıkışı değil, mal, ödeme ve yeniden ihracat akışı olarak düşünür.`, intermediate: `Bu metnin temel katkısı, ticareti dairesel bir hareket gibi görmesidir. Bir ülke bazen para öder, mal alır, o malı işler veya başka pazara satar, sonunda daha geniş bir kazanç elde eder. Böyle düşününce "para dışarı çıktı, ülke fakirleşti" yargısı fazla acele görünür.`, advanced: `Karşı okuma, Misselden'in de ulusal çıkar ve tüccar çıkarı içinden konuştuğunu hatırlatır. Onun daha esnek ticaret dengesi fikri kaba bullionizmi aşar; ama bu fikir aynı zamanda İngiliz tacirlerinin daha geniş hareket alanı istemesine hizmet eder. İyi okuma, teorik ilerlemeyi ve çıkar konumunu birlikte görür.` }, conceptRefs: [`edward-misselden`, `balance-of-trade`] },
-    { id: `evt-1667-colbert-tariff`, year: 1667, country: `Fransa`, title: `Colbert 1667 Tarife`, summary: { intro: `Colbert'in 1667 tarifesi, Fransız sanayisini Hollanda ve İngiliz rekabetine karşı daha sert biçimde korumaya çalışır.`, intermediate: `Burada basit mantık şudur: Fransa lüks ve stratejik imalatı kendi içinde büyütmek ister; dış mallar pahalılaşırsa yerli üretici nefes alır. Tarife, yalnız vergi değil, sanayi seçme ve yön verme aracıdır.`, advanced: `Karşı okuma tüketici ve dış politika tarafından gelir. Koruma yerli sanayiyi büyütebilir; ama fiyatları artırabilir, kaçakçılığı teşvik edebilir ve rakip devletlerle gerilimi tırmandırabilir. Colbertizm bu yüzden kalkınmacı devlet aklının hem üretken hem çatışmalı yüzüdür.` }, conceptRefs: [`jean-baptiste-colbert`, `protectionism`] },
-    { id: `evt-1698-davenant-publick-revenues`, year: 1698, country: `İngiltere`, title: `Davenant - Discourses on the Publick Revenues`, summary: { intro: `Davenant, devlet gelirlerini ticaret, nüfus ve istatistikle birlikte okuyarak mali devlet aklını güçlendirir.`, intermediate: `Devlet gelirini anlamak için yalnız kasaya giren paraya bakmak yetmez. Vergi tabanı, ticaret hacmi, ithalat-ihracat, nüfus ve savaş maliyeti birlikte düşünülür. Davenant bu yüzden Petty'nin politik aritmetik geleneğini sürdürür: devleti sayılarla kendini tanımaya çağırır.`, advanced: `Karşı okuma, sayıların iktidarını sorar. İstatistik devletin kör noktalarını azaltır; ama toplumu daha kolay vergilenebilir, sınıflandırılabilir ve yönetilebilir hale de getirir. Davenant'ın önemi, modern mali devletin bilgiyle nasıl beslendiğini göstermesidir.` }, conceptRefs: [`charles-davenant`, `public-credit`] }
+    { id: `evt-1623-misselden-circle-commerce`, year: 1623, country: `İngiltere`, title: `Misselden - Circle of Commerce`, lens: { root: `Tek tek para çıkışlarını zarar sayan eski külçeci bakış, uzak ticaretin dairesel kazanç mantığını açıklamakta yetersiz kalıyordu.`, dominant: `Misselden için ticaret, para, mal ve yeniden ihracatın aynı döngü içinde hesaplanması gereken geniş bir akıştır.`, counter: `Malynes çizgisi para çıkışını tehlike görür; Smithçi çizgi ise ticaret fazlası hedefinin kendisini refah için yanlış pusula sayar.`, publicEye: `Şirket tüccarı için esneklik, tüketici için yeni mal, yerli üretici için rekabet, devlet için dış hesap yönetimi anlamına gelir.`, control: `Bu argüman genel refahı mı açıklıyor, yoksa İngiliz tüccarının daha geniş hareket alanını mı ulusal çıkar diliyle savunuyor?` }, summary: { intro: `Misselden, ticareti tek yönlü para çıkışı değil, mal, ödeme ve yeniden ihracat akışı olarak düşünür.`, intermediate: `Bu metnin temel katkısı, ticareti dairesel bir hareket gibi görmesidir. Bir ülke bazen para öder, mal alır, o malı işler veya başka pazara satar, sonunda daha geniş bir kazanç elde eder. Böyle düşününce "para dışarı çıktı, ülke fakirleşti" yargısı fazla acele görünür.`, advanced: `Karşı okuma, Misselden'in de ulusal çıkar ve tüccar çıkarı içinden konuştuğunu hatırlatır. Onun daha esnek ticaret dengesi fikri kaba bullionizmi aşar; ama bu fikir aynı zamanda İngiliz tacirlerinin daha geniş hareket alanı istemesine hizmet eder. İyi okuma, teorik ilerlemeyi ve çıkar konumunu birlikte görür.` }, conceptRefs: [`edward-misselden`, `balance-of-trade`] },
+    { id: `evt-1667-colbert-tariff`, year: 1667, country: `Fransa`, title: `Colbert 1667 Tarife`, lens: { root: `Fransa yerli imalatını büyütmek ve Hollanda-İngiliz rekabetini yavaşlatmak için dış malların kapı eşiğini yükseltti.`, dominant: `Colbertçi bakış için tarife yalnız vergi değil, sanayi öğrenmesine zaman kazandıran bir devlet aracıdır.`, counter: `Tüketici, kaçakçı ve serbest ticaret savunucusu için aynı tarife pahalı mal, sert denetim ve diplomatik gerilim doğurabilir.`, publicEye: `Yerli üretici nefes alabilir; hane daha pahalı mal alabilir; tüccar ticaret yolunu değiştirmek zorunda kalabilir.`, control: `Koruma gerçekten üretim kapasitesi kuruyor mu, yoksa fiyatı artırıp ayrıcalıklı üreticiyi mi rahatlatıyor?` }, summary: { intro: `Colbert'in 1667 tarifesi, Fransız sanayisini Hollanda ve İngiliz rekabetine karşı daha sert biçimde korumaya çalışır.`, intermediate: `Burada basit mantık şudur: Fransa lüks ve stratejik imalatı kendi içinde büyütmek ister; dış mallar pahalılaşırsa yerli üretici nefes alır. Tarife, yalnız vergi değil, sanayi seçme ve yön verme aracıdır.`, advanced: `Karşı okuma tüketici ve dış politika tarafından gelir. Koruma yerli sanayiyi büyütebilir; ama fiyatları artırabilir, kaçakçılığı teşvik edebilir ve rakip devletlerle gerilimi tırmandırabilir. Colbertizm bu yüzden kalkınmacı devlet aklının hem üretken hem çatışmalı yüzüdür.` }, conceptRefs: [`jean-baptiste-colbert`, `protectionism`] },
+    { id: `evt-1698-davenant-publick-revenues`, year: 1698, country: `İngiltere`, title: `Davenant - Discourses on the Publick Revenues`, lens: { root: `Savaş ve kamu borcu büyüdükçe devlet gelirini sezgiyle değil, ticaret, nüfus ve vergi hesabıyla yönetmek zorunda kaldı.`, dominant: `Davenant'ın bakışı mali devleti sayılarla güçlendirir; gelir, ticaret ve savaş kapasitesi aynı defterde okunmalıdır.`, counter: `Karşı okuma, istatistiğin toplumu yalnız daha iyi anlamakla kalmayıp daha kolay vergilenebilir ve yönetilebilir hale getirdiğini söyler.`, publicEye: `Halk bunu gümrük fiyatı, tüketim vergisi, savaş masrafı ve kayıt altına alınma olarak hissedebilir.`, control: `Devletin daha iyi sayması toplumun yararına mı, yoksa daha etkili tahsilat ve savaş finansmanı için mi kullanılıyor?` }, summary: { intro: `Davenant, devlet gelirlerini ticaret, nüfus ve istatistikle birlikte okuyarak mali devlet aklını güçlendirir.`, intermediate: `Devlet gelirini anlamak için yalnız kasaya giren paraya bakmak yetmez. Vergi tabanı, ticaret hacmi, ithalat-ihracat, nüfus ve savaş maliyeti birlikte düşünülür. Davenant bu yüzden Petty'nin politik aritmetik geleneğini sürdürür: devleti sayılarla kendini tanımaya çağırır.`, advanced: `Karşı okuma, sayıların iktidarını sorar. İstatistik devletin kör noktalarını azaltır; ama toplumu daha kolay vergilenebilir, sınıflandırılabilir ve yönetilebilir hale de getirir. Davenant'ın önemi, modern mali devletin bilgiyle nasıl beslendiğini göstermesidir.` }, conceptRefs: [`charles-davenant`, `public-credit`] }
   ];
 
   Array.prototype.push.apply(F.concepts, concepts);
