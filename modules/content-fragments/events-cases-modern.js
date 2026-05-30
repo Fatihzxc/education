@@ -102,6 +102,14 @@
     {
       id: `c-navigation-acts`,
       title: `Navigation Acts: Hollanda hegemonyasını kırma stratejisi (1651-1849)`,
+      lens: {
+        root: `İngiltere deniz taşımacılığını, sömürge ticaretini ve savaş kapasitesini Hollanda üstünlüğüne bırakmak istemiyordu.`,
+        dominant: `İngiliz devlet adamı ve tüccarı için bu yasalar, ulusal güvenlik ile ticari kazancı aynı gemiye bindiren makul bir stratejiydi.`,
+        counter: `Koloni sakini, kaçakçı, Hollandalı taşıyıcı ve serbest ticaret savunucusu için aynı düzen tekel, pahalı taşıma ve dışarıdan yönetilme demekti.`,
+        publicEye: `Liman işçisi için daha çok iş, koloni tüccarı için daha çok kural, sıradan tüketici için bazen daha pahalı mal anlamına gelebilirdi.`,
+        evidence: `Gemi tonajı, liman kayıtları, gümrük gelirleri, koloni dilekçeleri ve Anglo-Hollanda savaşlarının maliyeti birlikte okunmalı.`,
+        control: `Deniz gücü gerçekten kamu yararı mı üretti, yoksa kamu yararı diliyle belli tüccar gruplarının tekelini mi büyüttü?`
+      },
       depth: {
         intro: `İngiltere'nin 200 yıl boyunca Hollanda nakliye hegemonyasını kırmak ve sömürgeleri metropole bağlamak için çıkardığı yasalar dizisi.`,
         intermediate: `1651'de Oliver Cromwell hükümetinin çıkardığı ilk Navigation Act ile başlayan ve 1660, 1663, 1673, 1696'da güncellenen yasalar üç temel kural koydu: (1) İngiliz/sömürge mallarının Avrupa'ya İngiliz limanları üzerinden geçmesi; (2) sömürgelere ithalat İngiliz gemileri ile; (3) gemi mürettebatının %75'i İngiliz olmalı. Sonuçlar farklı yönlerde: Britanya nakliye sektörü hızla büyüdü (1660-1700 arası Londra liman trafiği 3x); Hollanda nakliye hegemonyası 1670-1720 arası kademeli düşüş; sömürgelerde özellikle Amerika'da öfke birikti, 1773 Boston Çay Olayı'na ve 1776 Bağımsızlık Bildirgesi'ne giden yol.`,
@@ -114,6 +122,14 @@
     {
       id: `c-colbertism`,
       title: `Colbertizm: Fransa'nın merkantilist büyük deneyi (1664-1683)`,
+      lens: {
+        root: `Fransa, Hollanda ve İngiltere karşısında sanayi, donanma, vergi ve saray ihtişamını aynı anda büyütmek zorundaydı.`,
+        dominant: `Saray ve bürokrasi için Colbertizm, dağınık üretimi disipline edip Fransa'yı güçlü bir imalat devletine çevirme planıydı.`,
+        counter: `Köylü, Huguenot zanaatkâr, lonca dışı girişimci ve Smithçi eleştiri için bu plan ağır vergi, katı denetim ve ayrıcalıklı üretici demekti.`,
+        publicEye: `Bir kent zanaatkârı kalite standardından yararlanabilir; ama vergi yükü ve zorlayıcı düzenleme köylünün sofrasına ağır düşebilirdi.`,
+        evidence: `Tarife listeleri, donanma büyüklüğü, devlet fabrikalarının ömrü, Huguenot göçü ve savaş bütçeleri aynı tabloda tutulmalı.`,
+        control: `Devlet sanayi kurarken toplumun hangi kesimine yatırım, hangi kesimine fatura çıkarıyor?`
+      },
       depth: {
         intro: `Jean-Baptiste Colbert'in Louis XIV maliye nâzırı olarak 19 yıl boyunca uyguladığı kapsamlı devletçi sanayi politikası.`,
         intermediate: `Colbert'in programı dört ayak üzerinde durdu: (1) **Sanayi inşası**: Manufactures Royales (Gobelins, Saint-Gobain, Sèvres, Beauvais) ile lüks ürün ithalatından kurtulma ve ihracat geliri yaratma; (2) **Denizcilik**: 1660'larda 18 gemilik Fransız donanması 1670'lerde 196 gemiye çıkar; Marine konseyi kurulur, tersaneler genişler; (3) **Sömürge**: 1664 Fransız Doğu Hindistan Şirketi, Code Noir 1685; (4) **Mali disiplin**: vergi sisteminin reformu, kraliyet hazinesinin sistematik yönetimi. Tarifeler 1664 ve 1667'de yüksek tutuldu — yabancı mamul mal pahalı, yerli üretim teşvikli.`,
@@ -126,6 +142,14 @@
     {
       id: `c-ispanyol-gumus-paradoksu`,
       title: `İspanyol Gümüş Paradoksu: 100,000 ton bullion neden zenginleştirmedi`,
+      lens: {
+        root: `İspanya kolay maden geliriyle savaş ve ithalat finanse etti; ama üretim, kurum ve beceri birikimi aynı hızla büyümedi.`,
+        dominant: `Kraliyet için gümüş, asker ödemek, borç çevirmek ve Avrupa siyasetinde büyük güç kalmak için somut bir nefes borusuydu.`,
+        counter: `Salamanca-Hume çizgisi ve modern kalkınma okuması, metalin tek başına servet değil; fiyat, kur, üretim ve kurum sorunu olduğunu gösterir.`,
+        publicEye: `Potosi'de yerli emek zorlandı; İspanya'da fiyatlar yükseldi; üretici pahalılaştı; kazanç halkın hayatına dengeli yayılmadı.`,
+        evidence: `Gümüş akışları, fiyat serileri, kraliyet iflasları, ithalat kayıtları ve Potosi emek düzeni birlikte sınanmalı.`,
+        control: `Kaynak bolluğu üretken kapasiteye dönüşmüyorsa gerçekten zenginlik midir, yoksa sadece ertelenmiş kriz midir?`
+      },
       depth: {
         intro: `1545-1810 arası Potosi ve diğer Amerika madenlerinden İspanya'ya 100,000 tondan fazla gümüş aktı, ama İspanya zenginleşmedi, Hollanda zenginleşti.`,
         intermediate: `Klasik merkantilist mantık: ülke ne kadar çok bullion biriktirirse o kadar zengin. İspanya 16-17. yy'da Amerika'dan en çok bullion akıtan ülkeydi. Ama 1650'ye gelindiğinde İspanya iflas etmiş, Hollanda Avrupa'nın en zengin ülkesi. Salamanca okulu ve Bodin quantity theory ile cevabı erken keşfetti: bullion fazlası iç fiyatları artırır, İspanyol mallarını pahalılaştırır, ithal malları ucuzlatır — sonunda bullion Hollanda ve İngiltere'ye akar. Hume 1752'de bunu price-specie flow mechanism olarak resmi formülasyona kavuşturdu.`,
@@ -138,6 +162,14 @@
     {
       id: `c-osmanli-iasecilik`,
       title: `Osmanlı İaşeciliği: Neden klasik merkantilist olmadı (Genç tezi)`,
+      lens: {
+        root: `Osmanlı'nın temel problemi dış fazla biriktirmekten önce büyük şehirleri, orduyu ve toplumsal düzeni kesintisiz beslemekti.`,
+        dominant: `Merkez bürokrasisi ve şehirli tüketici için iaşecilik, ekmeğin, hammaddenin ve temel malın bol kalmasını sağlayan akıllı bir dengeydi.`,
+        counter: `İhracatçı, üretici, sanayileşme savunucusu ve bazı modern tarihçiler için bu iç denge uzun vadede dış rekabet gücünü zayıflatmış olabilir.`,
+        publicEye: `İstanbullu için ucuz ekmek huzur demekti; taşra üreticisi için aynı politika bazen düşük fiyat ve sınırlı pazar anlamına gelebilirdi.`,
+        evidence: `Narh kayıtları, men-i ihracat kararları, gümrük gelirleri, fiyat serileri ve 1838 sonrası ticaret akışı birlikte okunmalı.`,
+        control: `Bir politika kısa vadede halkı koruyorsa ama uzun vadede üretim kapasitesini sınırlıyorsa onu nasıl tartacağız?`
+      },
       depth: {
         intro: `Mehmet Genç'in 1989'da formüle ettiği tez: Osmanlı'nın iktisadi politikaları üç ilke (iaşecilik + fiskalizm + gelenekçilik) etrafında örgütlüydü ve bu üçlü, Batı klasik merkantilizminin neredeyse simetrik karşıtıydı.`,
         intermediate: `Genç'in üç ilkesi: (1) **İaşecilik**: Devletin önceliği halka temel malların (gıda, ham madde) bol, ucuz, kaliteli arzıydı. İhracat fazlası ya da bullion biriktirmek hedef değil. Stratejik malların ihracatı yasak (men-i ihracat: tahıl, deri, yün, gemi malzemesi). (2) **Fiskalizm**: Hazine gelirinin maksimizasyonu önemli ama bu *sermaye birikimi* değil, devletin kısa-orta vadeli işletme finansmanı (ordu + saray) içindi. (3) **Gelenekçilik**: Ekonomik düzen istikrarı yenilikten önce gelirdi; değişiklik ancak kriz baskısıyla yapılırdı. Bu üçlü, klasik Avrupa merkantilizminin (bullionism + ihracat fazlası + devlet sanayi politikası) üç temel ilkesinin simetrik karşıtıdır.`,
@@ -150,6 +182,14 @@
     {
       id: `c-calico-acts-hint-deindustrialization`,
       title: `Calico Acts vs Hint dokumacılığı: Sanayi devriminin karanlık yüzü`,
+      lens: {
+        root: `Hint pamukluları İngiliz üreticiyi zorlayacak kadar başarılıydı; İngiltere önce kendi pazarını kapatarak öğrenme zamanı kazandı.`,
+        dominant: `İngiliz üretici ve parlamento için yasak, yerli sanayiyi koruyan geçici bir kalkınma kalkanı gibi görünüyordu.`,
+        counter: `Hint dokumacı, sömürge eleştirisi ve tüketici gözünden bu kalkan başkasının pazarını daraltan, emeği ucuzlatan ve seçimi azaltan bir güç aracıdır.`,
+        publicEye: `Lancashire'da iş umudu büyürken Bengal dokumacısının pazarlık gücü kırıldı; aynı kumaş hikayesi iki ayrı hayat üretti.`,
+        evidence: `Calico Acts metinleri, EIC sözleşmeleri, tekstil üretim verileri, ücretler ve Hindistan-İngiltere ticaret akışı karşılaştırılmalı.`,
+        control: `Bir ülkenin sanayi öğrenmesi başka bir bölgenin sanayisizleşmesine dayanıyorsa bunu "doğal rekabet" diye anlatabilir miyiz?`
+      },
       depth: {
         intro: `1700 ve 1721 Calico Acts ile İngiltere Hindistan pamuklu ithalatını yasaklarken eş zamanlı olarak Hint dokumacılığı 150 yıl boyunca sistemli olarak çöktü.`,
         intermediate: `1700 öncesi: Hindistan dünyanın en büyük pamuklu kumaş üreticisiydi — Avrupa zenginleri için (calico, muslin, çintz) ihracat odaklı sektördü. 1700 ve 1721 Calico Acts ile İngiliz pazarı yerli yün ve sonra pamuk sanayisini korumak için Hint ithalatına kapatıldı. Aynı zamanda EIC Bengal'deki tahsil otoritesini (Diwani 1765) kullanarak Hint dokumacıları üzerinde fiyat baskısı ve zorla üretim sistemi kurdu. Sonuç: İngiltere 1700-1850 arası dünya tekstil hegemonu olurken Hint dokumacılığı sistemli çökmeye başladı.`,
@@ -162,6 +202,14 @@
     {
       id: `c-ibn-haldun-mukaddime-ekonomisi`,
       title: `İbn Haldun Mukaddime Ekonomisi: Smith'in 400 Yıl Öncüsü`,
+      lens: {
+        root: `İbn Haldun, sürekli yıkılıp kurulan devletleri, vergi baskısını, şehir refahını ve dayanışma çözülmesini tek açıklama içinde anlamaya çalıştı.`,
+        dominant: `Modern ana akım tarih yazımı uzun süre iktisadın büyük başlangıcını Avrupa klasiklerine bağladı; İbn Haldun bu anlatıda geç görünür oldu.`,
+        counter: `Karşı okuma iki yönlüdür: Avrupa-merkezli dışlamayı sorgular, ama İbn Haldun'u doğrudan Smith'in yerine koyarak bağlam farkını silmemeye de dikkat eder.`,
+        publicEye: `Vergi artışı, köylü ve şehir esnafı için soyut teori değil; üretme isteği, güven ve geçim hesabı meselesiydi.`,
+        evidence: `Mukaddime pasajları, Osmanlı kronikleri, çeviri tarihleri, Spengler-Boulakia-Reinert okumaları ve Avrupa kanonundaki boşluk birlikte izlenmeli.`,
+        control: `Bir fikir erken söylenmişse ama kurumsal dolaşıma girmemişse tarihteki ağırlığını nasıl ölçeriz?`
+      },
       depth: {
         intro: `İbn Haldun 1377'de tamamladığı Mukaddime'de Smith'ten 4 yüzyıl önce iş bölümü, vergi-devlet döngüsü, arz-talep ile fiyat oluşumu ve emek-değer sezgisini formüle etti.`,
         intermediate: `Mukaddime'nin 3. Kitap 38-39. fasıllarında vergi-devlet döngüsü: "Hânedanın başlangıcında vergiler az olur ve gelir bol olur; sonunda vergiler çok olur ve gelir az olur." Bu modern Laffer eğrisinin 6 yüzyıl öncüsüdür. 5. fasıldaki iş bölümü: "Bir kişinin kendi başına buğday üretmesi zorken, birçok kişinin işbirliğiyle bu kolay olur" — Smith'in 1776'da iğne fabrikası analojisinin doğrudan öncülü. Emek-değer sezgisi: "İnsan kazancı emekten gelir, çünkü mülkün asıl kaynağı insan emeğidir." Arz-talep ile fiyat: "Mallar kıt olduğunda fiyatlar yükselir; bol olduğunda düşer."`,
@@ -182,6 +230,13 @@
     {
       id: `m-trump-tariffs`,
       title: `Trump Tarifeleri (2018-2025)`,
+      lens: {
+        root: `Sanayi kaybı, Çin rekabeti, güvenlik kaygısı ve seçmen öfkesi aynı tarifede birleşiyor.`,
+        dominant: `ABD üreticisi ve korumacı siyaset için tarife, "kaybolan üretimi geri çağırma" aracıdır.`,
+        counter: `Tüketici, ithalata bağlı firma ve müttefik ülke açısından aynı tarife daha yüksek fiyat, misilleme ve tedarik kırılmasıdır.`,
+        publicEye: `Bir işçi için fabrika umudu; bir hane için pahalı beyaz eşya; bir çiftçi için karşı tarife riski olabilir.`,
+        aid: `Zinciri şöyle oku: ithalat baskısı -> siyasi tepki -> tarife -> fiyat/misilleme -> kimin kazandığı ve kimin ödediği.`
+      },
       today: `Trump 2018'de Çin malları üzerinde %25 tarife getirdi, 2025'te %60+ tehdit etti. Çelik, alüminyum, beyaz eşya, yarı iletken sektörlerinde küresel ticaret savaşı.`,
       historical: `Klasik merkantilist korumacılığın 21. yy geri dönüşü. Hörnigk'in 1684 "9 kuralı"ndan birkaçı (ham ihracat yasağı, mamul üretim teşviki, lüks ithal vergisi) Trump 232 ve 301 maddeleri altında uygulamada.`,
       difference: `17. yy korumacılığında küresel değer zincirleri yoktu; bir tarife sadece bitmiş mala uygulanırdı. Bugün bir iPhone parçaları 5 ülkede üretiliyor, montajı Çin'de yapılıyor — tarife karmaşıklığı çok daha yüksek, eski tip karşı tarifeler kolayca işe yaramıyor.`,
@@ -190,6 +245,13 @@
     {
       id: `m-china-2025`,
       title: `Çin "Made in China 2025"`,
+      lens: {
+        root: `Çin düşük maliyetli montajdan yüksek teknoloji üreten, standart koyan ve dışa bağımlılığı azaltan bir yapıya geçmek istiyor.`,
+        dominant: `Çin devleti ve ulusal şampiyon şirketler için plan, kalkınma merdiveninde üst basamağa çıkma hamlesidir.`,
+        counter: `Rakip ülkeler ve piyasa-liberal okuma, sübvansiyon, teknoloji transferi baskısı ve devlet gücünün rekabeti eğdiğini söyler.`,
+        publicEye: `Çinli mühendis için kariyer sıçraması; küçük üretici için disiplinli tedarik baskısı; dış ülkede işçi için rekabet tehdidi olabilir.`,
+        aid: `Colbert ile benzerliği üretimi seçmesidir; farkı ise bugünkü ölçek, veri, çip ve küresel tedarik ağlarının çok daha karmaşık olmasıdır.`
+      },
       today: `2015'te ilan edilen 10-yıl stratejisi: yarı iletken, robotik, EV, biyoteknoloji, havacılık sektörlerinde küresel liderlik. Devlet sübvansiyonu, lokal pazar korumacılığı, yabancı teknoloji transferi zorunluluğu.`,
       historical: `Colbertizm'in 21. yy versiyonu: devletin doğrudan sanayi politikası, "national champions" (Huawei, BYD, SAIC) Saint-Gobain ve Gobelins'in modern karşılığı. Friedrich List 1841 "infant industry" + Hörnigk "kaynak haritalama" mantığı.`,
       difference: `Colbert dünyanın ~%10'unun ekonomik aktörüydü; Çin bugün küresel imalatın %30'u, küresel ticaretin %15'i. Ölçek ve karşılıklı bağımlılık seviyesi tarih dışı; küresel sistem Çin'in tek taraflı politikasından sistematik etkilenir.`,
@@ -198,6 +260,13 @@
     {
       id: `m-eu-cbam`,
       title: `AB Karbon Sınır Vergisi (CBAM, 2023+)`,
+      lens: {
+        root: `AB, pahalı iklim standartları yüzünden sanayisinin daha kirli ve ucuz üretim bölgelerine kaçmasını önlemek istiyor.`,
+        dominant: `AB açısından CBAM, iklim politikasını ticaret sınırında tamamlayan adil rekabet aracıdır.`,
+        counter: `Gelişmekte olan ülke üreticisi için bu, yeşil dil kullanan yeni bir pazar kapısı vergisi gibi görünebilir.`,
+        publicEye: `Avrupalı işçi için fabrika koruması; dış üretici için ek belge ve maliyet; tüketici için daha pahalı ama daha temiz ürün ihtimali doğar.`,
+        aid: `Soruyu ikiye ayır: karbon kaçağını gerçekten azaltıyor mu, yoksa çevre gerekçesiyle sanayi koruması mı yapıyor?`
+      },
       today: `AB Karbon Sınır Düzenleme Mekanizması (Carbon Border Adjustment Mechanism) Ekim 2023'te geçiş dönemi, Ocak 2026'da tam uygulama. Çelik, çimento, alüminyum, gübre, hidrojen ithal edenlerden karbon vergisi alınır.`,
       historical: `Mun'un 1664 "ulusal stratejik mal koruması" mantığının yeşil versiyonu. Stratejik mal artık askeri madde değil, karbon-yoğun sanayi — ama amaç aynı: yerli üreticiye rekabet avantajı, dış üreticiye dezavantaj.`,
       difference: `CBAM "çevre standardı" kostümü altında, klasik tarifeler ise açıkça ulusal çıkar gerekçeliydi. Bu retorik fark uluslararası kabul edilebilirliği artırır ama özünde aynı korumacı sonucu üretir. WTO uyumluluğu hâlâ tartışmalı.`,
@@ -206,6 +275,13 @@
     {
       id: `m-usa-ira-chips`,
       title: `ABD IRA + CHIPS Act (2022)`,
+      lens: {
+        root: `ABD, çip, batarya ve yeşil enerji gibi stratejik alanlarda dışa bağımlılığın güvenlik ve üretim riski yarattığını düşünüyor.`,
+        dominant: `Washington ve yerli sanayi için sübvansiyon, kritik kapasiteyi eve döndürme ve teknolojik üstünlüğü koruma aracıdır.`,
+        counter: `Müttefikler, bütçe hassasiyeti olanlar ve serbest ticaret savunucuları bunu pahalı bir sübvansiyon yarışı olarak okuyabilir.`,
+        publicEye: `Yeni fabrika kurulan şehirde iş umudu doğar; ama vergi mükellefi, tüketici ve dış tedarikçi maliyetin başka yüzünü taşır.`,
+        aid: `Hamilton bağlantısını akılda tut: geri kalmış sanayiyi korumak ile hegemon sanayiyi yeniden konumlandırmak aynı şey değildir.`
+      },
       today: `Inflation Reduction Act (2022): $369 milyar yeşil enerji + batarya sübvansiyonu. CHIPS and Science Act (2022): $52 milyar yarı iletken üretim teşviki. Tesla, GM, Ford, Intel, TSMC ABD'ye reshoring.`,
       historical: `Alexander Hamilton'ın 1791 *Report on Manufactures* sanayi politikası önerisinin doğrudan iki yüzyıl sonra geri dönüşü. Hamilton kendi zamanında İngiliz sanayi hegemonyasından ABD'yi korumak için aynı tedbirleri (tarife + sübvansiyon + tekel) önermişti.`,
       difference: `Hamilton döneminde ABD geri kalmış ülkeydi; bugün ABD hegemonu konumda ama göreceli düşüş tehdidiyle sanayi kapasitesini yeniden kurmaya çalışıyor. IRA + CHIPS Act klasik "infant industry" değil, olgun sanayiyi stratejik olarak yeniden yerleştirme hamlesidir. Karşı okuma şunu sorar: bütçe maliyeti, müttefiklerle sübvansiyon yarışı, tüketici fiyatları ve küresel tedarik zinciri kırılması kimin omzuna biniyor?`,
@@ -214,6 +290,13 @@
     {
       id: `m-turkiye-sanayi`,
       title: `Türkiye Sanayi ve Tarım Politikaları`,
+      lens: {
+        root: `Türkiye aynı anda gıda güvenliği, dış açık, teknoloji bağımlılığı, savunma kapasitesi ve ihracat baskısıyla uğraşıyor.`,
+        dominant: `Devletçi-kalkınmacı bakış için yerli üretim, stratejik özerklik ve istihdam demektir.`,
+        counter: `Karşı okuma, korumanın verimlilik baskısını azaltabileceğini, maliyeti tüketiciye ve bütçeye taşıyabileceğini sorar.`,
+        publicEye: `Çiftçi için alım güvencesi, mühendis için teknoloji alanı, tüketici için fiyat ve kalite sorusu aynı anda oluşur.`,
+        aid: `İki mirası ayır: iaşecilik temel mal güvenliğini, Colbertvari çizgi stratejik sanayi inşasını anlatır.`
+      },
       today: `Şeker pancarı taban fiyat alımı (TMO), TOGG yerli otomobil 2023 üretimi, savunma sanayii yerlileştirme (BAYRAKTAR, ALTAY tankı), lojistik koridor stratejisi (Orta Koridor), gıda kendine yeterlilik (Tarım Kredi Kooperatifi).`,
       historical: `İki katmanlı miras: (1) **Osmanlı iaşeciliği** (Genç tezi) — temel malların iç tedariği önceliği, fiyat denetimi, ihracat sınırlama; (2) **Klasik merkantilizm** (Colbertvari) — stratejik sanayi devlet desteğiyle inşa. Modern Türkiye iki mirastan da besleniyor: Tarım iaşecilik, savunma+otomotiv Colbertvari.`,
       difference: `Osmanlı dış pazara çıkmaya çalışmıyordu (iaşecilik iç odaklı); modern Türkiye ihracat-odaklı büyüme modelinde — bu Genç çerçevesinde paradoksal: iaşecilik mirası ihracat odaklı strateji ile gerilim halinde. Bu gerilim ekonomik politik tartışmaların alt metnini oluşturuyor.`,
@@ -222,6 +305,13 @@
     {
       id: `m-mercosur-protectionism`,
       title: `Brezilya-Arjantin Mercosur Tarifeleri`,
+      lens: {
+        root: `Güney Amerika ülkeleri, büyük dış üreticiler karşısında kendi sanayilerine öğrenme alanı açmak istiyor.`,
+        dominant: `Bölgesel kalkınmacı bakış için ortak dış tarife, tek tek zayıf ülkelerin birlikte pazarlık gücü kazanmasıdır.`,
+        counter: `Tüketici, verimsiz firmadan yorulan girişimci ve serbest ticaret savunucusu için yüksek tarife pahalı mal ve düşük rekabet demektir.`,
+        publicEye: `Sanayi işçisi koruma ister; yoksul hane ucuz ürün ister; devlet ikisini aynı anda memnun etmekte zorlanır.`,
+        aid: `Listçi koruma ancak öğrenme takvimi varsa anlamlıdır; sonsuz koruma, bebek sanayiyi hiç büyümeyen yetişkine çevirebilir.`
+      },
       today: `Mercosur (Brezilya, Arjantin, Uruguay, Paraguay) AB ile 25-yıl müzakeresi sonrası 2023 Aralık imza taslağı; iç tarifeler %35'e kadar yüksek kalıyor, AB'ye sınırlı pazar açımı. Brezilya yerli sanayi koruma savunusu.`,
       historical: `Friedrich List'in 1841 Alman gümrük birliği Zollverein modelinin Güney Amerika versiyonu — komşu ülkeler iç gümrük kaldırıp dış gümrük yükseltir. List'in "ulusal sistem"i 19. yy Almanya'da, 20. yy ABD'de, 21. yy Çin'de işe yaradı; Mercosur aynı modeli deniyor.`,
       difference: `Zollverein dönemi (1834) küresel rekabette ön sıralarda olan ülkeler yoktu — herkes nispeten geri kalmıştı. Bugün Mercosur Çin (ucuz emek) + ABD (yüksek teknoloji) sıkıştırması altında; "infant industry" stratejisi 200 yıl gerilemiş olabilir, dış rekabet çok daha sert.`,

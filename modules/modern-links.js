@@ -22,6 +22,12 @@
       .modern-section-label.history { background: rgba(168,139,250,0.15); color: #a78bfa; }
       .modern-section-label.diff { background: rgba(251,191,36,0.15); color: var(--warning); }
       .modern-section p { color: var(--text-primary); font-size: 13px; line-height: 1.6; }
+      .modern-lens { margin: 12px 0; padding: 10px; background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: var(--radius-sm); }
+      .modern-lens-title { color: var(--text-primary); font-size: 12px; font-weight: 700; margin-bottom: 8px; }
+      .modern-lens-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(145px, 1fr)); gap: 7px; }
+      .modern-lens-item { padding: 8px; background: var(--bg-card); border-left: 3px solid var(--accent); border-radius: var(--radius-sm); }
+      .modern-lens-item b { display: block; color: var(--text-muted); font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+      .modern-lens-item span { display: block; color: var(--text-primary); font-size: 12px; line-height: 1.5; }
       .modern-refs { margin-top: 12px; padding-top: 12px; border-top: 1px dashed var(--border); }
       .modern-refs .case-ref-chip { display: inline-block; padding: 2px 8px; margin: 2px; font-size: 11px; background: var(--bg-tertiary); border-radius: 10px; color: var(--text-muted); cursor: pointer; }
       .modern-refs .case-ref-chip:hover { background: var(--accent); color: #000; }
@@ -30,6 +36,35 @@
   }
 
   function ModernLinks() {}
+
+  function escapeHtml(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function renderLens(lens) {
+    if (!lens) return '';
+    const rows = [
+      ['Kök sebep', lens.root],
+      ['Baskın bakış', lens.dominant],
+      ['Karşı fikir', lens.counter],
+      ['Halkta görünüm', lens.publicEye],
+      ['Öğrenme desteği', lens.aid]
+    ].filter(row => row[1]);
+    if (!rows.length) return '';
+    return `
+      <div class="modern-lens" aria-label="Okuma merceği">
+        <div class="modern-lens-title">Okuma merceği</div>
+        <div class="modern-lens-grid">
+          ${rows.map(row => `<div class="modern-lens-item"><b>${escapeHtml(row[0])}</b><span>${escapeHtml(row[1])}</span></div>`).join('')}
+        </div>
+      </div>
+    `;
+  }
 
   ModernLinks.prototype.init = function(containerId) {
     injectStyles();
@@ -49,6 +84,7 @@
       return `
         <div class="modern-card">
           <h3>${l.title}</h3>
+          ${renderLens(l.lens)}
           ${l.today ? `<div class="modern-section"><span class="modern-section-label today">BUGÜN</span><p>${l.today}</p></div>` : ''}
           ${l.historical ? `<div class="modern-section"><span class="modern-section-label history">TARİHSEL PARALEL</span><p>${l.historical}</p></div>` : ''}
           ${l.difference ? `<div class="modern-section"><span class="modern-section-label diff">ÖNEMLİ FARK</span><p>${l.difference}</p></div>` : ''}

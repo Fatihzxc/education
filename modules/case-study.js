@@ -26,6 +26,12 @@
       .case-layer-label.intermediate { background: rgba(251,191,36,0.2); color: var(--depth-2); }
       .case-layer-label.advanced { background: rgba(239,68,68,0.2); color: var(--depth-3); }
       .case-layer p { color: var(--text-primary); line-height: 1.7; font-size: 14px; }
+      .case-lens { margin: 14px 0 4px; padding: 12px; background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: var(--radius-sm); }
+      .case-lens-title { color: var(--text-primary); font-size: 12px; font-weight: 700; margin-bottom: 8px; }
+      .case-lens-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 8px; }
+      .case-lens-item { padding: 8px; background: var(--bg-card); border-left: 3px solid var(--accent); border-radius: var(--radius-sm); }
+      .case-lens-item b { display: block; color: var(--text-muted); font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+      .case-lens-item span { display: block; color: var(--text-primary); font-size: 12px; line-height: 1.55; }
       .case-trigger { margin-top: 16px; padding: 12px; background: var(--bg-tertiary); border-left: 3px solid var(--warning); border-radius: var(--radius-sm); font-style: italic; color: var(--text-secondary); }
       .case-refs { margin-top: 12px; }
       .case-ref-chip { display: inline-block; padding: 3px 9px; margin: 2px; font-size: 12px; background: var(--bg-tertiary); border-radius: 12px; color: var(--text-secondary); cursor: pointer; }
@@ -35,6 +41,36 @@
   }
 
   function CaseStudy() {}
+
+  function escapeHtml(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function renderLens(lens) {
+    if (!lens) return '';
+    const rows = [
+      ['Kök sebep', lens.root],
+      ['Baskın bakış', lens.dominant],
+      ['Karşı fikir', lens.counter],
+      ['Halkta görünüm', lens.publicEye],
+      ['Kanıtla sınama', lens.evidence],
+      ['Kontrol sorusu', lens.control]
+    ].filter(row => row[1]);
+    if (!rows.length) return '';
+    return `
+      <div class="case-lens" aria-label="Okuma merceği">
+        <div class="case-lens-title">Okuma merceği</div>
+        <div class="case-lens-grid">
+          ${rows.map(row => `<div class="case-lens-item"><b>${escapeHtml(row[0])}</b><span>${escapeHtml(row[1])}</span></div>`).join('')}
+        </div>
+      </div>
+    `;
+  }
 
   CaseStudy.prototype.init = function(containerId) {
     injectStyles();
@@ -56,6 +92,7 @@
         <div class="case-card" data-idx="${i}">
           <div class="case-header"><h3>${c.title}</h3><span class="case-toggle">▶</span></div>
           <div class="case-body">
+            ${renderLens(c.lens)}
             ${d.intro ? `<div class="case-layer depth-1"><span class="case-layer-label intro">🌱 Giriş</span><p>${d.intro}</p></div>` : ''}
             ${d.intermediate ? `<div class="case-layer depth-2"><span class="case-layer-label intermediate">🌳 Orta</span><p>${d.intermediate}</p></div>` : ''}
             ${d.advanced ? `<div class="case-layer depth-3"><span class="case-layer-label advanced">🌲 İleri</span><p>${d.advanced}</p></div>` : ''}
