@@ -131,6 +131,20 @@ Brussels Effect, *Westphalia sistemi*'nin (Bölüm 6) önemli bir aşılışıd�
 
 Ama bu yeni egemenlik formu *demokratik açık* taşır. AB Komisyonu seçilmiş değil; AB Parlamentosu'nun küresel etkisi sınırlı. Brussels Effect, demokratik mekanizma olmadan küresel etki yaratıyor. Bu, 21. yüzyıl egemenliğin önemli bir yapısal sorunudur — Bölüm 12.6'da işaret edilen "*otoriter dönüş*"ün popüler bir kaynağı.
 
+### Kanıt paketi: karar gücü nerede çalışıyor?
+
+Bugünkü egemenliği anlamak için "devlet güçlü mü zayıf mı?" sorusu yetmez. Kararın nerede alındığını, hangi hukukla uygulandığını, kimin itiraz edebildiğini ve maliyetin nereye indiğini izlemek gerekir.
+
+| Kanıt alanı | Bakılacak iz | Ne gösterir? | Karşı soru |
+|---|---|---|---|
+| Hukuk | Ulusal yasa mı, AB standardı mı, tahkim kararı mı, platform kuralı mı? | Kural koyma gücünün ölçeğini gösterir | Kuralı koyanı kim denetliyor? |
+| Para ve vergi | Şirket nerede kazanıyor, nerede vergi ödüyor, hangi para ile borçlanıyor? | Ekonomik egemenliğin kaçış yollarını açar | Sermaye hareketliyken emek ve vergi mükellefi yerinde mi kalıyor? |
+| Veri ve platform | Hesap kapatma, algoritma, görünürlük, veri saklama | Özel şirketin kamusal hayat üzerindeki etkisini gösterir | Özel mülkiyet kamusal konuşmayı yönetebilir mi? |
+| Güvenlik | Sınır, salgın, siber saldırı, olağanüstü hâl | Devletin hâlâ nerede sertleştiğini gösterir | İstisna geçici mi, kalıcı yönetim biçimi mi? |
+| Yerel deneyim | Belediye, mahalle, işçi, göçmen, çevre halkı ne yaşıyor? | Büyük kararın gündelik bedelini gösterir | Karardan etkilenenler karar masasında mı? |
+
+Bu paketi her güncel olaya uygulayabilirsin. Bir veri yasası, maden izni, platform yasağı veya iklim düzenlemesi gördüğünde önce karar okunu çiz: kim karar aldı, kim uyguladı, kim itiraz edebilir, kim bedel ödüyor?
+
 ## 12.10 Sonuç: bir kavramın hikâyesi, henüz bitmedi
 
 Bu kitap Aristoteles'in *politeia* sınıflamasından başladı; Roma *imperium*'undan İbn Haldun'un *mülk-asabiyye* döngüsüne, Bodin'in *soverenlik* tanımından Hobbes'un *Leviathan*'ına, Locke-Montesquieu-Rousseau'nun *modern halk egemenliği* sentezinden Hegel'in *Sittlichkeit* kuramına, Weber'in *zor tekeli*'nden Schmitt'in *istisna*'sına, Foucault'nun *iktidar ağı*'ndan 21. yüzyılın *küresel parçalanma*'sına uzandı.

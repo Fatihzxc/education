@@ -159,6 +159,19 @@ Bugün bir haberde "ekonomi büyüdü" cümlesini gördüğünde klasik iktisat 
 
 Bu kart büyümeyi küçümsetmez; onu daha gerçek yapar. Çünkü büyüme iyi bir haber olabilir, ama ancak bedel defteriyle birlikte okunduğunda ne kadar iyi olduğunu anlayabiliriz.
 
+### Kanıt paketi: büyüme iddiasını dört dosyada sınamak
+
+Klasik büyüme teorisi sana tek bir sayıdan şüphe etmeyi öğretir. "Üretim arttı" doğru olabilir; ama bu cümle tek başına kimin hayatının iyileştiğini, kimin daha çok çalıştığını, kimin kira ödediğini ve doğanın hangi hesabı tuttuğunu söylemez. Bu yüzden büyüme iddiasını dört küçük dosyada sınamak işe yarar.
+
+| Dosya | Bakılacak gösterge | Hangi klasik soru açılır? | Yanlış okuma riski |
+|---|---|---|---|
+| Üretim dosyası | Çıktı, verimlilik, işbölümü, pazar genişliği | Smith: motor gerçekten hızlanıyor mu? | Toplam artışı herkesin refahı sanmak |
+| Bölüşüm dosyası | Ücret payı, kâr payı, rant/kira, çalışma süresi | Ricardo ve Marx: büyümenin payı kime gidiyor? | Kârı yatırım, rantı hak edilmiş gelir diye otomatik görmek |
+| Geçim dosyası | Gıda fiyatı, konut, nüfus baskısı, temel ihtiyaç sepeti | Malthus: kişi başına hayat rahatlıyor mu? | Yoksulluğu doğa yasası gibi anlatıp kurumları aklamak |
+| Sınır dosyası | Toprak, enerji, su, karbon, atık, ekolojik yük | Mill ve modern steady-state: büyüme ne zaman araç olmaktan çıkıyor? | Teknolojiyi bütün sınırları otomatik aşacak sihirli çözüm sanmak |
+
+Bu paketi kullanırken küçük bir çizgi grafik hayal et: üretim yukarı çıkıyor olabilir; ama ücret çizgisi yatay, kira çizgisi daha dik, karbon çizgisi de onunla birlikte yükseliyorsa hikaye değişir. Klasiklerin büyüme tartışması tam bu yüzden hâlâ canlıdır: toplam çizgiyi değil, çizgilerin birbirine karşı hareketini okumayı öğretir.
+
 ---
 
 ## Dört kontrol sorusu

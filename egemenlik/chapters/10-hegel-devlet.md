@@ -69,6 +69,20 @@ Hegel bölümünü okurken temel pusula şu olsun: egemenliğin kaynağını ner
 
 Bu karşılaştırma Hegel'i daha adil okumayı sağlar. Hegel devleti putlaştıran basit bir düşünür değildir; ama devletin kendi adına konuşma tehlikesini de gerçekten ciddiye almak gerekir.
 
+### Kanıt paketi: Hegel'i hem ciddiye al, hem sınırla
+
+Hegel okurken iki kolay yol var: ya "devlete tapıyor" deyip geçmek ya da "modern özgürlüğü en iyi o anladı" deyip bütün tehlikeyi unutmak. Daha iyi yol, Hegel'in devlet iddiasını somut kurumlarda sınamaktır.
+
+| Kanıt alanı | Bakılacak şey | Hegelci okuma | Karşı okuma |
+|---|---|---|---|
+| Aile | Bakım, miras, kuşak ve aidiyet | Özgürlük ilk tanınmayı burada öğrenir | Aile baskı ve eşitsizlik de üretebilir |
+| Sivil toplum | Piyasa, meslek, yoksulluk, rekabet | Bireyler karşılıklı bağımlılık içinde gelişir | Piyasa Pöbel'i, yani dışarıda kalan kalabalığı üretir |
+| Bürokrasi | Kural, uzmanlık, dosya, kamu hizmeti | Evrensel çıkarı taşıyan sınıf olabilir | Kendini halktan üstün gören kapalı bir güç olabilir |
+| Meclis ve temsil | Hangi çıkarlar kurumsal olarak duyuluyor? | Dağınık toplum örgütlü biçimde devlete bağlanır | Doğrudan halk sesi zayıflayabilir |
+| Hak ihlali anı | Devlet bireyi ezdiğinde hangi fren çalışıyor? | Rasyonel devlet özgürlüğü güvenceye alır | Devlet kendini rasyonel ilan edip itirazı susturabilir |
+
+Bu paket Hegel'i küçültmez; onu daha ciddi okur. Çünkü güçlü bir devlet teorisi, en çok zayıf kişinin devlet karşısında ne yapabildiği sorusuyla sınanır.
+
 ## 10.6 Hegel ile Marx: dönüşen miras
 
 Karl Marx (Mülkiyet kitabı Bölüm 8'de işlendi) genç bir Hegelci olarak başladı; ama 1843'te yazdığı *Critique of Hegel's Philosophy of Right* eserinde, hocasından kritik bir yönden ayrıldı.

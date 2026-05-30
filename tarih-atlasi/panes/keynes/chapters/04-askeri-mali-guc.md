@@ -108,6 +108,20 @@ Bu, makro politikanın ahlaki ağırlığını gösterir. Enflasyonu düşürmek
 
 Bu tablo, askerî-mali kartın neden gerekli olduğunu anlatır: Ekonomi politikası daima güç, bütçe ve bedel meselesidir.
 
+### Kanıt paketi: savaş, para ve borç aynı dosyada
+
+Bu kartı öğrenirken yalnız "Keynesçiler harcamayı sever, monetaristler para disiplinini sever" diye kalırsak mesele fazla küçülür. Modern makro tartışma çoğu zaman üç dosyanın birleştiği yerde doğar: savaş harcaması, para düzeni ve borç güveni.
+
+| Dosya | Bakılacak gösterge | Ne gösterir? | Karşı soru |
+|---|---|---|---|
+| Bütçe | Savunma, sosyal güvenlik, altyapı ve faiz ödemesi payları | Devletin hangi önceliği finanse ettiğini gösterir | Harcama hayatı mı koruyor, güvenlik devletini mi büyütüyor? |
+| Para | Kur rejimi, merkez bankası bilançosu, faiz, enflasyon | Krizle mücadelede para otoritesinin sınırını gösterir | İstikrar bedeli işsizliğe veya borçluya mı çıkıyor? |
+| Borç | Borcun vadesi, faizi, kim tarafından tutulduğu | Gelecek vergi gelirinin bugüne nasıl bağlandığını gösterir | Borç üretken kapasite mi kuruyor, yalnız ertelenmiş yük mü? |
+| Dış düzen | IMF, dolar, sermaye hareketi, rezerv ihtiyacı | Ulusal politikanın dış para düzenine bağımlılığını gösterir | Egemen politika alanı merkez ülkelerle çevre ülkelerde eşit mi? |
+| Gündelik hayat | İşsizlik, ücret, kira, gıda ve enerji fiyatı | Makro kararın haneye inişini gösterir | Teknik başarı toplumsal acıyı gizliyor mu? |
+
+Bu paketin amacı taraf seçtirmek değil, bedeli görünür kılmaktır. Bir politika "makro açıdan doğru" olabilir; yine de kimin işini, kimin borcunu, kimin güvenliğini etkilediğini ayrıca sormak gerekir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** Savaş, yeniden inşa, Bretton Woods ve Soğuk Savaş devletin mali kapasitesini olağanüstü büyüttü.

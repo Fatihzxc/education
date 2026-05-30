@@ -131,6 +131,20 @@ Worms Concordat'ının uzlaşması teknikti: piskoposların *manevi* atamasını
 
 Bu kart, Ortaçağ insanını pasif bir kalabalık gibi görmemeyi sağlar. Bölünmüş egemenlik, yukarıdaki kurumlar arası kavga olduğu kadar aşağıdaki insanların "hangi buyruğa göre yaşayacağım?" sorusuydu.
 
+### Kanıt paketi: iki kılıcı hangi izlerden görürüz?
+
+İki kılıç doktrini soyut bir teolojik tartışma gibi durabilir. Onu somutlaştırmak için kurumların bıraktığı izlere bakmak gerekir. Çünkü egemenlik, yalnız "kim haklı?" sorusunda değil, kimin atama yaptığı, kimin vergi aldığı, kimin aforoz ettiği ve kimin itaat beklediği sorusunda görünür.
+
+| İz | Neye bakılır? | Ne gösterir? | Karşı okuma |
+|---|---|---|---|
+| Mektup ve bulluk | Papa veya kral hangi dili kullanıyor? | Yetkinin ilahi mi, hukuki mi, siyasal mı kurulduğunu gösterir | Metin iddiadır; pratik gücü ayrıca ölçmek gerekir |
+| Atama krizi | Piskoposu kim seçiyor, gelirini kim veriyor? | Ruhani görev ile dünyevi mülkün iç içeliğini açar | Halk için bu kriz çoğu zaman vergi ve yerel otorite olarak yaşanır |
+| Aforoz ve sadakat | Dini dışlama siyasal itaati nasıl etkiliyor? | Ruhani kılıcın dünyevi sonuç üretebildiğini gösterir | Kralın ordusu ve vergi gücü de aynı anda çalışır |
+| Pazar ve mahkeme kaydı | Yemin, evlilik, miras, borç ve ticaret hangi otoriteye gidiyor? | Egemenliğin gündelik hayattaki temas noktalarını gösterir | Kurumların dili ile köylünün deneyimi aynı olmayabilir |
+| Uzlaşma metni | Worms Concordat gibi anlaşmalar yetkiyi nasıl böler? | Çatışmanın yalnız savaşla değil, teknik paylaşım formülüyle çözüldüğünü gösterir | Uzlaşma üstte kurulurken altta gerilim sürebilir |
+
+Bu paketin ana dersi sade: Ortaçağ'da egemenlik yok değildi; çok katmanlıydı. Bir insan aynı anda Tanrı'ya, kiliseye, senyöre, krala, loncaya ve cemaate bağlı yaşayabiliyordu. Modern devletin "tek son söz" arayışı, bu kalabalık otorite dünyasına verilmiş bir cevaptır.
+
 ## 3.10 İki kılıç doktrininin modern yankıları
 
 İki kılıç doktrini — sivil ve dini egemenliğin ayrı kurumlarda olması — Reformasyon sonrası teorik olarak çözüldü, ama pratik olarak modern dünyada hâlâ canlı:

@@ -73,6 +73,20 @@ Bu kitabın en iyi sınavı eski metinlerde değil, bugünkü bir haberde yapıl
 
 Bu alıştırma haritayı yaşayan bir şeye çevirir. Artık tarih, geride kalmış fikirler listesi olmaz; bugünün cümlelerini çözen bir anahtar demeti olur. Her anahtar bir kapıyı açar, ama hiçbir anahtar bütün evi tek başına gezdirmez.
 
+### Son kanıt paketi: sevdiğin ekolü de sınamak
+
+Kapanışta en tehlikeli şey, artık elinde bir "favori ekol" olmasıdır. Favori ekol kötü değildir; düşünmeyi başlatır. Ama onu sınamazsan, fark etmeden yeni bir dogmaya dönüşür. Aşağıdaki paket bunun için var: hangi fikre yakın durursan dur, aynı denetim masasına yatır.
+
+| Kanıt parçası | Ne aramalısın? | Aceleci okuma riski |
+|---|---|---|
+| Kriz veya kök yara | Fikir hangi somut sıkışmaya cevap veriyor: savaş, borç, açlık, işsizlik, sınıf çatışması, dış rekabet? | Fikri zamansız bir doğruluk gibi görmek |
+| Taşıyıcı koalisyon | Kim bu fikri güçlü buluyor: devlet, tüccar, sanayici, toprak sahibi, işçi, borçlu, teknokrat? | Fikrin yayılmasını yalnız "doğru olduğu için" sanmak |
+| Ölçülen veri | Ücret, fiyat, rant, üretim, dış ticaret, borç, işsizlik veya karbon gibi hangi gösterge öne çıkıyor? | Tek sayıyı bütün hayatın yerine koymak |
+| Dışarıda kalan hayat | Ev içi emek, koloni, taşra, kadınlar, köylüler, göçmenler veya doğa nerede duruyor? | Galibin gözünü toplumun tamamı sanmak |
+| En güçlü karşı örnek | Bu ekolün en iyi açıklayamadığı tarihsel olay hangisi? | Kendi tarafının zayıf yerini romantikleştirmek |
+
+Bu paketi küçük bir çizimle de düşünebilirsin: ortaya fikri yaz, soluna onu doğuran derdi, sağına onu taşıyan gücü, altına bedeli ödeyenleri, üstüne de en iyi karşı fikri koy. Böylece harita yalnız geçmişi anlatmaz; senin zihninde çalışan bir kontrol paneline dönüşür.
+
 ## 8.5 Son söz
 
 İktisat, doğa bilimi olamayacağı için *bitmez* — sürekli yeniden okunması gereken bir bilim ve sanattır. Bir denklem doğru çözülebilir; ama hangi denklemin kurulacağı, hangi değişkenin "veri", hangisinin "açıklanacak" sayılacağı, her zaman bir konumdan verilen kararlardır. Bu yüzden harita asla tamamlanmaz; yeni krizler yeni düğümler ekler, eski düğümler yeni biçimlerde geri döner.

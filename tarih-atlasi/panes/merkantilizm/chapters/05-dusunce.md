@@ -43,6 +43,20 @@ Tarihsel etiketler masum değildir. "Merkantilizm" dediğimizde, dağınık bir 
 
 Bu kartın amacı etiketi atmak değil, etiketi elinde çevirmektir. İyi okur, kelimeyi kullanır ama kelimenin kendisini de sorgular.
 
+### Kanıt paketi: etiketi sınama defteri
+
+"Merkantilizm" kelimesini kullanırken her seferinde küçük bir sınama yapmak iyi olur. Çünkü aynı kelime bazen ticaret dengesi yazısını, bazen Colbertçi devlet inşasını, bazen şirket imtiyazını, bazen de geç kalkınma savunusunu anlatır.
+
+| Sınama satırı | Sorulacak soru | Neyi korur? |
+|---|---|---|
+| Yazar konumu | Metni kim yazıyor: tüccar mı, bürokrat mı, tarihçi mi, eleştirmen mi? | Fikrin hangi çıkar alanından konuştuğunu gösterir |
+| Politika aracı | Tarifeden, şirket imtiyazından, sanayi teşvikinden, para düzeninden hangisi tartışılıyor? | Tüm müdahaleleri tek sepete atmayı önler |
+| Zamanlama | Ülke yükselen güç mü, geriden gelen güç mü, savaş baskısında mı? | Aynı aracın farklı bağlamda değiştiğini gösterir |
+| Bedel tarafı | Tüketici, köylü, küçük üretici, koloni halkı veya köleleştirilmiş emek nerede? | Ulusal çıkar dilinin sakladığı insan maliyetini açar |
+| Karşı örnek | Bu politika nerede kapasite kurdu, nerede rant ve çürüme üretti? | Korumacılığı otomatik iyi veya kötü saymayı engeller |
+
+Bu defter sayesinde etiket seni yönetmez; sen etiketi ölçülü kullanırsın. Merkantilizm o zaman ezber bir "-izm" değil, güç, korku, öğrenme ve çıkarın karıştığı tarihsel bir alan olur.
+
 ## Smith neden haklıydı, neden eksikti?
 
 Smith'in eleştirisinde güçlü bir taraf var. Serveti yalnızca altın ve gümüş gibi düşünmek gerçekten yanlıştır. Bir halkın gerçek zenginliği, tüketebildiği ve üretebildiği mal ve hizmetlerle ilgilidir. Ayrıca tekel imtiyazları, gümrükler ve şirket ayrıcalıkları çoğu zaman dar grupları zenginleştirip tüketiciyi yoksullaştırabilir.

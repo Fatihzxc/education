@@ -94,6 +94,20 @@ Bu nüans, Mülkiyet kitabının ilerleyen bölümlerinde — özellikle Bölüm
 
 Bu kart İbn Haldun'u daha canlı yapar: Onun teorisinde mülkiyet, yalnız tapu ya da mal değildir; dayanışma, zor, vergi ve meşruiyetle birlikte yürüyen bir güç ilişkisidir.
 
+### Kanıt paketi: mülkü yalnız tapuda arama
+
+İbn Haldun'u mülkiyet kitabında okumak bize önemli bir alışkanlık kazandırır: sahipliği yalnız hukuk belgesinde değil, onu taşıyan güç ilişkilerinde aramak. Bir tarlanın kime ait olduğu sorusu, o tarlayı kimin koruduğu, kimden vergi aldığı, hangi hanedanın çözüldüğü ve üreticinin yarına güvenip güvenmediği sorusundan ayrılamaz.
+
+| Kanıt alanı | Bakılacak iz | Ne anlatır? | Karşı soru |
+|---|---|---|---|
+| Asabiyye | Hangi grup birlikte hareket edebiliyor? | Mülkün arkasındaki koruma kapasitesini gösterir | Dayanışma dışarıdakini eziyor mu? |
+| Vergi | Oran, tahsil yöntemi, keyfilik ve muafiyet | Mülkiyet güvenliğinin gündelik ölçüsünü verir | Devlet gelir ararken üretim isteğini kırıyor mu? |
+| Hanedan döngüsü | Kuruluş, genişleme, lüksleşme, çözülme | Mülkün zaman içinde nasıl biçim değiştirdiğini gösterir | Döngü kader mi, kurumlarla yavaşlatılabilir mi? |
+| Mahkeme ve kayıt | Miras, satış, vakıf, borç ve kadın mülkiyeti kayıtları | Soyut teorinin toplumdaki gerçek kullanımını açar | Resmi kayıt kayıt dışı gücü saklıyor olabilir mi? |
+| Üretici davranışı | Ekim, saklama, kaçma, yatırım, pazar cesareti | Güvenlik hissinin üretim kararına nasıl indiğini gösterir | Mülk güvenliği yalnız elit için mi çalışıyor? |
+
+Bu paketi küçük bir defter gibi kullan: "mülk" gördüğünde yanına üç kelime yaz, **koruma**, **vergi**, **güven**. Bu üçü aynı anda değişiyorsa, mülkiyet de değişiyordur.
+
 ## 3.7 İbn Haldun'un teorik konumu
 
 İbn Haldun'un mülkiyet konusundaki konumu, Aristoteles, Aquinas, Locke gibi düşünürlerden bir önemli noktada ayrılır: o, mülkiyetin *meşruiyet*'i sorusunu doğrudan ele almaz. Aristoteles "özel mülkiyet doğaldır" der; Aquinas "mülkiyet doğal hukuka uygundur" der; Locke "mülkiyet emeğin meyvesidir" der. Hepsi bir *normatif* argüman geliştirir.

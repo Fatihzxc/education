@@ -26,6 +26,20 @@ Kamunun gözüne bakarken her metin türü bize başka bir şey verir:
 
 Bu harita ufku açar çünkü "kaynak" dediğimiz şeyin tek tür olmadığını gösterir. Bazen bir fiyat defteri, bazen bir roman, bazen bir şikâyet metni bize dönemin başka bir yüzünü açar.
 
+### Kanıt paketi: duygu ile kayıt birlikte okunur
+
+Kamunun gözüne bakarken iki şeyi aynı anda tutmak gerekir: bir metnin hissettirdiği dünya ve arşivin gösterdiği maddi düzen. Roman tek başına kanıt değildir; gümrük defteri de tek başına ruh halini anlatmaz. İkisi yan yana geldiğinde dönem daha canlı görünür.
+
+| Kaynak | Sorduğu soru | Tek başına kalırsa riski |
+|---|---|---|
+| Roman veya macera anlatısı | Tüccar, denizci ve uzak dünya nasıl hayal ediliyor? | Sömürge şiddetini serüven gibi yumuşatabilir |
+| Pamflet | Hangi çıkar grubu korkusunu kamu yararı diye anlatıyor? | Abartıyı gerçek durum sanabiliriz |
+| Gazete ve fiyat haberi | Uzak olaylar gündelik beklentiyi nasıl değiştiriyor? | Şehirli ve okuryazar dünyanın sesini herkes sanabiliriz |
+| Seyahatname | Başka toplumlar hangi gözle sınıflandırılıyor? | Sömürgeci bakışı doğal bilgi gibi taşıyabilir |
+| Vergi, gümrük veya şirket kaydı | Duygunun arkasındaki mal, para ve güç akışı ne? | İnsan deneyimini soğuk sayıya indirebilir |
+
+Bu paketin küçük kuralı şudur: Bir anlatı okuduğunda yanında bir kayıt ara; bir kayıt gördüğünde yanında bir insan sesi ara. Merkantilist çağ ancak böyle hem hesap hem hikaye olarak anlaşılır.
+
 ## Defoe ve ticaret insanı
 
 Daniel Defoe bu açıdan çok işe yarar. Defoe yalnızca roman yazarı değil, ticaret, kredi, iflas, proje, denizcilik ve girişim hakkında düşünen bir kamusal yazardı. *Robinson Crusoe* çoğu zaman bireysel hayatta kalma hikâyesi gibi okunur. Ama aynı zamanda ticaret çağının insan tipini taşır: hesap yapan, risk alan, denize açılan, mülk kuran, emeği düzenleyen, dünyayı fırsat alanı gibi gören kişi.^[1]

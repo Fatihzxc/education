@@ -84,6 +84,20 @@ Klasik iktisadı bugün okumanın pratik faydası şudur: Haberleri daha yavaş 
 
 Bu pusula teoriyi gündelik haberle bağlar. Klasik okuma, sayıya bakıp sevinmek ya da korkmakla yetinmez; sayının toplumun farklı katlarına nasıl indiğini sorar.
 
+### Kanıt paketi: klasik mirası bugünkü veriye bağlamak
+
+Klasik iktisadı bugün kullanmanın en iyi yolu, eski isimleri ezberlemek değil, onların sorularını bugünkü veriye sormaktır. Bir grafik gördüğünde arkasında hangi sınıf, hangi mülkiyet ve hangi kurum ilişkisi var diye bak.
+
+| Klasik soru | Bugünkü veri izi | Ne açılır? | Karşı okuma |
+|---|---|---|---|
+| Ücret-kâr-rant nasıl bölüşülüyor? | Emek payı, kâr payı, kira/arsa değeri, servet payı | Büyümenin kime yazıldığını gösterir | Verinin ortalaması sınıf içi farkları saklayabilir |
+| Sermaye birikimi neyi dönüştürüyor? | Yatırım, verimlilik, borç, teknoloji harcaması | Üretim kapasitesi mi, varlık fiyatı mı büyüyor ayrılır | Her yatırım toplumsal refah üretmeyebilir |
+| Ticaret kime avantaj sağlıyor? | İhracat, ithalat, cari açık, sektör istihdamı | Serbest ticaretin tüketici ve üretici etkileri ayrılır | Ucuz fiyat uzun vadeli kapasite kaybını saklayabilir |
+| Rant nerede oluşuyor? | Konut fiyatı, arsa değeri, doğal kaynak geliri, finansal getiri | Üretilen değer ile el koyulan değer ayrılır | Rantı yalnız ahlaki suç gibi görmek mekanizmayı kaçırabilir |
+| Kriz sistemin neresinden çıkıyor? | Borç çevrimi, iflas, işsizlik, fiyat şoku | Krizin tesadüf mü, birikim düzeninin sonucu mu olduğu sorulur | Her krizi tek teoriye uydurma riski vardır |
+
+Bu paket, klasik mirası bugünkü hayatın içine taşır. Smith, Ricardo, Mill ve Marx ancak böyle müze figürü olmaktan çıkar; haberin, bütçenin, kira ilanının ve teknoloji tartışmasının içinde konuşmaya başlar.
+
 ## 12.7 Türkiye'de klasik mirasın bugünü
 
 Türkiye'de iktisat eğitimi 100+ yıldır neoklasik-Keynesyen sentez üzerine kurulu. Bölüm 10'da işlediğimiz Sakızlı Ohannes, Münif Paşa, Mehmed Cavid Bey hattı — Tanzimat sonrası klasik iktisadın Osmanlı'ya geç ve eksik girişi — Cumhuriyet sonrasında bir kanon haline gelmedi; 1930'lar Kadrocular özelliğinde Sovyet planlama modeli, 1950-1980 arası kalkınma iktisadı ve ithal ikamesi, 1980 sonrası Washington Consensus reçeteleri farklı dönemlerde resmi söylemi şekillendirdi. Klasik politik-iktisadi mercekliği bilinçli olarak kullanan akademik damarlar her zaman azınlık oldu.

@@ -95,6 +95,20 @@ Mali-askerî devleti anlamak için "devlet büyüdü" demek yetmez. Devletin bü
 
 Bu tablo sana şunu söylesin: Modern devlet yalnız anayasa metninde değil, vergi makbuzunda ve borç defterinde de kurulur.
 
+### Kanıt paketi: devlet kapasitesini nerede arayacağız?
+
+Mali-askerî devleti anlamak için yalnız kralın iradesine veya anayasa metnine bakmak yetmez. Devletin gerçek kapasitesi, para topladığı, borç bulduğu, asker beslediği ve itirazla karşılaştığı yerlerde görünür.
+
+| Kanıt alanı | Bakılacak iz | Ne anlatır? | Karşı soru |
+|---|---|---|---|
+| Vergi | Kimden, ne sıklıkla, hangi aracıyla toplandı? | Devletin topluma ne kadar düzenli uzandığını gösterir | Yük adil mi, yoksa zayıfa mı bindiriliyor? |
+| Borç | Devlete kim borç verdi, hangi güvenceyle verdi? | Finans çevresi ile devletin bağını açar | Gelecek vergi bugünkü savaşa mı ipotek ediliyor? |
+| Ordu ve donanma | Maaş, iaşe, gemi, kale, mühimmat nasıl sağlandı? | Savaşın gündelik ekonomiyle bağını gösterir | Güvenlik dili hangi şiddeti görünmez kılıyor? |
+| Kamu metni | Gazete, dilekçe, broşür ve şikayet defteri ne söylüyor? | Halkın vergi, ekmek ve temsil duygusunu taşır | Konuşamayanların sessizliği nasıl okunacak? |
+| Devrim anı | Vergi krizi hak diline nasıl bağlandı? | Maddi sıkışmanın fikri nasıl ateşlediğini gösterir | Haklar kimleri kapsamadı? |
+
+Bu paketi kullanırken küçük bir üçgen çiz: bir köşeye savaş, bir köşeye vergi, bir köşeye temsil yaz. Modern devletin birçok krizi bu üçgenin içinde dönüp durur.
+
 ## 7.6 Kamu gözü: dilekçe, gazete, devrim sahnesi
 
 Bu çağda kamusal alan büyür. Gazeteler, broşürler, kahvehaneler, salonlar, dilekçe defterleri ve meclis konuşmaları siyasal fikri daha geniş kitlelere taşır. Ama herkes aynı ölçüde konuşamaz.

@@ -153,6 +153,20 @@ Gournay **kurumsal ayak**tır: salon, çeviri programı, kadro yetiştirme, slog
 
 Bu çerçeveden bakıldığında, Smith'in fizyokratlara verdiği yüksek değer (1764-66 Paris ziyareti; *Wealth of Nations* II.IX, Bölüm 9'da işleyeceğiz) iki katmanlıdır. Smith, Quesnay'in *Tableau*'sundaki dolaşım mantığını takdir eder — Cantillon-Quesnay mirasıdır. Sanayi-sterilliği tezini ise reddeder — burada Gournay'e yakındır. Smith'in fizyokrasiyle ilişkisi salt bir reddediş değil, Cantillon-Gournay gerilimi içinde **Gournay tarafını seçmek** ve oradan klasik iktisadın çerçevesini kurmaktır.
 
+### Öncüller için kanıt paketi: risk, dolaşım, serbestlik
+
+Cantillon ve Gournay'i öğrenirken kolayca "Quesnay'den önce gelen iki isim" diye geçebiliriz. O zaman asıl ders kaçar. Çünkü burada fizyokrasinin doğmadan önce hangi dertlerle mayalandığını görüyoruz: para balonu, ticaret engeli, vergi karmaşası, köylü geçimi ve reformcu bürokrasinin sabırsızlığı. Aşağıdaki paket, bu öncülleri tek tek değil, birbirine bağlanmış bir hazırlık alanı olarak okumaya yardım eder.
+
+| İz | Bakılacak somut şey | Ne gösterir? | Karşı okuma |
+|---|---|---|---|
+| Para ve fiyat izi | Law balonu, para giriş kanalı, fiyatların kime önce dokunduğu | Servetin para stoku değil, üretim ve dolaşım ilişkisi olduğunu gösterir | Parayı "sadece araç" saymak finansal gücü küçümsetebilir |
+| Risk izi | Kira ödeyen çiftçi, belirsiz fiyata mal satan tüccar, girişimci kârı | Girişimcinin kazancı geleceği üstlenme iddiasıyla açıklanır | Risk kimin üzerinde, zarar kime aktarılıyor? |
+| Dolaşım izi | Tahıl, kira, ücret, vergi ve ticaret yollarının akışı | Ekonominin tek tek mallar değil, tekrar eden bir akım olduğunu gösterir | Akış hızlanırken zayıf haneler fiyat şokuna daha açık kalabilir |
+| Serbestlik izi | Lonca, iç gümrük, izin ve geçiş engelleri | Reformcu tüccar ve bürokrat gözünde piyasa tıkanıklığını görünür kılar | Serbestlik tüccarı rahatlatırken köylüyü pahalı ekmekle baş başa bırakabilir |
+| Sessiz taraf izi | Köylü dilekçeleri, ekmek fiyatı, vergi yükü, kırsal borç | Teorinin halk hayatındaki karşılığını aratır | Salonlarda kurulan fikirler taşranın sesini ancak dolaylı duyar |
+
+Mini veri alıştırması şudur: Bir sayfaya beş ok çiz. Para, tahıl, vergi, kira ve ücret hangi yönde akıyor? Sonra her okun yanına "ilk kim rahatlıyor, son kim sıkışıyor?" diye yaz. Cantillon-Gournay dünyası bu küçük çizimde canlanır.
+
 ## 2.11 Sonraki bölüme
 
 Cantillon ve Gournay'in attığı tohumlar — değer-toprak indirgemesi, dolaşım sezgisi, *laissez-faire* sloganı, kadro yetiştirme — 1750'ler sonunda Quesnay'in elinde sistematik bir yapıya kavuşur. Ama o yapının teorik mihveri yalnızca iktisadi değildir; aynı zamanda felsefi, hatta teolojik bir çerçeveye yaslanır: **ordre naturel** — doğal düzen. Fizyokratlar iktisadi yasaların, Newton'un fizik yasaları gibi, doğanın özüne ait olduğunu düşünüyorlardı; ve bu doğal düzeni keşfetmek, sadece bilim değil, neredeyse bir tür dindi.

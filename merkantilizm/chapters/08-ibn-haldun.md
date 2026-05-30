@@ -142,6 +142,19 @@ Beşincisi, **kalkınma ve geri kalma** üzerine genel kuramsal soru — neden b
 
 Bu matris şunu öğretir: İbn Haldun'u büyüten şey, Avrupa'ya ne kadar benzediği değildir. Asıl büyüklüğü, devlet, üretim, şehir ve vergi arasındaki bağı daha disiplinler ayrılmadan önce birlikte görebilmesidir.
 
+### Kanıt paketi: Mukaddime'yi üç defterle oku
+
+İbn Haldun'u bu kitapta doğru yere koymak için onu yalnız "merkantilizmden önce gelen zeki bir iktisatçı" diye okumamak gerekir. Onun asıl gücü, devletin mali iştahını, toplumun dayanışma kapasitesini ve üretimin canlılığını aynı döngü içinde tutmasıdır.
+
+| Defter | Bakılacak iz | Ne öğretir? | Karşı okuma |
+|---|---|---|---|
+| Umrân defteri | Şehir, meslek, pazar, işbölümü, lüks | Ekonominin toplumsal yerleşme biçimiyle büyüdüğünü gösterir | Şehri sadece refah değil, kırılganlık da üretir |
+| Asabiyye defteri | Kabile, hanedan, dayanışma, fetih | Devletin soyut sözleşmeden değil, örgütlü güçten doğduğunu gösterir | Dayanışma içeride güven, dışarıda baskı olabilir |
+| Vergi defteri | Oran, tahsilat, üretim isteği, kaçınma | Mali kapasitenin üretim tabanına bağımlı olduğunu gösterir | Düşük vergi her zaman adalet demek değildir; muafiyetleri de sormak gerekir |
+| Alımlanma defteri | Osmanlı çevirileri, Avrupa'nın geç keşfi, modern iktisat tarihi | Kimin kanona alındığını ve kimin geç duyulduğunu gösterir | İbn Haldun'u sadece Avrupa kanonuna benzediği için değerli sayma |
+
+Bu üç defterle okuduğunda Mukaddime, modern iktisada eklenmiş egzotik bir dipnot olmaktan çıkar. Devlet, toplum ve üretim arasındaki bağın başka bir kurucu dili haline gelir.
+
 ## Dört kontrol sorusu
 
 - **Kök sebep:** İbn Haldun bölümü, devletin yükseliş ve çöküşünü vergi, emek, şehir ve asabiyye ilişkisiyle açıklayan dışarıdan bir bakış sunduğu için merkantilizm kitabında özel yer tutar.
