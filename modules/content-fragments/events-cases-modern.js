@@ -92,6 +92,99 @@
     { id: `evt-2007-reinert-how-rich`, year: 2007, country: `Norveç`, title: `Reinert - How Rich Countries Got Rich`, summary: { intro: `Reinert, zenginleşmenin tarımsal hammadde satmaktan değil, artan getirili sanayi ve bilgi üretiminden geçtiğini savunarak merkantilist geleneği yeniden değerlendirir.`, intermediate: `Reinert'in temel ayrımı şudur: Her ekonomik faaliyet aynı öğrenme ve verimlilik etkisini üretmez. Ham madde satışı çoğu zaman sınırlı değer yaratır; sanayi ise beceri, teknoloji, tedarik zinciri, kentleşme ve kurum kapasitesi biriktirir. Bu yüzden eski merkantilistlerin sanayi ısrarı ona göre kör korumacılık değil, kalkınmanın tarihsel sezgisidir.`, advanced: `Karşı okuma Reinert'in sanayiyi bazen fazla merkezileştirebileceğini söyler; hizmetler, kurum kalitesi ve çevresel sınırlar da önemlidir. Yine de onun güçlü tarafı şudur: "Piyasa hangi faaliyeti seçerse seçsin yeter" fikrini sorgular. Okur için ders, ülkenin ne ürettiğinin, nasıl öğrendiğinin ve hangi faaliyetlerde verimlilik biriktirdiğinin kalkınma için belirleyici olduğudur.` }, conceptRefs: [`erik-reinert`, `antonio-serra`, `protectionism`] }
   ];
 
+  function plain(value) {
+    return String(value || '').replace(/[*_`]/g, '').replace(/\s+/g, ' ').trim();
+  }
+
+  function hasConcept(event, ids) {
+    const refs = event.conceptRefs || [];
+    return ids.some(id => refs.includes(id));
+  }
+
+  function titleHas(event, pattern) {
+    return pattern.test(event.title || '');
+  }
+
+  function buildEventLens(event) {
+    const root = `Bu olayın kök düğümü şudur: ${plain(event.summary && event.summary.intro)}`;
+
+    if (hasConcept(event, [
+      'iasecilik', 'fiskalizm', 'gelenekcilik', 'kapitulasyonlar', 'ihtisab-narh',
+      'men-i-ihracat', 'iltizam-malikane', 'timar', 'mehmet-genc', 'halil-inalcik',
+      'sevket-pamuk'
+    ]) || /Osmanlı|Türkiye/.test(event.country || '')) {
+      return {
+        root,
+        dominant: `Merkezî devlet açısından ${event.title}, düzeni, iaşeyi, vergi gelirini veya askeri kapasiteyi ayakta tutma çabasının parçasıdır.`,
+        counter: `Karşı okuma yerel halkı, üreticiyi, tüccarı ve dış baskıyı çağırır; devlet dengesi her zaman toplum dengesi anlamına gelmez.`,
+        publicEye: `Bu olay sıradan insana çoğu zaman vergi, fiyat, askerlik, pazar kuralı, geçim kaygısı veya güvenlik arayışı olarak iner.`,
+        control: `Merkezin makul gördüğü çözüm, taşrada ve pazarda kimin hayatını kolaylaştırıyor, kimin yükünü artırıyor?`
+      };
+    }
+
+    if (hasConcept(event, [
+      'chartered-companies', 'east-india-company', 'navigation-acts', 'calico-acts',
+      'asiento-de-negros', 'triangular-trade'
+    ]) || titleHas(event, /Kolomb|Tordesillas|Potosi|VOC|Company|Asiento|Code Noir|Calico|Navigation|Hudson|African/i)) {
+      return {
+        root,
+        dominant: `Metropol devlet ve şirket çevresi için ${event.title}, uzak ticareti, tekel hakkını ve deniz gücünü kazanca çevirme fırsatı gibi görünür.`,
+        counter: `Sömürge halkları, zorla çalıştırılan emek ve yerel üreticiler açısından aynı olay kâr değil, dışarıdan kurulan denetim ve şiddet demektir.`,
+        publicEye: `Liman kentinde iş ve mal bolluğu görünürken, uzak coğrafyada vergi, zor emek, pazar kaybı veya toprak denetimi kaybı yaşanabilir.`,
+        control: `Bu olayın kazanç hanesine yazılan şey, hangi insan ve bölge için kayıp hanesine yazılıyor?`
+      };
+    }
+
+    if (hasConcept(event, [
+      'bullionism', 'balance-of-trade', 'public-credit', 'low-interest-policy',
+      'south-sea-bubble', 'john-law'
+    ]) || titleHas(event, /Bank|Bubble|gümüş|akçe|deval|borç|kredi/i)) {
+      return {
+        root,
+        dominant: `Mali devlet, banker ve tüccar gözüyle ${event.title}, ödeme gücü, kredi, para güveni veya savaş finansmanı sorununa cevap arar.`,
+        counter: `Karşı okuma, para ve kredi çözümünün üretim gücü, fiyatlar ve toplumsal yükler olmadan eksik kalacağını hatırlatır.`,
+        publicEye: `Bu olay halkın hayatına çoğu zaman fiyat artışı, vergi, borç, iş imkanı, tasarruf kaybı veya para güveni olarak yansır.`,
+        control: `Finansal araç gerçekten üretken kapasite mi kuruyor, yoksa bugünkü krizi geleceğe ve halka mı taşıyor?`
+      };
+    }
+
+    if (hasConcept(event, [
+      'protectionism', 'free-trade', 'comparative-advantage', 'import-substitution',
+      'manufactures-royales', 'populationism', 'friedrich-list', 'ha-joon-chang',
+      'erik-reinert', 'antonio-serra'
+    ])) {
+      return {
+        root,
+        dominant: `Kalkınma ve ticaret politikası açısından ${event.title}, üretim kapasitesini, pazar erişimini veya ulusal öğrenmeyi düzenleme girişimidir.`,
+        counter: `Karşı fikir, koruma ya da serbestleşmenin maliyetini sorar: pahalı mal, verimsiz ayrıcalık, iş kaybı veya dış bağımlılık doğabilir.`,
+        publicEye: `İşçi, tüketici, üretici ve vergi mükellefi aynı politikayı farklı yaşar; biri iş görürken öteki fiyat veya rekabet baskısı hissedebilir.`,
+        control: `Bu politika gerçekten öğrenme ve üretkenlik mi doğuruyor, yoksa güçlü gruplara rahat bir alan mı açıyor?`
+      };
+    }
+
+    if (titleHas(event, /Savaşı|Muharebesi|Armada|Antlaşması|Birliği|fethi|Fermanı|yasası|Act/i)) {
+      return {
+        root,
+        dominant: `Devletler ve seçkinler açısından ${event.title}, güvenlik, egemenlik, hukuk veya pazar düzeni kurma hamlesidir.`,
+        counter: `Karşı okuma, büyük siyasi kararın sıradan insan, yerel topluluk ve dışarıda bırakılan taraflar için neye dönüştüğünü sorar.`,
+        publicEye: `Bu olay çoğu zaman savaş yükü, göç, vergi, pazar kuralı, kimlik baskısı veya yeni fırsat olarak gündelik hayata iner.`,
+        control: `Bu olayın resmi anlatısı hangi tarafın sesini büyütüyor, hangi tarafın kaybını sessizleştiriyor?`
+      };
+    }
+
+    return {
+      root,
+      dominant: `Dönemin ana aktörleri için ${event.title}, görünen bir problemi çözme ve kendi konumunu güçlendirme girişimidir.`,
+      counter: `Karşı okuma, olayın yalnız kazanan aktörlerin diliyle değil, dışarıda kalanların deneyimiyle de sınanmasını ister.`,
+      publicEye: `Sıradan insan için bu olay çoğu zaman fiyat, vergi, iş, güvenlik, borç, geçim veya umut gibi somut izler bırakır.`,
+      control: `Bu olayı tek cümlelik dönüm noktası yapmadan önce kimin ne kazandığını ve kimin ne kaybettiğini sorduk mu?`
+    };
+  }
+
+  events.forEach(event => {
+    if (!event.lens) event.lens = buildEventLens(event);
+  });
+
   Array.prototype.push.apply(F.events, events);
 
   // ===========================================================
