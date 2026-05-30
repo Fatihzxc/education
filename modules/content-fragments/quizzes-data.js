@@ -20,7 +20,7 @@
       "Eğitim seviyesi"
     ],
     "correct": 2,
-    "explanation": "Merkantilist düşünceye göre ulusal zenginlik, devletin hazinesindeki altın ve gümüş miktarıyla ölçülürdü. Bu görüşe 'külçecilik' (bullionism) denir.",
+    "explanation": "Doğru cevap altın ve gümüş stokudur. Erken modern devlet için bu metaller asker ödemek, dış borç çevirmek ve savaşta dayanmak demekti; bu yüzden servet çoğu zaman hazineyle karıştırıldı. Ama Hume ve Smith'in itirazı tam buradan doğar: kasadaki metal üretim gücüne dönüşmüyorsa kalıcı refah yaratmayabilir.",
     "conceptRefs": [
       "bullionism",
       "balance-of-trade"
@@ -53,7 +53,7 @@
       "Hollanda"
     ],
     "correct": 2,
-    "explanation": "Jean-Baptiste Colbert, Louis XIV döneminde Fransa'da maliye nazırıydı. Onun ekonomik sistemine 'Kolbertçilik' (Colbertism) denir.",
+    "explanation": "Colbert Fransa'da, XIV. Louis döneminde maliye nâzırıydı. Onu önemli yapan şey yalnız bakan olması değil; gümrük, kraliyet fabrikaları, kalite denetimi ve donanmayı tek bir devlet gücü projesi gibi düşünmesidir. Bu yüzden Colbertçilik, devlet eliyle sanayi kurma fikrinin klasik örneklerinden biridir.",
     "conceptRefs": [
       "jean-baptiste-colbert"
     ]
@@ -69,7 +69,7 @@
       "1817"
     ],
     "correct": 2,
-    "explanation": "Smith'in ünlü eseri 1776'da yayınlandı. Kitap IV'te merkantilist sistemi sistematik olarak eleştirmiştir.",
+    "explanation": "Smith'in eseri 1776'da yayımlandı. Bu tarih önemli, çünkü aynı yıl Amerikan Bağımsızlık Bildirgesi de geldi: merkantilist sömürge düzeni hem fikir düzeyinde hem siyaset düzeyinde sorgulanıyordu. Smith özellikle Kitap IV'te serveti para ve dış fazla ile ölçen dili eleştirir.",
     "conceptRefs": [
       "adam-smith"
     ]
@@ -85,7 +85,7 @@
       "1615"
     ],
     "correct": 1,
-    "explanation": "VOC (Vereenigde Oostindische Compagnie) 1602'de kuruldu ve dünyanın ilk hissedar şirketi kabul edilir.",
+    "explanation": "VOC 1602'de kuruldu. Onu sadece bir ticaret şirketi gibi düşünme: hisse, gemi, tekel imtiyazı, askeri güç ve sömürge yönetimi aynı kurumda birleşti. Bu yüzden VOC, modern şirket tarihinin başlangıcı kadar, şirket eliyle imparatorluk kurmanın da erken örneğidir.",
     "conceptRefs": [
       "east-india-company"
     ]
@@ -101,7 +101,7 @@
       "Tımar"
     ],
     "correct": 1,
-    "explanation": "Narh, Osmanlı'da devletin belirlediği azami fiyat uygulamasıydı. İaşecilik politikasının bir aracı olarak halkın ucuz mala erişimini sağlardı.",
+    "explanation": "Narh, devletin özellikle temel mallarda koyduğu azami fiyat düzenidir. Mantığı şudur: ekmek, et, mum gibi mallar aşırı pahalanırsa mesele yalnız piyasa değil, şehir huzuru ve geçim güvenliği olur. Bu yüzden narh, Osmanlı iaşeciliğinin pazar yerindeki somut aracıdır.",
     "conceptRefs": [
       "ihtisab-narh",
       "iasecilik"
@@ -118,7 +118,7 @@
       "Jean-Baptiste Colbert"
     ],
     "correct": 1,
-    "explanation": "Montchrestien 1615'te yayınladığı 'Traicté de l'oeconomie politique' eserinde bu terimi ilk kez kullanmıştır.",
+    "explanation": "Montchrestien bu terimi 1615 tarihli eserinin başlığında kullandı. Buradaki kırılma şudur: ekonomi artık yalnız hane idaresi değil, kralın ve devletin yönetmesi gereken ulusal üretim, ticaret ve iş meselesi haline geliyordu.",
     "conceptRefs": [
       "antoine-de-montchrestien"
     ]
@@ -151,7 +151,7 @@
       "İngiltere"
     ],
     "correct": 3,
-    "explanation": "1713 Utrecht Antlaşması ile Asiento hakkı İngiltere'ye verildi. Bu, İngiliz köle ticaretinin yasal temelini oluşturdu.",
+    "explanation": "1713 Utrecht Antlaşması ile Asiento hakkı İngiltere'ye geçti. Bu cevap yalnız diplomatik bir bilgi değil: insan ticareti, devletler arası rekabetin ve şirket kârının resmi sözleşmesine dönüştü. Bu yüzden asiento, merkantilizmin en karanlık yüzlerinden biridir.",
     "conceptRefs": [
       "asiento-de-negros"
     ]
@@ -167,7 +167,7 @@
       "Baharat"
     ],
     "correct": 1,
-    "explanation": "Üçgen ticaretin ikinci ayağında Afrika'dan Amerika'ya köle taşınırdı. İlk aşamada Avrupa→Afrika'ya mamul eşya, son aşamada Amerika→Avrupa'ya hammadde götürülürdü.",
+    "explanation": "İkinci ayakta Afrika'dan Amerika'ya köleleştirilmiş insanlar taşınırdı. Şemayı soğuk bir ticaret rotası gibi değil, zorla koparılan emek üzerine kurulu bir kâr döngüsü gibi okumak gerekir: Avrupa mamulü, Atlantik geçişi ve plantasyon ürünü aynı zincirin parçalarıydı.",
     "conceptRefs": [
       "triangular-trade"
     ]
@@ -183,7 +183,7 @@
       "Nantes Fermanı"
     ],
     "correct": 1,
-    "explanation": "1838 Balta Limanı Anlaşması Osmanlı'yı serbest ticarete zorlamış ve korumacı politikaları sona erdirmiştir.",
+    "explanation": "Doğru cevap Balta Limanı Anlaşması'dır. Bu anlaşma Osmanlı'nın dış ticaret alanındaki hareket alanını daralttı ve İngiliz mamullerine daha açık bir pazar yarattı. Bu yüzden mesele yalnız ticaret hacmi değil; Osmanlı'nın kendi sanayi ve gümrük politikasını belirleme gücünün zayıflamasıdır.",
     "conceptRefs": [
       "kapitulasyonlar",
       "free-trade"
@@ -200,7 +200,7 @@
       "IV. Murad"
     ],
     "correct": 1,
-    "explanation": "İlk Fransız kapitülasyonu 1536'da Kanuni Sultan Süleyman döneminde verildi. Bu, uzun vadede ekonomik sömürgeleşmenin aracı oldu.",
+    "explanation": "İlk Fransız kapitülasyonu Kanuni döneminde verildi. Başlangıçta bu, Osmanlı'nın güçlü olduğu bir anda kullandığı diplomatik ayrıcalık aracıdır. Ama güç dengesi değişince aynı kurum, Avrupa tüccarlarının Osmanlı pazarında daha kalıcı ayrıcalık elde etmesine dönüştü.",
     "conceptRefs": [
       "kapitulasyonlar"
     ]
@@ -249,7 +249,7 @@
       "Protestan reformunun ekonomik büyümeyi engellemesi"
     ],
     "correct": 2,
-    "explanation": "İspanya'nın deneyimi, 'Hollanda hastalığı'nın öncülüdür: kolay kaynak geliri, yerli sanayi gelişimini engeller ve uzun vadede rekabet gücünü yok eder.",
+    "explanation": "Temel sorun kolay kaynak gelirinin üretim kapasitesine dönüşmemesidir. Gümüş geliri savaş ve ithalatı finanse etti; ama yerli sanayi, mali kurumlar ve beceri birikimi aynı ölçüde gelişmedi. Bu yüzden İspanya'nın hikayesi, kaynak bolluğunun refah garantisi olmadığını gösterir.",
     "conceptRefs": [
       "bullionism"
     ]
@@ -397,7 +397,7 @@
       "İngiliz-Hint ticaretinin serbestleşmesini tetikledi"
     ],
     "correct": 1,
-    "explanation": "Calico Acts, Hint pamuklu kumaşlarını yasaklayarak yerel el dokumacılığını çökertti. Bu, sömürgeci deindustrialization'un klasik bir örneğidir.",
+    "explanation": "Calico Acts, İngiliz pazarını Hint pamuklularına kapatarak İngiliz tekstiline öğrenme alanı açtı. Ama aynı hamle Hint dokumacısı için pazar kaybı ve zamanla sanayisizleşme demekti. Bu yüzden burada tek bir 'sanayi devrimi' değil, iki taraflı bir kazanç-kayıp ilişkisi var.",
     "conceptRefs": [
       "calico-acts",
       "protectionism"
@@ -464,7 +464,7 @@
       "Serra matematiksel iktisat modeli kurduğu için"
     ],
     "correct": 1,
-    "explanation": "Reinert, Serra'nın 'sanayi üstünlüğü → artan getiriler → refah' zincirini 1613'te formüle etmesinin, modern kalkınma iktisadının çekirdeğini oluşturduğunu savunur.",
+    "explanation": "Reinert için Serra önemlidir çünkü sanayi ile tarımı aynı tür faaliyet gibi görmez. Sanayi öğrenme, ölçek, beceri ve kentleşme üretir; bu yüzden yoksul ülke yalnız mevcut üstünlüğüne razı olursa zenginleşme merdivenini kuramayabilir. Serra'nın erken sezgisi tam bu kalkınma tartışmasına bağlanır.",
     "conceptRefs": [
       "erik-reinert",
       "antonio-serra"

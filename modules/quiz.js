@@ -20,6 +20,9 @@
       .quiz-option.correct { border-color: var(--success); background: rgba(74, 222, 128, 0.1); }
       .quiz-option.wrong { border-color: var(--accent-secondary); background: rgba(239, 68, 68, 0.1); }
       .quiz-explanation { margin-top: 12px; padding: 12px; background: var(--bg-tertiary); border-left: 3px solid var(--accent); border-radius: var(--radius-sm); font-size: 13px; line-height: 1.6; color: var(--text-secondary); }
+      .quiz-ref-chips { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+      .quiz-ref-chip { display: inline-flex; align-items: center; padding: 4px 9px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; color: var(--text-primary); cursor: pointer; font-size: 11px; }
+      .quiz-ref-chip:hover { border-color: var(--accent); color: var(--accent); }
       .quiz-next, .quiz-restart { padding: 10px 20px; background: var(--accent); color: #000; border: none; border-radius: var(--radius-sm); cursor: pointer; font-weight: 600; margin-top: 12px; }
       .quiz-next:hover, .quiz-restart:hover { background: var(--accent-dim); }
       .quiz-results { padding: 20px; background: var(--bg-card); border-radius: var(--radius-md); text-align: center; }
@@ -38,6 +41,14 @@
       [a[i], a[j]] = [a[j], a[i]];
     }
     return a.slice(0, n);
+  }
+
+  function conceptChips(ids) {
+    return (ids || []).map(cid => {
+      const c = window.CONTENT && window.CONTENT.getConceptById(cid);
+      if (!c) return '';
+      return `<button class="quiz-ref-chip" data-cid="${cid}" type="button">${c.label}</button>`;
+    }).filter(Boolean).join('');
   }
 
   function Quiz() {
@@ -140,10 +151,17 @@
         self.container.querySelectorAll('.quiz-option').forEach(b => b.disabled = true);
         // Show explanation + next
         const exp = self.container.querySelector('#quizExplanation');
+        const chips = conceptChips(q.conceptRefs);
         exp.innerHTML = `
-          <div class="quiz-explanation">${isCorrect ? '✓ Doğru. ' : '✗ Yanlış. '}${q.explanation || ''}</div>
+          <div class="quiz-explanation">${isCorrect ? '✓ Doğru. ' : '✗ Yanlış. '}${q.explanation || ''}${chips ? '<div class="quiz-ref-chips">' + chips + '</div>' : ''}</div>
           <button class="quiz-next" id="quizNext">${s.current < s.questions.length - 1 ? 'Sonraki →' : 'Sonuçları gör'}</button>
         `;
+        exp.querySelectorAll('.quiz-ref-chip').forEach(chip => {
+          chip.addEventListener('click', () => {
+            const c = window.CONTENT && window.CONTENT.getConceptById(chip.dataset.cid);
+            if (c && typeof window.showDeepDive === 'function') window.showDeepDive(c);
+          });
+        });
         exp.querySelector('#quizNext').addEventListener('click', () => {
           s.current++;
           self.renderQuestion();
