@@ -141,6 +141,13 @@
     {
       id: "david-hume",
       label: "David Hume",
+      lens: {
+        root: "Merkantilist devletler kalıcı dış fazla ve külçe birikimi ararken Hume, para akışının fiyatları nasıl geri teptirdiğini açıklamak istedi.",
+        dominant: "Hume'un gözüyle ekonomi, paniğe kapılmadan mekanizma kurarak anlaşılabilir: altın girer, fiyat yükselir, denge geri gelir.",
+        counter: "Karşı okuma, otomatik denge fikrinin çıkar gruplarını, savaş baskısını ve sömürge zorunu yeterince açıklamadığını söyler.",
+        publicEye: "Fiyat artışı esnaf, ücretli ve çiftçi için soyut denge değil; satın alma gücü ve geçim baskısı demektir.",
+        control: "Bir mekanizma teorik olarak doğruysa, devletler ve çıkar grupları neden ona uygun davranmaz?"
+      },
       fullName: "David Hume (1711-1776)",
       category: "karsit",
       era: "18. yüzyıl",
@@ -186,6 +193,13 @@
     {
       id: "francois-quesnay",
       label: "François Quesnay",
+      lens: {
+        root: "Fransa'da tarım, rant, vergi adaletsizliği ve ağır devlet müdahalesi birbirine düğümlenmişti; fizyokrasi bu düğüme düzen aradı.",
+        dominant: "Quesnay için toprak, toplumun gerçek fazla üreten kaynağıdır; ekonomi bir beden gibi akışlarla yaşar.",
+        counter: "Colbertçi ve Smithçi karşı okuma, sanayi ve ticaretin üretkenliğini küçümsemenin büyük bir hata olduğunu söyler.",
+        publicEye: "Köylü için mesele net ürün değil, kira, vergi, hasat ve ekmek fiyatıdır; fizyokrat düzen bu yükleri gerçekten hafifletiyor mu diye bakmak gerekir.",
+        control: "Toprağı merkeze almak dönemin Fransa'sını anlamak mı, yoksa sanayi çağını kaçırmak mı?"
+      },
       fullName: "François Quesnay (1694-1774)",
       category: "karsit",
       era: "18. yüzyıl",
@@ -228,6 +242,13 @@
     {
       id: "adam-smith",
       label: "Adam Smith",
+      lens: {
+        root: "Ticaret tekelleri, loncalar, sömürge maliyeti ve imtiyazlı şirketler zenginlik diliyle savunuluyordu; Smith bu dili ters çevirdi.",
+        dominant: "Smith'in güçlü bakışı, refahı devletin tuttuğu külçede değil, emeğin verimliliği, iş bölümü ve rekabette arar.",
+        counter: "Magnusson ve kalkınmacı tarihçiler, Smith'in merkantilizmi fazla tek parça gösterdiğini ve geç sanayileşen ülkelerin koruma ihtiyacını küçümsediğini söyler.",
+        publicEye: "Tüketici için daha ucuz mal umudu, işçi için disiplinli fabrika düzeni, sömürge halkları için ise imparatorluk maliyetinin başka yüzü vardı.",
+        control: "Smith ayrıcalıkları mı eleştiriyor, yoksa sanayide güçlenmiş Britanya'nın artık daha açık pazar istemesini mi meşrulaştırıyor?"
+      },
       fullName: "Adam Smith (1723-1790)",
       category: "karsit",
       era: "18. yüzyıl",
@@ -440,6 +461,13 @@
     {
       id: "bullionism",
       label: "Bullionism (Külçecilik)",
+      lens: {
+        root: "Savaş, borç ve uluslararası ödeme dünyasında altın-gümüş devlet için en görünür güvenlik yastığı gibi görünüyordu.",
+        dominant: "Erken modern yönetici için hazine doluysa asker ödenir, dış borç çevrilir ve devlet daha güvenli görünür.",
+        counter: "Salamanca, Bodin ve Hume çizgisi metalin tek başına servet değil; fiyat, üretim ve güven ilişkisi olduğunu gösterir.",
+        publicEye: "Maden halkları için zor emek, şehirli tüketici için fiyat artışı, üretici için rekabet kaybı doğabilir.",
+        control: "Bir şey kasada durduğu için zenginlik midir, yoksa üretim kapasitesine dönüşmediğinde sadece ağır bir yanılsama mı?"
+      },
       category: "policy",
       era: "15-18. yüzyıl",
       depth: {
@@ -461,6 +489,13 @@
     {
       id: "balance-of-trade",
       label: "Ticaret Dengesi (Balance of Trade)",
+      lens: {
+        root: "Devletler dış ticareti yalnız mal alışverişi değil, para, gemi, istihdam ve savaş kapasitesi meselesi olarak görmeye başladı.",
+        dominant: "Mun çizgisi için toplam fazla, ulusal gücün hesabını tutan pratik bir pusuladır.",
+        counter: "Hume ve Smith, fazla hedefinin fiyat mekanizması ve karşılıklı kazanç fikriyle kendi sınırına çarptığını savunur.",
+        publicEye: "İhracatçı için teşvik, ithalatçı için engel, tüketici için fiyat, sömürge üreticisi için zorunlu pazar anlamına gelebilir.",
+        control: "Ticaret dengesi bir sağlık göstergesi mi, yoksa yanlış hedefe dönüşünce ekonomiyi daraltan bir takıntı mı?"
+      },
       category: "policy",
       era: "17-18. yüzyıl",
       depth: {
@@ -482,6 +517,13 @@
     {
       id: "protectionism",
       label: "Korumacılık (Protectionism)",
+      lens: {
+        root: "Güçlü dış üretici karşısında yeni veya stratejik yerli üretimin ezilmemesi için devlet kapı eşiğini yükseltmek ister.",
+        dominant: "Kalkınmacı bakış için koruma, öğrenme zamanı ve sanayi hafızası kazandıran geçici bir kalkan olabilir.",
+        counter: "Liberal ve tüketici odaklı karşı fikir, korumanın pahalı mal, verimsiz şirket ve çıkar koalisyonu üretebileceğini söyler.",
+        publicEye: "İşçi için fabrika güvencesi, tüketici için yüksek fiyat, küçük girişimci için bazen fırsat bazen kapalı pazar demektir.",
+        control: "Koruma gerçekten öğrenme ve verimlilik doğuruyor mu, yoksa sadece güçlü gruplara süre uzatımı mı veriyor?"
+      },
       category: "policy",
       era: "17-19. yüzyıl + 21. yüzyıl",
       depth: {
@@ -757,6 +799,13 @@
     {
       id: "comparative-advantage",
       label: "Karşılaştırmalı Üstünlük",
+      lens: {
+        root: "Merkantilist sıfır-toplam düşünceye karşı Ricardo, farklı ülkelerin uzmanlaşarak birlikte kazanabileceğini göstermek istedi.",
+        dominant: "Serbest ticaret savunucusu için teori, herkesin göreli güçlü olduğu alana yönelmesini sağlayan zarif bir kazanç mantığıdır.",
+        counter: "List, Chang ve Reinert çizgisi, mevcut üstünlüğün tarihsel olarak kurulmuş olabileceğini ve öğrenme sürecini kilitleyebileceğini söyler.",
+        publicEye: "Ucuz ithalat tüketiciyi rahatlatabilir; ama kapanan atölye ve sanayi öğrenmesinin kaybı başka bir toplumsal fatura çıkarır.",
+        control: "Bugünkü üstünlüğe uymak mı doğru, yoksa yarının üstünlüğünü kurmak için bugünkü modele direnmek mi?"
+      },
       category: "karsit",
       era: "19-21. yüzyıl",
       depth: {
@@ -778,6 +827,13 @@
     {
       id: "free-trade",
       label: "Serbest Ticaret (Free Trade)",
+      lens: {
+        root: "Ticaret tekelleri, tarifeler ve lonca ayrıcalıkları fiyatları yükseltiyor ve rekabeti boğuyor diye görüldü.",
+        dominant: "Liberal bakış için serbest ticaret, tüketiciyi rahatlatan, verimliliği artıran ve ülkeleri karşılıklı kazanca açan düzendir.",
+        counter: "Kalkınmacı karşı okuma, serbest ticaretin güçlü sanayi ülkeleri için adil, geç kalan ülkeler için kilitleyici olabileceğini söyler.",
+        publicEye: "Ucuz mal hane bütçesini rahatlatır; ama yerli üretici ve işçi için ani rekabet geçim krizine dönüşebilir.",
+        control: "Serbest ticaret aynı anda hem özgürleştirici hem eşitsizliği sabitleyici olabilir mi?"
+      },
       category: "karsit",
       era: "19-21. yüzyıl",
       depth: {

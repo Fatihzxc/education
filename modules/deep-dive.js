@@ -18,6 +18,12 @@
       .deep-dive__content .layer-label.intermediate { background: rgba(251,191,36,0.2); color: var(--depth-2); }
       .deep-dive__content .layer-label.advanced { background: rgba(239,68,68,0.2); color: var(--depth-3); }
       .deep-dive__content p { color: var(--text-primary); line-height: 1.6; font-size: 13px; margin: 0; }
+      .deep-dive__lens { margin: 0 0 10px; padding: 10px; background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: 4px; }
+      .deep-dive__lens-title { color: var(--text-primary); font-size: 12px; font-weight: 700; margin-bottom: 8px; }
+      .deep-dive__lens-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 7px; }
+      .deep-dive__lens-item { padding: 8px; background: var(--bg-card); border-left: 3px solid var(--accent); border-radius: 4px; }
+      .deep-dive__lens-item b { display: block; color: var(--text-muted); font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+      .deep-dive__lens-item span { display: block; color: var(--text-primary); font-size: 12px; line-height: 1.5; }
       .deep-dive__trigger { margin-top: 10px; padding: 10px; background: var(--bg-tertiary); border-left: 3px solid var(--warning); border-radius: 4px; font-style: italic; font-size: 12px; color: var(--text-secondary); }
       .deep-dive__related .rel-chip { display: inline-block; padding: 3px 9px; margin: 2px; font-size: 11px; background: var(--bg-tertiary); border-radius: 12px; color: var(--text-secondary); cursor: pointer; transition: background 150ms; }
       .deep-dive__related .rel-chip:hover { background: var(--accent); color: #000; }
@@ -122,9 +128,29 @@
     if (item) window.showDeepDive(item);
   }
 
+  function renderLens(lens) {
+    if (!lens) return '';
+    const rows = [
+      ['Kök sebep', lens.root],
+      ['Baskın bakış', lens.dominant],
+      ['Karşı fikir', lens.counter],
+      ['Halkta görünüm', lens.publicEye],
+      ['Kontrol sorusu', lens.control]
+    ].filter(row => row[1]);
+    if (!rows.length) return '';
+    return `
+      <div class="deep-dive__lens" aria-label="Okuma merceği">
+        <div class="deep-dive__lens-title">Okuma merceği</div>
+        <div class="deep-dive__lens-grid">
+          ${rows.map(row => `<div class="deep-dive__lens-item"><b>${escapeHtml(row[0])}</b><span>${escapeHtml(row[1])}</span></div>`).join('')}
+        </div>
+      </div>
+    `;
+  }
+
   function renderConcept(item, depth) {
     const d = item.depth || {};
-    let html = '';
+    let html = renderLens(item.lens);
     if (d.intro && depth >= 1) html += `<div class="layer depth-1"><span class="layer-label intro">🌱 Giriş</span><p>${d.intro}</p></div>`;
     if (d.intermediate && depth >= 2) html += `<div class="layer depth-2"><span class="layer-label intermediate">🌳 Orta</span><p>${d.intermediate}</p></div>`;
     if (d.advanced && depth >= 3) html += `<div class="layer depth-3"><span class="layer-label advanced">🌲 İleri</span><p>${d.advanced}</p></div>`;
@@ -133,7 +159,7 @@
   }
 
   function renderEvent(item, depth) {
-    let html = `<div class="layer"><p><strong>${item.year}</strong> — ${item.country || ''}</p></div>`;
+    let html = renderLens(item.lens) + `<div class="layer"><p><strong>${item.year}</strong> — ${item.country || ''}</p></div>`;
     const s = item.summary || {};
     if (s.intro) html += `<div class="layer depth-1"><span class="layer-label intro">🌱 Özet</span><p>${s.intro}</p></div>`;
     if (s.intermediate && depth >= 2) html += `<div class="layer depth-2"><span class="layer-label intermediate">🌳 Orta</span><p>${s.intermediate}</p></div>`;

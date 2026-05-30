@@ -12,6 +12,13 @@
   {
     "id": "ibn-haldun",
     "label": "İbn Haldun",
+    "lens": {
+      "root": "Sürekli kurulan ve çözülen devletler, vergi baskısı, şehir refahı ve toplumsal dayanışma aynı açıklama içinde anlaşılmak isteniyordu.",
+      "dominant": "İbn Haldun'un bakışı, tarihi ibret hikayesi olmaktan çıkarıp toplumun nasıl örgütlendiğini açıklayan bir ilme çevirmeye çalışır.",
+      "counter": "Karşı okuma, onu doğrudan modern iktisatçıya çevirmeden; bağlamını, dini-siyasi dünyasını ve Avrupa'ya geç etki etmesini birlikte düşünmemizi ister.",
+      "publicEye": "Köylü ve şehir esnafı için vergi artışı teori değil; üretme isteği, güven ve geçim hesabı meselesidir.",
+      "control": "Bir fikir erken söylenmişse ama kurumsal dolaşıma girmemişse, tarihteki ağırlığını nasıl ölçeriz?"
+    },
     "fullName": "Veliyüddin Ebû Zeyd Abdurrahman bin Muhammed bin Haldun el-Hadramî",
     "lifespan": "1332-1406",
     "birthplace": "Tunus",
@@ -327,6 +334,13 @@
   {
     "id": "mehmet-genc",
     "label": "Mehmet Genç",
+    "lens": {
+      "root": "Osmanlı iktisadını Batı merkantilizminin eksik kopyası gibi görmek yetmiyordu; kendi iç mantığını açıklayan bir çerçeve gerekiyordu.",
+      "dominant": "Genç'in bakışı, Osmanlı'yı başarısız merkantilist değil; iaşecilik, fiskalizm ve gelenekçilikle çalışan farklı bir düzen olarak okur.",
+      "counter": "Pamuk ve Quataert gibi okumalar, geç dönem dönüşüm, dış baskı ve dünya ekonomisine entegrasyonun daha hareketli açıklamalarını öne çıkarır.",
+      "publicEye": "Merkez için düzen olan şey, şehirli tüketiciye ucuz mal; üreticiye ve ihracatçıya sınırlı pazar olarak yansıyabilir.",
+      "control": "Bir sistemi kendi mantığı içinde anlamak, onun uzun vadeli bedellerini görmeyi engelliyor mu?"
+    },
     "fullName": "Mehmet Genç (1934-2021)",
     "career": "İktisat tarihçisi; İstanbul Üniversitesi; *Devlet ve Ekonomi* yazarı",
     "category": "modern-historian",
@@ -470,6 +484,13 @@
   {
     "id": "iasecilik",
     "label": "İaşecilik (Provisionism)",
+    "lens": {
+      "root": "Büyük şehirleri, orduyu ve toplumsal huzuru beslemek Osmanlı için dış ticaret fazlasından daha acil bir meseleydi.",
+      "dominant": "Merkez bürokrasisi ve şehirli tüketici için iaşecilik, temel malların bol ve erişilebilir kalmasını sağlayan koruyucu akıldı.",
+      "counter": "Üretici, tüccar ve sanayileşme açısından aynı düzen sermaye birikimini ve dış pazara açılmayı sınırlamış olabilir.",
+      "publicEye": "İstanbullu için ucuz ekmek huzur demektir; taşra üreticisi için düşük fiyat ve ihracat kısıtı anlamına gelebilir.",
+      "control": "Kısa vadede geçimi koruyan bir politika, uzun vadede üretim gücünü sınırlıyorsa nasıl değerlendirilir?"
+    },
     "category": "ottoman-concept",
     "era": "15-19. yüzyıl",
     "depth": {
@@ -522,6 +543,13 @@
   {
     "id": "fiskalizm",
     "label": "Fiskalizm",
+    "lens": {
+      "root": "Ordu, saray ve idare sürekli para ister; hazineyi dolu tutmak devletin ayakta kalma şartı gibi görünür.",
+      "dominant": "Osmanlı mali aklı için vergi geliri, üretken yatırım fonundan çok devletin işleyiş giderini karşılayan zorunlu kaynaktır.",
+      "counter": "Modern kalkınmacı okuma, bu gelirin sanayi ve mali kurum inşasına dönüşmemesinin uzun vadeli kapasite kaybı yarattığını söyler.",
+      "publicEye": "Köylü ve esnaf için fiskalizm, çoğu zaman vergi tahsildarı, iltizam baskısı ve geçim hesabında daralma olarak hissedilir.",
+      "control": "Hazineyi kurtaran bir gelir yöntemi toplumun üretme gücünü zayıflatıyorsa gerçekten mali başarı sayılır mı?"
+    },
     "category": "ottoman-concept",
     "era": "15-19. yüzyıl",
     "depth": {

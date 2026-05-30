@@ -316,6 +316,13 @@
     {
       id: 'thomas-mun',
       label: 'Thomas Mun',
+      lens: {
+        root: 'İngiltere dış ticarette Hollanda, İspanya ve Doğu Hindistan ticaretiyle yarışırken servetin nasıl ölçüleceğini yeniden düşünmek zorundaydı.',
+        dominant: 'Mun ve şirket çevresi için külçenin dışarı çıkması tek başına kayıp değildi; daha büyük ticari çevrim sonunda fazla bırakıyorsa rasyoneldi.',
+        counter: 'Malynes çizgisi para çıkışını tehlike sayar; Smith-Hume çizgisi ise dış fazla hedefinin refahı yanlış yerde aradığını söyler.',
+        publicEye: 'Tüccar için fırsat, tüketici için ithal mal, denizci için iş, sömürge halkları için daha sert şirket düzeni anlamına gelebilirdi.',
+        control: 'Mun ulusal serveti mi açıklıyor, yoksa East India Company gibi güçlü bir grubun çıkarını ulusal çıkar diliyle mi savunuyor?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'thinker',
@@ -353,6 +360,13 @@
     {
       id: 'jean-baptiste-colbert',
       label: 'Jean-Baptiste Colbert',
+      lens: {
+        root: 'Fransa pahalı savaşlar, saray harcamaları ve dış rekabet içinde yerli imalat ve donanma kapasitesi kurmak istiyordu.',
+        dominant: 'Kraliyet bürokrasisi için Colbertizm, dağınık üretimi disipline edip devleti daha zengin ve güçlü yapacak akıllı bir düzenlemedir.',
+        counter: 'Smithçi eleştiri, Huguenot zanaatkâr, köylü ve lonca dışı girişimci açısından bu düzen ayrıcalık, vergi yükü ve katılık üretebilir.',
+        publicEye: 'Kalite standardı bazı zanaatkâra güven verirken, vergi ve zorunlu düzenleme köylü ve küçük üreticiye ağır gelebilirdi.',
+        control: 'Devletin sanayi kurması hangi noktada toplumsal kapasite, hangi noktada ayrıcalıklı üretici ve saray projesi olur?'
+      },
       category: 'classic-mercantilist',
       categoryLabel: 'Klasik Batı merkantilisti',
       type: 'statesman',
