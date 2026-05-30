@@ -1,14 +1,14 @@
 # Tema Yol Haritası — Education Repo Genişlemesi
 
 **Tarih:** 2026-05-24
-**Son güncelleme:** 2026-05-26 — Altıncı kitap **Klasik İktisat** iskeletten paralel-ajan ilk geçişine alındı (12 bölüm, hedef ~37K kelime). Fizyokrasi'nin (45.8K) ikinci tur entegrasyonu önceki turda tamamlandı.
-**Bağlam:** Beş kitap commit'lenmiş durumda (Merkantilizm, Fizyokrasi, Değer, Mülkiyet, Egemenlik). Altıncı kitap **Klasik İktisat** yazımda. Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
+**Son güncelleme:** 2026-05-30 — **Fizyokratik Düşünce**, **Klasik İktisat** ve **Para, Borç ve Finans** kitapları ana katalogda tamamlandı olarak işaretlendi.
+**Bağlam:** Yedi kitap tamamlandı olarak işaretli (Merkantilizm, Fizyokrasi, Klasik İktisat, Değer, Mülkiyet, Egemenlik, Para-Borç-Finans). Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
 
 ---
 
-## 🚧 Aktif kitap — Klasik İktisat (yazımda, ilk paralel-ajan geçişi)
+## ✅ Tamamlanan kitap — Klasik İktisat
 
-**Slug:** `klasik-iktisat/` · **Alt başlık:** Smith'ten Mill'e, Marx'a ve marjinal devrime · **Durum:** 12/12 draft (paralel-ajan ilk geçişi) · **Toplam:** ~42.7K kelime (hedef ~37K aşıldı) · **Sıra:** theme-registry'de 3. konum (kronolojik bloğun tamamlayıcısı: merkantilizm → fizyokrasi → klasik).
+**Slug:** `klasik-iktisat/` · **Alt başlık:** Smith'ten Mill'e, Marx'a ve marjinal devrime · **Durum:** 12/12 completed · **Toplam:** ~42.7K kelime (hedef ~37K aşıldı) · **Sıra:** theme-registry'de 3. konum (kronolojik bloğun tamamlayıcısı: merkantilizm → fizyokrasi → klasik).
 
 ### Tasarım kararları
 
@@ -39,7 +39,7 @@ Klasik döneme ait birincil kaynakların büyük bölümü `C:\Users\Fatih\githu
 
 ## ✅ Tamamlanan kitap — Fizyokratik Düşünce (önceki tur)
 
-**Slug:** `fizyokrasi/` · **Alt başlık:** Cantillon'dan Henry George'a · **Durum:** 12/12 draft (paralel-ajan ilk geçişi + kök-sebep/sınıf-analizi doc entegrasyonu) · **Toplam:** ~45.8K kelime · **Sıra:** theme-registry'de 2. konum (merkantilizm'in halefi olarak).
+**Slug:** `fizyokrasi/` · **Alt başlık:** Cantillon'dan Henry George'a · **Durum:** 12/12 completed · **Toplam:** ~45.8K kelime · **Sıra:** theme-registry'de 2. konum (merkantilizm'in halefi olarak).
 
 ### İkinci tur entegrasyon (2026-05-26)
 
@@ -228,37 +228,37 @@ Bunlar 2026-05-24 tarihli education-expansion spec'in 5. bölümünde "öneri s�
 
 Bunlar spec'te yok ama yazılmış 4 kitabın bir kavramsal eksiğini doldurur. Değer/Mülkiyet/Egemenlik üçlüsünü genişletir.
 
-### 4. Para'nın tarihi
-**Alt başlık:** Aristoteles'ten kriptoya — değişim, ölçü, depo
+### 4. Para'nın tarihi → Para, Borç ve Finans
+**Alt başlık:** Güvenin, zamanın ve krizin tarihi
 
-**Neden?** Değer kitabının pratik aracı. Aristoteles'in para tanımıyla başlıyor, Bitcoin'le bitiyor.
+**Durum:** 2026-05-30 itibarıyla `para-borc-finans/` altında 12/12 completed kitap. Sadece para tarihini değil; borç, faiz, bankacılık, kamu kredisi, finansallaşma, kriz ve dijital para tartışmalarını aynı güven-zaman hattında birleştiriyor.
 
 **12-bölüm yayı:**
-1. Niye "para"? — para nedir, üç işlev tartışması
-2. Aristoteles — *Politika* I.9-10, paranın "doğal olmayan" doğuşu, *khrematistike*
-3. Roma sikkesi + denarius istikrarsızlığı
-4. İslam'da riba — Kuran/hadis + dört mezhep + İbn Teymiyye
-5. Osmanlı parası — akçe → kuruş → tagşiş (Pamuk)
-6. Bodin + para fazlalığı tezi (16. yy fiyat devrimi)
-7. Hume + para miktar teorisi
-8. Marx + para = fetişizmin yoğun biçimi (*Capital* Vol I, Ch 2-3)
-9. Wicksell + Keynes — faiz ve para
-10. Friedman + monetarizm
-11. 1971 Bretton Woods sonu → fiat çağı
-12. Bitcoin, CBDC, stablecoin — para tanımı yine tartışmalı
+1. Niye para, borç ve finans? — güven, zaman ve ödeme vaadi
+2. Paranın en basit hali — ölçü, değişim aracı, değer saklama ve güven
+3. Borç: geleceğin bugüne bağlanması — söz, kayıt, teminat ve iktidar ilişkisi
+4. Faiz: zamanın fiyatı mı? — bekleme bedeli, risk primi ve güç ilişkisi
+5. Antik dünya — sikke, borç affı ve yurttaşlık
+6. Din, ahlak ve riba — meşru kazanç ile sömürü sınırı
+7. Erken modern para ve devlet kredisi — savaş, hazine, kamu borcu
+8. Bankalar ve merkez bankaları — mevduat, kredi yaratımı, son borç verme mercii
+9. Kapitalizm ve finansallaşma — üretim, rant, varlık fiyatı ve spekülasyon
+10. Krizler: 1929, 1971, 2008 — güven zincirinin kırılması
+11. Osmanlı ve Türkiye hattı — akçe, dış borç, Düyun-u Umumiye, enflasyon
+12. Bugün — kart, konut, kripto, CBDC ve borçlu hayat
 
-**Anchor yazarlar:** Aristoteles, İbn Teymiyye, Bodin, Hume, Marx, Wicksell, Keynes, Friedman, Satoshi
+**Anchor yazarlar:** Aristoteles, Aquinas, İbn Teymiyye, Hume, Marx, Wicksell, Keynes, Minsky, Graeber, Pamuk, Satoshi
 
 **kb-mcp kaynak durumu:**
 - Mevcut: Aristoteles (Schumpeter proxy), Pamuk *Osmanlı Parası*, Hume *Essays*, Marx *Capital*, Keynes (kısmen)
 - Eksik: Friedman *Optimum Quantity of Money*, Wicksell *Interest and Prices*, Satoshi whitepaper, BIS raporları
 - Çok güçlü mevcut kaynak temeli
 
-**Çapraz bağlar:** Değer (özellikle Ch4 Marx), Merkantilizm (külçecilik), Mülkiyet (mülkiyetin parasal ifadesi)
+**Çapraz bağlar:** Değer (para ve ölçü), Merkantilizm (külçecilik ve hazine), Mülkiyet (teminat ve varlık), Egemenlik (kamu borcu ve merkez bankası), Din-Ahlak-Ekonomi (riba ve meşruiyet)
 
-**Tahmini efor:** 60 saat (4/10 zorluk; en hazır kaynak tabanı)
+**Tahmini efor:** İlk bilgelik seviyesi yazım ve bölüm derinleştirme turu tamamlandı; sonraki opsiyonel tur kaynak doğrulama ve dipnotlandırma olabilir.
 
-**Önerilen sıra ranking:** Tier 2'nin en güçlü adayı.
+**Önerilen sıra ranking:** Tamamlanan çekirdek kitaplar arasında.
 
 ---
 

@@ -30,10 +30,9 @@
   }
 
   async function loadManifest() {
-    // No in-memory cache: the browser's HTTP cache handles dedupe (~ms cost on
-    // localhost; we want chapter status edits to be picked up on next navigation
-    // without a hard reload).
-    const resp = await fetch(INDEX_URL);
+    // Keep local authoring honest: chapter and manifest edits should be visible
+    // on the next navigation, not after the browser cache happens to expire.
+    const resp = await fetch(INDEX_URL, { cache: 'no-store' });
     if (!resp.ok) throw new Error('chapter manifest fetch failed: ' + resp.status);
     _manifest = await resp.json();
     window.BookManifest = _manifest;
@@ -50,7 +49,7 @@
     if (chapter.status === 'pending') {
       return { chapter, html: renderPendingStub(chapter, manifest) };
     }
-    const resp = await fetch('chapters/' + chapter.slug + '.md', { signal });
+    const resp = await fetch('chapters/' + chapter.slug + '.md', { cache: 'no-store', signal });
     if (!resp.ok) throw new Error('chapter file fetch failed: ' + resp.status);
     const raw = await resp.text();
     const html = renderMarkdown(raw, chapter, manifest);

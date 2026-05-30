@@ -1,0 +1,102 @@
+{
+  "title": "Para, Borç ve Finans",
+  "subtitle": "Güvenin, zamanın ve krizin tarihi — en temelden dijital para tartışmalarına",
+  "chapters": [
+    {
+      "num": 1,
+      "slug": "01-niye-para-borc-finans",
+      "title": "Niye para, borç ve finans?",
+      "subtitle": "Güven, zaman ve ödeme vaadi aynı masada",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 2,
+      "slug": "02-paranin-en-basit-hali",
+      "title": "Paranın en basit hali",
+      "subtitle": "Ölçü, değişim aracı, değer saklama ve güven",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 3,
+      "slug": "03-borc-gelecegin-bugune-baglanmasi",
+      "title": "Borç: geleceğin bugüne bağlanması",
+      "subtitle": "Söz, kayıt, teminat ve iktidar ilişkisi",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 4,
+      "slug": "04-faiz-zamanin-fiyati-mi",
+      "title": "Faiz: zamanın fiyatı mı?",
+      "subtitle": "Bekleme bedeli, risk primi ve güç ilişkisi",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 5,
+      "slug": "05-antik-dunya-sikke-borc-affi",
+      "title": "Antik dünya: sikke, borç affı ve yurttaşlık",
+      "subtitle": "Mezopotamya'dan Roma'ya borç ve siyasal düzen",
+      "estWords": 1900,
+      "status": "completed"
+    },
+    {
+      "num": 6,
+      "slug": "06-din-ahlak-riba",
+      "title": "Din, ahlak ve riba",
+      "subtitle": "Kazanç ne zaman meşru, faiz ne zaman sömürü sayılır?",
+      "estWords": 1900,
+      "status": "completed"
+    },
+    {
+      "num": 7,
+      "slug": "07-erken-modern-devlet-kredisi",
+      "title": "Erken modern para ve devlet kredisi",
+      "subtitle": "Savaş, hazine, kamu borcu ve güvenilir devlet",
+      "estWords": 1900,
+      "status": "completed"
+    },
+    {
+      "num": 8,
+      "slug": "08-bankalar-merkez-bankalari",
+      "title": "Bankalar ve merkez bankaları",
+      "subtitle": "Mevduat, kredi yaratımı ve son borç verme mercii",
+      "estWords": 2000,
+      "status": "completed"
+    },
+    {
+      "num": 9,
+      "slug": "09-kapitalizm-finansallasma",
+      "title": "Kapitalizm ve finansallaşma",
+      "subtitle": "Üretim, rant, varlık fiyatı ve spekülasyon",
+      "estWords": 2000,
+      "status": "completed"
+    },
+    {
+      "num": 10,
+      "slug": "10-krizler-1929-1971-2008",
+      "title": "Krizler: 1929, 1971, 2008",
+      "subtitle": "Güven zinciri kırılınca para düzeni nasıl sarsılır?",
+      "estWords": 2000,
+      "status": "completed"
+    },
+    {
+      "num": 11,
+      "slug": "11-osmanli-turkiye-hatti",
+      "title": "Osmanlı ve Türkiye hattı",
+      "subtitle": "Akçe, dış borç, Düyun-u Umumiye, enflasyon ve hane bütçesi",
+      "estWords": 2100,
+      "status": "completed"
+    },
+    {
+      "num": 12,
+      "slug": "12-bugun-kart-konut-kripto",
+      "title": "Bugün: kart, konut, kripto, CBDC",
+      "subtitle": "Borçlu hayat ve dijital para düzeni",
+      "estWords": 2100,
+      "status": "completed"
+    }
+  ]
+}

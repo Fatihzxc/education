@@ -47,8 +47,8 @@
       subtitle: 'Cantillon\'dan Henry George\'a',
       description: 'Doğal düzen, toprak, akış — Quesnay\'in Tableau\'sundan Turgot reformlarına, Smith\'in mirasından bugünkü ekolojik iktisada.',
       chapterCount: 12,
-      status: 'draft',
-      homeGroup: 'continue',
+      status: 'completed',
+      homeGroup: 'main',
       method: {
         root: 'Fransa’da vergi adaletsizliği, tarımsal üretim, borç ve ekmek fiyatı aynı düğümde sıkışır.',
         dominant: 'Toprağı üretken kaynağın merkezi sayan reformcu saray çevresi ve toprak sahibi bakışı öne çıkar.',
@@ -65,8 +65,8 @@
       subtitle: 'Smith\'ten Mill\'e, Marx\'a ve marjinal devrime',
       description: '1776 Wealth of Nations\'tan 1870 marjinal devrime — bir okulun yükselişi ve dağılışı; Smith, Malthus, Ricardo, Mill, Marx, klasik makro, büyüme, Osmanlı alımlaması.',
       chapterCount: 12,
-      status: 'draft',
-      homeGroup: 'continue',
+      status: 'completed',
+      homeGroup: 'main',
       method: {
         root: 'Sanayi, şehirleşme, ücretli emek, tahıl yasaları ve imparatorluk ticareti yeni bir düzen sorusu doğurur.',
         dominant: 'Üretici sermaye, serbest ticaret ve ilerleme dili güçlü konuşur; kanon çoğu zaman İngiliz deneyimini merkez alır.',
@@ -130,6 +130,24 @@
         publicEye: 'Gündelik karşılığı mahkeme, vergi, askerlik, polis, kimlik, güvenlik ve itiraz hakkıdır.'
       },
       primaryAuthors: ['Aristoteles', 'İbn Haldun', 'Machiavelli', 'Bodin', 'Hobbes', 'Locke', 'Rousseau', 'Hegel', 'Weber', 'Schmitt', 'Foucault'],
+    },
+    {
+      slug: 'para-borc-finans',
+      title: 'Para, Borç ve Finans',
+      subtitle: 'Güvenin, zamanın ve krizin tarihi',
+      description: 'Parayı yalnız ödeme aracı, borcu yalnız yük, finansı yalnız teknik sistem gibi değil; güven, zaman, iktidar ve gündelik hayat ilişkisi olarak okuyan felsefi-iktisadi kitap.',
+      chapterCount: 12,
+      status: 'completed',
+      homeGroup: 'main',
+      method: {
+        root: 'Para kıtlığı, borç ilişkisi, kamu kredisi ve finansal krizler aynı güven ve gelecek sorununda birleşir.',
+        dominant: 'Devlet, banka ve piyasa aktörü dili finansı çoğu zaman teknik zorunluluk gibi anlatır.',
+        counter: 'Riba tartışmaları, kriz tarihçileri, Minsky-Graeber hattı ve halkın borç deneyimi bu teknik dili ahlak ve güç sorusuna geri çeker.',
+        scale: 'Hane bütçesinden merkez bankasına, kredi kartından devlet tahviline, konuttan kriptoya aynı güven zincirini izle.',
+        aid: 'Varsayım zinciriyle oku: hangi söz veriliyor, kim inanıyor, risk kime kalıyor?',
+        publicEye: 'Gündelik hayatta karşılığı enflasyon, kredi kartı ekstresi, kira, konut kredisi, döviz, altın ve gelecek kaygısıdır.'
+      },
+      primaryAuthors: ['Aristoteles', 'Aquinas', 'İbn Teymiyye', 'Hume', 'Ricardo', 'Keynes', 'Minsky', 'Graeber', 'Pamuk'],
     },
     {
       slug: 'iktisat-haritasi',
@@ -239,18 +257,6 @@
   ];
 
   window.MerkantilizmPlannedThemes = [
-    {
-      slug: 'para-borc-finans',
-      title: 'Para, Borç ve Finans',
-      subtitle: 'Değerin dolaşıma girdiği yer',
-      status: 'planned',
-      question: 'Bir toplum, güveni ve geleceği hangi araçlarla bugüne taşır?',
-      root: 'Para kıtlığı, borç ilişkisi, devlet kredisi ve finansal krizler aynı güven sorununa bağlanır.',
-      dominant: 'Bankacı, devlet hazinesi ve piyasa aktörü dili çoğu zaman teknik zorunluluk gibi konuşur.',
-      counter: 'Graeber, Polanyi, İslam riba tartışması ve kriz tarihçileri finansın ahlaki-siyasal tarafını geri çağırır.',
-      publicEye: 'Gündelik hayatta karşılığı enflasyon, kredi kartı borcu, faiz, kira ve geçim kaygısıdır.',
-      plannedChapters: 12,
-    },
     {
       slug: 'emek-calisma',
       title: 'Emek ve Çalışma',

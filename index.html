@@ -45,7 +45,7 @@
       </div>
     </section>
 
-    <section class="landing-section continuing-section" aria-labelledby="continuingTitle">
+    <section class="landing-section continuing-section" id="continuingSection" aria-labelledby="continuingTitle">
       <div class="section-head">
         <span>Devam edilenler</span>
         <h2 id="continuingTitle">Taslaklar ve büyüyen hatlar</h2>
@@ -211,10 +211,12 @@
       .map(function(theme) { return bookCard(theme, 'main'); })
       .join('');
 
-    document.getElementById('continuingGrid').innerHTML = themes
-      .filter(function(theme) { return theme.homeGroup === 'continue'; })
-      .map(continuingCard)
-      .join('');
+    var continuingThemes = themes.filter(function(theme) { return theme.homeGroup === 'continue'; });
+    if (continuingThemes.length) {
+      document.getElementById('continuingGrid').innerHTML = continuingThemes.map(continuingCard).join('');
+    } else {
+      document.getElementById('continuingSection').hidden = true;
+    }
 
     document.getElementById('paneShortcutGrid').innerHTML = paneShortcuts.map(paneCard).join('');
 

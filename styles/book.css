@@ -72,9 +72,25 @@ a:hover { text-decoration: underline; }
 .book-header h1 {
   font-size: 15px; font-weight: 600; margin: 0;
   color: var(--text-primary); letter-spacing: 0.2px;
+  min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 .book-header h1 a { color: inherit; }
 .book-header .spacer { flex: 1; }
+.book-header .main-menu-link {
+  flex: 0 0 auto;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--text-secondary);
+  font-family: var(--font-sans);
+  font-size: 12px;
+  line-height: 1;
+  padding: 6px 10px;
+}
+.book-header .main-menu-link:hover {
+  border-color: var(--accent);
+  color: var(--text-primary);
+  text-decoration: none;
+}
 .book-header button {
   background: none; border: 1px solid var(--border);
   color: var(--text-secondary); padding: 5px 10px;
