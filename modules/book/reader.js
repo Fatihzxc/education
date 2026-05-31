@@ -273,6 +273,9 @@
       if (window.Terminology && window.Terminology.decorate) {
         window.Terminology.decorate(article);
       }
+      if (window.BookAnnotations && window.BookAnnotations.onChapterLoaded) {
+        window.BookAnnotations.onChapterLoaded(chapter, article);
+      }
       if (window.BookToc && window.BookToc.onChapterLoaded) {
         window.BookToc.onChapterLoaded(chapter);
       }

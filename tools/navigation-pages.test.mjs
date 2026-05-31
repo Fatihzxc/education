@@ -101,6 +101,40 @@ test('book subpages expose a top main-menu link', async () => {
   }
 });
 
+test('book subpages expose the global notes entrypoint and annotations module', async () => {
+  const rootBookPages = [
+    '../merkantilizm/book.html',
+    '../fizyokrasi/book.html',
+    '../klasik-iktisat/book.html',
+    '../deger/book.html',
+    '../mulkiyet/book.html',
+    '../egemenlik/book.html',
+    '../iktisat-haritasi/book.html',
+    '../tarih-atlasi/book.html',
+    '../para-borc-finans/book.html'
+  ];
+  const paneBookPages = [
+    '../tarih-atlasi/panes/merkantilizm/book.html',
+    '../tarih-atlasi/panes/fizyokrasi/book.html',
+    '../tarih-atlasi/panes/klasik/book.html',
+    '../tarih-atlasi/panes/marx/book.html',
+    '../tarih-atlasi/panes/marjinalizm/book.html',
+    '../tarih-atlasi/panes/keynes/book.html'
+  ];
+
+  for (const path of rootBookPages) {
+    const html = await readText(path);
+    assert.match(html, /id="notesHubToggle"/, `${path} lacks notes hub button`);
+    assert.match(html, /<script src="\.\.\/modules\/book\/annotations\.js\?v=1"><\/script>/, `${path} lacks root annotations module`);
+  }
+
+  for (const path of paneBookPages) {
+    const html = await readText(path);
+    assert.match(html, /id="notesHubToggle"/, `${path} lacks notes hub button`);
+    assert.match(html, /<script src="\.\.\/\.\.\/\.\.\/modules\/book\/annotations\.js\?v=1"><\/script>/, `${path} lacks pane annotations module`);
+  }
+});
+
 test('para borc finans is a completed main book, not a planned placeholder', async () => {
   const registry = await loadRegistry();
   const bySlug = Object.fromEntries(
