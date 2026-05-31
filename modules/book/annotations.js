@@ -10,6 +10,7 @@
   'use strict';
 
   const STORAGE_KEY = 'iktisat.annotations.v1';
+  const REPO_SYNC_URL = '/api/annotations';
   const PENDING_SCROLL_KEY = 'iktisat.annotations.pendingScroll';
   const PREFIX_LEN = 40;
   const SUFFIX_LEN = 40;
@@ -42,6 +43,7 @@
   let _hubQuery = '';
   let _hubColor = 'all';
   let _restoreFocus = null;
+  let _repoSyncTimer = null;
 
   function escapeHtml(value) {
     return String(value || '')
@@ -79,16 +81,69 @@
     }
   }
 
-  function saveAnnotations(list) {
+  function saveAnnotations(list, opts) {
+    opts = opts || {};
     const normalized = Array.isArray(list) ? list.map(normalizeAnnotation).filter(Boolean) : [];
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(normalized));
       _annotations = normalized;
       updateButtonCount();
+      if (opts.sync !== false) scheduleRepoSync(normalized);
       return true;
     } catch (e) {
       showToast('Notlar otomatik kaydedilemedi. Tarayıcı depolamasını kontrol edip dışa aktarmayı deneyin.');
       return false;
+    }
+  }
+
+  function repoPayload(list) {
+    return {
+      schema: STORAGE_KEY,
+      updatedAt: nowIso(),
+      annotations: (Array.isArray(list) ? list : []).map(normalizeAnnotation).filter(Boolean),
+    };
+  }
+
+  async function syncAnnotationsToRepo(list) {
+    if (typeof fetch !== 'function') return { ok: false, skipped: true };
+    const resp = await fetch(REPO_SYNC_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(repoPayload(list)),
+    });
+    if (!resp.ok) throw new Error('repo sync failed: HTTP ' + resp.status);
+    return resp.json ? resp.json() : { ok: true };
+  }
+
+  function scheduleRepoSync(list) {
+    if (typeof fetch !== 'function') return;
+    if (_repoSyncTimer) clearTimeout(_repoSyncTimer);
+    const snapshot = (Array.isArray(list) ? list : []).slice();
+    _repoSyncTimer = setTimeout(() => {
+      _repoSyncTimer = null;
+      syncAnnotationsToRepo(snapshot).then(() => {
+        if (_overlay && !_overlay.hidden) updateHubStatus(`${snapshot.length.toLocaleString('tr-TR')} kayıt repo dosyasına kaydedildi`);
+      }).catch(() => {
+        if (_overlay && !_overlay.hidden) updateHubStatus('Tarayıcıda kayıtlı; repo dosyasına yazılamadı');
+      });
+    }, 350);
+  }
+
+  async function loadRepoAnnotations() {
+    if (typeof fetch !== 'function') return;
+    try {
+      const resp = await fetch(REPO_SYNC_URL, { cache: 'no-store' });
+      if (!resp.ok) return;
+      const payload = await resp.json();
+      const incoming = Array.isArray(payload) ? payload : payload && payload.annotations;
+      if (!Array.isArray(incoming) || incoming.length === 0) return;
+      const merged = mergeAnnotations(_annotations, incoming);
+      if (JSON.stringify(merged) === JSON.stringify(_annotations)) return;
+      saveAnnotations(merged, { sync: false });
+      renderCurrentHighlights();
+      renderHubList();
+    } catch (e) {
+      // Static hosting or an older dev server simply won't have the endpoint.
     }
   }
 
@@ -778,6 +833,9 @@
       }
     });
     updateButtonCount();
+    loadRepoAnnotations().then(() => {
+      if (_annotations.length) scheduleRepoSync(_annotations);
+    });
     const article = document.getElementById('bookArticle');
     const chapter = window.BookReader && window.BookReader.currentChapter && window.BookReader.currentChapter();
     if (article && chapter) onChapterLoaded(chapter, article);
@@ -789,10 +847,13 @@
     getAll() { return _annotations.slice(); },
     _test: {
       STORAGE_KEY,
+      REPO_SYNC_URL,
       mergeAnnotations,
       resolveTextAnchor,
       createAnchor,
       normalizeAnnotation,
+      repoPayload,
+      syncAnnotationsToRepo,
     }
   };
 

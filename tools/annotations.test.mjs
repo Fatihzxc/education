@@ -10,6 +10,7 @@ async function readText(path) {
 async function loadAnnotations(initialStorage = {}) {
   const source = await readText('../modules/book/annotations.js');
   const storage = { ...initialStorage };
+  const fetchCalls = [];
   const localStorage = {
     getItem(key) {
       return Object.prototype.hasOwnProperty.call(storage, key) ? storage[key] : null;
@@ -38,6 +39,13 @@ async function loadAnnotations(initialStorage = {}) {
       href: 'http://localhost:8772/deger/book.html#bolum/3',
     },
     localStorage,
+    fetch(url, init) {
+      fetchCalls.push({ url, init });
+      return Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve({ ok: true, count: 1 }),
+      });
+    },
     console: { log() {}, warn() {}, error() {} },
     navigator: { clipboard: null },
     setTimeout,
@@ -52,7 +60,7 @@ async function loadAnnotations(initialStorage = {}) {
   context.window.location = context.location;
 
   vm.runInNewContext(source, context, { filename: 'annotations.js' });
-  return { annotations: context.window.BookAnnotations, storage };
+  return { annotations: context.window.BookAnnotations, fetchCalls, storage };
 }
 
 test('annotations use one global storage key across all books', async () => {
@@ -103,4 +111,25 @@ test('quote anchors resolve exact text with prefix and suffix context', async ()
 
   assert.equal(resolved.start, 6);
   assert.equal(resolved.end, 10);
+});
+
+test('repo sync posts annotations to the local server endpoint', async () => {
+  const { annotations, fetchCalls } = await loadAnnotations();
+  const list = [
+    {
+      id: 'ann-1',
+      updatedAt: '2026-05-31T12:00:00.000Z',
+      exact: 'selected text',
+    },
+  ];
+
+  await annotations._test.syncAnnotationsToRepo(list);
+
+  assert.equal(fetchCalls.length, 1);
+  assert.equal(fetchCalls[0].url, '/api/annotations');
+  assert.equal(fetchCalls[0].init.method, 'POST');
+  assert.equal(fetchCalls[0].init.headers['Content-Type'], 'application/json');
+  const body = JSON.parse(fetchCalls[0].init.body);
+  assert.equal(body.schema, 'iktisat.annotations.v1');
+  assert.equal(body.annotations[0].id, 'ann-1');
 });
