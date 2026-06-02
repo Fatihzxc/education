@@ -163,8 +163,17 @@ Bu yeniden-okuma haklıdır. Smith'in tarafsız tonu, çoğu zaman tarafsız son
 İleri düzeyde Smith’te mülkiyeti piyasanın dışındaki hukuk zemini gibi değil, piyasanın içinde sürekli sonuç üreten bir kurum gibi oku.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Smith'in mülkiyet teorisi: Locke'tan klasik politik iktisada" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book I, Chapter VIII, s. 97. ElecBook Classics. Toprağın özel mülkiyet haline gelmesinin emek ücreti üzerindeki etkisi.
 
 [^2]: Smith, A. (1776). *Wealth of Nations*, Book II, Chapter III, s. 438. Üretken / üretken-olmayan emek ayrımının açılışı; sermaye birikiminin temel mekanizması.

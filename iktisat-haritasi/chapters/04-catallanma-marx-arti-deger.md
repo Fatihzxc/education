@@ -92,8 +92,17 @@ Bu şerit Marx'ı hem güçlü hem sınırlı okumayı öğretir. Gücü, eşit 
 İleri düzeyde Marx’ı klasik iktisadın dışı değil, onun içindeki bir gerilimin radikalleşmesi olarak oku. Bu yüzden hem mirasçı hem yıkıcıdır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Klasiğin masada bıraktığı bomba" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Karl Marx, *Das Kapital, Band I* (1867); emek/emek-gücü ayrımı ve artı-değer için özellikle 4-7. kısımlar, yedek sanayi ordusu için "Kapitalist Birikimin Genel Yasası" bölümü. Türkçe: *Kapital, Cilt I* (çeşitli baskılar). Artı-değerin emek-değer teorisinden türetiminin ayrıntılı işlenişi kardeş kitap `deger`, Bölüm 7; üretim araçları mülkiyetinin tarihsel-materyalist okuması `mulkiyet`, Bölüm 8.
 
 [^2]: Karl Marx, *Theorien über den Mehrwert* (1862-63 elyazmaları; Kautsky baskısı 1905-10). Marx'ın klasikleri (Quesnay, Smith, Ricardo) "klasik politik ekonomi" diye adlandırması ve Ricardo'nun "bilimsel dürüstlüğü"nü takdiri buradadır. Marx'ın klasik mirası eleştirel sürdürme biçimi için kardeş kitap `klasik-iktisat`, Bölüm 11 (iki karşıt mirasçı).

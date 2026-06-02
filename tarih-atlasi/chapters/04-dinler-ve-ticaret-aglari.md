@@ -138,8 +138,17 @@ Bu küçük kayıtları okurken şunu yap: Her ağ için bir kazanan ve bir taş
 
 Bu bize büyük bir ders verir: Dünya tarihi bir merkezin düşüp başka bir merkezin yükselmesinden ibaret değildir. Bazen bağlantının biçimi değişir. Devletin yerini ağ, imparatorluğun yerini dinî topluluk, yerel pazarın yerini deniz ve kervan yolu alır. Fikir akımları da bu yeni bağlantı biçimlerinin içinde doğar.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru: klasik imparatorluklar çözüldükten sonra dünya nasıl yeniden bağlandı?" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Marshall G. S. Hodgson, *The Venture of Islam* (1974). İslam dünyasını geniş dünya tarihi içinde okumak için klasik bir çalışma.
 [^2]: Hugh Kennedy, *The Great Arab Conquests* (2007). Erken İslam fetihleri ve kurumlaşması için dengeli bir çerçeve.
 [^3]: Chris Wickham, *The Inheritance of Rome* (2009). Avrupa'nın 400-1000 arası dönüşümünü "karanlık çağ" kalıbının ötesinde anlatır.

@@ -164,9 +164,17 @@ Kısa kural şu: "Pasta büyüyor" deniyorsa hemen "dilimleri kim alıyor?" diye
 
 İleri düzeyde “klasik” kelimesini tarafsız bir kalite etiketi gibi okuma. Bir düşünceye klasik demek, onun hangi sorularını merkeze alacağımızı ve hangi sesleri kenarda bırakacağımızı da belirler. Bu kitap bu yüzden hem teoriyi hem de teorinin kurduğu sahneyi izler.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Bir okulun kendine sonradan bulduğu ad" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Marx'ın "klasik politik ekonomi" (*klassische politische Ökonomie*) ile "vulgar politik ekonomi" (*Vulgärökonomie*) ayrımının temel metinsel yeri *Das Kapital*, I. Cilt'in (1867) ikinci baskı sonsözü (1873) ile *Theorien über den Mehrwert*'tir. *Theorien*, Marx'ın 1861-1863 arası hazırladığı el yazmalarından Karl Kautsky tarafından üç cilt halinde derlenmiş, 1905-1910 arasında Stuttgart'ta yayımlanmıştır; eleştirel-tarihsel bir baskısı *Marx-Engels-Gesamtausgabe* (MEGA²) II/3 ciltlerinde (Dietz Verlag, 1976-1982) yer alır. Türkçe okur için *Artı-Değer Teorileri* (çev. Yurdakul Fincancı, Sol Yayınları, üç cilt, 1998-1999) kanonik çeviridir. Marx'ın "klasik" kategorisinin yorumlayıcı analizi için Maurice Dobb'un *Theories of Value and Distribution since Adam Smith: Ideology and Economic Theory* (Cambridge UP, 1973) eseri ile Roman Rosdolsky'nin *Marx'ın Kapital'inin Oluşumu* (çev. Uygur Kocabaşoğlu, Yordam Kitap, 2017) eseri standart başvurulardır.
 
 [^2]: John Maynard Keynes, *The General Theory of Employment, Interest and Money* (Macmillan, 1936); özellikle 1. Bölüm ("The General Theory") ve 2. Bölüm ("The Postulates of the Classical Economics") "klasik" kategorisinin Keynesyen genişlemesinin metinsel temelidir. Türkçesi: *İstihdam, Faiz ve Paranın Genel Teorisi* (çev. Uğur Selçuk Akalın, Kalkedon Yayınları, 2008). Keynes'in "klasik" tanımının retorik ve teorik analizine ilişkin Donald Moggridge'in *Maynard Keynes: An Economist's Biography* (Routledge, 1992) eseri ile Roger Backhouse ve Bradley Bateman editörlüğündeki *The Cambridge Companion to Keynes* (Cambridge UP, 2006) eserindeki ilgili maddeler önerilir. Marx'tan Keynes'e kategori genişlemesinin yorumu için Maurice Dobb'un yukarıda anılan eseri belirleyicidir.

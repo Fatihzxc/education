@@ -100,13 +100,13 @@ Faiz yasağı, 12. ve 13. yüzyıllarda Latin kilisesinin resmi pozisyonu olduğ
 
 Salamanca okulunun değer tarihindeki katkıları üç başlık altında özetlenebilir:
 
-**1. Sübjektif fiyat teorisi**. Salamanca düşünürleri, bir malın "adil fiyatı"nın o malın *üretim maliyetinden* değil, *piyasa katılımcılarının* o şeyi ne kadar arzu ettiklerinden geldiğini sistematik olarak ortaya koydular. Azpilcueta'nın 1556'da yazdığı bir pasajda: "*Bir şeyin fiyatı, onu üretme zorluğundan değil, onu satın almak isteyen kişilerin sayısı ve niyetinden gelir.*" Bu, marjinal-fayda teorisinin (Menger 1871) üç yüzyıl önceki bir versiyonudur.
+**1. Sübjektif fiyat sezgisi**. Salamanca düşünürleri, bir malın "adil fiyatı"nın yalnız üretim maliyetinden çıkmadığını; talep, kıtlık, ortak tahmin ve piyasa katılımcılarının o mala verdiği önemle ilişkili olduğunu sistematik biçimde tartıştılar. Azpilcueta'nın 1556'da yazdığı bir pasajda fiyatın yalnız üretme zorluğundan değil, onu satın almak isteyenlerin sayısı ve niyetinden geldiğini söylemesi bu açıdan önemlidir. Bu, Menger'in 1871'de kuracağı marjinal fayda teorisiyle aynı şey değildir; ama onunla akraba, erken bir öznelci damar açar.
 
 **2. Para teorisi**. Azpilcueta ve Mercado, *fiyat devrimi* — 16. yüzyılda İspanyol gemilerinin Amerika'dan getirdiği gümüşün Avrupa fiyatlarını nasıl etkilediği — üzerine düşünerek, paranın değerinin onun *miktarı* ile ters orantılı olduğu tezini formüle ettiler. Bu, klasik *miktar teorisi*'nin erken bir formülasyonudur ve Jean Bodin'in 1568'deki kapsamlı ifadesinden 12 yıl önce yazılmıştır (Bölüm 2 — Merkantilizm kitabında).
 
 **3. Mülkiyet ve doğal hukuk**. Vitoria, *Reconquista* sonrası ve Yeni Dünya öncesi koşullarda, mülkiyet hakkının dini gerekçelerden ayrı, *doğal hukuk* temelinde de savunulabileceğini gösterdi. Bu argüman, daha sonra Hugo Grotius (1625) ve John Locke'un (1690) doğal-hukuk teorilerinin temelidir.
 
-Salamanca okulunun fiyat-değer teorisi, sonradan Avusturya okulu (Bölüm 8) ve marjinalist devrim (Bölüm 9) tarafından yeniden keşfedilmiş gibi anlatılır. Aslında, Carl Menger 1871'de Salamanca'nın 320 yıl önce ortaya koyduğu sübjektif değer kavramını sıfırdan yeniden geliştirir. Bu, iktisat tarihinin tutarsız hafızasının bir başka örneğidir.
+Salamanca okulunun fiyat-değer teorisi, sonradan Avusturya okulu (Bölüm 8) ve marjinalist devrim (Bölüm 9) açısından geriye dönük bir öncül gibi okunabilir. Ama öncül ile tam kuramsal eşdeğerlik aynı şey değildir. Menger 1871'de yalnız "değer özneldir" demedi; mal dereceleri, marjinal birim, nedensel değer aktarımı ve piyasa fiyatının tüketici ihtiyacından üretim zincirine geri akması gibi ayrı bir kuramsal aparat kurdu. Salamanca'nın gücü, bu aparatı önceden yazmış olmasında değil; adil fiyat tartışmasının içinde talep ve öznel değerlemeyi görünür kılmış olmasındadır.
 
 ## 3.7 Skolastik çerçevenin sonu
 
@@ -132,7 +132,7 @@ Skolastik çerçevenin üç katkısı, sonraki tartışmalarda kalıcı olmuştu
 
 **2. Faiz tartışmasının uzun yolculuğu**. Aquinas'ın "para sterildir" tezi pratikte yenildi; ama izleri devam etti. 1929 Büyük Buhran sonrası Keynes'in faiz teorisi, 2008 finansal krizinden sonra yapılan tartışmalar, hepsi bir tür ardıl-skolastik bilinçte yer alır: faizin doğası nedir, sosyal yararı için bir tavan var mıdır?
 
-**3. Salamanca'nın sübjektif fiyat teorisi**. Marjinalist devrim, bu 16. yüzyıl içgörüsünün yeniden keşfidir. Eğer iktisat tarihçileri Salamanca okulunu daha iyi tanısaydı, 1871 "marjinal devrimi" yerine "marjinal yeniden-keşif" terimini kullanmak daha doğru olurdu.
+**3. Salamanca'nın sübjektif fiyat sezgisi**. Marjinalist devrim, bu 16. yüzyıl içgörüsünün doğrudan tekrarı değildir; ama talep, kıtlık ve öznel değerleme fikrinin modern teoriden önce de güçlü biçimde düşünüldüğünü hatırlatır. Eğer iktisat tarihçileri Salamanca okulunu daha iyi tanısaydı, 1871'i "hiç yoktan doğan devrim" gibi değil, daha uzun bir öznel değer tartışmasının teknik kırılma anı gibi anlatırdı.
 
 Sonraki bölüm, Aquinas'ın çağdaşı, ama ondan çok daha uzakta ve çok başka bir iktisadi gerçeklik içinde yazan bir başka düşünüre — İbn Haldun'a — gider. Onun *Mukaddime*'sinde göreceğimiz değer-tezi, Aquinas'ın çerçevesinden çok farklı bir yere açılır: emek-değer teorisinin sistematik formülasyonu.
 
@@ -180,8 +180,17 @@ Aquinas'ın "adil-fiyat" çerçevesinin modern dönüşümleri her gün karşım
 
 İleri düzeyde skolastikleri piyasayı bilmeyen ahlakçılar gibi görme. Onlar piyasa gerçekliğini fark ederler; ama şu soruyu da bırakmak istemezler: fiyat serbestçe oluşsa bile, bu serbestlik insanın zorunluluğunu sömürüyorsa hâlâ adil midir? Bu soru modern iktisatta kaybolmaz, sadece başka kelimelerle geri gelir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "13. yüzyıl Paris'i — bir teolog, bir soru" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.77 A.1, s. 3589. Adil-fiyat sorusunun açılışı: "Bir şeyi değerinden fazlaya satmak meşru mudur?"
 
 [^2]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.77 A.4, s. 3596. Tüccarın aldığı kârın yapısal çelişkisi: bir şeyi düşük alıp yüksek satmak için ya satıcının ya da alıcının değerden saparak işlem yapması gerekir.

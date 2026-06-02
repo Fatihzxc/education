@@ -150,6 +150,24 @@
       primaryAuthors: ['Aristoteles', 'Aquinas', 'İbn Teymiyye', 'Hume', 'Ricardo', 'Keynes', 'Minsky', 'Graeber', 'Pamuk'],
     },
     {
+      slug: 'emek-calisma',
+      title: 'Emek ve Çalışma',
+      subtitle: 'Bedenin, zamanın ve değerin tarihi',
+      description: 'Kölelikten ücretli emeğe, fabrika disiplininden bakım emeğine, sendikadan platform işine kadar çalışmayı geçim, değer, onur ve iktidar ilişkisi olarak okuyan uzun-form kitap.',
+      chapterCount: 12,
+      status: 'completed',
+      homeGroup: 'main',
+      method: {
+        root: 'Geçim zorunluluğu, ücret, kölelik, bakım emeği, fabrika disiplini ve platform işi aynı çalışma düğümünde birleşir.',
+        dominant: 'Sanayi ve piyasa dili emeği çoğu zaman üretim faktörü, verimlilik girdisi ve bireysel çaba gibi anlatır.',
+        counter: 'Marx, Polanyi, feminist iktisat, emek tarihi ve işçi anlatıları çalışmanın görünmeyen zorunluluk ve bakım tarafını açar.',
+        scale: 'Ev içinden fabrikaya, tarladan platforma, sendikadan yapay zekaya kadar emeğin beden-zaman zincirini izle.',
+        aid: 'Emek pusulasıyla oku: kim çalışıyor, kim yönetiyor, risk kime kalıyor, emeğin değeri kim tarafından belirleniyor?',
+        publicEye: 'Gündelik hayatta karşılığı vardiya, yevmiye, sigorta, kira, borç, bakım yükü, işsizlik korkusu, puanlama ve tükenmişliktir.'
+      },
+      primaryAuthors: ['Aristoteles', 'Locke', 'Smith', 'Marx', 'Taylor', 'Polanyi', 'Federici', 'Luxemburg', 'Thompson', 'Standing'],
+    },
+    {
       slug: 'iktisat-haritasi',
       title: 'İktisat Düşüncesinin Haritası',
       subtitle: 'Merkantilizmden monetarizme',
@@ -257,18 +275,6 @@
   ];
 
   window.MerkantilizmPlannedThemes = [
-    {
-      slug: 'emek-calisma',
-      title: 'Emek ve Çalışma',
-      subtitle: 'Üretimin görünmeyen bedeni',
-      status: 'planned',
-      question: 'Kim çalışır, kim yönetir, kim emeğin değerini belirler?',
-      root: 'Geçim, zorunluluk, ücret, kölelik, bakım emeği ve fabrika disiplini aynı çalışma düğümünde birleşir.',
-      dominant: 'Klasik iktisat ve sanayi anlatısı üretken emeği merkez alır; ev içi ve sömürge emeği çoğu kez geride kalır.',
-      counter: 'Marx, feminist iktisat, kölelik tarihi ve işçi anlatıları emeğin görünmeyen tarafını açar.',
-      publicEye: 'Vardiya, yevmiye, işsizlik, sendika, göçmenlik ve tükenmişlik olarak hissedilir.',
-      plannedChapters: 12,
-    },
     {
       slug: 'somurgecilik-dunya-sistemi',
       title: 'Sömürgecilik ve Dünya Sistemi',

@@ -34,6 +34,8 @@ Bu bölümün argümanı şudur: Bankacılık, modern toplumun güveni kurumsal 
 
 Bu argüman bankaları ne şeytanlaştırır ne de masumlaştırır. Bankalar üretken yatırımı mümkün kılabilir, ödemeleri kolaylaştırabilir, tasarrufu yatırıma bağlayabilir. Ama aynı zamanda spekülasyonu büyütebilir, kırılganlığı saklayabilir, borç döngülerini şişirebilir.
 
+Bu bölümün kaynak pusulası iki yanlış ayrımı düzeltir. Birincisi, bankayı yalnız "aracı" sayan anlatıdır. Banka elbette tasarruf ile yatırım arasında aracılık eder; ama modern bankacılıkta kredi verildiğinde yeni mevduat da doğar. Bu yüzden banka sistemi para benzeri ödeme gücü yaratır. İkincisi, merkez bankasını yalnız teknik memur gibi görmektir. Walter Bagehot'un son borç verme mercii ilkesi, panik anında sağlam ama likidite sıkıntısı yaşayan kurumlara pahalı ve teminatlı destek verilmesi gerektiğini söyler. Bu ilke teknik gibi görünür; ama arkasında çok insani bir soru vardır: Panik anında kime güven uzatılacak, kime "bat" denecek?
+
 ## Kök sebep ve karşı okuma
 
 Kök sebep, büyük ölçekli ekonomide vade ve güven aracılığı ihtiyacıdır. Birinin tasarrufu vardır, başkasının yatırım ihtiyacı vardır. Biri parasını her an çekebilmek ister, diğeri uzun vadeli borç ister. Banka bu uyumsuzluğu yönetir.
@@ -79,3 +81,22 @@ Bilgelik, bankayı yalnız hizmet sağlayıcı veya yalnız sömürü aracı gib
 Bugün bunu mevduat sigortasında, merkez bankası açıklamalarında, kredi genişlemesinde, kur krizlerinde ve dijital banka uygulamalarında görürüz. Telefon ekranındaki bakiye çok sakin görünür; ama arkasında banka bilançosu, ödeme sistemi, düzenleyici kurum, merkez bankası ve kolektif güven vardır.
 
 Bu yüzden "param bankada duruyor" cümlesi aslında büyük bir kurumsal cümledir. Paranın güvenli olması yalnız senin şifrene değil, sistemin bütününe bağlıdır. Bilgelik, ekrandaki sayıyı görürken o sayının arkasındaki kurumlar zincirini de görebilmektir.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Walter Bagehot, *Lombard Street*
+- Charles Goodhart, merkez bankaciligi calismalari
+- Hyman Minsky, finansal istikrarsizlik hipotezi
+- Perry Mehrling, *The New Lombard Street*
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

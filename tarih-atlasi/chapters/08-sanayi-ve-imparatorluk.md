@@ -138,8 +138,17 @@ Bu kamu gözü, klasik ve sosyalist teorileri daha somut yapar. Çünkü "emek" 
 
 Bu okuma "Batı yaptı" cümlesini daha dürüst hale getirir: Evet, bazı teknolojik ve kurumsal atılımlar belirli merkezlerde yoğunlaştı; ama bu merkezler dünya eşitsizliğinden bağımsız değildi.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru: sanayi neden dünya eşitsizliğini büyüttü?" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 - Eric Hobsbawm, *The Age of Revolution* ve *The Age of Capital*.
 - Kenneth Pomeranz, *The Great Divergence*.
 - Sven Beckert, *Empire of Cotton*.

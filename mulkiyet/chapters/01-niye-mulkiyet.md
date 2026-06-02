@@ -193,8 +193,17 @@ Kısa kural şu: "Kime ait?" sorusundan sonra "kim dışarıda kalıyor?" diye s
 
 İleri düzeyde mülkiyeti “bir şey kime ait?” sorusuyla sınırlama. Daha derin soru, bu aidiyetin başkalarının hareket alanını nasıl düzenlediğidir. Çünkü mülkiyet yalnız sahibini tanımlamaz; dışarıda kalanların dünyasını da yeniden çizer.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Bir kelimenin çok yüzü" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 81. Aristoteles'in Plato'nun ideal devlet/komünal mülkiyet tezini reddetmesi; özel mülkiyetin "doğal" olduğu argümanı *Politika* II.5'te işlenir.
 
 [^2]: Marx, K. (1867). *Capital: A Critique of Political Economy — Volume I*, s. 18. Mübadelenin kullanım-değerden tam soyutlanma olduğu tezi; mülkiyetin bir "şey-özelliği" değil, toplumsal-ilişki olduğunun ontolojik gerekçesi.

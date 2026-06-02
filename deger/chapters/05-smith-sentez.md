@@ -194,8 +194,17 @@ Bir kelimenin nasıl kullanıldığı, sadece bir filolojik mesele değil; bir p
 İleri düzeyde Smith’in değer teorisini tek formüle indirme. Smith, modern fiyat teorisi ile klasik bölüşüm teorisi arasında henüz ayrışmamış bir kavşakta durur.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1776 — bir kitap, üç soru" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book I, Chapter V, s. 51. ElecBook Classics edisyonu.
 
 [^2]: Smith, A. (1776). *Wealth of Nations*, Book I, Chapter V, s. 54.

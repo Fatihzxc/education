@@ -4,7 +4,7 @@ Adam Smith'in 1776'da *Wealth of Nations* ile yaptığı şey, haritada tek bir 
 
 Merkantilizme karşı: zenginlik altın stoğu değil, bir ulusun "toprağının ve emeğinin yıllık ürünü"dür — yani üretilen mal ve hizmetlerin akışı. Altın yalnızca bir mübadele aracıdır, servetin kendisi değil. Bu, fizyokratların da vardığı sonuçtu; Smith onu paylaşır.
 
-Fizyokrasiye karşı ise asıl kopuş burada: Smith, üretkenliği toprağa hapsetmeyi reddeder. Değer yaratan şey toprağın özel bir armağanı değil, **emek**tir — ve emek hangi sektörde uygulanırsa uygulansın değer üretir: tarımda da, manüfaktürde de, ticarette de. Quesnay'in "steril" ilan ettiği zanaatkâr ve fabrikatör, Smith için pekâlâ üretkendir. Böylece fizyokrasinin tarımsal monomanisi kırılır; ekonomi tek bir sektörün değil, *işbölümünün* dinamiğiyle anlaşılır. Smith hem merkantilizmin maden-takıntısını hem fizyokrasinin tarım-darlığını aşarak ilk kez gerçekten *genel* bir çerçeve kurar.
+Fizyokrasiye karşı ise asıl kopuş burada: Smith, üretkenliği toprağa hapsetmeyi reddeder. Değer yaratan şey toprağın özel bir armağanı değil, **emek**tir; ama Smith'in "üretken emek" ölçütü modern hizmet ekonomisi kadar geniş değildir. Tarımın yanında manüfaktür ve somut, satılabilir mal üreten emek sermaye birikimine katkı yapabilir; ticaret ise pazarın genişlemesini ve sermayenin dolaşımını sağlar, fakat Smith'in dar ölçütünde tek başına her hizmet gibi üretken sayılmaz. Quesnay'in "steril" ilan ettiği zanaatkâr ve fabrikatör, Smith için pekâlâ üretkendir. Böylece fizyokrasinin tarımsal monomanisi kırılır; ekonomi tek bir sektörün değil, *işbölümünün* dinamiğiyle anlaşılır. Smith hem merkantilizmin maden-takıntısını hem fizyokrasinin tarım-darlığını aşarak ilk kez gerçekten *genel* bir çerçeve kurar.
 
 ## 3.2 Değer, işbölümü, görünmez el
 
@@ -87,8 +87,17 @@ Sonraki iki bölüm, klasiğin bıraktığı bombayı iki ayrı yönde patlatan 
 İleri düzeyde Smith’i merkantilizmin basit karşıtı gibi değil, eski ticaret dilini üretim toplumu için yeniden düzenleyen düşünür gibi oku.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "İki darlığı birden aşmak" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776). Smith'in beş-cilt mimarisinin, işbölümü-değer-dağılım zincirinin ve Glasgow tüccar çevresiyle bağının ayrıntılı analizi kardeş kitap `klasik-iktisat`, Bölüm 2; Mısır Yasaları, Anti-Corn-Law League ve serbest ticaretin sınıf-politikası Bölüm 7-8'dedir.
 
 [^2]: David Ricardo, *On the Principles of Political Economy and Taxation* (1817). Smith'in emek-değer muğlaklığını (cisimleşmiş emek vs kumanda edilen emek) keskinleştirip "kâr nereden gelir" sorusunu görünür kılması ile bu sorunun Marx'a açtığı kapı için kardeş kitap `deger`, Bölüm 5-6.

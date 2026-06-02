@@ -136,8 +136,17 @@ Bu metinleri birlikte okuduğunda devrimlerin yalnız "büyük adamlar" tarafın
 
 Devrimlerin ahlaki dilini ciddiye al; ama o dilin toplumsal sınırlarını da izle. Çünkü modern dünyanın en büyük gerilimlerinden biri burada doğar: Evrensel hak iddiası ile eşitsiz uygulama arasındaki gerilim.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru: modern devlet neden vergi ve borç makinesine dönüştü?" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 - Charles Tilly, *Coercion, Capital, and European States*.
 - John Brewer, *The Sinews of Power*.
 - C. A. Bayly, *The Birth of the Modern World*.

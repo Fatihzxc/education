@@ -174,8 +174,17 @@ Hume-Smith eleştirisini ekteki playground'da kavram ve birincil eserler üzerin
 - [1776: Smith — *Wealth of Nations*](appendix/playground.html#event/evt-1776-smith-wealth-of-nations)
 - [Klasik siyasi iktisat çerçevesi](appendix/playground.html#concept/classical-political-economy)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1752: Hume'un altı denemesi" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: David Hume. *Political Discourses* (1752), Scott Library baskısı, s. 9 (içindekiler tablosu). Altı iktisat denemesi: "Of Commerce", "Of Refinement in the Arts", "Of Money", "Of Interest", "Of the Balance of Trade", "Of the Jealousy of Trade". Hume'un mercantilist eleştirisinin tam coğrafyası bu altı denemededir.
 
 [^2]: Adam Smith. *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Kitap IV başlık sayfası, s. 556. "Book Four: Of Systems of Political Economy." Smith'in mercantilist sistemi "Of Systems" başlığı altında konumlandırması, onu fizyokrasi ile yan yana eleştirmenin sistematik çerçevesini kurar.

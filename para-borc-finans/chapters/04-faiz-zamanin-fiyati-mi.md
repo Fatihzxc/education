@@ -36,6 +36,8 @@ Bu argüman bizi iki aşırılıktan korur. Birinci aşırılık, faizi bütün�
 
 Doğru düşünme şu ara yerde başlar: Faiz hangi durumda üretken yatırımın bedeli, hangi durumda çaresizliğin sömürüsüdür?
 
+Burada birkaç teorik çıpa işe yarar. Klasik ve neoklasik anlatıda faiz çoğu zaman tasarruf ile yatırım arasındaki fiyat gibi görünür. Irving Fisher çizgisi bugünkü değer ile gelecek değer arasındaki ilişkiyi, yani zaman tercihinin hesabını öne çıkarır. Keynes ise faizi yalnız beklemenin ödülü gibi değil, likiditeden vazgeçmenin bedeli olarak da düşünür: İnsan belirsiz dünyada elde nakit tutmak ister; paradan vazgeçmesi için bir neden gerekir. Bu iki okuma yan yana gelince faiz daha berraklaşır: Faiz hem zaman hesabıdır hem belirsizlik karşısında güven arayışıdır hem de güç farkının sayıya dönüşebildiği yerdir.
+
 ## Kök sebep ve karşı okuma
 
 Kök sebep zaman farkıdır. Bugün kaynak var, yarın geri ödeme var. Bu aralık fiyatlandırılır.
@@ -81,3 +83,22 @@ Bilgelik, oranı ahlaktan koparmadan ama ahlakı da hesaptan koparmadan düşün
 Bugün faiz tartışması merkez bankası kararlarında, kredi kartı borcunda, konut kredisinde, mevduat gelirinde ve devlet borçlanmasında karşımıza çıkar. Faiz yükseldiğinde borçlu zorlanabilir, tasarruf sahibi korunabilir, yatırım yavaşlayabilir, kur baskısı azalabilir veya artabilir. Tek bir karar, farklı sınıflara farklı biçimde değer.
 
 Bu yüzden "faiz iyi mi kötü mü?" sorusu tek başına zayıftır. Daha iyi soru şudur: Hangi faiz, hangi enflasyon koşulunda, hangi borçlu ve alacaklı için, hangi toplumsal bedelle işliyor? Bu soru meseleyi slogan olmaktan çıkarır, düşünce haline getirir.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Thomas Aquinas, *Summa Theologiae*, faiz/riba tartismalari
+- Eugen von Bohm-Bawerk, *Positive Theory of Capital*
+- Irving Fisher, *The Theory of Interest*
+- John Maynard Keynes, *The General Theory*
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

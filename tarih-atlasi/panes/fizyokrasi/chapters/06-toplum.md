@@ -119,6 +119,15 @@ Fizyokrasi tarımı yüceltir, ama bu yüceltme köylünün gerçek hayatını o
 
 İleri soru şudur: Bir sektör "toplumun temeli" ilan edildiğinde o sektördeki insanların hepsi kazanır mı? Fizyokrasi bize üretkenlik övgüsü ile toplumsal adaletin aynı şey olmadığını hatırlatır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Paydaş tablosu: aynı reform herkese aynı görünmez" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Cynthia A. Bouton. *The Flour War: Gender, Class, and Community in Late Ancien Régime French Society* (1993). 1775 un savaşlarını sınıf, topluluk ve gündelik hayat üzerinden okur.

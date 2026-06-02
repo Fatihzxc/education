@@ -211,8 +211,17 @@ Bu tarihsel paradoks, modern "*Doğu / Batı kadın hakları*" söylemini sorgul
 
 İleri düzeyde Osmanlı toprağını modern mülkiyet terazisinde eksik sayma. Farklı hakların farklı aktörlere dağıtılması, başka bir yönetim ve geçim mantığı kurar. Bu mantık bazen esneklik ve süreklilik sağlar, bazen de modern piyasa devrinde belirsizlik ve çatışma üretir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Farklı bir mülkiyet rejimi" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: İnalcık, H. ve Quataert, D. *An Economic and Social History of the Ottoman Empire*, s. 76. Devletin *dominium eminens*'i ve Osmanlı toprak hukukunun yapısı.
 
 [^2]: İnalcık, H. ve Quataert, D. *An Economic and Social History of the Ottoman Empire*, s. 79. Mîrî toprakların satışının yasaklanması ve "özel mülkiyetin sonuçları" tartışması.

@@ -8,7 +8,7 @@
       "title": "Niye \"klasik iktisat\"?",
       "subtitle": "Terim, kanon, 1776-1870 yayı, kitabın çerçevesi",
       "estWords": 3700,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 2,
@@ -16,7 +16,7 @@
       "title": "Smith'in sistemi",
       "subtitle": "Wealth'i 5 cilt iç-mantığı olarak okumak",
       "estWords": 6150,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 3,
@@ -24,7 +24,7 @@
       "title": "Malthus ve nüfusun sınırları",
       "subtitle": "Essay on Population (1798), iç-eleştiri olarak",
       "estWords": 4250,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 4,
@@ -32,7 +32,7 @@
       "title": "Ricardo'nun Principles'ı",
       "subtitle": "Emek-değer + diferansiyel rant + karşılaştırmalı üstünlük + parasal teori",
       "estWords": 6200,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 5,
@@ -40,7 +40,7 @@
       "title": "Klasik makro",
       "subtitle": "Say'in yasası, ücret fonu, sermaye birikim mantığı",
       "estWords": 4800,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 6,
@@ -48,7 +48,7 @@
       "title": "Klasik büyüme teorisi",
       "subtitle": "Smithian artan-getiri vs Ricardian azalan-getiri, durağan-durum",
       "estWords": 3350,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 7,
@@ -56,7 +56,7 @@
       "title": "Karşılaştırmalı üstünlük ve serbest ticaret",
       "subtitle": "Ricardo formülü, Anti-Corn-Law League, 1846 abolition",
       "estWords": 5100,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 8,
@@ -64,7 +64,7 @@
       "title": "Klasik iktisat ve İngiliz politik bağlamı",
       "subtitle": "Reform Bill 1832, Chartism, Factory Acts, Engels 1845, ütopyacı sosyalistler",
       "estWords": 5800,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 9,
@@ -72,7 +72,7 @@
       "title": "J.S. Mill ve klasik sentez",
       "subtitle": "Principles (1848), durağan-durum tercihi, On Liberty, kadın ve mülkiyet",
       "estWords": 6150,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 10,
@@ -80,7 +80,7 @@
       "title": "Klasik iktisat ve Osmanlı modernleşmesi",
       "subtitle": "Sakızlı Ohannes, Münif Paşa, Mehmed Cavid Bey — İlm-i İktisad'ın geç gelişi",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 11,
@@ -88,7 +88,7 @@
       "title": "Klasik'in iki karşıt mirasçısı",
       "subtitle": "Marjinal devrim (Jevons-Walras-Menger) + Marx hattı — nesnel değerin terki ve sosyal-yerli devamı",
       "estWords": 6300,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 12,
@@ -96,7 +96,7 @@
       "title": "Bugün — klasik mirasın yankıları",
       "subtitle": "Sraffian/neo-Ricardian, Piketty Capital, eşitsizlik ve büyüme",
       "estWords": 3950,
-      "status": "draft"
+      "status": "completed"
     }
   ]
 }

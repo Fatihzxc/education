@@ -175,8 +175,17 @@ Genç'in üçlü çerçevesini ekteki playground'da kavram kavram inceleyebilir,
 - [Men-i ihracat — ihracat yasağı](appendix/playground.html#concept/men-i-ihracat)
 - [Mehmet Genç ve üçlü ilke tezi](appendix/playground.html#concept/mehmet-genc)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Üç ilke, tek çatı" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Mehmet Genç. *Osmanlı İmparatorluğu'nda Devlet ve Ekonomi*, s. 17. "Osmanlı dünyası hakkında, milliyetçiliğin etkisi altında yumuşatılmış şekli içinde de olumsuzluğunu koruyan bu yaygın tasavvur çağdaş bir mitostan ibaretti."
 
 [^2]: Genç, *Devlet ve Ekonomi*, s. 46. "[Osmanlı'nın iktisat] dünya görüşünün ana çizgileri arasında sayılması gereken başlıca üç ana ilke tespit etmekteyiz. Bunlar iaşe (provizyonizm), fiskalizm ve gelenekçiliktir."

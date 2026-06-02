@@ -20,11 +20,11 @@ async function loadRegistry() {
 test('registry separates readable books, pane shortcuts, and planned themes', async () => {
   const registry = await loadRegistry();
 
-  assert.equal(registry.MerkantilizmThemes.length, 9);
+  assert.equal(registry.MerkantilizmThemes.length, 10);
   assert.ok(Array.isArray(registry.MerkantilizmPaneShortcuts));
   assert.ok(Array.isArray(registry.MerkantilizmPlannedThemes));
   assert.ok(registry.MerkantilizmPaneShortcuts.length >= 6);
-  assert.ok(registry.MerkantilizmPlannedThemes.length >= 4);
+  assert.ok(registry.MerkantilizmPlannedThemes.length >= 3);
   assert.ok(registry.MerkantilizmPlannedThemes.every((theme) => !theme.href));
   assert.ok(registry.MerkantilizmThemes.every((theme) => theme.homeGroup));
 });
@@ -77,6 +77,7 @@ test('book subpages expose a top main-menu link', async () => {
     '../deger/book.html',
     '../mulkiyet/book.html',
     '../egemenlik/book.html',
+    '../emek-calisma/book.html',
     '../iktisat-haritasi/book.html',
     '../tarih-atlasi/book.html',
     '../para-borc-finans/book.html'
@@ -101,25 +102,43 @@ test('book subpages expose a top main-menu link', async () => {
   }
 });
 
-test('para borc finans is a completed main book, not a planned placeholder', async () => {
+test('completed wisdom books are main books, not planned placeholders', async () => {
   const registry = await loadRegistry();
   const bySlug = Object.fromEntries(
     registry.MerkantilizmThemes.map((theme) => [theme.slug, theme])
   );
-  const manifest = JSON.parse(await readText('../para-borc-finans/chapters/_index.json'));
+  const books = [
+    {
+      slug: 'para-borc-finans',
+      title: 'Para, Borç ve Finans',
+      manifestPath: '../para-borc-finans/chapters/_index.json'
+    },
+    {
+      slug: 'emek-calisma',
+      title: 'Emek ve Çalışma',
+      manifestPath: '../emek-calisma/chapters/_index.json'
+    }
+  ];
 
-  assert.equal(bySlug['para-borc-finans'].title, 'Para, Borç ve Finans');
-  assert.equal(bySlug['para-borc-finans'].status, 'completed');
-  assert.equal(bySlug['para-borc-finans'].homeGroup, 'main');
-  assert.equal(manifest.chapters.length, 12);
-  assert.ok(manifest.chapters.every((chapter) => chapter.status === 'completed'));
-  assert.ok(
-    registry.MerkantilizmPlannedThemes.every((theme) => theme.slug !== 'para-borc-finans')
-  );
+  for (const book of books) {
+    const manifest = JSON.parse(await readText(book.manifestPath));
+
+    assert.equal(bySlug[book.slug].title, book.title);
+    assert.equal(bySlug[book.slug].status, 'completed');
+    assert.equal(bySlug[book.slug].homeGroup, 'main');
+    assert.equal(manifest.chapters.length, 12);
+    assert.ok(manifest.chapters.every((chapter) => chapter.status === 'completed'));
+    assert.ok(
+      registry.MerkantilizmPlannedThemes.every((theme) => theme.slug !== book.slug)
+    );
+  }
 });
 
-test('para borc finans chapters follow philosophical reasoning and wisdom structure', async () => {
-  const manifest = JSON.parse(await readText('../para-borc-finans/chapters/_index.json'));
+test('wisdom books follow philosophical reasoning and wisdom structure', async () => {
+  const books = [
+    '../para-borc-finans/chapters/_index.json',
+    '../emek-calisma/chapters/_index.json'
+  ];
   const required = [
     'Temel varsayım',
     'Akıl yürütme',
@@ -132,14 +151,19 @@ test('para borc finans chapters follow philosophical reasoning and wisdom struct
     'Bugüne bakan sonuç'
   ];
 
-  for (const chapter of manifest.chapters) {
-    const markdown = await readText(`../para-borc-finans/chapters/${chapter.slug}.md`);
-    const wordCount = (markdown.match(/[\p{L}\p{N}]+/gu) || []).length;
+  for (const manifestPath of books) {
+    const manifest = JSON.parse(await readText(manifestPath));
+    const chapterBase = manifestPath.replace('_index.json', '');
 
-    assert.ok(wordCount >= 1000, `${chapter.slug} is too thin for wisdom-depth reading`);
-    assert.doesNotMatch(markdown, /\b(TODO|TBD)\b/, `${chapter.slug} still has placeholder text`);
-    for (const heading of required) {
-      assert.match(markdown, new RegExp(`## ${heading}`), `${chapter.slug} lacks ${heading}`);
+    for (const chapter of manifest.chapters) {
+      const markdown = await readText(`${chapterBase}${chapter.slug}.md`);
+      const wordCount = (markdown.match(/[\p{L}\p{N}]+/gu) || []).length;
+
+      assert.ok(wordCount >= 1000, `${chapter.slug} is too thin for wisdom-depth reading`);
+      assert.doesNotMatch(markdown, /\b(TODO|TBD)\b/, `${chapter.slug} still has placeholder text`);
+      for (const heading of required) {
+        assert.match(markdown, new RegExp(`## ${heading}`), `${chapter.slug} lacks ${heading}`);
+      }
     }
   }
 });

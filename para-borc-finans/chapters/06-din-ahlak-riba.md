@@ -28,6 +28,8 @@ Dördüncü basamak: Bu ayrım İslam iktisat düşüncesinde riba ile ticaret a
 
 Beşinci basamak: Yine de sınır kolay çizilmez. Çünkü modern finans araçları karmaşıktır. Bir işlem hukuken ortaklık gibi kurulabilir ama ekonomik olarak sabit faiz gibi çalışabilir. Bir kredi üretken yatırım için alınabilir ama borçluyu bağımlı hale getirebilir.
 
+Burada isim ve sözleşme pusulası okuru güçlendirir. Aristoteles'in paradan para kazanma kuşkusu, Thomas Aquinas ve skolastik usury tartışmaları, İslam hukukundaki riba hassasiyeti aynı soruyu farklı dillerle sorar: Kazanç gerçek bir mal, emek, risk veya ortak üretim ilişkisine bağlı mı? İslam finansında murabaha satış kârı üzerinden, mudaraba emek-sermaye ortaklığı üzerinden, musharaka ortak sermaye ve risk paylaşımı üzerinden, sukuk ise varlığa dayalı gelir hakkı üzerinden düşünülür. Fakat burada dikkat gerekir: Bir sözleşmenin adı ortaklık olsa bile ekonomik yük gerçekten paylaşılıyor mu, yoksa risk yine zayıf tarafa mı kalıyor? Bilgelik, şekle değil riskin fiili dağılımına bakar.
+
 ## Bölümün argümanı
 
 Bu bölümün argümanı şudur: Riba ve faiz tartışmalarının kalbinde teknik bir fiyat değil, **kazancın meşruiyeti** sorusu vardır.
@@ -83,3 +85,22 @@ Bilgelik, meşruiyeti yalnız yasadan değil, ilişkinin iç yapısından da sor
 Bugün İslami finans, etik bankacılık, mikro kredi, tüketici koruma düzenlemeleri ve borç danışmanlığı aynı alanda buluşur. Hepsi farklı dillerle şunu sorar: Finans insanın hayat alanını genişletiyor mu, yoksa onu sürekli borç çevirmeye mecbur mu bırakıyor?
 
 Bu yüzden riba tartışmasını yalnız "faiz var mı yok mu?" düzeyine indirmek yetersizdir. Daha derin soru, finansal sözleşmenin adalet mimarisidir. Kâr ve zarar nasıl paylaşılıyor? Bilgi asimetrisi var mı? Borçlu gerçekten anlıyor mu? Çıkış yolu var mı? Bu sorular sorulmadan finans ahlakı kurulamaz.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Kuran ve hadislerde riba tartismalari
+- Thomas Aquinas, *Summa Theologiae*
+- Max Weber, *The Protestant Ethic*
+- Timur Kuran, Islam iktisat tarihi calismalari
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

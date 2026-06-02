@@ -130,8 +130,17 @@ Bu yüzden ticaret fazlası fikri yalnızca muhasebe değildir; dış bağımlı
 
 İleri düzey soru şudur: Merkantilist iktisat, piyasa verimliliğinden çok **ödemeler gücü** düşünür. Modern döviz krizi, rezerv biriktirme ve cari açık tartışmalarında bu eski aklın izleri hâlâ görünür.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Para neden bu kadar merkezdeydi?" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Earl J. Hamilton. *American Treasure and the Price Revolution in Spain, 1501-1650* (1934). Amerika gümüşü ile Avrupa fiyatları arasındaki ilişkiyi klasik biçimde tartışır.
 [^2]: Thomas Mun. *England's Treasure by Forraign Trade* (1664). Mun'un dış ticaret dengesi düşüncesi için ana metin.
 [^3]: Mehmet Genç. *Osmanlı İmparatorluğu'nda Devlet ve Ekonomi* (2014). İaşecilik, fiskalizm ve gelenekçilik çerçevesi.

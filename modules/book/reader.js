@@ -7,8 +7,8 @@
  *     [^1]: Mun, T. (1664). *England's Treasure by Forraign Trade*, s. 4.
  *
  * Reader rewrites ^[N] into clickable <sup class="footnote-ref" data-fn="N">N</sup>
- * and turns the Kaynakça section into a hidden definition list. Clicking a
- * footnote-ref toggles a .footnote-inline expander right under the paragraph.
+ * and renders the Kaynakça definitions both as a visible bibliography and as
+ * inline expanders. Clicking a footnote-ref toggles a .footnote-inline block.
  *
  * URL hash:  #bolum/4         → load chapter 4 from top
  *            #bolum/4/4.2     → load chapter 4, scroll to section 4.2
@@ -159,11 +159,31 @@
   // Extract `[^N]: ...` definitions (after rendering) and stash them, then strip the Kaynakça section
   function extractFootnoteDefs(raw) {
     const defs = {};
-    const cleaned = raw.replace(/^\[\^(\d+)\]:\s*([^\n]+(?:\n {2,}[^\n]+)*)/gm, (_, num, body) => {
+    let cleaned = raw.replace(/^\[\^(\d+)\]:\s*([^\n]+(?:\n {2,}[^\n]+)*)/gm, (_, num, body) => {
       defs[num] = body.trim();
       return '';
     });
+    if (Object.keys(defs).length) {
+      cleaned = cleaned.replace(/\n## Kaynakça\s*(?:\n\s*)*$/u, '\n');
+    }
     return { defs, cleaned };
+  }
+
+  function renderFootnoteBibliography(defs) {
+    const entries = Object.entries(defs);
+    if (!entries.length) return '';
+    const items = entries.map(([num, body]) => {
+      const rendered = window.marked && window.marked.parseInline
+        ? window.marked.parseInline(body)
+        : escapeHtml(body);
+      return `<li id="fn-def-${escapeHtml(num)}"><span class="fn-num">${escapeHtml(num)}.</span>${rendered}</li>`;
+    }).join('');
+    return `
+      <section class="chapter-sources" aria-label="Kaynakça">
+        <h2>Kaynakça</h2>
+        <ol>${items}</ol>
+      </section>
+    `;
   }
 
   function renderMarkdown(raw, chapter, manifest) {
@@ -209,7 +229,7 @@
       <h1><span class="chapter-num-prefix">Bölüm ${chapter.num}</span>${escapeHtml(chapter.title)}</h1>
       <p class="chapter-subtitle">${escapeHtml(chapter.subtitle || '')}</p>
     `;
-    return head + dom.innerHTML + chapterNavFooter(chapter, manifest);
+    return head + dom.innerHTML + renderFootnoteBibliography(defs) + chapterNavFooter(chapter, manifest);
   }
 
   function collectSections(dom, chapterNum) {

@@ -163,9 +163,17 @@ Bu paketin kalbi şudur: "Üretken olan nedir?" sorusundan sonra hemen "bu üret
 
 İleri düzeyde fizyokratları yalnız tarım romantikleri gibi okuma. Onlar, karmaşık ayrıcalıklar toplumunda tek ve okunabilir bir iktisadi düzen bulmaya çalışırlar. Bu arayış hem öğreticidir hem de risklidir: karmaşayı azaltır, ama bazı sınıfların ve üretim biçimlerinin sesini de kısabilir.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Bir okulun kendine bulduğu ad" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Lars Magnusson. *Mercantilism: The Shaping of an Economic Language* (Routledge, 1994). Magnusson, "merkantilizm" teriminin Mun, Colbert ya da Hörnigk'in kendi kendilerini adlandırmadıkları, 18. yüzyıl sonu eleştirmenlerinin ve nihai olarak Adam Smith'in *Wealth of Nations*'taki (1776, Kitap IV) sistematik kullanımıyla kavrama dönüştüğünü gösterir. Ayrıca: Adam Smith. *An Inquiry into the Nature and Causes of the Wealth of Nations* (W. Strahan and T. Cadell, Londra, 1776), Kitap IV, "The Mercantile System" başlıklı bölümler.
 
 [^2]: Pierre Samuel Du Pont de Nemours, derleyen. *Physiocratie, ou Constitution naturelle du gouvernement le plus avantageux au genre humain* (Leyden ve Paris, 1768). Quesnay'in dağınık yazılarını ve fizyokrat çevrenin programatik metinlerini tek bir başlık altında toplayan derleme; "fizyokrasi" adının kamusal dolaşıma girdiği yapıt. Modern eleştirel çerçeve: Ronald L. Meek. *The Economics of Physiocracy: Essays and Translations* (George Allen & Unwin, 1962).

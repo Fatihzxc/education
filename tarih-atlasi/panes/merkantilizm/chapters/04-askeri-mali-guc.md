@@ -106,6 +106,15 @@ Bu yüzden imtiyazlı şirketleri yalnızca özel girişim gibi okumak eksik kal
 
 İleri soru şudur: Merkantilist çağda kapitalizm özel sektörün devletten kurtulmasıyla mı büyüdü, yoksa devlet şiddeti ve ticari imtiyazla iç içe mi genişledi? Bu soru modern küresel kapitalizmi anlamak için de hâlâ keskindir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Savaş neden pahalandı?" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Charles Tilly. *Coercion, Capital, and European States, AD 990-1992* (1990). Savaş, vergi ve devlet kapasitesi ilişkisi için temel çerçeve.

@@ -147,8 +147,17 @@ Keynes bize belirsizlik altında talebin çökebileceğini gösterir. Friedman p
 
 Bu bölümün cümlesi şu olsun: Keynes "güven kırılırsa ekonomi durur" der; Friedman "para disiplini kaybolursa fiyat güveni çöker" der; Hayek "fiyat sinyalini bozarsan toplumun dağınık bilgisini susturursun" der. Makro düşünce bu üç uyarıyı aynı anda duyabildiğinde olgunlaşır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Keynes: Belirsizlik ve etkin talep" başlığının gösterdiği somut düğümden oku: belirsizlik, talep yetersizliği ve para ekonomisinde devletin ne yapacağı sorusu.
+- **Baskın bakış:** kriz yöneten devlet ve istihdam arayan toplum; çünkü piyasa tek başına toparlanmayabilir.
+- **Güçlü karşı fikir:** klasik, monetarist ve neoliberal okumalar devlet müdahalesinin sınırlarını sorar.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: John Maynard Keynes. *The General Theory of Employment, Interest and Money* (1936). Belirsizlik, etkin talep, likidite tercihi ve yatırım davranışı için temel metin.
 [^2]: Milton Friedman. "The Quantity Theory of Money: A Restatement" (1956) ve "The Role of Monetary Policy" (1968). Monetarist para ve beklenti çerçevesi için temel metinler.
 [^3]: Friedrich A. Hayek. "The Use of Knowledge in Society" (1945). Fiyat sinyali ve dağınık bilgi argümanı için klasik makale.

@@ -108,8 +108,17 @@ Bu tablo özellikle Afrika ve Amerika için ufuk açar. Yazılı belge azlığı
 
 Bu soru seni determinist cevaplardan korur. Coğrafya, kurum, savaş, salgın, ticaret ve bilgi birlikte çalışır; hiçbiri tek başına kader değildir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru: 1000-1450 arasında dünya neden hızlandı?" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 - Janet Abu-Lughod, *Before European Hegemony*.
 - Chris Wickham, *Medieval Europe*.
 - Timothy Brook, *The Troubled Empire*.

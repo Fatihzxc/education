@@ -215,9 +215,17 @@ Bu akış şunu gösterir: Smith'i devletsiz piyasa savunucusu gibi okumak eksik
 İleri düzeyde Smith’i sloganlaştırma. Onun sistemi, bireysel çıkarın toplumsal sonuçlarını anlatırken güven, hukuk, eğitim ve kamu işleri gibi piyasa dışı desteklere de dayanır.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Dört portreden bir sisteme" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Smith'in biyografisi için kanonik referans Ian Simpson Ross'un *The Life of Adam Smith* (Oxford UP, 1995; 2. baskı 2010) eseridir; Buccleuch emekli maaşı, Townshend bağlantısı ve Gümrük Komiserliği gelirlerinin somut rakamlarını arşiv kaynaklarıyla belgeler. Smith'in Glasgow yıllarının ve İskoç Aydınlanması ağındaki konumunun en sıkı incelemesi ise Nicholas Phillipson'ın *Adam Smith: An Enlightened Life* (Yale UP, 2010) çalışmasıdır. İskoç Aydınlanması'nın tütün ticareti ve Karayipler köleciliğiyle maddi bağı için T.M. Devine'ın *The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow* (John Donald, 1975) ve *Scotland's Empire 1600-1815* (Penguin, 2003) eserleri standart referanslardır; Türkçe okur için İskoç Aydınlanması'nın iktisadi düşüncedeki yerini Eyüp Özveren'in *İktisat ve İktisatçılar* (İletişim, 2017) içinde Smith ve Hume üzerine bölümlerden takip edebilir.
 
 [^2]: Karl Polanyi'nin *The Great Transformation: The Political and Economic Origins of Our Time* (Farrar & Rinehart, 1944; Türkçesi: *Büyük Dönüşüm — Çağımızın Siyasal ve Ekonomik Kökenleri*, çev. Ayşe Buğra, İletişim Yayınları, ilk baskı 1986) eseri, Smith'in "sessiz varsayımlar"ının tarihsel-kurumsal eleştirisinin kanonik metnidir. Polanyi tezinin Smith ve klasik iktisat literatürü içindeki konumlandırılması için Fred Block ve Margaret Somers'ın *The Power of Market Fundamentalism: Karl Polanyi's Critique* (Harvard UP, 2014) çalışması başvuru kaynağıdır. *Wealth of Nations*'taki "doğal hürriyet sistemi"nin tarihsel-hukuksal inşa boyutunun Smith metni içinde izlerine ilişkin en ayrıntılı analiz Istvan Hont ve Michael Ignatieff'in editörlüğündeki *Wealth and Virtue: The Shaping of Political Economy in the Scottish Enlightenment* (Cambridge UP, 1983) derlemesindedir. Türkçe okur Buğra çevirisindeki Polanyi ile birlikte Ayşe Buğra'nın *İktisatçılar ve İnsanlar* (İletişim, ilk baskı 1989) eserini tamamlayıcı olarak okuyabilir.

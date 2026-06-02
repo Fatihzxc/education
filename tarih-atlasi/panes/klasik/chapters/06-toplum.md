@@ -112,7 +112,16 @@ Bu bakış güçlüdür, çünkü gelir kaynaklarının toplumsal konumu nasıl 
 
 İleri soru şudur: Sınıfı gelir kaynağı üzerinden görmek bize ne kazandırır, hangi emek biçimlerini görünmez bırakır? Klasik iktisadı bugün genişletmek için bu soruyu sormak gerekir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Fabrika neyi değiştirdi?" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: The National Archives, "Victorian Industrial Towns". Sanayi şehirlerinin büyümesi ve Londra nüfus ölçeği için kullanıldı.
 [^2]: UK Parliament, "The 1833 Factory Act". Çocuk emeği sınırları, eğitim şartı ve fabrika müfettişliği için kullanıldı.

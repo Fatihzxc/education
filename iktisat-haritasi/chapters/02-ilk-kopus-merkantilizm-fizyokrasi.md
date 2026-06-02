@@ -89,8 +89,17 @@ Merkantilizmden fizyokrasiye ilk kopuş, böylece, haritanın geri kalanının d
 
 İleri düzeyde haritayı doğru teoriye doğru yürüyüş gibi değil, farklı tarihsel baskılara verilmiş cevapların birikimi gibi oku. Bir ekol eskidiğinde bile, doğduğu sorun geri geldiğinde yeniden konuşmaya başlar.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Merkantilizm: tek bir "ekol" bile değildi" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Kitap IV, "Of the Mercantile System". "Merkantilizm"in tek-yazarlı bir ekol değil, sonradan inşa edilmiş bir kategori olduğu tezi için: Lars Magnusson, *Mercantilism: The Shaping of an Economic Language* (Routledge, 1994). Merkantilist literatürün dağınıklığı ve ortak sezgileri için kardeş kitap `merkantilizm`, özellikle Mun (Bölüm 4) ve Colbert (Bölüm 5).
 
 [^2]: François Quesnay, *Tableau économique* (Versailles, 1758) ve "Maximes générales du gouvernement économique d'un royaume agricole" (1767). Fizyokrasinin modern eleştirel çerçevesi: Ronald L. Meek, *The Economics of Physiocracy: Essays and Translations* (Allen & Unwin, 1962). *Produit net*, Tableau ve *impôt unique*'in ayrıntılı işlenişi kardeş kitap `fizyokrasi`, Bölüm 5-6.

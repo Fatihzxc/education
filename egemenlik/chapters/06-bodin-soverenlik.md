@@ -90,7 +90,7 @@ Bu kart Bodin'in kök sebebini netleştirir: O, kaosun içinden düzen arıyordu
 
 ## 6.6 Bodin'in Westphalia sistemine etkisi
 
-1576'da yazılan *République*, 1648 Westphalia Antlaşması'nın kavramsal hazırlığıdır. Westphalia, modern uluslararası devletler sisteminin doğum belgesidir: Otuz Yıl Savaşları'nın sonunda, Avrupa devletleri birbirlerinin egemenliğini *eşit* ve *karşılıklı* olarak tanıdı.
+1576'da yazılan *République*, 1648 Westphalia barış düzenine giden zihinsel iklimi anlamak için önemlidir; ama Westphalia'yı modern uluslararası devletler sisteminin tekil "doğum belgesi" gibi okumak fazla pürüzsüz olur. Daha dikkatli formül şudur: Westphalia, sonradan modern egemen devlet anlatısının kurucu sembolü haline getirilen bir barış düzenidir. Otuz Yıl Savaşları'nın sonunda bazı müdahale, imparatorluk ve papalık iddiaları sınırlandırıldı; fakat modern egemenlik rejimi tek bir antlaşma anında değil, uzun bir merkezileşme, savaş, diplomasi ve hukuk süreci içinde şekillendi.
 
 Bu sistemin üç temel ilkesi vardır:
 
@@ -100,9 +100,9 @@ Bu sistemin üç temel ilkesi vardır:
 
 **3. *Karşılıklı tanıma*** (mutual recognition). Devletler birbirini eşit egemen olarak tanır. Hiçbir devlet diğerinden hiyerarşik olarak üstün değildir.
 
-Bu üç ilke birlikte, modern uluslararası ilişkilerin "Westphalia sistemi" diye anılan yapısını oluşturur. Bodin'in *République*'inde sistematik biçimde formüle edilen sovranlık kavramı, bu sistemin teorik kalbidir.
+Bu üç ilke birlikte, modern uluslararası ilişkiler derslerinde "Westphalia sistemi" diye anılan yapının idealleştirilmiş çekirdeğini oluşturur. Bodin'in *République*'inde sistematik biçimde formüle edilen sovranlık kavramı bu anlatının teorik kalbidir; ama Andreas Osiander'ın uyarısı önemlidir: Westphalia miti, 19. ve 20. yüzyıl egemenlik takıntılarının geriye doğru kurduğu bir sadeleştirme de olabilir.
 
-Westphalia sisteminin sınırları vardır — özellikle 21. yüzyılda küreselleşme, AB-tarzı uluslar-üstü yapılar, ve uluslararası insan hakları rejimleri bu sistemin sınırlarını zorlar (Bölüm 12). Ama temel yapısı — toprak-temelli, eşit egemen devletler sistemi — Bodin'in çerçevesinin pratik mirası olarak modern uluslararası hukukun temelinde kalır.
+Westphalia anlatısının sınırları vardır — yalnız 21. yüzyılda küreselleşme, AB-tarzı uluslar-üstü yapılar ve uluslararası insan hakları rejimleri yüzünden değil, 1648'in kendisi de bu kadar temiz bir "başlangıç" olmadığı için. Yine de toprak-temelli, karşılıklı tanınmaya dayalı devletler sistemi fikri Bodin-Hobbes çizgisinin pratik miraslarından biri olarak modern uluslararası hukuk dilinde yaşamayı sürdürür.
 
 ## 6.7 Bodin ve fiyat teorisi: parallel bir katkı
 
@@ -126,7 +126,7 @@ Bodin'in egemenlik teorisinin modern düşünceye dört kalıcı izi:
 
 2. **Egemenliğin tek bir merkeze yoğunlaşması**. Modern merkezi devletin teorik temeli. Ortaçağ'ın "çoğul egemenlik" (papa-imparator-kral-baronlar) çerçevesinin reddi.
 
-3. **Westphalia sisteminin kavramsal kaynağı**. Modern uluslararası hukukun toprak-temelli eşit egemen devletler yapısı.
+3. **Westphalia anlatısının kavramsal kaynaklarından biri**. Modern uluslararası hukukun toprak-temelli eşit egemen devletler yapısı, Bodin'in sovranlık kavramıyla birlikte okunur; ama Westphalia'nın tek başına modern sistemi doğurduğu iddiası eleştirel literatürde tartışmalıdır.
 
 4. **Kantite para teorisinin erken formülasyonu**. Modern monetarist geleneğin tarihsel atası.
 
@@ -141,14 +141,14 @@ Bodin'in 1576'da formüle ettiği üç-nitelikli sovranlık tanımı (mutlak, s�
 | Tarih | Olay | Mutlak | Sürekli | Bölünmez |
 |------:|------|:------:|:-------:|:--------:|
 | 1576 | Bodin formülasyonu | ✓ (tanım gereği) | ✓ | ✓ |
-| 1648 | Westphalia Antlaşması | ✓ (her devlet kendi sınırlarında) | ✓ | ✓ (papa yetkisi reddedildi) |
+| 1648 | Westphalia Antlaşmaları | ~ (sonradan böyle yorumlandı) | ~ | ~ (papa/imparatorluk iddiaları sınırlandı) |
 | 1787 | ABD Anayasası | ~ (federal/eyalet paylaşımı) | ✓ | ✗ (kuvvetler ayrılığı) |
 | 1871 | Bismarck Almanyası | ~ (imparator + krallıklar) | ✓ | ✗ (federal yapı) |
 | 1922 | SSCB kuruluşu | ✓ (parti tek-egemen) | ~ (parti-içi süreçler) | ✓ (resmi olarak) |
 | 1957 | AET (Roma Antlaşması) | ✗ (yetki devri) | ~ | ✗ (üst-ulusal kurumlar) |
 | 2009 | AB Lizbon Antlaşması | ✗ | ✗ (üye değişimi) | ✗ (çok-katmanlı yönetim) |
 
-Tablonun gösterdiği örüntü: Bodin'in tanımı yaklaşık 200 yıl boyunca (1576-1787) tam tutar; sonra federal sistemler ve kuvvetler ayrılığı "bölünmez" niteliğini sarsmaya başlar; 20. yüzyıl ortasından itibaren AB-tipi uluslar-üstü yapılar her üç niteliği birden sorgular hale gelir.
+Tablonun gösterdiği örüntü: Bodin'in tanımı Avrupa devlet aklı ve mutlak monarşi tartışmalarında uzun süre güçlü kalır; fakat 1648 bile bu üç niteliği temiz bir biçimde gerçekleştiren bir "başlangıç anı" değildir. Federal sistemler ve kuvvetler ayrılığı "bölünmez" niteliğini sarsmaya başlar; 20. yüzyıl ortasından itibaren AB-tipi uluslar-üstü yapılar her üç niteliği birden sorgular hale gelir.
 
 Bu, Bodin'in çerçevesinin "yanlış" olduğunu göstermez; modern egemenliğin Bodin'in tanımına sığmayacak kadar çok-katmanlı hale geldiğini gösterir. 21. yüzyılda *fonksiyonel egemenlik* — farklı alanlarda farklı düzeylerde havuzlaştırılan yetki — Bodin'in 1576'daki tek-merkezli formülünden ayrılır. Bölüm 12, bu süreci sistematik biçimde işler.
 
@@ -186,8 +186,17 @@ Bodin'in tezi *egemenlik teorisi* açısından da kritiktir. Bir devletin para b
 
 İleri düzeyde Bodin’i “mutlakiyet savunucusu” diye hızlıca kapatma. Onun sert formülü, somut bir korkuya cevap verir: parçalı otorite altında hukuk sürekliliğinin çökmesi. Ama aynı formül başka bir kapı da açar: eğer son karar tek merkezde toplanırsa, o merkezin haksız kararına karşı kim konuşacaktır?
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1576 — Bodin'in formülasyonu" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Bodin, J. (1576). *Les Six Livres de la République*. Paris. Modern eleştirel edisyon: Mario Turchetti (ed.), Slatkine 2013 (10 cilt). İngilizce çeviri: Julian Franklin (ed.), *On Sovereignty: Four Chapters from the Six Books of the Commonwealth* (1992). Bu kitap kb-mcp'de bulunmamakta; bu bölümün argümanları doğrudan public-domain metinden ve Daniel Lee, *The Right of Sovereignty: Jean Bodin on the Sovereign State and the Law of Nations* (2021) gibi referanslardan inşa edilmiştir.
 
 [^2]: Bodin, J. (1568). *Réponse aux paradoxes de M. de Malestroit*. Fiyat devriminin para-miktar açıklaması; modern monetarist geleneğin atası. Bu eser kb-mcp'de mevcut.

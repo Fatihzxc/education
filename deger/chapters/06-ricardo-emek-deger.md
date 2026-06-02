@@ -173,7 +173,7 @@ Nüfus daha da büyür; C de ekilmek zorunda. Şimdi C maliyeti fiyatı belirler
 
 Bu çıkarımların politik gücü kendi başına büyüktür. 19. yüzyıl Britanya'sında toprak sahibi sınıfı (Parlamento'nun çoğunluğunu kontrol eden) ile yükselen sanayi-kapitalist sınıfı arasında yapısal bir gerilimi haritalandırır. 1846'da Sir Robert Peel'in *Corn Laws*'ı kaldırması, bu yapısal teşhisin politik bir uygulamasıdır.
 
-**Modern bir yankı**. Şehirsel toprak rantı bugün ekonominin merkez tartışmalarından birisi. New York, Londra, San Francisco gibi metropollerde, konut fiyatlarının yükselişinin önemli bir kısmı *toprak* fiyatından geliyor — binadan değil. Ricardo'nun tezini güncel bir versiyona çeviren Henry George (1879, *Progress and Poverty*) "*tek vergi*" önerdi: tüm vergileri kaldırın, sadece toprak değerine vergi koyun. 21. yüzyılda Thomas Piketty (*Capital in the 21st Century*, 2013) benzer bir mantıkla "*g > r*" tezini geliştirir: sermaye (toprak dahil) getirisi büyüme oranını sürekli aşar, bu yüzden servet eşitsizliği yapısal olarak artar.
+**Modern bir yankı**. Şehirsel toprak rantı bugün ekonominin merkez tartışmalarından birisi. New York, Londra, San Francisco gibi metropollerde, konut fiyatlarının yükselişinin önemli bir kısmı *toprak* fiyatından geliyor — binadan değil. Ricardo'nun tezini güncel bir versiyona çeviren Henry George (1879, *Progress and Poverty*) "*tek vergi*" önerdi: tüm vergileri kaldırın, sadece toprak değerine vergi koyun. 21. yüzyılda Thomas Piketty (*Capital in the Twenty-First Century*, 2013/2014) benzer bir bölüşüm sorusunu "*r > g*" formülüyle açar: `r` sermayenin ortalama getirisi, `g` ise ekonominin büyüme oranıdır. Eğer sermaye getirisi büyümeyi uzun süre aşarsa, birikmiş servet yeni üretimden daha hızlı büyür; bu yüzden servet eşitsizliği yapısal olarak artabilir.
 
 Bu modern uzantılar, Ricardo'nun 1817'deki üç-toprak modelinin doğrudan torunlarıdır. Modeli özümseyen biri, bugün New York'taki konut piyasasını ya da Henry George reformunu yeniden anlamlandırabilir.
 
@@ -192,8 +192,17 @@ Bu modern uzantılar, Ricardo'nun 1817'deki üç-toprak modelinin doğrudan toru
 İleri düzeyde Ricardo’nun gücünü model sadeliğinde, zayıflığını da aynı sadelikte ara. Bazen bir teori çok şeyi dışarıda bıraktığı için mekanizmayı net gösterir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1817 — bir cümle daha sıkı" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Ricardo, D. (1817). *On the Principles of Political Economy and Taxation*, Chapter I, s. 1. Açılış cümlesi; emek-değer teoremini Smith'in dağınık formülasyonundan daha sıkı bir teoreme dönüştürür.
 
 [^2]: Ricardo, D. (1817). *Principles*, Chapter II, s. 15. Nüfus artışı → daha az verimli toprak ekimi → rant'ın doğuşu. Ricardo'nun farklılaşmış rant teorisinin çekirdek mantığı.

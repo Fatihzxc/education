@@ -190,8 +190,17 @@ Bu üç örnekte ortak olan, Aristoteles'in tezhinin modern bir yankısıdır: e
 
 İleri düzeyde değer tartışmasını fiyatın nasıl oluştuğu sorusuna indirgeme. Değer teorisi, toplumun hangi emeği, hangi ihtiyacı ve hangi yaşam biçimini önemli saydığını da açığa çıkarır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Atina, M.Ö. 4. yüzyıl" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, indeks girişi "Aristotle", s. 1226. Chrematistik'i "doğal-olmayan bir kazanç biçimi" olarak Aristoteles'in *Politika* I'de tanımlamasına atıfta bulunur.
 
 [^2]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 120. Aristoteles'in kullanım/değişim ayrımının skolastik ve sonrası iktisat düşüncesinin başlangıç noktası olduğunu söyler.

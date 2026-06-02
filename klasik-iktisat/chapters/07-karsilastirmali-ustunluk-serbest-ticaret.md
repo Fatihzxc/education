@@ -35,7 +35,7 @@ IV. Kitap'ın II. bölümü, popüler kültürdeki "Smith her şeyin piyasada b�
 
 **İstisna 3: Misilleme.** Diğer ülke İngiliz mallarına gümrük koyuyorsa, biz de onun mallarına gümrük koyup pazarlık edebiliriz. Smith bunu *taktiksel* önerir, kalıcı politika olarak değil; amaç karşı tarafı tarife indirimine zorlamaktır. Bu, modern *ticaret diplomasisi* mantığının erken bir formülasyonudur.
 
-**İstisna 4: Kademeli geçiş.** Bir endüstri uzun süredir korunuyorsa, korumayı *ani* kaldırmak işsizlik yaratır; Smith açıkça **kademeli liberalizasyon** önerir. Bu, dördünün belki de en pratik politik önemlisidir; çünkü 20. yüzyıl sonunda tam karşı yönde uygulanan politikaların sonuçlarını öngörür. 1990'larda Doğu Avrupa ve Latin Amerika'da uygulanan *şok tedavisi* politikaları — Jeffrey Sachs'ın Polonya 1990 ve Rusya 1992 reçeteleri, IMF/Dünya Bankası *Washington Consensus* paketi — Smith'in bu uyarısını görmezden geldi; sonuç hızlı liberalizasyonun yarattığı yüksek işsizlik, sosyal çöküş ve uzun-vadeli kurumsal zayıflama oldu.
+**İstisna 4: Kademeli geçiş.** Bir endüstri uzun süredir korunuyorsa, korumayı *ani* kaldırmak işsizlik yaratır; Smith açıkça **kademeli liberalizasyon** önerir. Bu, dördünün belki de en pratik politik önemlisidir; çünkü 20. yüzyıl sonunda hızlı serbestleşme tartışmalarını okumak için erken bir uyarı verir. 1990'larda Doğu Avrupa, Latin Amerika ve post-Sovyet alanda uygulanan *şok tedavisi* ve Washington Consensus paketleri çok farklı sonuçlar doğurdu; Polonya ile Rusya aynı hikâye değildir. Yine de Smith'in uyarısı burada işe yarar: piyasa açılımının hızı, devlet kapasitesi, sosyal güvenlik ağı ve sektörel geçiş politikası hesaba katılmazsa liberalizasyon yalnız fiyatları değil, insanların hayat planlarını da sarsar.
 
 Bu istisnalar nasıl unutuldu? Yol iki aşamalıdır. **19. yüzyılda Manchester School** — Cobden, Bright ve takipçileri — Smith'in çerçevesini popüler kampanyaya çevirirken (Bölüm 7.8'de Anti-Corn-Law League) pragmatik kayıtları sansürledi; nüanslı bir Smith, sloganlaşabilecek bir Smith değildi. **20. yüzyıl neoliberal okuması** — özellikle Milton Friedman ve Friedrich Hayek üzerinden — bu sansürü teorik aksiyoma çevirdi. Friedman *Capitalism and Freedom*'da (1962) Smith'in istisnalarına neredeyse hiç değinmez; Smith pragmatik bir reformcu olarak değil, bir *bayrak* olarak işlev görür. Oysa Smith'in kendi yazısı tersini söyler: ekonomi politikasını ahlaki bir mutlak olarak değil, ulusal koşulların — savunma, vergileme, dış misilleme, sektörel istihdam — bağlamında tarttı. İstisnaları görmezden gelen okuma, Smith adına yapılmış ideolojik bir cinayet sayılır.
 
@@ -147,7 +147,7 @@ Ama hegemonya kalıcı olmadı. 1870'lerin sonundan itibaren — özellikle 1873
 
 ## 7.10 Klasik mirasın bugünü: WTO, ticaret savaşları, Rodrik sorusu
 
-Ricardian karşılaştırmalı üstünlük formülü, 1846'dan günümüze, kurumsal yapıların felsefi temeli olarak hayatta kalmıştır. **GATT** (1947) ve onun ardılı **WTO** (1995), küresel ticareti tarife indirimi turları ve uluslararası anlaşmazlık mekanizmalarıyla yönlendiren kurumsal mimari, Smith-Ricardo'nun teorik çerçevesinin uluslararası hukuk biçimindeki uygulamasıdır. **Avrupa Ortak Pazarı** (1957 Roma Antlaşması'ndan günümüz AB'sine) bölgesel ölçekte aynı mantığı işler: tarife duvarsız iç pazar, dört özgürlük (mallar, hizmetler, sermaye, emek) üzerinden uzmanlaşma ve mübadele kazançları. **NAFTA** (1994) — bugün **USMCA** (2020) — Kuzey Amerika ölçeğinde benzer bir denemeydi.
+Ricardian karşılaştırmalı üstünlük formülü, 1846'dan günümüze, ticaret kurumlarının arka planındaki en güçlü iktisadi sezgilerden biri olarak hayatta kalmıştır. Ama **GATT** (1947) ve onun ardılı **WTO** (1995), Smith-Ricardo'nun teorik çerçevesinin basitçe uluslararası hukuk biçimindeki uygulaması değildir. Bu kurumlar tarife indirimi, mütekabiliyet, uyuşmazlık çözümü, jeopolitik pazarlık, tarım istisnaları, fikri mülkiyet, hizmetler ve kalkınma muafiyetleriyle karmaşık bir hukuk-politika alanıdır. **Avrupa Ortak Pazarı** (1957 Roma Antlaşması'ndan günümüz AB'sine) bölgesel ölçekte serbest dolaşım ve uzmanlaşma fikrinden beslenir; ama aynı zamanda ortak regülasyon, rekabet hukuku ve siyasal bütünleşme projesidir. **NAFTA** (1994) — bugün **USMCA** (2020) — Kuzey Amerika ölçeğinde benzer biçimde hem ticaret kazancı hem pazarlık ve işgücü/tedarik zinciri düzenidir.
 
 Ne var ki Klasik formülün siyasi meşruiyeti 21. yüzyılda ciddi sınamadan geçiyor. **Trump tarifeleri** (2018'den itibaren ABD-Çin ticaret savaşı), **Brexit** (2016 referandumu sonrası AB ortak pazarından çıkış) ve **COVID-19 tedarik zinciri kırılması** (2020-22 boyunca "iktisadi güvenlik" söylemini güçlendiren küresel arz şokları) — bu üç olay, 21. yüzyıl serbest ticaret konsensüsünün çatlağını oluşturur. Aynı zamanda neo-mercantilist tepki dalgalarıdır: korumacılık + sanayi politikası + ulusal hesap yeniden ön plana çıkar. (Bu çerçeve kardeş *Merkantilizm* kitabının 12. bölümünde — modern endüstri politikası ve geç-kalkınma iktisadı — işlenmektedir.)
 
@@ -171,9 +171,17 @@ Karşılaştırmalı üstünlük teoremi, klasik iktisadın 70 yıllık politik 
 
 İleri düzeyde serbest ticareti matematiksel doğruluk ile tarihsel adalet arasında iki kez oku. Ricardo’nun modeli bize çok önemli bir mekanizma gösterir: bazı koşullarda ülkeler farklı alanlarda uzmanlaşarak toplam üretimi artırabilir. Ama modelin dışındaki soru da aynı derecede önemlidir: ülkeler bu modele aynı sanayi gücüyle, aynı finansmanla ve aynı pazarlık imkânıyla mı giriyor?
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "70 yıl: bir teorinin politik egemenliğe dönüşmesi" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: 26 Haziran 1846 tarihinde Britanya parlamentosunun *Importation Act 1846* olarak bilinen yasayla *Corn Laws*'u kaldırması. Boyd Hilton, *A Mad, Bad, and Dangerous People? England 1783-1846* (Oxford University Press, 2006), 14. Bölüm, Peel hükümeti dönemindeki tarife reformunu ve İrlanda kıtlığının politik momentuma katkısını ayrıntılı işler.
 
 [^2]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Kitap IV, Bölüm II. Modern erişilebilir baskı: Cannan ed., University of Chicago Press, 1976 — pasaj Cilt I, s. 478. Smith'in mercantile sistem eleştirisinin pratik-politik özetidir; korumacı tarifelerin reddinin ahlaki değil iktisadi gerekçeli olduğunu gösterir.

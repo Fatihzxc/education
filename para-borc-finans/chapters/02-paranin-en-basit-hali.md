@@ -36,6 +36,8 @@ Altın para da güven ister; çünkü altının saflığına, tartısına ve kab
 
 Demek ki "para gerçek mi?" sorusu yanlış kurulmuş olabilir. Daha doğru soru şudur: Bu paranın arkasındaki güven düzeni nedir?
 
+Bu bölümün kaynak pusulası burada açılır. Klasik ders kitabı parayı çoğu zaman üç işlevle anlatır: değişim aracı, hesap birimi, değer saklama aracı. Bu yararlıdır, ama yeterli değildir. Metallist bakış paranın değerini metal, kıtlık ve mal niteliğiyle düşünür. Chartalist bakış ise devletin vergi kabul ettiği, hukukla geçerli kıldığı ve topluma dayattığı para birimine dikkat çeker. Kredi para yaklaşımı daha da başka bir yerden bakar: Para çoğu zaman borç kayıtlarından, alacak-verecek ilişkilerinden ve defterlerden doğar. Bu üç bakış birbirini bütünüyle dışlamaz; okura şunu öğretir: Paranın biçimine bakmak yetmez, onu geçerli kılan ilişkiye bakmak gerekir.
+
 ## Kök sebep ve karşı okuma
 
 Kök sebep, değişimin büyümesi ve hesap ihtiyacıdır. İnsanlar üretir, değişir, borçlanır, vergi verir, ücret alır. Bu hareketlerin ortak dile çevrilmesi gerekir. Para bu ortak dili verir.
@@ -81,3 +83,22 @@ Bilgelik burada parayı reddetmek değildir. Para olmadan karmaşık toplumları
 Bugün paranın bu yönünü en çok enflasyon, kur, ücret ve varlık fiyatlarında hissederiz. İnsan maaşının aynı kaldığını ama hayatının daraldığını gördüğünde, paranın yalnız sayı olmadığını anlar. Aynı nominal gelir, farklı fiyat düzeninde farklı hayat demektir.
 
 Aynı şekilde, bir evin barınma yeri mi yoksa yatırım varlığı mı olduğu sorusu da paranın dünyayı nasıl sayıya çevirdiğini gösterir. Ev fiyatı yükseldiğinde mülk sahibi zenginleşmiş hissedebilir; kiracı ise aynı yükselişi gelecek kaybı olarak yaşar. Para burada tarafsız bir etiket gibi görünür, ama farklı hayatları farklı biçimde keser.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Aristoteles, *Politika* ve *Nikomakhos Etigi* para pasajlari
+- Carl Menger, "On the Origin of Money"
+- Adam Smith, *Wealth of Nations*, para ve mubadele bolumleri
+- A. Mitchell Innes, "The Credit Theory of Money"
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

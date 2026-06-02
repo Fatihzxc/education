@@ -204,8 +204,17 @@ Bu, modern kalkınma iktisadının önemli bir dersidir. "*Commons özelleştiri
 İleri düzeyde Coase ve Ostrom’u aynı basit kurum önemlidir cümlesine sıkıştırma. Biri pazarlık ve hak tahsisini, diğeri yerel kuralların dayanıklılığını görünür kılar.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Mülkiyetin kurum olarak yeniden okunması" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: North, D.C. (1990). *Institutions, Institutional Change and Economic Performance*, s. 31. Mülkiyet haklarının basit maliyet-fayda hesabıyla geliştirilmesi.
 
 [^2]: North, D.C. (1990). *Institutions*, s. 20. Mülkiyet hakkı dört yetki: kullanma, gelir, dışlama, devretme.

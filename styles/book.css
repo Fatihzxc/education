@@ -363,6 +363,26 @@ a:hover { text-decoration: underline; }
   font-weight: 600;
   margin-right: 8px;
 }
+.book-article .chapter-sources {
+  margin: 42px 0 28px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+  color: var(--text-secondary);
+  font-size: 15px;
+  line-height: 1.65;
+}
+.book-article .chapter-sources h2 {
+  margin-top: 0;
+}
+.book-article .chapter-sources li {
+  margin-bottom: 10px;
+  overflow-wrap: anywhere;
+}
+.book-article .chapter-sources .fn-num {
+  color: var(--accent);
+  font-weight: 600;
+  margin-right: 6px;
+}
 
 /* Inline term decoration (reuses .term-link from terminology.js) */
 .book-article .term-link {

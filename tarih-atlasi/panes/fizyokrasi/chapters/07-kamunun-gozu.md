@@ -133,6 +133,15 @@ Bu yüzden fizyokrat reformların kamu gözündeki kaderi çok kırılgandır. U
 
 İleri soru şudur: Ekonomik reformların doğruluğu yalnızca uzun vadeli verimlilikle mi ölçülür, yoksa kısa vadeli geçim güvenliği de reformun parçası mıdır? Fizyokrasi bu gerilimi çok erken görünür kılar.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "İki sahne tablosu: salon ve sokak" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Voltaire. *L'Homme aux quarante écus* (1768). Fizyokrat vergi ve doğal düzen iddialarına dönemin en ünlü hicivli tepkilerinden biri.

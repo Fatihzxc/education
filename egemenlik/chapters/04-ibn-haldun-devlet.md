@@ -173,8 +173,17 @@ Bu tablo İbn Haldun'un gücünü gündelik dile indirir: Devletin çöküşü y
 İleri düzeyde İbn Haldun’da devleti yalnız siyasal kurum gibi değil, toplumsal enerji ve mali kapasiteyle çalışan canlı bir döngü gibi oku. Gücün kaynağı aynı zamanda çöküşün de başlangıcı olabilir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Mukaddime'nin egemenlik tasarımı" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 *Pagination notu*: Mukaddime alıntıları, Süleyman Uludağ'ın Dergâh Yayınları çevirisinin 3-ciltlik baskısının sayfa numaralarıyla verilmiştir. `iktisat-kb` veritabanındaki 2-parçaya bölünmüş PDF taramasıyla sistematik bir kayma olabilir; konvansiyon ve detaylı açıklama için *Mülkiyet kavramının tarihi* kitabı Bölüm 3 Kaynakça notuna bakınız.
 
 [^1]: İbn Haldun (1377/2007). *Mukaddime*, çev. Süleyman Uludağ, Cilt I, s. 397 [indeks PDF ~p. 370-400 bölgesi]. Dergâh Yayınları. Mülk-asabiyye ilişkisinin orijinal formülasyonu.

@@ -163,8 +163,17 @@ Bu kitabın küçük disiplini şu olsun: Bir otorite "ben karar veririm" dediğ
 
 İleri düzeyde egemenliği yalnız bir makamın sahip olduğu yetki gibi okuma. Egemenlik, itaatin hangi gerekçeyle kabul edildiğini de anlatır. Bu yüzden soru yalnız “kim güçlü?” değildir; “bu gücü meşru gösteren hikâye nedir?” sorusu da aynı derecede önemlidir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Bir kelimenin ardındaki üç soru" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Bu giriş bölümünün dipnotları minimaldir; sonraki bölümler her bir düşünüre detaylı atıflar verir. Egemenlik kavramının tarihi için genel referanslar: Quentin Skinner, *The Foundations of Modern Political Thought* (1978, 2 cilt); Daniel Lee, *The Right of Sovereignty: Jean Bodin on the Sovereign State and the Law of Nations* (2021).
 
 [^2]: Westphalia Antlaşması (1648) ve modern uluslararası devletler sistemi için: Andreas Osiander, "Sovereignty, International Relations, and the Westphalian Myth" *International Organization* 55:2 (2001), s. 251-287. Westphalia'nın etkisinin abartıldığı eleştirisi.

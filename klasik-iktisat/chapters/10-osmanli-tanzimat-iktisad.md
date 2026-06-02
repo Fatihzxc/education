@@ -1,6 +1,6 @@
-## 10.1 Niye geç geldi? — 122 yıllık gecikmenin anatomisi
+## 10.1 Niye geç geldi? — 19. yüzyıl gecikmesinin anatomisi
 
-Adam Smith'in *Wealth of Nations*'ı 1776'da Londra'da yayımlandı. Türkçede ilk sistematik klasik politik ekonomi ders kitabı — Mehmed Cavid Bey'in *İlm-i İktisad*'ı — 1898'de basıldı. Aradaki 122 yıl, bu bölümün teşhis etmesi gereken merkezi olgudur. Niçin bu kadar geç? Mill'in *Principles*'ı (1848) yayımlandığında Osmanlı entelektüel hayatında onun bir karşılığı yoktu; Ricardo'nun *Principles*'ı (1817) yayımlandığında İstanbul'da onu okuyacak bir akademik çevre bulunmuyordu. Cevap hem kavramsal hem yapısaldır.
+Adam Smith'in *Wealth of Nations*'ı 1776'da Londra'da yayımlandı. Türkçede klasik politik ekonominin ilk sistematik ders kitabı, Sakızlı Ohannes Paşa'nın 1880 tarihli *Mebadi-i İlm-i Servet-i Milel*'idir; Mehmed Cavid Bey'in 1898'de başlayan dört ciltlik *İlm-i İktisad*'ı ise bu hattı daha geniş, daha kalıcı ve müfredat kurucu bir standarda dönüştürdü. Yani burada tek bir "ilk" yoktur: 104 yıllık ilk ders kitabı gecikmesi ve 122 yıllık Cavid standardı gecikmesi birlikte düşünülmelidir. Niçin bu kadar geç? Mill'in *Principles*'ı (1848) yayımlandığında Osmanlı entelektüel hayatında onun güçlü bir karşılığı yoktu; Ricardo'nun *Principles*'ı (1817) yayımlandığında İstanbul'da onu okuyacak yerleşik bir akademik çevre bulunmuyordu. Cevap hem kavramsal hem yapısaldır.
 
 Yapısal kısım önce verilmelidir. Klasik politik ekonominin İngiltere'deki ortaya çıkışı — Bölüm 1 ve 2'de gösterildiği gibi — belirli bir sosyolojik tabanın varlığını gerektiriyordu: yükselen bir sanayi-burjuvazi sınıfı, parlamentoda temsil arayışı, *Corn Laws*'a karşı çıkarsal cephe, fabrika sahibi ile toprak aristokrasisi arasındaki siyasi gerilim. Smith'ten Ricardo'ya, Mill'den Marshall'a uzanan hat, bu sınıfsal yapının teorik kristalleşmesiydi. Klasik iktisat *birinin* iktisadıdır — belirli bir koalisyonun, belirli bir politik talebin, belirli bir pratik mücadelenin söylemi.
 
@@ -8,7 +8,7 @@ Osmanlı 19. yüzyıl ortasına kadar bu koalisyonu üretmedi. Sanayi-burjuvazi 
 
 İkinci yapısal nokta daha kritiktir: klasik iktisadın Osmanlı'yla ilk teması bir *teori* olarak değil bir *baskı* olarak gerçekleşti. Kardeş kitabın fizyokrasi cildinin 11. bölümünde ayrıntılı işlendiği gibi, 1838 *Baltalimanı* Ticaret Antlaşması İngiliz serbest-ticaret formülünü Osmanlı'ya tek-taraflı dayattı: iç tekellerin (*yed-i vâhid*) kaldırılması, ihracat-ithalat kısıtlamalarının gevşetilmesi, yabancı tüccara Osmanlı tüccarından daha düşük bir gümrük rejimi. Bu, klasik liberalizmin *teorik* alımlanışı değildi; gümrük kapasitesizliğin ve diplomatik baskının sonucuydu — Smith'i ya da Ricardo'yu okumadan klasik formülün pratik etkisine maruz kalmaktı.
 
-Cavid Bey'e kadar klasik iktisat bu nedenle Osmanlı'da bir teori olmaktan çok bir basınçtı. Teori boyutu ancak 19. yüzyılın son çeyreğinde — Mekteb-i Mülkiye'nin (1859) genişlemesi, Encümen-i Daniş'in (1851) ardından gelen ikinci kuşak akademik kurumların oluşması, ve nihayet Cavid Bey'in 1898'deki ders kitabıyla — bir Osmanlı entelektüel kategorisi hâline geldi. İzleyen kesitler bu köprülerin nasıl kurulduğunu, hangi terminolojinin nasıl yerleştiğini, hangi politik-tarihsel gerilimin klasik iktisadın Türkçe alımlamasını şekillendirdiğini ele alır.
+19. yüzyılın son çeyreğine kadar klasik iktisat Osmanlı'da bir teori olmaktan çok bir basınçtı. Teori boyutu Mekteb-i Mülkiye'nin (1859) genişlemesi, Encümen-i Daniş'in (1851) ardından gelen ikinci kuşak akademik kurumların oluşması, Sakızlı Ohannes Paşa'nın 1880 ders kitabı ve Cavid Bey'in 1898-1907 arasındaki geniş senteziyle bir Osmanlı entelektüel kategorisi hâline geldi. İzleyen kesitler bu köprülerin nasıl kurulduğunu, hangi terminolojinin nasıl yerleştiğini, hangi politik-tarihsel gerilimin klasik iktisadın Türkçe alımlamasını şekillendirdiğini ele alır.
 
 Metodolojik bir not gereklidir. Kardeş kitapların — fizyokrasi, mülkiyet, egemenlik, merkantilizm — Osmanlı bölümleri *yapısal-mirror* metodolojisini izlemiştir: doğrudan etki yok, paralel kavramsal yapı var. Bu bölüm bilinçli olarak farklıdır. Klasik iktisat Osmanlı'ya doğrudan alındı — çevirilerle, ders kitaplarıyla, üniversite müfredatıyla, kürsü-tabanlı kurumsal aktarımla. Burada izleyeceğimiz şey yapısal paralellik değil, somut entelektüel transferdir: *direct reception*. Fizyokrasi cildinin 11. bölümünde fizyokratik etkinin Osmanlı'ya yalnızca *Mecelle*-tarzı kavramsal-paralel düzeyde geldiği gösterilmişti; klasik iktisadın hikâyesi tam tersidir — burada kürsü, müfredat ve ders metni vardır.
 
@@ -145,9 +145,17 @@ Sonraki bölüm (Bölüm 11), klasik iktisadın iki karşıt mirasçısını —
 İleri düzeyde Osmanlı alımlamasını gecikmiş taklit gibi okuma. Bir fikir başka bir devlete girdiğinde, oradaki maliye, hukuk ve sınıf yapısı tarafından yeniden biçimlendirilir.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Niye geç geldi? — 19. yüzyıl gecikmesinin anatomisi" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Sakızlı Ohannes Paşa, *Mebadi-i İlm-i Servet-i Milel* (İstanbul, 1880). Mekteb-i Mülkiye iktisat kürsüsünün ilk ders metni; Türkçedeki ilk sistematik klasik politik ekonomi el kitabı. Ohannes Paşa'nın biyografisi ve metnin kaynak yapısı için: Ahmet Güner Sayar, *Osmanlı İktisat Düşüncesinin Çağdaşlaşması* (İstanbul, 2000), Mekteb-i Mülkiye iktisat kürsüsü bölümü.
 
 [^2]: Münif Mehmed Paşa biyografisi ve *Mecmua-i Fünun* dergisinin Osmanlı entelektüel hayatındaki yeri için: İsmail Doğan, *Tanzimatın İki Ucu: Münif Paşa ve Ali Suavi* (İstanbul, 1991); Niyazi Berkes, *Türkiye'de Çağdaşlaşma* (Bilgi Yayınevi, çeşitli baskılar), Encümen-i Daniş ve Cemiyet-i İlmiye-i Osmaniye'nin kurumsal tarihi.

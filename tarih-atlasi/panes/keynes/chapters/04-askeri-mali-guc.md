@@ -146,8 +146,17 @@ Keynesçilik savaş sonrası devlet kapasitesinin içinde büyüdü. Monetarizm 
 
 Bu bölümün cümlesi şu olsun: Modern makro iktisat, bir yandan işsizlik kuyruğunu, diğer yandan devlet tahvilini; bir yandan fabrika üretimini, diğer yandan merkez bankası bilançosunu aynı anda okumayı gerektirir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Savaş ekonomisi neyi gösterdi?" başlığının gösterdiği somut düğümden oku: belirsizlik, talep yetersizliği ve para ekonomisinde devletin ne yapacağı sorusu.
+- **Baskın bakış:** kriz yöneten devlet ve istihdam arayan toplum; çünkü piyasa tek başına toparlanmayabilir.
+- **Güçlü karşı fikir:** klasik, monetarist ve neoliberal okumalar devlet müdahalesinin sınırlarını sorar.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Barry Eichengreen. *Globalizing Capital: A History of the International Monetary System* (1996). Bretton Woods, altın standardı sonrası para düzeni ve dalgalı kur dönemleri için temel modern kaynak.
 [^2]: John Maynard Keynes. *The General Theory of Employment, Interest and Money* (1936). Kamu harcaması ve istihdam ilişkisi için teorik temel.
 [^3]: Milton Friedman ve Anna J. Schwartz. *A Monetary History of the United States, 1867-1960* (1963). Para politikası ve kriz yorumları için monetarist kaynak.

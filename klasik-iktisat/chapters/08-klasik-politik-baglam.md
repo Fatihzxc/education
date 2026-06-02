@@ -4,7 +4,7 @@ Bu kitabın ilk yedi bölümü klasik iktisadı bir *teorik sistem* olarak ele a
 
 Bu bölüm teoriyi politik gerçekliğin içine yerleştirir. Soru basittir: Smith, Ricardo, J.S. Mill hangi sınıf için yazıyorlardı? Klasik doktrin hangi politik mücadelelerde silah, hangilerinde *karşıt-silah* oldu, hangi noktalarda pratik sınırına çarptı? Bu sorular sadece tarihsel değildir; klasik iktisadın bilim-statüsünün sınanması için zorunludur. *Klasik iktisat bilimsel olduğu kadar bir politik program*dır — bu bölüm o çift-yüzü açar.
 
-İzleyeceğimiz hat şudur: İskoç kanadının maddi temeli — 1707 Birleşme, Glasgow tütün lordları, sömürge sermayesine dayalı Aydınlanma altyapısı (8.2); Sanayi Devrimi'nin görüntüleri, Pitt'in Terörü ve Engels'in 1844 Manchester gözlemi (8.3); 1832 Reform Bill'in burjuva-sanayi sınıfının politik anayasallaşması olarak okunması (8.4); Chartism'in klasik politik ekonomiye yönelik ilk modern işçi-sınıfı karşı-saldırısı (8.5); 1833-1847 Factory Acts'in *Iron Law of Wages*'ı pratikte çatlatması (8.6); Owen-Saint-Simon-Fourier üçlüsünün etik karşıt-projesi (8.7) ve Sismondi'nin iç-eleştirisi (8.8); klasik politik ekonominin sınıf-yerli okuması (8.9); klasik iktisatçıların Britanya İmparatorluğu'nun resmî entelektüel kadrosu olarak konumu (8.10); klasiklerin sistematik olarak *görmediği* yapısal noktalar (8.11).
+İzleyeceğimiz hat şudur: İskoç kanadının maddi temeli — 1707 Birleşme, Glasgow tütün lordları, sömürge sermayesine dayalı Aydınlanma altyapısı (8.2); Sanayi Devrimi'nin görüntüleri, Pitt'in Terörü ve Engels'in 1844 Manchester gözlemi (8.3); 1832 Reform Bill'in burjuva-sanayi sınıfının politik anayasallaşması olarak okunması (8.4); Chartism'in klasik politik ekonomiye yönelik ilk modern işçi-sınıfı karşı-saldırısı (8.5); 1833-1847 Factory Acts'in geçimlik ücret doktrinini pratikte çatlatması (8.6); Owen-Saint-Simon-Fourier üçlüsünün etik karşıt-projesi (8.7) ve Sismondi'nin iç-eleştirisi (8.8); klasik politik ekonominin sınıf-yerli okuması (8.9); klasik iktisatçıların Britanya İmparatorluğu'nun resmî entelektüel kadrosu olarak konumu (8.10); klasiklerin sistematik olarak *görmediği* yapısal noktalar (8.11).
 
 ## 8.2 1707 Birleşme Yasası ve Glasgow tütün lordları — İskoç kanadının maddi temeli
 
@@ -75,9 +75,9 @@ Klasik iktisadın politik bağlamını anlamak için yalnız parlamentodaki yasa
 
 Bu sahne kartı, politik iktisadı sadece büyük teorisyenlerin cümlelerinden çıkarmayı sağlar. Teori sokakta, fabrikada, gazete sütununda ve mahkeme benzeri komisyon masasında da yaşar.
 
-## 8.6 Factory Acts ve Iron Law'un kırılması
+## 8.6 Factory Acts ve geçimlik ücret doktrininin kırılması
 
-Klasik iktisadın en sert teorik önermelerinden biri *Iron Law of Wages* — Demir Ücret Yasası — olarak bilinir. Bu yasa Malthus-Ricardo çerçevesinin doğal bir sonucudur: ücretler geçim seviyesinin üstüne çıktığında nüfus artar; nüfus artışı emek arzını çoğaltır; emek arzı arttıkça ücretler yine geçim seviyesine iner. Sonuç olarak işçi sınıfının uzun-vade refahı *yapısal* olarak imkânsızdır. Bu önermenin politik sonucu nettir: işçi koşullarını iyileştirmek için devlet müdahalesi anlamsızdır, çünkü piyasa güçleri bu iyileştirmeyi nüfus mekanizması üzerinden tersine çevirecektir. *Klasik iktisadın laissez-faire ilkesi tam burada politik bir argüman olur*.
+Klasik iktisadın en sert teorik önermelerinden biri, ücretlerin uzun vadede geçim seviyesine yakınsayacağı fikridir. Malthus-Ricardo çerçevesinde mekanizma şudur: ücretler geçim seviyesinin üstüne çıktığında nüfus artar; nüfus artışı emek arzını çoğaltır; emek arzı arttıkça ücretler yine geçim seviyesine iner. Bu mantık, 19. yüzyılın ilerleyen sosyalist tartışmalarında Ferdinand Lassalle tarafından *Iron Law of Wages* — Demir Ücret Yasası — adıyla daha katı bir formüle dönüştürülecektir. Politik sonucu nettir: işçi koşullarını iyileştirmek için devlet müdahalesi anlamsız görünür, çünkü piyasa güçleri bu iyileştirmeyi nüfus mekanizması üzerinden tersine çevirecektir. *Klasik iktisadın laissez-faire ilkesi tam burada politik bir argüman olur*.
 
 Pratikte tam tersi olur. 19. yüzyıl ilk yarısı İngiltere'sinde fabrika yasaları üst üste çıkar ve klasik teorinin önerdiği "*piyasa kendini düzeltir*" doktrinini pratik olarak çürütürler.
 
@@ -148,7 +148,7 @@ Bu bölümde işlediğimiz tüm materyali bir araya getirelim. Klasik politik ek
 
 Mark Blaug *Economic Theory in Retrospect*'te (1962, 1985) ve Marx *Capital* önsözlerinde benzer bir okuma sunar: klasik iktisat, yükselen sanayi-burjuvazinin teorik sözcülüğünü yapan bir disiplindir. Smith ticaret-manüfaktür burjuvazisi adına yazar; *Wealth of Nations*'ın 1776 tarihi tesadüf değildir — Amerikan Bağımsızlık Savaşı'nın başladığı yıl, İngiliz ticaret-burjuvazisinin merkantilist devlet düzenine karşı entelektüel meydan okumasını sistematikleştirir. Ricardo finans-sanayi burjuvazisi adına yazar; kendisi başarılı bir Londra borsa simsarıdır; *Principles*'da rant ile kâr arasındaki gerilimi merkeze alması, toprak-rantçısı aristokrasinin sanayi-burjuvazisi karşısındaki konumunu sorgular. James Mill ve sonra J.S. Mill aydınlanmış orta-sınıf liberal entelektüel kesimi temsil eder; East India Company'de uzun yıllar idareci olarak çalışan iki kuşak — Bölüm 9'da göreceğimiz gibi — Britanya orta-sınıf entelektüel-bürokratik tabakanın klasik figürleridir.
 
-Bu sınıflar arasındaki ortak nokta nedir? Hepsi *aristokrat-toprak rantçısı sınıfın karşısında* ama aynı zamanda *işçi sınıfının üstünde* konumlanmıştır. Klasiklerin Corn Laws düşmanlığı (Bölüm 7) toprak-aristokrasiye karşı sanayi-burjuvazisinin politik savaşıdır. Klasiklerin Reform Bill 1832 sempatisi aynı koalisyonun parlamento mücadelesidir. Klasiklerin Iron Law of Wages doktrini, işçi sınıfı taleplerine karşı bir savunma duvarıdır.
+Bu sınıflar arasındaki ortak nokta nedir? Hepsi *aristokrat-toprak rantçısı sınıfın karşısında* ama aynı zamanda *işçi sınıfının üstünde* konumlanmıştır. Klasiklerin Corn Laws düşmanlığı (Bölüm 7) toprak-aristokrasiye karşı sanayi-burjuvazisinin politik savaşıdır. Klasiklerin Reform Bill 1832 sempatisi aynı koalisyonun parlamento mücadelesidir. Klasiklerin geçimlik ücret ve ücret fonu mantığı, işçi sınıfı taleplerine karşı bir savunma duvarı olarak kullanılabilir.
 
 Bu sınıfsal hizalanışın en somut örgütsel ifadesi *Manchester School*'dur. 1830-1846 arası Tahıl Yasaları kavgası, klasik iktisadın salon-tartışmasından sokak-politikasına dönüştüğü andır. Richard Cobden — Manchester'lı pamuk tüccarı — ve John Bright — Rochdale'li tekstil sanayicisi — önderliğinde, sanayi burjuvazisi parlamento-dışı kitlesel mobilizasyona yönelir. 1838'de Manchester'da kurulan *Anti-Corn Law League*, modern lobi politikasının erken prototipidir: ücretli kadrolu örgütçüleri, profesyonel matbaa kanalı, ülke çapında dilekçe kampanyaları, *penny pamphlet* dağıtımı, miting turneleri, seçim kampanyaları. Cobden ve Bright konuşmalarında Smith'i ve Ricardo'yu *adıyla* bayrak olarak taşırlar; *Wealth of Nations*'tan ve *Principles*'tan alıntılar broşürlerin merkezinde yer alır. 1846'da Robert Peel hükümeti Tahıl Yasaları'nı kaldırır — bu, Britanya politik tarihinin en büyük sınıf savaşımlarından biridir, ve klasik iktisadın teorisi onun ideolojik silahı olarak kullanılmıştır.^[1]
 
@@ -216,9 +216,17 @@ Bu tablo, klasik iktisadı küçültmek için değil, daha doğru görmek için 
 İleri düzeyde teori ile politik bağlamı ayrı klasörlere koyma. Klasik iktisat, kavramlarını çoğu zaman çok somut yasa ve sınıf mücadelelerinin içinde keskinleştirdi.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Klasik iktisadı politik tarihin içine yerleştirmek" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Manchester School ve Anti-Corn Law League için standart çalışmalar: Norman McCord, *The Anti-Corn Law League, 1838-1846* (1958); Anthony Howe, *Free Trade and Liberal England, 1846-1946* (1997); Paul A. Pickering ve Alex Tyrrell, *The People's Bread: A History of the Anti-Corn Law League* (2000). Glasgow tütün lordlarının İskoç Aydınlanması'nın maddi temeli üzerindeki rolü için T. M. Devine, *The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow and their Trading Activities, c.1740-90* (1975) ve aynı yazarın *The Scottish Nation: A Modern History* (1999). İskoç Aydınlanması'nın kurumsal-sosyolojik haritası için Roger L. Emerson, *Academic Patronage in the Scottish Enlightenment* (2008).
 
 [^2]: Friedrich Engels, *The Condition of the Working Class in England in 1844* (Leipzig, 1845; İngilizce çevirisi 1887). Türkçe basımı: *İngiltere'de Emekçi Sınıfın Durumu*, çev. Yurdakul Fincancı, Sol Yayınları. Engels Manchester'da 1842-1844 arasında babasının Ermen & Engels pamuk işinde stajyer olarak çalışırken topladığı malzemeyi sistemleştirir. Karşılaştırma için kardeş kitabımız merkantilizm/10 (Beckert *Empire of Cotton*, Manchester pamuk endüstrisinin köleliğe yapısal bağımlılığı).

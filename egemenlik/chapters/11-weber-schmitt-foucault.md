@@ -113,7 +113,7 @@ Son bölümde, modern egemenliğin *bugün* içinden geçtiği bu küresel krizi
 **Temas takibi uygulamaları** (UK NHS COVID-19 app, Çin Health Code, Singapore TraceTogether):
 - Bluetooth aracılığıyla yakın temas izlenir; pozitif vaka olursa otomatik bildirim. Hangi çerçeve uygulanır?
 - *Foucaultcu* okuma en güçlüdür: bireysel bedensel hareket, dijital olarak kayıt altına alınır, kollektif salgın yönetimi için kullanılır. Modern Panopticon'un gerçekleşmesi.
-- Çin'in *Health Code* sistemi en uç örneği: kullanıcılar yeşil/sarı/kırmızı kod alır; yeşil olmadan kamusal alana giremezler. Pandemi sonrası bu altyapı sosyal kredi sistemi ile entegre edildi.
+- Çin'in *Health Code* sistemi en uç örneklerden biridir: kullanıcılar yeşil/sarı/kırmızı kod alır; yeşil olmadan birçok kamusal alana girmek zorlaşır. Bazı yerel uygulamalar sağlık kodu verisini başka idari kayıtlarla birlikte kullanmaya çalıştı; ama bunu "pandemi sonrası sosyal kredi sistemiyle tek parça bütünleşti" diye anlatmak fazla kesin olur. Daha doğru çerçeve şudur: salgın, dijital izin/denetim altyapısının ne kadar hızlı genişleyebileceğini gösterdi; bu altyapının sosyal kredi, polis verisi ve yerel idari sistemlerle ilişkisi ise parçalı ve bölgesel kaldı.
 
 Üç okuma da gerçeklerin farklı yönlerini aydınlatır. Hiçbiri tek başına yeterli değildir. Modern egemenlik, üç çerçevenin de aynı anda doğru olduğu bir karmaşık yapıdır.
 
@@ -123,7 +123,7 @@ Foucault'nun *biyo-iktidar* kavramının 21. yüzyıl dijital versiyonu, Shoshan
 
 Beş çağdaş örnek:
 
-**Çin Sosyal Kredi Sistemi (2014+)**. 2014'te Çin Komünist Partisi'nin "*Sosyal Kredi Sistemi Kurulumu Planı*" kabul edildi. 2020'lerde tam uygulama. Vatandaşların finansal davranışı, hukuksal kayıtları, sosyal etkileşimi, hatta arkadaş çevreleri sayısal bir "*kredi puanı*"na dönüştürülür. Düşük puanlı vatandaşlar uçak/tren biletlerine erişim, kredi alma, çocuklarını iyi okullara gönderme hakkından mahrum kalır. Foucault'nun 1975'te tanımladığı *disiplin* mantığının küresel ölçekli dijital uygulaması.
+**Çin Sosyal Kredi Sistemi (2014+)**. 2014'te Çin Komünist Partisi'nin "*Sosyal Kredi Sistemi Kurulumu Planı*" kabul edildi. Gerçek olan şudur: mahkeme kararlarını uygulamayanlar, bazı şirketler ve belirli idari ihlal kategorileri için kara liste, puanlama pilotu ve yaptırım mekanizmaları kuruldu. Ama sistem çoğu popüler anlatıdaki gibi tek, ulusal, herkese uygulanan ve arkadaş çevresini resmî puana dönüştüren birleşik bir vatandaş skoru değildir. Daha çok çok sayıda yerel pilot, sektörel kayıt, şirket güvenilirliği sistemi ve yaptırım listesinden oluşan parçalı bir çerçevedir. Foucault açısından ilginç olan nokta yine güçlüdür: disiplin artık yalnız hapishane, okul ve kışla gibi kapalı kurumlarda değil; kredi, ulaşım, mahkeme kaydı ve platform davranışı gibi dağınık veri alanlarında da kurulabilir.
 
 **Cambridge Analytica skandalı (2018)**. 87 milyon Facebook kullanıcısının verisi, kullanıcı onayı olmadan, politik mikro-hedefleme için kullanıldı. 2016 Brexit referandumunda ve ABD başkanlık seçiminde reklam tasarımı için kullanıldı. *Davranışsal artık*'ın politik amaçlarla kullanılması — Zuboff'un çerçevesinin somut bir örneği.
 
@@ -151,8 +151,17 @@ Klasik egemenlik kuramı (Bodin-Hobbes) hazırlıksız: tek-merkezli, toprak-tem
 
 İleri düzeyde modern egemenliği tek merkez arayışıyla sınırlama. Weber sana devletin yoğunlaşmış zor gücünü gösterir; Schmitt krizde hukukun nasıl askıya alınabildiğini; Foucault ise iktidarın yalnız tepede değil, bedeni, nüfusu ve gündelik davranışı düzenleyen ağlarda çalıştığını gösterir. Üçünü birlikte okuyunca modern devlet hem daha anlaşılır hem de daha az masum görünür.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Hegel'den sonra: devleti içeriden değil dışarıdan tanımlamak" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Max Weber, *Politik als Beruf* (Münih, 1919). Türkçesi: *Sosyoloji Yazıları* içinde "Meslek Olarak Siyaset", Hürriyet Vakfı Yayınları. Weber'in tanımı modern siyaset sosyolojisinin başlangıç noktası kabul edilir; yöntem üzerine bkz. Joseph Schumpeter, *History of Economic Analysis*, s. 815-820 (Weber'in çağdaşı olarak yöntem tartışması).
 
 [^2]: Weber'in *Wirtschaft und Gesellschaft* (1922, ölümünden sonra) eserinde sistemleştirdiği üçlü meşruiyet tipolojisi; *Politik als Beruf* konferansında özetlenir.

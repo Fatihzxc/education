@@ -180,8 +180,17 @@ Erken modern devletin mali ve ticari mimarisini ekteki playground'da somut kurum
 - [Navigation Acts (1651)](appendix/playground.html#concept/navigation-acts)
 - [1651 İlk Navigation Act — zaman çizelgesi olayı](appendix/playground.html#event/evt-1651-navigation-act)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Askeri devrim ve maliyenin baskısı" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Adam Smith. *The Wealth of Nations* (1776), Kitap V, s. 1243. "It was in the war which began in 1688, and was concluded by the Treaty of Ryswick in 1697, that the foundation of the present enormous debt of Great Britain was first laid." İngiliz kamu borcunun başlangıç anına ilişkin Smith'in tarihsel notu.
 
 [^2]: James Steuart. *An Inquiry into the Principles of Political Oeconomy* (1767), s. 310. 1757-1762 arası savaş borçlarının 58 milyon sterlinin üzerinde olduğunu detaylı tablolarla gösterir.

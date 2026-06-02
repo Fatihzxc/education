@@ -182,8 +182,17 @@ Bu, marjinalist devrimin paradoksal mirasıdır. Bir tarafta, ekonomi soruların
 
 İleri düzeyde marjinalist devrimi yalnız matematikleşme diye okuma. Asıl değişim, “değer nerede doğar?” sorusunun üretim yerinden seçim anına taşınmasıdır. Bu büyük bir açıklama gücü getirir; ama aynı anda emek, sınıf ve mülkiyet gibi üretim alanındaki soruları daha sessiz hale getirebilir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Aynı yıl, üç şehir" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Walras, L. (1874). *Eléments d'économie politique pure*, 20me Leçon, s. 234. "Üretim denklemleri" — üretim faktörleri ile mal-talebi arasındaki eş-zamanlı denklemler.
 
 [^2]: Walras, L. (1874). *Eléments*, 10me Leçon, s. 125. "*De la rareté ou de la cause de la valeur d'échange*" — Walras'ın *rareté* (kıtlık/marjinal yarar) kavramının açılışı. Mübadele değerleri raretelerle orantılıdır tezi.

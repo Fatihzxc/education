@@ -133,7 +133,16 @@ Marjinalizm toplumun gündelik yüzünü daha iyi yakaladı: fiyatlar, tercihler
 
 Bu bölümün akılda kalacak cümlesi şu olabilir: Marjinalizm insana "seçen tüketici" olarak bakmayı öğretti; tarih ise bize o seçimin hangi gelir, statü, cinsiyet, emek ve güç koşulları içinde yapıldığını sormayı öğretir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru" başlığının gösterdiği somut düğümden oku: fiyatın son birim fayda, kıtlık ve tercih üzerinden nasıl açıklanacağı sorusu.
+- **Baskın bakış:** tüketici ve teknik iktisatçı bakışı; çünkü ölçülebilir seçimleri merkeze alır.
+- **Güçlü karşı fikir:** Marx, Sraffa, feminist ve kurumsal okumalar tercihlerin gelir ve güç içinde kurulduğunu hatırlatır.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Thorstein Veblen. *The Theory of the Leisure Class* (1899). Gösterişçi tüketim, statü ve tüketim kültürü eleştirisi için klasik kaynak.
 [^2]: Alfred Marshall. *Principles of Economics* (1890). Hane, talep, tüketici artığı ve piyasa analizi için neoklasik çerçevenin merkezî metinlerinden biri.

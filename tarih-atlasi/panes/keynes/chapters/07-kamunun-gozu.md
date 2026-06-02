@@ -150,8 +150,17 @@ Keynesçilik kamunun gözünde işsizlik kuyruğuna cevap verme vaadiydi. Moneta
 
 Bu bölümün son cümlesi şu olsun: Makro iktisadı gerçekten öğrenmek istiyorsan sadece grafiğe bakma; iş arayan insanın yüzüne, market fişine, gazete manşetine, roman karakterinin korkusuna ve merkez bankası kararının ev bütçesinde bıraktığı ize de bak.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Büyük Buhran'ın insan yüzü" başlığının gösterdiği somut düğümden oku: belirsizlik, talep yetersizliği ve para ekonomisinde devletin ne yapacağı sorusu.
+- **Baskın bakış:** kriz yöneten devlet ve istihdam arayan toplum; çünkü piyasa tek başına toparlanmayabilir.
+- **Güçlü karşı fikir:** klasik, monetarist ve neoliberal okumalar devlet müdahalesinin sınırlarını sorar.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: John Steinbeck. *The Grapes of Wrath* (1939). Büyük Buhran, göç, işsizlik ve piyasa baskısının roman içindeki en güçlü anlatılarından biri.
 [^2]: Dorothea Lange ve Farm Security Administration fotoğraf arşivi. Büyük Buhran'ın görsel hafızası için temel tarihsel malzeme.
 [^3]: John Maynard Keynes. *The General Theory of Employment, Interest and Money* (1936). Buhran sonrası politika dilinin teorik kaynağı.

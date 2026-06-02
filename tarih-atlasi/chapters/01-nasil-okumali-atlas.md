@@ -190,7 +190,16 @@ Bu yüzden ileri okumanın küçük disiplini şudur:
 
 Atlası böyle okursan dönemler ezber olmaktan çıkar. Her dönem, insanlığın aynı büyük sorulara farklı şartlarda verdiği eksik ama öğretici cevaplar haline gelir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Atlasın üç ekseni" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: McNeill, W. H. (1963). *The Rise of the West: A History of the Human Community*. Chicago: University of Chicago Press.
 [^2]: Bayly, C. A. (2004). *The Birth of the Modern World, 1780-1914*. Oxford: Blackwell; Pomeranz, K. (2000). *The Great Divergence*. Princeton: Princeton University Press; Braudel, F. (1979). *Civilisation matérielle, économie et capitalisme*. Paris: Armand Colin.

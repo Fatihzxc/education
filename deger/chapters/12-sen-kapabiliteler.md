@@ -70,7 +70,7 @@ Sen'in çerçevesinin bir diğer önemli boyutu *agency* (öznellik, fail-olma) 
 
 Bu kavramın önemli politik sonuçları vardır. Klasik kalkınma teorisi (özellikle 1960-70'lerin teknik kalkınma planı yaklaşımı) insanları büyük ölçüde *pasif alıcılar* olarak gördü; politika yapanlar onların "ihtiyaçlarını" karşılayan kararlar verirler. Sen'in çerçevesi bunu radikal biçimde değiştirir: insanlar kendi *failliklerini* kullanma kapasitesine sahiptir; kalkınma, bu fail-kapasitesini desteklemekle ilgilidir.
 
-Bu, demokrasi ile kalkınma arasındaki Sen'in vurguladığı ilişkinin temelidir. Demokrasi, sadece "iyi" bir kurum olduğu için değil; *kalkınmanın kendisinin* bir parçası olduğu için önemlidir. Sen'in en bilinen ampirik tezi: "*Demokratik bir ülkede asla kıtlık yaşanmamıştır.*" Çünkü demokraside seçilmiş yöneticiler, kıtlığı önlemek için hesap verirler; otoriter rejimlerde böyle bir geri-bildirim mekanizması yoktur.
+Bu, demokrasi ile kalkınma arasındaki Sen'in vurguladığı ilişkinin temelidir. Demokrasi, sadece "iyi" bir kurum olduğu için değil; *kalkınmanın kendisinin* bir parçası olduğu için önemlidir. Sen'in en bilinen ampirik tezi daha dikkatli şöyle kurulmalıdır: işleyen çok partili demokrasi, düzenli seçim, muhalefet ve görece özgür basın, büyük kıtlıkları siyasal olarak çok daha zor hale getirir.^[6] Çünkü demokraside seçilmiş yöneticiler, kıtlığı önlemek için hesap verirler; otoriter rejimlerde böyle bir geri-bildirim mekanizması zayıftır. Bu cümleyi "demokrasi varsa hiçbir açlık/kıtlık biçimi mümkün değildir" diye okumamak gerekir; tartışma, kıtlığın tanımına, sınır vakalara ve devletin gıda erişimini fiilen nasıl güvenceye aldığına bağlıdır.
 
 ## 12.7 Sen'in eleştirisinin sınırları
 
@@ -245,8 +245,17 @@ Bu yüzden Sen'in hamlesi şudur: Değeri yalnız paraya veya duyguya sıkışt�
 İleri düzeyde Sen’i yalnız sosyal politika eki gibi görme. O, değer sorusunu fiyat ve faydadan çıkarıp insan özgürlüğünün gerçek içeriğine taşır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Yirmi beş asır sonra, soru: değer kimin için?" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Sen, A. (1999). *Development as Freedom*, s. 125. Knopf. Gelir-odaklı politika tartışmalarının diğer mahrumiyet biçimlerini (işsizlik, sağlıksızlık) ihmal ettiği eleştirisi.
 
 [^2]: Sen, A. (1999). *Development as Freedom*, s. 92. "Fonksiyonlama" kavramının Aristoteles'ten gelen kökenleri.
@@ -256,3 +265,5 @@ Bu yüzden Sen'in hamlesi şudur: Değeri yalnız paraya veya duyguya sıkışt�
 [^4]: Sen, A. (1992). *Inequality Re-examined*. Oxford University Press. Kapabilite yaklaşımının daha sıkı bir formülasyonu; bu kitap kb-mcp'de yer almadığından, içeriği için Sen'in başka eserlerine (özellikle *Development as Freedom*) atıfta bulunulmuştur.
 
 [^5]: BM İnsani Gelişme Endeksi (HDI) için: UNDP, *Human Development Report* 1990 (ve sonraki yıllar). Mahbub ul Haq tarafından geliştirilen ve Sen'in danışmanlığında ilerletilmiş gösterge.
+
+[^6]: Amartya Sen, "Insurance Against Famine", *Los Angeles Times*, 16 Ekim 1998; ayrıca Sen'in demokrasi-kıtlık tezi için *Development as Freedom* (1999), Bölüm 7. Tezin güçlü biçimi, işleyen çok partili demokrasi ve görece özgür basın koşullarına bağlıdır.

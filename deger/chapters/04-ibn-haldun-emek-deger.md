@@ -198,8 +198,17 @@ Bu ayrıntı, modern iktisat tarihinin en sık ihmal ettiği noktalardan birisid
 İleri düzeyde İbn Haldun’u yalnız “öncü” diye etiketleme. Onun değeri, ekonomi ile siyasal çöküşü aynı toplumsal mekanizma içinde düşünmesindedir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "On dördüncü yüzyılda bir tez" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 *Pagination notu*: Mukaddime alıntıları, Süleyman Uludağ'ın Dergâh Yayınları çevirisinin 3-ciltlik baskısının sayfa numaralarıyla verilmiştir. Köşeli parantez içindeki ikinci sayfa numarası (`[indeks PDF p. X]`), `iktisat-kb` veritabanında yer alan 2-parçaya bölünmüş PDF taramasındaki konumdur; iki numaralandırma arasında sistematik bir kayma vardır.
 
 [^1]: İbn Haldun (1377/2009). *Mukaddime*, çev. Süleyman Uludağ, Cilt II, s. 695 [indeks PDF p. 77 dolayları]. Dergâh Yayınları. "Kesb, insan emeğinin kıymetinden ibarettir" tezinin açılış pasajı.

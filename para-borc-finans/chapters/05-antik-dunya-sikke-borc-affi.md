@@ -28,6 +28,8 @@ Dördüncü basamak: Devlet veya yasa koyucu bazen borç ilişkisine müdahale e
 
 Beşinci basamak: Sikke bu düzenin başka yüzüdür. Devlet damgalı metal, asker ödemesi, vergi tahsili ve pazar ölçüsü için kullanılır. Böylece para, yalnız tüccarın aracı değil, devlet kapasitesinin de aracı olur.
 
+Bu anlatıyı tarihsel olarak tutturmak için birkaç çıpa önemlidir. Mezopotamya'daki borç temizliği uygulamaları bazen "özgürlük ilanı" gibi çalışırdı: kişisel borçlar, rehin verilen aile üyeleri ve küçük üreticinin toprağa dönüşü aynı düzenleme içinde ele alınabilirdi. Atina'da Solon'un seisachtheia diye anılan borç yükünü silkeleme hamlesi de yalnız iktisadi değil, yurttaşlığı kurtarma hamlesiydi. Roma'da nexum gibi borç bağı biçimleri, borcun beden ve statüyle ne kadar yakından temas edebildiğini gösterir. Bu örnekler bize şunu söyler: Antik para tarihi, devletin bastığı sikkeden çok daha geniştir; borcun insanı hangi statüye ittiği de aynı tarihin parçasıdır.
+
 ## Bölümün argümanı
 
 Bu bölümün argümanı şudur: Antik dünyada para ve borç, ekonomik değişimden önce siyasal düzen sorunudur. Borç çok büyüdüğünde mesele "kim borcunu ödemedi?" sorusunu aşar ve "toplum hangi insanları özgür yurttaş olarak tutmak istiyor?" sorusuna dönüşür.
@@ -81,3 +83,22 @@ Bilgelik bu iki korkuyu birlikte taşımaktır: ahlaki tehlike korkusu ve toplum
 Bugün öğrenci borçları, çiftçi borçları, mortgage krizleri, afet sonrası kredi yapılandırmaları ve devlet borcu yeniden pazarlıkları aynı eski soruyu başka biçimde geri getirir. Kimileri "borç borçtur" der. Kimileri "bu borç artık toplumu taşıyamaz hale getirdi" der.
 
 Bu tartışmayı bilgelikle yapmak için her borç affını aynı sepete atmamak gerekir. Kime af geliyor? Neden geliyor? Alacaklı kim? Borçlu hangi koşulda borçlandı? Affın bedelini kim ödüyor? Yeni düzen aynı borç tuzağını tekrar üretecek mi? Antik dünya bize cevap listesi değil, bu soruları sorma disiplini bırakır.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Moses Finley, *The Ancient Economy*
+- Michael Hudson, borc affi ve Yakindogu kurumsal tarihi
+- Sargent ve Velde, *The Big Problem of Small Change*
+- David Graeber, *Debt*
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

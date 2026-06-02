@@ -36,6 +36,8 @@ Borç bazen özgürlük verir. Ev almak, eğitim görmek, iş kurmak veya kriz a
 
 Bu ikiliği görmeden borç hakkında doğru düşünemeyiz. "Borç kötüdür" demek fazla basit olur. "Borç büyümeyi sağlar" demek de fazla rahat olur. Asıl soru şudur: Borç hangi amaçla, hangi koşulla, hangi güç dengesi içinde ve kimin geleceğini bağlayarak kuruluyor?
 
+Bu bölümü daha derin okumak için iki farklı soy ağacı görmek gerekir. Birinci soy ağacı borcu kişisel söz ve ahlaki sorumluluk olarak okur: insan söz verir, sözünü tutar, güven böyle doğar. İkinci soy ağacı borcu toplumsal iktidar ilişkisi olarak okur: kayıt tutan, faiz koyan, teminat isteyen, borcu devreden ve ödeyemeyene yaptırım uygulayan kurumlar borcu büyütür. David Graeber gibi borç tarihçileri bu ikinci hattı görünür kılar: Borç yalnız hesap değildir; insanın suçluluk, yükümlülük, itibar ve itaat duygusuna da dokunur. Bu isim pusulası okuru basit ahlakçılıktan korur.
+
 ## Kök sebep ve karşı okuma
 
 Kök sebep, zaman ile ihtiyaç arasındaki uyumsuzluktur. İhtiyaç bugün gelir, kaynak yarın gelebilir. Borç bu aralığı kapatır.
@@ -81,3 +83,22 @@ Bilgelik, borcu şeytanlaştırmadan ama kutsallaştırmadan okumaktır. Borç b
 Bugünün hane ekonomisinde bu soru çok somuttur. Kredi kartı asgarisi, ihtiyaç kredisi, konut kredisi, araç kredisi ve eğitim borcu çoğu zaman ayrı ayrı görünür. Ama hepsi bir araya geldiğinde insanın karar alanını daraltabilir. İş değiştirmek, şehir değiştirmek, çocuk sahibi olmak, itiraz etmek veya risk almak zorlaşır.
 
 Devletler için de benzer bir mantık vardır. Borç, altyapı ve kalkınma kapasitesi yaratabilir. Ama sürekli borç çevirme zorunluluğu, politika alanını daraltabilir. Bu yüzden borca bakarken yalnız miktara değil, şu soruya da bakmak gerekir: Bu borç geleceği çoğaltıyor mu, yoksa geleceği bugünden tüketiyor mu?
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- David Graeber, *Debt: The First 5,000 Years*
+- Michael Hudson, eski Yakindogu borc affi calismalari
+- Moses Finley, *The Ancient Economy*
+- Karl Polanyi, *The Great Transformation*
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

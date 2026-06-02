@@ -34,6 +34,8 @@ Bu bölümün argümanı şudur: Finansallaşma, geleceği bugünden fiyatlama k
 
 Bu argüman bizi iki yanlışa düşmekten korur. Finansallaşmayı yalnız "kötü spekülasyon" diye okumak eksik olur; çünkü finans uzun vadeli yatırım ve risk paylaşımı sağlayabilir. Ama finansallaşmayı yalnız "piyasa derinliği" diye övmek de eksik olur; çünkü derinleşen piyasa bazen hayatın temel alanlarını borç ve varlık fiyatı mantığına teslim eder.
 
+Burada Minsky'nin finansal kırılganlık fikri güçlü bir çıpa verir. İyi zamanlarda aktörler daha rahat borçlanır; borçlanma arttıkça fiyatlar yükselir; yükselen fiyatlar güveni artırır; güven arttıkça daha riskli borçlanma normal görünür. Minsky'nin meşhur sezgisi şudur: İstikrar, bazen istikrarsızlığı doğurur. Çünkü uzun süre sorun çıkmadığında insanlar riskin azaldığını sanır, oysa risk çoğu zaman yalnız görünmez hale gelmiştir. Finansallaşma bu mekanizmayı hanelere, şirketlere ve devletlere yayar.
+
 ## Kök sebep ve karşı okuma
 
 Kök sebep, sermayenin büyüme ve getiri arayışıdır. Üretim alanında kâr sıkıştığında, teknolojik rekabet arttığında veya gelirler durgunlaştığında finansal kazanç kanalları daha çekici hale gelir.
@@ -81,3 +83,22 @@ Bugün finansallaşmayı kira artışlarında, konut yatırımında, bireysel em
 Bu yüzden finansallaşma eleştirisi "finans kötü" demek değildir. Daha ince soru şudur: Finans hangi alanlarda hayatı kolaylaştırıyor, hangi alanlarda insanı sürekli getiri ve borç hesabına hapsediyor? Bu ayrım yapılmadan ne piyasa savunusu ne de piyasa eleştirisi olgunlaşır.
 
 Okur burada kendi hayatına da bakabilir. Bir kararımı gerçekten istediğim için mi veriyorum, yoksa varlık fiyatı kaçacak, kredi kapanacak, puanım düşecek, fırsat bitecek korkusuyla mı veriyorum? Finansallaşma çoğu zaman insanın iç zamanını da hızlandırır.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Rudolf Hilferding, *Finance Capital*
+- Hyman Minsky, *Stabilizing an Unstable Economy*
+- Greta Krippner, *Capitalizing on Crisis*
+- Giovanni Arrighi, *The Long Twentieth Century*
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

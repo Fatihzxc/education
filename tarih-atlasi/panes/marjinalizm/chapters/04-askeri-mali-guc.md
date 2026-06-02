@@ -120,8 +120,17 @@ Marjinalizm bize fiyatı, kıtlığı ve bireysel tercihi anlatır. Ama 1871-193
 
 Bu pane'in askerî-mali kartı şu cümleyle kapanabilir: Denge teorisinin yükseldiği çağ, aynı zamanda dengenin tarih tarafından defalarca bozulduğu çağdır. Bu yüzden iyi bir tarih okuması, denge eğrisinin yanına bütçe defterini, donanma listesini, borç senedini ve savaş haritasını da koyar.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Altın standardı en basit haliyle nedir?" başlığının gösterdiği somut düğümden oku: fiyatın son birim fayda, kıtlık ve tercih üzerinden nasıl açıklanacağı sorusu.
+- **Baskın bakış:** tüketici ve teknik iktisatçı bakışı; çünkü ölçülebilir seçimleri merkeze alır.
+- **Güçlü karşı fikir:** Marx, Sraffa, feminist ve kurumsal okumalar tercihlerin gelir ve güç içinde kurulduğunu hatırlatır.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Barry Eichengreen. *Globalizing Capital: A History of the International Monetary System* (1996). Altın standardı ve uluslararası para düzeninin tarihsel işleyişi için temel modern kaynaklardan biri.
 [^2]: Karl Polanyi. *The Great Transformation* (1944). Altın standardı, piyasa toplumu ve toplumsal koruma gerilimini geniş tarihsel çerçevede tartışır.
 [^3]: Eric Hobsbawm. *The Age of Empire: 1875-1914* (1987). İmparatorluk rekabeti, sanayi kapitalizmi ve büyük güç siyaseti için geniş tarihsel arka plan.

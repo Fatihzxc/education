@@ -46,7 +46,7 @@ Machiavelli'nin doğrudan formüle etmediği ama eserinden çıkarılabilecek bi
 
 Bu doktrin, 16. yüzyıl sonu — 17. yüzyıl başında Avrupa'da geniş bir tartışma alanı yarattı. Giovanni Botero (*Della Ragion di Stato*, 1589), Cardinal Richelieu (Fransa Başbakanı, 1624-1642), ve Frédéric II (Prusya kralı, 1712-1786) gibi figürler bu doktrinin teorik ve pratik gelişiminde merkezi roller oynadı.
 
-*Raison d'état*, modern devletin doğuşunun kavramsal temellerindendir. Westphalia sisteminin (1648 sonrası) "her bir egemen devletin kendi içişlerinde özerk olduğu" ilkesi, *raison d'état* doktrininin pratik uygulamasıdır. Modern uluslararası ilişkiler "realist" kuramı, hâlâ bu çerçeveyi kullanır.
+*Raison d'état*, modern devletin doğuşunun kavramsal temellerindendir. 1648 sonrası Westphalia diye anılan düzen, sonradan "her bir egemen devletin kendi içişlerinde özerk olduğu" ilkenin sembolü haline getirildi; fakat bu ilke tek başına Machiavelli'nin devlet aklının pratik uygulaması değildir. Daha doğru okuma şudur: devlet aklı, mezhep savaşları, diplomasi, mali-askeri merkezileşme ve antlaşma rejimleriyle birlikte modern realist uluslararası ilişkiler dilinin zeminini hazırladı.
 
 ### Floransa sokak kartı: devlet aklı kime güvenlik, kime korku?
 
@@ -151,8 +151,17 @@ Bu çerçeve, Machiavelli'nin 1513-1531 yazılı eserlerinin 500 yıl sonra hâl
 İleri düzeyde Machiavelli’yi kötülük öğretmeni gibi basitleştirme. O, siyaseti süslü ahlak perdelerinden çıkarıp güç, korku, fırsat ve kurum diliyle düşünmeye zorlar.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1513 — Floransa'da bir el yazması" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Machiavelli, N. (1532). *Il Principe*. İlk basım Roma. Türkçe çeviri: Nazım Güvenç (Anahtar Kitaplar, 1994); H. Kazım Kabaağaç (Türkiye İş Bankası Kültür Yayınları, 2008). Bu kitap kb-mcp'de bulunmamakta; bu bölümün argümanları doğrudan public-domain metinden ve Quentin Skinner *Machiavelli: A Very Short Introduction* (1981) gibi referanslardan inşa edilmiştir.
 
 [^2]: Machiavelli, N. (yazımı ~1512-1517, yayın 1531). *Discorsi sopra la prima Deca di Tito Livio*. Cumhuriyetçi karma rejim teorisi. Tam metin için: Bernard Crick (ed.), *The Discourses* (Penguin, 1970).

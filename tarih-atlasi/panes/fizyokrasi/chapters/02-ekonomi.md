@@ -126,6 +126,15 @@ Bugünden bakınca bu iddia dar görünür; çünkü sanayi, teknoloji ve hizmet
 
 İleri soru şudur: Bir ekonomide "üretken" olanı nasıl tanımlarız? Sadece fiyatı olan şey mi üretkendir, yoksa toplumu ayakta tutan maddi-ekolojik temel ayrıca görülmeli midir? Fizyokrasi, modern ekolojik iktisada bu yüzden beklenmedik bir kapı açar.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Produit net ne demek?" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Henry George. *Progress and Poverty* (1879). Toprak değer vergisi fikrinin modern klasik metni; fizyokrat tek vergi düşüncesinin 19. yüzyıldaki en güçlü yeniden doğuşudur.

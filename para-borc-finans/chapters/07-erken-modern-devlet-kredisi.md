@@ -28,6 +28,8 @@ Dördüncü basamak: Borçlanmanın maliyeti güvene bağlıdır. Devlet sık s�
 
 Beşinci basamak: Para düzeni bu güvenin parçasıdır. Sikke ayarı, tağşiş, merkez bankası benzeri kurumlar, kamu tahvilleri ve vergi sistemi birlikte devletin mali yüzünü oluşturur.
 
+Bu bölümde "fiscal-military state" denen fikri sade biçimde hatırlamak işe yarar: Erken modern devlet, savaş kapasitesi büyüdükçe mali kapasitesini de büyütmek zorunda kaldı. Donanma, top, kale, maaşlı ordu ve uzun savaşlar yalnız cesaretle değil, krediyle yürütüldü. Hollanda Cumhuriyeti'nin borç piyasaları, İngiltere'de 1694 Bank of England, Fransa'da John Law deneyimi ve South Sea balonu aynı aileye ait farklı sahnelerdir. Hepsi devletin gelecekteki gelirini bugünün parasına çevirme arzusunu gösterir; ama hepsi bu dönüşümün güven, spekülasyon ve siyasal meşruiyetle ne kadar kırılgan olduğunu da gösterir.
+
 ## Bölümün argümanı
 
 Bu bölümün argümanı şudur: Erken modern devletin gücü yalnız kılıçtan değil, **krediye çevrilebilir gelecek vergi gelirinden** doğar.
@@ -81,3 +83,22 @@ Bugün kamu borcu tartışmaları hâlâ aynı soruların içinde yürür. Devle
 Bu yüzden devlet borcuna bakarken hane ahlakı ile imparatorluk rahatlığı arasında sıkışmamak gerekir. Devlet hane değildir; ama bu onu sorumsuz kılmaz. Devletin gerçek sınırı, toplumun ona duyduğu güven, üretim kapasitesi, para biriminin itibarı ve borcun hangi adalet duygusuyla taşındığıdır.
 
 Okur için pratik ölçü şudur: Borç gelecekte daha çok üretme, öğrenme, korunma ve yaşama kapasitesi doğuruyorsa başka; yalnız bugünkü açığı kapatıp yarının manevra alanını daraltıyorsa başkadır. Aynı "borç" kelimesi iki farklı gelecek kurabilir.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- John Brewer, *The Sinews of Power*
+- North ve Weingast, 1688 kurumsal donusum makalesi
+- P. G. M. Dickson, *The Financial Revolution in England*
+- Niall Ferguson, *The Cash Nexus*
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

@@ -192,8 +192,17 @@ Bu çerçeve, modern ABD politik tartışmasının önemli bir teorik temelidir.
 
 İleri düzeyde Locke’u yalnız bireysel özgürlük teorisyeni gibi değil, toprak edinimi ve sömürge çağı bağlamıyla birlikte oku. Teorinin gücü şurada: mülkiyeti kral bağışından değil, kişinin emeğinden türetir. Gerilimi ise şurada: emeği görünür olan kişinin hakkı anlatılırken, orayı zaten kullanan ama Avrupa hukuk diliyle sahip sayılmayan topluluklar görünmezleşebilir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1690 — modern liberalizmin kurucu cümlesi" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 142. Locke'un mülkiyet teorisinin özeti: her insanın kendi bedenine sahip olması üzerinden emek-mixing argümanı. Locke'un *Two Treatises of Government* (1690) metni kb-mcp'de bulunmadığı için bu bölüm büyük ölçüde Schumpeter'ın özeti + ikincil literatür üzerinden inşa edilmiştir.
 
 [^2]: Locke, J. (1690). *Two Treatises of Government*, II §27. "Though the earth, and all inferior creatures, be common to all men..." — emek-mixing argümanının orijinal pasajı. Public domain metni gutenberg.org'da bulunmaktadır.

@@ -128,9 +128,17 @@ Bu kitap boyunca işletilen iki analitik mercek — Marx'ın ideoloji kavramı (
 
 İleri düzeyde Osmanlı yansımalarını “etki var mı, yok mu?” ikiliğine hapsetme. Daha öğretici soru şudur: farklı kurumlar aynı toprak-vergi sorununu hangi dil ve amaçla çözer? Böyle bakınca Osmanlı, Avrupa ekollerinin gölgesi olmaktan çıkar; kendi düzen, geçim ve maliye mantığıyla konuşmaya başlar.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Doğrudan etki yok — niye yine de Osmanlı bölümü?" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Defterdar Sarı Mehmed Paşa, *Nesayihü'l-Vüzera ve'l-Ümera* (yaklaşık 1714). Modern Türkçe baskı: Hüseyin Ragıp Uğural çevirisi, *Devlet Adamlarına Öğütler* (Kültür Bakanlığı, 1969 ve sonraki baskılar). Wright tarafından İngilizceye çevrilmiş baskı: Walter L. Wright Jr., *Ottoman Statecraft: The Book of Counsel for Vezirs and Governors* (Princeton, 1935). Metin proje MCP kataloğunda `sarimehmed-nesayih` olarak indekslidir.
 
 [^2]: Geç-Osmanlı tarımsal istihdam ve gelir oranları için: Şevket Pamuk, *Osmanlı-Türkiye İktisadi Tarihi 1500-1914* (İletişim, çeşitli baskılar); ve Donald Quataert, *The Ottoman Empire 1700-1922* (Cambridge UP, 2005), agrarian sektörün ağırlığına ilişkin bölümler.

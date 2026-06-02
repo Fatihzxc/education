@@ -32,7 +32,7 @@ Bu açıklığın sonraki etkisi muazzamdır. Karl Marx (Bölüm 11'de işlenece
 
 **Reddedilen ya da yumuşatılanlar**. Mill, 1869'da *Fortnightly Review*'da çıkan bir makalesinde, William Thomas Thornton'ın *On Labour* (1869) eserinin etkisiyle, *wage-fund doctrine*'i geri çeker. Sendikaların reel ücret üzerinde bir pazarlık alanı olduğunu kabul eder: ücret fonu sabit bir miktar değildir; toplam ücretler ile kârlar arasındaki bölüşüm, kurumsal-pazarlık ilişkileri tarafından da belirlenir. Bu geri-çekme, Mill'in entelektüel namusunun en belirgin örneklerinden biridir — yirmi yıl boyunca savunduğu bir tezi, daha iyi bir argümanla karşılaşınca kamuya açık olarak terkeder.
 
-Malthus'un (Bölüm 3) katı *Iron Law of Wages* tezi — ücretlerin uzun vadede kaçınılmaz olarak geçim seviyesine yakınsayacağı tezi — Mill tarafından koşullara bağlı bir yasaya dönüştürülür: işçi sınıfının *kültürel beklentilerinin* yükselmesi, eğitim, ihtiyatlı evlilik gelenekleri, sendikal pazarlık — bunlar nüfus baskısının ücret üzerindeki etkisini etkisiz hale getirebilir. Mill, Malthus'un demografik pesimizmini bir *eğitimsel-kültürel proje* için araç olarak kullanır.
+Malthus'un (Bölüm 3) nüfus baskısı ve geçimlik ücret tezi — ücretlerin uzun vadede geçim seviyesine yakınsayacağı fikri; sonradan Lassalle'ın *Demir Ücret Yasası* adıyla sertleştireceği hat — Mill tarafından koşullara bağlı bir yasaya dönüştürülür: işçi sınıfının *kültürel beklentilerinin* yükselmesi, eğitim, ihtiyatlı evlilik gelenekleri, sendikal pazarlık — bunlar nüfus baskısının ücret üzerindeki etkisini etkisiz hale getirebilir. Mill, Malthus'un demografik pesimizmini bir *eğitimsel-kültürel proje* için araç olarak kullanır.
 
 Katı *laissez-faire* doktrinine Mill mesafelidir. *Principles* V. kitabın "*Of the Grounds and Limits of the Laissez-faire or Non-interference Principle*" bölümünde, *laissez-faire*'in genel kural olduğunu ama önemli istisnaları olduğunu söyler: (a) eğitim — çünkü çocuklar kendi eğitim ihtiyaçlarının iyi yargıçları değildir; (b) doğal monopoller — gaz, su, demiryolları, çünkü piyasa burada sağlıklı işlemez; (c) iş güvenliği — Factory Acts'in çocuk-emek ve çalışma saati düzenlemelerine açıkça destek; (d) yoksullara yardım — bazı koşullar altında devletin minimum geçim sağlaması meşrudur. Bu liste, modern *karma ekonomi* anlayışının erken bir formülasyonudur.
 
@@ -173,9 +173,17 @@ Bölüm 10, klasik iktisadın geç-Osmanlı bağlamına geçer: Sakızlı Ohanne
 
 İleri düzeyde Mill’i yalnız kapanış figürü gibi okuma. O, klasik iktisadın kendi içinden çıkan bir öz-eleştiridir. Bu yüzden hem mirasçı hem dönüştürücüdür: üretim mekanizmasını klasiklerden alır, ama dağıtım ve özgürlük alanında toplumun bilinçli seçim yapabileceğini daha açık söyler.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "James Mill'in oğlu — bir eğitsel deneyin canlı subjektüsü" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: John Stuart Mill, *Autobiography* (Londra: Longmans, Green, Reader, and Dyer, 1873; ölümünden sonra Helen Taylor tarafından yayına hazırlanmıştır). Modern eleştirel baskı: *Collected Works of John Stuart Mill*, Cilt I, ed. John M. Robson ve Jack Stillinger (Toronto: University of Toronto Press, 1981). Erken eğitim için özellikle I. ve II. bölümler; 1826 zihinsel krizi için V. bölüm. James Mill'in pedagojik projesinin Bentham-Utilitarianizm bağlamı için Alexander Bain, *James Mill: A Biography* (Londra: Longmans, Green, 1882). Mill'in çocukluk eğitimi üzerine modern değerlendirme: Bruce Mazlish, *James and John Stuart Mill: Father and Son in the Nineteenth Century* (New York: Basic Books, 1975).
 
 [^2]: J. S. Mill, *Principles of Political Economy, with Some of their Applications to Social Philosophy* (Londra: John W. Parker, 1848; ikinci baskı 1849; üçüncü 1852; dördüncü 1857; beşinci 1862; altıncı 1865; yedinci 1871). Modern eleştirel baskı: *Collected Works*, Cilt II ve III, ed. J. M. Robson (Toronto: University of Toronto Press, 1965). Üretim-dağılım ayrımı için II. Kitap, I. Bölüm ("Of Property"); durağan-durum bölümü için IV. Kitap, VI. Bölüm; *laissez-faire*'in sınırları için V. Kitap, XI. Bölüm. *Principles*'ın baskıdan baskıya revizyonlarının izi için Lionel Robbins'in giriş yazısı, *Collected Works*, Cilt II. Mill'in klasik kanon içindeki konumu üzerine standart kaynak: Samuel Hollander, *The Economics of John Stuart Mill*, 2 cilt (Toronto: University of Toronto Press, 1985).

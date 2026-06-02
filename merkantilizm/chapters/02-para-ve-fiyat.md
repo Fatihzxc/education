@@ -147,8 +147,17 @@ Para, bullion ve fiyat devrimi etrafındaki tartışmayı ekteki playground'da g
 - [Salamanca okulu ve quantity theory'nin İspanyol kanalı](appendix/playground.html#concept/salamanca-okulu)
 - [1500 fiyat devrimi — zaman çizelgesi olayı](appendix/playground.html#event/evt-1500-price-revolution)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Yüklü gemi geliyor" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Lars Magnusson. *Mercantilism: The Shaping of an Economic Language* (1994), s. 69. "Money, according to Clement, was the precious 'Medium of all Commerce'. Silver and gold was used for such a purpose in all [places]."
 
 [^2]: Jean Bodin. *Réponse aux paradoxes de Malestroit* (1568), modern İngilizce çevirisi, s. 23. "I find that the dearness that we see comes approximately because of four or five reasons. The principal and almost only reason (though no one up to now has mentioned it) is the abundance of gold and silver." Modern miktar teorisinin kurucu metni.

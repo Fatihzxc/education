@@ -150,8 +150,17 @@ Bu parçalama öğreticidir; karmaşık ekonomiyi anlaşılır hale getirir. Ama
 
 İleri soru şudur: Marjinal analiz bize kararın mantığını gösterir, ama karar alanının nasıl kurulduğunu açıklamaya yeter mi? Bu soruyu sormak, marjinalizmi reddetmek değil; onu tarih ve kurumlarla birlikte kullanmaktır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Marjinal fayda ne demektir?" başlığının gösterdiği somut düğümden oku: fiyatın son birim fayda, kıtlık ve tercih üzerinden nasıl açıklanacağı sorusu.
+- **Baskın bakış:** tüketici ve teknik iktisatçı bakışı; çünkü ölçülebilir seçimleri merkeze alır.
+- **Güçlü karşı fikir:** Marx, Sraffa, feminist ve kurumsal okumalar tercihlerin gelir ve güç içinde kurulduğunu hatırlatır.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Alfred Marshall. *Principles of Economics* (1890). Arz-talep, makas benzetmesi, kısmi denge ve tüketici artığı tartışmaları için temel metin.
 [^2]: Léon Walras. *Éléments d'économie politique pure* (1874-1877). Genel denge yaklaşımının klasik kaynaklarından biri.
 [^3]: William Stanley Jevons. *The Theory of Political Economy* (1871). Fayda, değer ve matematiksel iktisat dili için erken marjinalist kaynak.

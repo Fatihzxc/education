@@ -167,8 +167,17 @@ Polybios bu mantığı sadece *tasvir etti*; Madison ise *tasarladı*. Aradaki 1
 İleri düzeyde antik temelleri modern devletin çocukluğu gibi değil, farklı bir siyasal dünya gibi oku. Orada egemenlik çoğu zaman yurttaşlık statüsüyle birlikte düşünülür.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "İki kanal — felsefi Yunan ve hukuksal Roma" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Aristoteles, *Politika* III.7-8 (yönetim biçimleri sınıflandırması); III.16 (yasaların egemenliği). Türkçe çeviri: Mete Tunçay (Remzi Kitabevi). *Politika*'nın tam metni kb-mcp'de bulunmamakta; bu bölümün argümanları ikincil literatürden — özellikle Schumpeter 1954 ve Quentin Skinner 1978 — sentezlenmiştir.
 
 [^2]: Polybios, *Tarih* VI.11-18 (Roma Cumhuriyeti'nin karma rejim olarak çözümlemesi). M.Ö. ~150. Aristoteles'in karma rejim idealinin Roma'daki pratik gerçekleşmesi.

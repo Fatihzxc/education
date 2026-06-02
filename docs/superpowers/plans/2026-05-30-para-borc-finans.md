@@ -96,3 +96,17 @@
 - [x] Run `node --test tools/navigation-pages.test.mjs`.
 - [x] Run a content audit that all 12 chapter files contain required section headings.
 - [x] Load `http://127.0.0.1:8772/para-borc-finans/book.html#bolum/1` in the browser and check title, nonblank content, and console health.
+
+### Task 8: Second-Pass Content Depth
+
+**Files:**
+- Modify: all `para-borc-finans/chapters/*.md`
+- Modify: `docs/superpowers/reviews/2026-05-30-para-borc-finans-bilgelik-review.md`
+
+- [x] Add a source/ekol compass to the opening and core concept chapters.
+- [x] Add chartalist/metallist/credit-money framing to the money chapter.
+- [x] Add Fisher, Keynes, Minsky, Bagehot, Graeber, Solon, Bank of England, Duyun-u Umumiye and related anchors where they clarify the argument.
+- [x] Deepen the 1929, 1971 and 2008 crisis chapter with separate mechanisms.
+- [x] Deepen the Osmanli-Turkiye chapter with periodization and household memory.
+- [x] Deepen the digital finance chapter with credit-card, BNPL, stablecoin, crypto-exchange and CBDC mini cases.
+- [x] Re-run navigation tests, content audit, anchor audit, diff check and browser render verification.

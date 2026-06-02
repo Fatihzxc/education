@@ -132,8 +132,17 @@ Bu küçük alıştırma, klasik dönemin parıltısını söndürmez. Onu insan
 
 Yunan dünyası tartışma ve yurttaşlık dilini büyüttü; Roma hukuk ve imparatorluk idaresini; Han Çin bürokrasi ve ahlaki yönetim fikrini; Hint dünyası dharma, kurtuluş ve toplumsal düzen sorusunu; Pers dünyası geniş çeşitliliği yönetme sanatını; bozkır dünyası hareketli güç ve sınır pazarlığını gösterdi. Bu hatları yan yana koyunca dünya tarihi tek merkezli olmaktan çıkar.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru: imparatorluklar neden büyüdü?" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Walter Scheidel, *Escape from Rome* (2019). Roma sonrası parçalanma ve Avrasya karşılaştırmaları için yararlı bir tartışma.
 [^2]: Michael Loewe ve Edward L. Shaughnessy (ed.), *The Cambridge History of Ancient China* (1999). Erken Çin ve Han düzeni için temel başvuru.
 [^3]: Peter Fibiger Bang ve Walter Scheidel (ed.), *The Oxford Handbook of the State in the Ancient Near East and Mediterranean* (2013). Antik devlet biçimlerini karşılaştırır.

@@ -82,9 +82,9 @@ Marsilius'un bu radikal çerçevesi, 14. yüzyılda bir azınlık görüşüydü
 
 **2. Kilise'nin sivil otoriteye tabi olması**. Protestan ülkelerde, kilise sivil devletin bir parçası haline geldi. İngiltere'de Anglikan Kilisesi (Henry VIII, 1534), İskandinavya'da Lutheran kiliseler — hepsi devlet egemenliğinin uzantıları oldu.
 
-**3. Otuz Yıl Savaşları (1618-1648)**. Reformasyon'un yarattığı dini gerilim, Avrupa'nın en yıkıcı savaşı oldu (mutlak nüfus kayıpları açısından, II. Dünya Savaşı'ndan da büyük). Bu savaş 1648 Westphalia Antlaşması ile sona erdi; antlaşma, modern toprak-temelli, eşit egemen devletler sisteminin kurucu metnidir.
+**3. Otuz Yıl Savaşları (1618-1648)**. Reformasyon'un yarattığı dini gerilim, Avrupa'nın en yıkıcı savaşlarından biri oldu. Bu savaş 1648 Westphalia barış düzeniyle sona erdi; Westphalia sonradan modern toprak-temelli, eşit egemen devletler sisteminin kurucu sembolü gibi okunacaktır. Ama bu okuma bir kısa yoldur: modern egemenlik rejimi tek bir antlaşma anında doğmadı; diplomasi, hukuk, savaş, merkezileşme ve imparatorluk-papalık yetki iddialarının uzun çözülmesi içinde şekillendi.
 
-Westphalia, iki kılıç doktrininin pratik sonudur. Her bir devlet, kendi sınırları içinde *mutlak* egemendir; başka hiçbir otoriteye (papa dahil) tabi değildir. Bu, modern devletler-arası sisteminin temelidir.
+Westphalia, iki kılıç doktrininin pratik çözülüşünde güçlü bir dönemeçtir. Papa-imparatorluk iddialarının alanı daralır, devletlerin iç düzenlerine dış müdahale daha zor meşrulaştırılır; ama "her devlet kendi sınırında mutlak ve tamamlanmış egemendir" formülü, tarihsel gerçeklikten çok sonraki uluslararası ilişkiler öğretisinin sadeleştirici dilidir.
 
 ## 3.8 Ortaçağ egemenlik düşüncesinin modern izleri
 
@@ -172,8 +172,17 @@ Bu paketin ana dersi sade: Ortaçağ'da egemenlik yok değildi; çok katmanlıyd
 İleri düzeyde Ortaçağ’ı egemenliğin yokluğu gibi okuma. Tam tersine, egemenliğin bölünmüş ve hiyerarşik biçimde nasıl düşünüldüğünü gösterir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Roma sonrası vakum" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Augustinus, *De Civitate Dei* (413-426), Kitap XIV-XV. "İki şehir" doktrinin orijinal metni. Türkçe çeviri: Erkan Akay (Pan Yayıncılık).
 
 [^2]: Gelasius I, *Duo sunt* mektubu (494). Klasik iki kılıç doktrinin kurucu metni. Latince orijinal için: H. Rahner, *Kirche und Staat im frühen Christentum* (1961).

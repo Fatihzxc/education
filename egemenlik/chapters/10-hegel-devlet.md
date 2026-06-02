@@ -143,7 +143,7 @@ Modern uygulamalar:
 
 **1. Kanada — Quebec'in tanınması (1995-1998)**. Quebec'in *distinct society* (ayrı toplum) olarak tanınması, kanadalı federal sistem içinde uzun süreli bir tartışmaydı. 1995 referandumunda Quebec'in bağımsızlığı %49.4 ile %50.6 kıl payı reddedildi. 1998 Supreme Court of Canada *Reference re Secession of Quebec* kararı, bir eyaletin tek-taraflı ayrılma hakkı olmadığını; ama "*açık bir çoğunluğun*" "*açık bir soru*"ya verdiği "*evet*" cevabının, federal hükümeti *müzakere*'ye zorlayacağını belirledi. Hegelci *Anerkennung* mantığı: bir kollektif kimliğin (Quebec Frankofon kültürü) hukuksal-anayasal tanınması, onun yapısal varlığının koşuludur.
 
-**2. Yeni Zelanda — Maori (1840 → 1975-2024)**. 1840 Waitangi Antlaşması Maori topraklarını İngiliz Tacı'na devretti — ama Maori versiyonu ve İngilizce versiyonu farklı şeyler diyordu. 1975 *Waitangi Tribunal* kuruldu, Maori topraklarına yapılan ihlalleri tazmin etmek için. 1985 ve sonrasında milyarlarca dolar tazminat ödendi; bazı topraklar iade edildi. 2024'te bile süren süreç: kollektif bir kimliğin (Maori halkları) hem hukuksal hem maddi olarak tanınması.
+**2. Yeni Zelanda — Māori (1840 → 1975-2024)**. 1840 Waitangi Antlaşması iki metinli ve tartışmalı bir tanıma belgesidir: İngilizce metin Māori'nin egemenliği İngiliz Tacı'na devrettiği dilini kullanır; Māori metni ise Article 1'de İngilizlere *kāwanatanga* (yönetme/governance) verirken Article 2'de kabilelerin toprakları, yerleşimleri ve *taonga* üzerindeki *tino rangatiratanga* otoritesini korur.^[7] Bu yüzden ilk cümleyi "Māori toprakları devredildi" diye kurmak İngiliz metnini ana gerçek yapar; daha doğru okuma, antlaşmanın egemenlik, yönetim ve kollektif otorite arasında hâlâ süren bir yorum çatışması açtığıdır. 1975 *Waitangi Tribunal* kuruldu, Māori topraklarına ve haklarına yapılan ihlalleri incelemek için. 1985 ve sonrasında milyarlarca dolar tazminat ödendi; bazı topraklar iade edildi. 2024'te bile süren süreç: kollektif bir kimliğin (Māori halkları) hem hukuksal hem maddi olarak tanınması.
 
 **3. Kuzey İrlanda — Good Friday Agreement (1998)**. 30 yıllık *Troubles* (1968-1998) sonrasında, üç tarafın (İngiliz, İrlanda, Kuzey İrlandalı) ortak imzaladığı antlaşma. Çift-vatandaşlık tanındı (Kuzey İrlandalılar hem İngiliz hem İrlanda vatandaşı olabilir); paylaşılan yönetim kuruldu (Unionist + Nationalist liderler birlikte); kollektif kimlikler hukuksal olarak korundu. Hegelci kollektif tanıma çerçevesinin somut bir politik uygulaması.
 
@@ -196,8 +196,17 @@ Weber'in tasviri pesimisttir. Bürokrasi, modern özgürlüğü garanti eden bir
 İleri düzeyde Hegel’i devlete tapınma gibi basitleştirme. Onun için devlet, dağınık çıkarları ortak etik düzene bağlama iddiasıdır; tartışma bu iddianın ne kadar gerçek olduğudur.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1820 — Berlin'de bir devlet teorisi" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Hegel, G.W.F. (1820). *Grundlinien der Philosophie des Rechts*. Mülkiyet kitabı Bölüm 9'da işlendi. *Sittlichkeit* (Etik Yaşam) bölümü: §§142-360. İngilizce çeviri: T.M. Knox (1942), *Philosophy of Right*, Oxford. Allen Wood'un *Hegel's Ethical Thought* (1990) standart modern yorumdur.
 
 [^2]: Hegel, *Philosophy of Right* §257-258 (devletin etik fikrin gerçekleşmesi olarak tanımı); §§275-329 (anayasal monarşi yapısı). "Tanrı'nın yeryüzünde yürüyüşü" pasajı §258'in ek paragrafındadır (Zusatz) ve farklı çevirilerde farklı vurgular taşır.
@@ -209,3 +218,5 @@ Weber'in tasviri pesimisttir. Bürokrasi, modern özgürlüğü garanti eden bir
 [^5]: Modern liberal Hegel okumaları için: Charles Taylor, *Hegel* (1975); *Hegel and Modern Society* (1979). Allen Wood, *Hegel's Ethical Thought* (1990). Robert Pippin, *Hegel's Practical Philosophy* (2008).
 
 [^6]: Hegel'in "tanıma" (recognition) kavramının modern uyarlamaları için: Charles Taylor, "The Politics of Recognition" (1992); Axel Honneth, *Kampf um Anerkennung* (1992); Nancy Fraser, *Redistribution or Recognition?* (2003).
+
+[^7]: Waitangi Tribunal, *About the Treaty* ve *Māori and English versions* sayfaları. Tribunal, Māori ve İngilizce metinlerin aynı şeyleri söylemediğini; Article 1'de İngilizce metnin "sovereignty", Māori metnin ise *kāwanatanga* dediğini; Article 2'de Māori metnin *tino rangatiratanga* ve *taonga* korumasını içerdiğini açıklar.

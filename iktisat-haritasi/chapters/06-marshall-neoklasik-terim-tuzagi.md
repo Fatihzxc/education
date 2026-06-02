@@ -102,8 +102,17 @@ Sonraki bölüm, tam o makro sahneye geçer: Büyük Buhran'ın neoklasik dengey
 İleri düzeyde neoklasik etiketinin tuzağına dikkat et. Etiket hem klasik mirası sahiplenir hem de klasiklerin bölüşüm ve sınıf sorularını daha sessiz bir dile taşır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Makasın iki ağzı: Marshall'ın sentezi" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Alfred Marshall, *Principles of Economics* (Macmillan, 1890). Arz-talep makası, kısmi denge ve kısa/uzun dönem ayrımının kavram bazında işlenişi kardeş kitap `deger`, Bölüm 10 (Marshall sentezi). Marjinalizmden Marshall'a geçiş için ayrıca `klasik-iktisat`, Bölüm 11.
 
 [^2]: Paul A. Samuelson, *Economics* (McGraw-Hill, 1948 ve sonraki baskılar). "Neoklasik sentez" teriminin Keynesçi makro + neoklasik mikro birleşimini anlattığı ve Marshall'ın 1890 "neoklasik iktisat"ından farklı olduğu ayrımı için: Mark Blaug, *Economic Theory in Retrospect* (Cambridge UP, 1997), ilgili bölümler. Keynes'in çerçevesi ve sentezin 1970 sonrası çözülüşü Bölüm 7'dedir.

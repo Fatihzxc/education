@@ -117,9 +117,17 @@ Bölüm 5, *Tableau Économique*'in mimarisini tüm teknik ayrıntısıyla ele a
 
 İleri düzeyde Quesnay’in hayatını kişisel ayrıntı gibi görme. Onun hekim oluşu, ekonomiyi parça parça değil dolaşan bir sistem olarak düşünmesini sağlar. Ama saray çevresindeki uzman konumu da önemlidir: toplum ona çoğu zaman aşağıdan yaşanan bir mücadele değil, yukarıdan düzenlenebilir bir beden gibi görünür.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Méré'den Versailles'a — bir taşra çocuğunun yolu" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Quesnay'in geç okuryazarlığı ve bahçıvandan öğrenme anekdotunun kaynağı, Marquis de Mirabeau'nun Quesnay'in ölümünden sonra hazırladığı biyografik notlardır; François-Vincent Toussaint ve sonraki biyografi yazarları (özellikle Auguste Oncken) bu motifi tekrarlar. Modern eleştirel değerlendirme için: Jacqueline Hecht, "La vie de François Quesnay", *François Quesnay et la Physiocratie* (INED, 1958), Cilt I — Quesnay biyografisi üzerine kanonik arşiv çalışması. Anekdotun şüpheli ama "*otodidakt yükseliş*" motifinin gerçek olduğu konusunda yorumcular hemfikirdir.
 
 [^2]: François Quesnay, *Observations sur les effets de la saignée* (Paris, 1730). Quesnay'in tıbbi yazıları için ana koleksiyon: *Œuvres économiques et philosophiques de F. Quesnay*, ed. Auguste Oncken (Frankfurt/Paris, 1888). *Économie animale* kavramının fizyokratik düşünceye taşınması üzerine tematik analiz için: Thomas P. Neill, "Quesnay and Physiocracy", *Journal of the History of Ideas* 9:2 (1948); ayrıca Loïc Charles & Christine Théré, "From Versailles to Paris: The Endgame of the Physiocratic Movement", *History of Political Economy* 43:1 (2011).

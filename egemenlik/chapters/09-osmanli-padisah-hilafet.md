@@ -226,8 +226,17 @@ Bu örüntü, modern egemenlik sisteminin (Westphalia) *yapısal bir kazanımı*
 İleri düzeyde Osmanlı egemenliğini Avrupa soverenlik kalıbına zorla sokma. Benzer sorular vardır; fakat cevaplar farklı kurumların birlikte çalışmasıyla kurulur.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Avrupa-dışı bir egemenlik geleneği" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Türk-Moğol egemenlik geleneği ve Türk-İslâm sentezi için klasik referans: Halil İnalcık, *Osmanlı'da Devlet, Hukuk ve Adalet* (2000); Cemal Kafadar, *Between Two Worlds: The Construction of the Ottoman State* (1995). İnalcık-Quataert *Economic and Social History* kb-mcp'de mevcut.
 
 [^2]: Fatih'in *Kanunname-i Âl-i Osman* (~1477) için: Halil İnalcık, *Suleyman the Lawgiver and Ottoman Law* (1969); ayrıca Sariyannis, *Ottoman Political Thought up to the Tanzimat* (2015) — kb-mcp'de mevcut.

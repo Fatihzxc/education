@@ -34,7 +34,7 @@ Smithian büyüme modelinin görünmez bir varsayımı vardır: kaynaklar — to
 
 ## 6.3 Malthusian sınır — nüfus baskısı
 
-Thomas Robert Malthus'un 1798 *Essay on the Principle of Population*'ı (Bölüm 3'te detaylı işlendi) Smithian iyimserliğe yöneltilen ilk büyük itirazdır. Malthus'un argümanı bilinir: nüfus *geometrik* (1, 2, 4, 8, 16) artma eğilimindedir; gıda üretimi en iyi koşullarda *aritmetik* (1, 2, 3, 4, 5) artar. Bu iki eğri zaman içinde kaçınılmaz olarak ayrılır. Refah artışı nüfusu arttırır; artan nüfus *subsistence* (geçim) sınırını aşmaya çalışır; sonuçta ya açlık, hastalık ve savaş ("pozitif önler") ya da evlilik geciktirme ve çocuk sayısını sınırlama ("önleyici önler") nüfusu geri çeker. Sonuç: işçi sınıfının uzun-vadeli reel ücreti subsistence düzeyinde sabitlenir. Bu sonuç klasik literatürde *Iron Law of Wages* (demir ücret yasası) adıyla anılır.
+Thomas Robert Malthus'un 1798 *Essay on the Principle of Population*'ı (Bölüm 3'te detaylı işlendi) Smithian iyimserliğe yöneltilen ilk büyük itirazdır. Malthus'un argümanı bilinir: nüfus *geometrik* (1, 2, 4, 8, 16) artma eğilimindedir; gıda üretimi en iyi koşullarda *aritmetik* (1, 2, 3, 4, 5) artar. Bu iki eğri zaman içinde kaçınılmaz olarak ayrılır. Refah artışı nüfusu arttırır; artan nüfus *subsistence* (geçim) sınırını aşmaya çalışır; sonuçta ya açlık, hastalık ve savaş ("pozitif önler") ya da evlilik geciktirme ve çocuk sayısını sınırlama ("önleyici önler") nüfusu geri çeker. Sonuç: işçi sınıfının uzun-vadeli reel ücreti subsistence düzeyine yakınsama eğilimi taşır. Bu sonuç, 19. yüzyıl sosyalist tartışmalarında Lassalle'ın *Demir Ücret Yasası* adıyla daha sert bir siyasal formül kazanacaktır.
 
 Malthusian argümanın Smithian büyüme modeline yönelttiği darbe radikaldir. Smith'in *virtuous cycle*'ı — birikim → istihdam → üretim → birikim — bir noktadan sonra işçi sınıfını yararlandırmaz. Verimlilik artışları reel ücretleri uzun-vadede yükseltmez; sadece daha çok insanın subsistence düzeyinde yaşayabilmesini mümkün kılar. Smithian model'in *yıllık hâsıla*'sı büyüyebilir, ama bu büyüme nüfus artışıyla yutulur. Refah, *kişi başına*, kalıcı olarak değişmez.
 
@@ -52,7 +52,7 @@ Ricardo'nun zincir-akıl yürütmesi şu üç adımdan oluşur^[2]:
 
 **(1)** Marjinal araziye geçildikçe tahıl üretim maliyeti yükselir; tahıl fiyatı en az verimli (marjinal) arazinin maliyetine göre belirlenir; bu fiyat artışı verimli arazi sahiplerinin *farklılaşmış rant*'ını arttırır. Yani rant uzun-vadede yapısal olarak yükselir.
 
-**(2)** Yüksek tahıl fiyatı işçinin geçim maliyetini arttırır; *Iron Law of Wages* nedeniyle parasal ücretler de yükselmek zorundadır (aksi halde işgücü reprodüksiyonu bozulur). Reel ücret subsistence'de sabittir ama parasal ücret yükselir.
+**(2)** Yüksek tahıl fiyatı işçinin geçim maliyetini arttırır; geçimlik ücret mantığı nedeniyle parasal ücretler de yükselmek zorundadır (aksi halde işgücü reprodüksiyonu bozulur). Reel ücret subsistence'de sabittir ama parasal ücret yükselir.
 
 **(3)** Toplam üründen rant ve ücret payları artarken, kapitalistin payı — kâr — daralır. Düşük kâr yatırımı kısar; yatırımın kısılması sermaye birikim hızını yavaşlatır. Birikim yavaşladıkça pazar genişlemesi yavaşlar, dolayısıyla Smithian *virtuous cycle* yavaşlar. Sonunda kâr oranı *minimum* düzeye düşer ve yeni yatırımı çekmemeye başlar. Bu noktada ekonomi *durağan-duruma* (*stationary state*) varır.
 
@@ -127,7 +127,7 @@ Klasik büyüme teorisinin modern büyüme iktisadında beş ana hatta yaşadı�
 
 **(4) Steady-state ve degrowth economics (1970'ler-bugün)**^[8]. Herman Daly'nin *steady-state economics* programı, Mill'in seçimli durağan-durum vizyonunu modern biyofiziksel sınır çerçevesinde yeniden okur. Tim Jackson'ın *Prosperity Without Growth* (2009), Kate Raworth'un *Doughnut Economics* (2017), Jason Hickel'in *Less is More* (2020) bu hattın çağdaş temsilcileridir. İklim sınırlı bir dünyada sürekli GDP büyümesi (Bölüm 12'nin detayı) artık fiziksel olarak mümkün değil — bu noktada Mill'in 1848'deki argümanı, iklim-bilim verisi ile birleşince, akademik gündemde merkezi bir yere oturur.
 
-**(5) Lewis'in çift-sektörlü modeli (1954)**^[9]. W. Arthur Lewis'in *Economic Development with Unlimited Supplies of Labour* makalesi, klasik büyüme teorisinin gelişmekte olan ülke iktisadına en doğrudan tercümesidir. Lewis ekonomiyi iki sektöre ayırır: marjinal verimi neredeyse sıfır olan, gizli işsizlik (*disguised unemployment*) barındıran geleneksel tarım ve birikim güdüsüyle çalışan modern kapitalist sektör. Modern sektör, geleneksel sektörden *subsistence* civarında sabit bir ücretle işgücü çeker; reel ücret yapısal olarak Malthus-Ricardo'nun *Iron Law*'una bağlıdır. Kapitalist sektörün kârı — Smith'in birikim mantığında olduğu gibi — yeniden yatırıma dönüşür ve istihdamı genişletir. Bu süreç, tarım sektöründeki *artık emek* tükenene kadar sürer; "*Lewis turning point*" denilen bu eşikten sonra ücretler yükselmeye başlar ve ekonominin dinamiği klasik tek-sektörlü modele yakınsar. Lewis bu çerçevede üç klasik unsuru bir araya getirir: Smithian birikim-yatırım döngüsü, Ricardian artık-değer (kâr) mantığı ve Malthusian subsistence ücret tabanı. 2010 sonrası Çin'in ücret artışları, Vietnam ve Bangladeş'in benzer eşiklere yaklaşması — bütün bu vakalar Lewis modelinin ampirik gücünü doğrular niteliktedir.
+**(5) Lewis'in çift-sektörlü modeli (1954)**^[9]. W. Arthur Lewis'in *Economic Development with Unlimited Supplies of Labour* makalesi, klasik büyüme teorisinin gelişmekte olan ülke iktisadına en doğrudan tercümesidir. Lewis ekonomiyi iki sektöre ayırır: marjinal verimi neredeyse sıfır olan, gizli işsizlik (*disguised unemployment*) barındıran geleneksel tarım ve birikim güdüsüyle çalışan modern kapitalist sektör. Modern sektör, geleneksel sektörden *subsistence* civarında sabit bir ücretle işgücü çeker; reel ücret yapısal olarak Malthus-Ricardo'nun geçimlik ücret mantığına bağlıdır. Kapitalist sektörün kârı — Smith'in birikim mantığında olduğu gibi — yeniden yatırıma dönüşür ve istihdamı genişletir. Bu süreç, tarım sektöründeki *artık emek* tükenene kadar sürer; "*Lewis turning point*" denilen bu eşikten sonra ücretler yükselmeye başlar ve ekonominin dinamiği klasik tek-sektörlü modele yakınsar. Lewis bu çerçevede üç klasik unsuru bir araya getirir: Smithian birikim-yatırım döngüsü, Ricardian artık-değer (kâr) mantığı ve Malthusian subsistence ücret tabanı. 2010 sonrası Çin'in ücret artışları, Vietnam ve Bangladeş'in benzer eşiklere yaklaşması — bütün bu vakalar Lewis modelinin ampirik gücünü doğrular niteliktedir.
 
 Bu beş hat, klasik büyüme teorisinin modern hayatlarını gösterir. Smithian artan-getiri (endogenous growth), Ricardian azalan-getiri (Solow), Malthusian sınır (*Limits to Growth*, Meadows), Millian seçim (steady-state) ve klasik üçlünün (birikim-rant-subsistence) gelişmekte olan ülke yansıması (Lewis) — hepsi farklı kavramsal kostümlerle güncel literatürde yaşamaktadır.
 
@@ -187,9 +187,17 @@ Bu paketi kullanırken küçük bir çizgi grafik hayal et: üretim yukarı çı
 İleri düzeyde büyüme teorisini yalnız daha fazla üretim hesabı gibi okuma. Klasiklerde büyüme, aynı zamanda kâr oranının, ücretin ve rantın tarihsel kaderidir.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Klasik iktisadın büyüme sorusu" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book I, Chapter III: "That the Division of Labour is limited by the Extent of the Market." Pazar genişliği-işbölümü döngüsünün klasik formülasyonu; Smithian artan-getiri optimizminin metin temeli.
 
 [^2]: Ricardo, D. (1817). *On the Principles of Political Economy and Taxation*, Chapter V ("On Wages") ve Chapter VI ("On Profits"). Diferansiyel rant + subsistence ücret + kâr sıkışması zincirinin çıkarımı; *stationary state* öngörüsünün analitik çekirdeği. Türk okuru için Bölüm 4 ve Değer kitabı Bölüm 6'da detaylı işlenmiştir.

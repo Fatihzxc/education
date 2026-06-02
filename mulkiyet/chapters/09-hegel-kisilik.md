@@ -112,7 +112,7 @@ Hegel'in mülkiyet teorisi, Locke (doğal hak) ile Marx (sömürü aracı) aras�
 
 Bu orta yol, modern Avrupa anayasal demokrasilerinin mülkiyet anlayışının kavramsal kaynağıdır. Mülkiyet birey için merkezi bir kurumdur; ama mutlak değildir, sosyal sınırları vardır, ve devletin meşru düzenleme yetkisinin alanı içindedir.
 
-Bu, Anglo-Amerikan liberal geleneğinin (Locke-Smith-Nozick) "mülkiyet mutlaktır, devlet sınırlı" çerçevesinden farklıdır; aynı zamanda Marksist geleneğin "üretim araçları üzerindeki özel mülkiyet kaldırılmalı" pozisyonundan da farklıdır. Üçüncü bir yol — sosyal-demokratik mülkiyet anlayışı — büyük ölçüde Hegel'in mirasıdır.
+Bu, Anglo-Amerikan liberal geleneğinin bazı daha sert yorumlarından farklıdır; ama o geleneği tek cümlede "mülkiyet mutlaktır, devlet sınırlı" diye kapatmak da doğru olmaz. Locke'ta yeterli ve iyi kadarını başkalarına bırakma sınırı, Smith'te adalet ve kamusal düzen kaygısı, Nozick'te ise daha katı hak-edimci mülkiyet savunusu vardır. Hegel'in farkı, mülkiyeti bireysel kişiliğin maddi zemini olarak savunurken onu açıkça tanınma, hukuk ve toplumsal etik düzen içine yerleştirmesidir. Bu yüzden Hegelci çizgi, Marksist geleneğin "üretim araçları üzerindeki özel mülkiyet kaldırılmalı" pozisyonundan da ayrılır; üçüncü bir yol — sosyal-demokratik mülkiyet anlayışı — büyük ölçüde Hegel'in mirasıdır.
 
 Sonraki bölüm, mülkiyet teorisinin Avrupa'dan dışına çıkıp bir başka kültürel-hukuksal gelenek olan Osmanlı toprak rejimine geçer. Orada görülecek olan, doğa-hukuk ya da diyalektik temelli teorik bir mülkiyet sistemi değil; pratik bir devlet-yönetim tasarımının ürünü olarak gelişmiş bir mülkiyet rejimidir.
 
@@ -165,8 +165,17 @@ Bu çerçeve, 21. yüzyıl mülkiyet hukukunun gelişme istikametidir. Sıradan 
 İleri düzeyde Hegel’i basit özel mülkiyet savunucusu gibi okuma. Onun için mülkiyet, soyut kişinin dünyada tanınabilir hale gelmesidir; ama bu tanınmanın toplumsal koşulları ayrıca sorgulanmalıdır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1820 — Berlin'de bir felsefe ders kitabı" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Hegel, G.W.F. (1820). *Grundlinien der Philosophie des Rechts*, §§34-71 (*Abstract Right*). İngilizce çeviri: T.M. Knox (1942), *Philosophy of Right*, Oxford University Press. Bu eser kb-mcp'de bulunmamakta; bu bölümün argümanları ikincil literatür (özellikle Allen Wood'un *Hegel's Ethical Thought* 1990) üzerinden ve doğrudan public-domain metinden inşa edilmiştir.
 
 [^2]: Hegel, G.W.F. (1820). *Philosophy of Right*, §§54-58. Mülkiyetin üç biçimi: sahiplenme, kullanma, devretme.

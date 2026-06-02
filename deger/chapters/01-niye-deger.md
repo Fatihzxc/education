@@ -175,8 +175,17 @@ Bu kitabın küçük disiplini şu: Birisi "bu şey değerli" dediğinde hemen "
 
 İleri düzeyde değer tartışmasını teknik fiyat teorisi gibi değil, toplumun neyi önemli saydığına dair derin bir kavga gibi oku. Bir şeyin değeri sorulduğunda aslında insan emeğinin, ihtiyacın, kıtlığın ve adalet duygusunun nasıl tartılacağı sorulur.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Bir kelimenin üç kavramı" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book I, Chapter IV, s. 48. ElecBook Classics edisyonu.
 
 [^2]: Marjinalizmin "su-elmas paradoksunu" üç sözle çözmesi, marjinalist dönüş bölümünde (Bölüm 9) detaylı işlenir. Çekirdek fikir: ne kadarınızın olduğu — *quantity at the margin* — sabit *use-value*'dan değil, *additional* use-value'dan beslenir.

@@ -123,8 +123,17 @@ Bu dönemde iktisat henüz bağımsız bir bilim değildir; siyaset, ahlak, sava
 
 İleri soru şu: Bir düşünce ne zaman "bilimsel açıklama", ne zaman "yönetim rehberi" olur? Merkantilizm bu sınırı bulanıklaştırır. Tam da bu yüzden önemlidir; çünkü iktisadi düşüncenin devlet aklından nasıl doğduğunu gösterir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Etiket sonradan geldi" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Eli F. Heckscher. *Mercantilism* (1935). Merkantilizmi birleştirici, güç artırıcı, korumacı ve parasal bir sistem olarak okur.
 [^2]: Jacob Viner. "Power versus Plenty as Objectives of Foreign Policy in the Seventeenth and Eighteenth Centuries" (1948). Güç ve refahın merkantilist düşüncede çoğu zaman karşıt değil, tamamlayıcı olduğunu tartışır.
 [^3]: Lars Magnusson. *Mercantilism: The Shaping of an Economic Language* (1994). Merkantilizmi tek doktrin yerine iktisadi dil olarak okur.

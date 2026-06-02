@@ -1,0 +1,102 @@
+{
+  "title": "Emek ve Çalışma",
+  "subtitle": "Bedenin, zamanın ve değerin tarihi — kölelikten platform işine",
+  "chapters": [
+    {
+      "num": 1,
+      "slug": "01-niye-emek-calisma",
+      "title": "Niye emek ve çalışma?",
+      "subtitle": "Beden, zaman, geçim ve değer aynı masada",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 2,
+      "slug": "02-antik-dunya-emek-kolelik",
+      "title": "Antik dünya: emek, kölelik ve boş zaman",
+      "subtitle": "Özgür yurttaşlığın görünmeyen emek zemini",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 3,
+      "slug": "03-toprak-serflik-angarya",
+      "title": "Toprak, serflik ve angarya",
+      "subtitle": "Emek toprağa, statüye ve yükümlülüğe bağlanınca",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 4,
+      "slug": "04-loncalar-zanaat-emegi",
+      "title": "Loncalar ve zanaat emeği",
+      "subtitle": "Ustalık, kalite, hiyerarşi ve meslek ahlakı",
+      "estWords": 1800,
+      "status": "completed"
+    },
+    {
+      "num": 5,
+      "slug": "05-ilkel-birikim-zorla-emek",
+      "title": "İlkel birikim ve zorla emek",
+      "subtitle": "Enclosure, sömürge köleliği ve ücretli emeğin doğuş koşulları",
+      "estWords": 1900,
+      "status": "completed"
+    },
+    {
+      "num": 6,
+      "slug": "06-smith-is-bolumu-verimlilik",
+      "title": "Smith: iş bölümü ve verimlilik",
+      "subtitle": "İğne fabrikası, üretkenlik ve zihnin daralması",
+      "estWords": 1900,
+      "status": "completed"
+    },
+    {
+      "num": 7,
+      "slug": "07-marx-yabancilasma-arti-deger",
+      "title": "Marx: yabancılaşma ve artı-değer",
+      "subtitle": "Emek gücü, sömürü ve sermaye ilişkisi",
+      "estWords": 2000,
+      "status": "completed"
+    },
+    {
+      "num": 8,
+      "slug": "08-taylor-ford-zaman-disiplini",
+      "title": "Taylor ve Ford: zamanın ölçülmesi",
+      "subtitle": "Bilimsel yönetim, montaj hattı ve beden disiplini",
+      "estWords": 1900,
+      "status": "completed"
+    },
+    {
+      "num": 9,
+      "slug": "09-polanyi-emek-meta-mi",
+      "title": "Polanyi: emek meta mı?",
+      "subtitle": "Piyasa toplumu ve insanın kurgu meta haline gelmesi",
+      "estWords": 1900,
+      "status": "completed"
+    },
+    {
+      "num": 10,
+      "slug": "10-bakim-emegi-feminist-iktisat",
+      "title": "Bakım emeği ve feminist iktisat",
+      "subtitle": "Ev içi emek, yeniden üretim ve görünmeyen değer",
+      "estWords": 2000,
+      "status": "completed"
+    },
+    {
+      "num": 11,
+      "slug": "11-sendika-sosyal-devlet-guvencesizlik",
+      "title": "Sendika, sosyal devlet ve güvencesizlik",
+      "subtitle": "İşçi hareketi, güvence ve neoliberal kırılma",
+      "estWords": 2000,
+      "status": "completed"
+    },
+    {
+      "num": 12,
+      "slug": "12-platform-yapay-zeka-gelecek",
+      "title": "Platform işi, yapay zeka ve geleceğin emeği",
+      "subtitle": "Algoritmik yönetim, gig work ve insan emeğinin yeni sınırı",
+      "estWords": 2100,
+      "status": "completed"
+    }
+  ]
+}

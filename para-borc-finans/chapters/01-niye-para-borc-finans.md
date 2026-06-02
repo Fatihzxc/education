@@ -36,6 +36,8 @@ Bu bölümün argümanı şudur: Para, borç ve finansın ortak çekirdeği **g�
 
 Bu argüman önemlidir, çünkü bize şu kapıyı açar: Enflasyon, faiz, kredi, banka krizi, devlet borcu veya kripto para tartışması gördüğümüzde yalnız "teknik mesele" diye bakmayacağız. Hep şu soruyu soracağız: Burada kimin sözü güvenilir sayılıyor, kimin sözü şüpheli görülüyor, risk kime aktarılıyor?
 
+Kitap boyunca birkaç düşünce ailesi bize eşlik edecek. Parayı metal ve piyasa içinden okuyan gelenek, parayı devlet ve vergi düzeni içinden okuyan chartalist gelenek, borcu ahlaki-siyasal ilişki olarak okuyan tarihçiler, faizi zaman ve likidite üzerinden açıklayan iktisatçılar, krizi kaldıraç ve borç-deflasyon üzerinden düşünen Fisher-Minsky hattı, Osmanlı-Türkiye örneğinde ise para egemenliğini mali kapasite ve toplumsal hafıza üzerinden okuyan tarihsel bakış. Bu isimleri ezber listesi gibi değil, mercek seti gibi düşünmek gerekir. Her mercek aynı olayı başka bir derinlikte gösterir.
+
 ## Kök sebep ve karşı okuma
 
 Kök sebep çok basit: İnsanlar ihtiyaçlarını tek başına karşılayamaz. Değişim, iş bölümü ve gelecek planı gerekir. Para bu değişimi kolaylaştırır; borç geleceği bugüne getirir; finans bu sözleri büyütür.
@@ -81,3 +83,22 @@ Bu iki defteri birlikte okuyabilen kişi daha adil düşünür. Çünkü ne insa
 Bugün bu bakış özellikle önemlidir. Birinin kredi kartı borcuna, devletin kamu borcuna, bir şirketin finansmanına veya bir ülkenin döviz krizine bakarken yalnız "ne kadar borç var?" diye sormak yetmez. Daha derindeki sorular şunlardır: Bu borç hangi geleceğe güvenilerek alındı? Gelir beklentisi neydi? Risk kime yazıldı? Borç ödenemez hale gelirse kim korunacak, kim yalnız bırakılacak?
 
 Bu kitabı okurken her bölümde aynı pusulayı elde tutmak iyi olur: Para güvenin dili, borç zamanın bağı, finans ise bu bağların kurumlaşmış biçimidir. Bu pusula kaybolmazsa, teknik terimler çoğaldığında bile ana insan meselesini kaybetmeyiz.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Georg Friedrich Knapp, *The State Theory of Money*
+- John Maynard Keynes, *A Treatise on Money*
+- Geoffrey Ingham, *The Nature of Money*
+- David Graeber, *Debt: The First 5,000 Years*
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

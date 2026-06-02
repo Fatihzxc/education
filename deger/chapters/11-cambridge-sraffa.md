@@ -165,8 +165,17 @@ Yine de pratik etki sınırlı. Akademik iktisat ders kitapları hâlâ Cobb-Dou
 
 İleri düzeyde bu tartışmayı teknik ayrıntı diye atlama. Sermayeyi nasıl ölçtüğümüz, kârın doğal üretkenlik payı mı yoksa toplumsal bölüşüm sonucu mu olduğu sorusuna bağlanır. Bu yüzden Cambridge tartışması kuru bir matematik kavgası değil; iktisadın adalet ve güç sorularıyla gizli bağını açığa çıkaran bir çatlağıdır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "İki Cambridge — kuzeydoğu ABD ve doğu İngiltere" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Sraffa, P. (1960). *Production of Commodities by Means of Commodities: Prelude to a Critique of Economic Theory*. Cambridge University Press, 99 s. Telifli olduğu için bu kitap kb-mcp'de yer almamaktadır; bu bölümün argümanları Schumpeter (1954) referansları, Joan Robinson'un yorumları (1933 *Economics of Imperfect Competition*) ve ikincil literatür üzerinden inşa edilmiştir.
 
 [^2]: Robinson, J. (1933). *The Economics of Imperfect Competition*. Marshall sentezinin "perfect competition" varsayımının ne kadar kısıtlayıcı olduğunu göstermenin ilk büyük denemesi. Sraffa controversy'nin felsefi zemini Robinson'un bu eserinden çıkar.

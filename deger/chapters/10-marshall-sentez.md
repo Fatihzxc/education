@@ -219,8 +219,17 @@ Pigou'nun 1920'deki kalem-kâğıt analizi, bugün dünya enerji politikasının
 İleri düzeyde Marshall’ı büyük uzlaştırıcı olarak okurken uzlaşmanın bedelini de sor. Bazı gerilimler çözülmez; daha kullanışlı bir dile taşınır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1890 — Cambridge'de bir ders kitabı" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Marshall, A. (1890). *Principles of Economics*, s. 407. Talep ve arz eğrilerinin kesişim noktası olarak fiyat oluşumu; "iki bıçaklı makas" metaforunun matematiksel açıklaması.
 
 [^2]: Marshall, A. (1890). *Principles*, s. 52. Tüketici fazlası kavramı: bir tüketicinin ödemeye razı olduğu fiyat ile gerçek ödediği fiyat arasındaki fark.

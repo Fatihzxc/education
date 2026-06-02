@@ -114,8 +114,10 @@ AB GDPR'sinin yayılması:
 | 2020 | Kaliforniya (ABD) | CCPA | ~%60 |
 | 2021 | Çin | PIPL (Personal Information Protection Law) | ~%70 (farklı vurgular) |
 | 2023 | Hindistan | DPDP Act | ~%65 |
-| 2023 | İngiltere (Brexit sonrası) | UK GDPR | ~%95 (Brexit'e rağmen) |
-| 2025 (tahmin) | Türkiye | KVKK güncellemesi | GDPR'a uyum yönünde |
+| 2021 | İngiltere (Brexit sonrası) | UK GDPR / Data Protection Act 2018 rejimi | ~%95 (GDPR'dan türeyen yüksek yakınlık) |
+| 2024 | Türkiye | 7499 sayılı Kanunla KVKK değişiklikleri; özel nitelikli veri ve yurt dışına aktarım rejimi | Başlık bazlı/kısmi yakınsama |
+
+Bu iki satır özellikle güncel tutulmalıdır: UK GDPR, Brexit geçiş döneminin bitmesiyle 1 Ocak 2021'de iç hukuk rejimi olarak çalışmaya başladı; Türkiye'de 6698 sayılı KVKK'daki 7499 sayılı Kanun değişiklikleri 12 Mart 2024'te yayımlandı, ana yürürlük tarihi 1 Haziran 2024 oldu ve yurt dışına aktarım rejiminde geçiş hükümleri uygulandı.^[7]
 
 GDPR'nin yayılma mantığı şu: bir küresel teknoloji şirketi (örneğin Apple) AB'nin 450 milyon kullanıcısına hizmet vermek için *AB-uyumlu* bir veri sistemi kurmak zorunda. Bu sistemi *sadece AB için ayrı* tutmak teknik olarak zor ve maliyetlidir; *küresel olarak* aynı standartı uygulamak daha kolay. Apple, GDPR-uyumlu gizlilik kontrollerini tüm dünyada uygulamaya koyuyor; bu da diğer ülkelerin GDPR-tarzı yasaları benimsemesini kolaylaştırıyor. AB'nin *tek taraflı* düzenleyici kararı, *küresel* bir standart haline geliyor.
 
@@ -185,8 +187,17 @@ Bu pusula, egemenliği "devlet var mı yok mu?" sorusundan kurtarır. Daha iyi s
 İleri düzeyde bugünkü egemenlik krizini “devlet bitti” diye okuma. Daha doğru soru şu: devlet hangi alanlarda güçlü kalıyor, hangi alanlarda yetkisini başka ağlarla paylaşmak zorunda kalıyor?
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1989 sonrası: "tarihin sonu" hipotezinin sonu" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Karl Polanyi, *The Great Transformation* (1944), Boston: Beacon Press. Türkçesi *Büyük Dönüşüm*, İletişim Yayınları. Polanyi'nin "çifte hareket" tezi: piyasanın yayılması, kaçınılmaz olarak toplumun kendini koruma karşı-hareketini doğurur. 2008 krizi ve sonrası bu tezin canlılığını gösterdi; bkz. ayrıca Dani Rodrik, *The Globalization Paradox* (2011) ve *Straight Talk on Trade* (2017).
 
 [^2]: Elinor Ostrom, *Governing the Commons: The Evolution of Institutions for Collective Action* (Cambridge University Press, 1990). Ostrom'un yerel ortakların yönetimi konusundaki argümanı, küresel iklim için çok daha karmaşık bir sorun: ortaklar fiziksel olarak komşu değil; izleme ve yaptırım maliyetleri çok yüksek; kazanan-kaybeden zaman farkları çok büyük. Bkz. ayrıca Hardin, "The Tragedy of the Commons", *Science* 162 (1968), s. 1243-48.
@@ -198,3 +209,5 @@ Bu pusula, egemenliği "devlet var mı yok mu?" sorusundan kurtarır. Daha iyi s
 [^5]: Platform egemenliği üzerine: Shoshana Zuboff, *The Age of Surveillance Capitalism* (PublicAffairs, 2019); Kate Crawford, *Atlas of AI* (Yale, 2021); regülasyon tarafı için Anu Bradford, *The Brussels Effect* (Oxford, 2020).
 
 [^6]: Modern egemenlik krizinin kavramsallaştırılması için: Saskia Sassen, *Losing Control? Sovereignty in an Age of Globalization* (Columbia, 1996); Stephen Krasner, *Sovereignty: Organized Hypocrisy* (Princeton, 1999); Wendy Brown, *Walled States, Waning Sovereignty* (Zone Books, 2010).
+
+[^7]: UK GDPR'nin 1 Ocak 2021 sonrası iç hukuk statüsü için ICO/CMA, *Competition and data protection in digital markets*, 18 Mayıs 2021. Türkiye için Kişisel Verileri Koruma Kurumu, "6698 Sayılı Kişisel Verilerin Korunması Kanununda Yapılan Değişiklikler Hakkında Kamuoyu Duyurusu" ve Kurumun "Yurt Dışına Aktarım" sayfası; 7499 sayılı Kanun değişiklikleri 1 Haziran 2024'te yürürlüğe girmiş, yurt dışına aktarım rejiminde geçiş süreci ayrıca düzenlenmiştir.

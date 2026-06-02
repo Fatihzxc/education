@@ -133,8 +133,17 @@ Klasik ve Marxçı hatta başlangıç noktası çoğu zaman üretim, sınıf ve 
 
 İleri soru şudur: Bir model hangi soruyla başlıyorsa hangi dünyayı daha görünür kılar? Marjinalizmin gücü tercih anını netleştirmesidir; sınırı ise tercih anından önceki tarihsel güçleri çoğu zaman veri kabul etmesidir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: fiyatın son birim fayda, kıtlık ve tercih üzerinden nasıl açıklanacağı sorusu.
+- **Baskın bakış:** tüketici ve teknik iktisatçı bakışı; çünkü ölçülebilir seçimleri merkeze alır.
+- **Güçlü karşı fikir:** Marx, Sraffa, feminist ve kurumsal okumalar tercihlerin gelir ve güç içinde kurulduğunu hatırlatır.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: William Stanley Jevons. *The Theory of Political Economy* (1871). Marjinal fayda ve matematiksel iktisat dili için temel metinlerden biri.
 [^2]: Carl Menger. *Grundsätze der Volkswirtschaftslehre* (1871). Öznel değer ve mal dereceleri tartışması için ana kaynak.
 [^3]: Léon Walras. *Éléments d'économie politique pure* (1874-1877). Genel denge düşüncesinin klasik başlangıç noktalarından biri.

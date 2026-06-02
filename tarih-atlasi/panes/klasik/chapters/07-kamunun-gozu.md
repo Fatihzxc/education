@@ -120,7 +120,16 @@ Bu yüzden romanlar ve gazeteler teorinin dışında değildir. Dickens'ın yoks
 
 İleri soru şudur: Bir iktisat teorisi halk tarafından nasıl hissedilir? Klasik dönemde cevap, ekmek fiyatı, fabrika saati, yardım yasası, şehir kalabalığı ve reform umudu üzerinden verilir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Roman kanıt değildir, ama pencere açar" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Friedrich Engels. *The Condition of the Working Class in England* (1845).
 [^2]: Britannica, "Corn Law". Anti-Corn Law League'in kuruluşu, kampanya rolü ve 1846 repeal bağlamı için kullanıldı.

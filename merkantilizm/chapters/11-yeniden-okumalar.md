@@ -68,7 +68,7 @@ Magnusson'un yaklaşımının zarif yanı şudur: hem Heckscher'in tasvir gücü
 > Chang's argument relies on what he calls 'kicking away the ladder' (Friedrich List): rich countries climbed up via mercantilist policies, then forbade those policies to developing countries.
 > — Chang 2002, ss. 14-18 (paraphrased)^[5]
 
-Bu argümanın gücü, çağdaş kalkınma politikası tartışmalarına doğrudan dokunmasıdır. IMF ve Dünya Bankası'nın 1980'ler-1990'lar Washington Consensus reçeteleri (kamu sektörünü küçült, piyasayı serbestleştir, dış ticareti aç) tarihsel olarak başarısız oldu — çoğu uygulayan ülke Latin Amerika, Sub-Saharan Africa veya post-Sovyet bölgesinde — çünkü reçete kalkınmanın tarihsel anatomisini yanlış okumuştu. Chang, mercantilizmi modern kalkınma politikası için savunulabilir bir taban olarak yeniden konumlandırır.
+Bu argümanın gücü, çağdaş kalkınma politikası tartışmalarına doğrudan dokunmasıdır. IMF ve Dünya Bankası'nın 1980'ler-1990'lar Washington Consensus reçeteleri (kamu sektörünü küçült, piyasayı serbestleştir, dış ticareti aç) birçok ülkede ciddi toplumsal maliyet, kırılganlık ve siyasal tepki üretti. Bunu tek bir nedene bağlamak doğru olmaz: borç yapısı, emtia döngüsü, devlet kapasitesi, savaş/siyasal istikrarsızlık, reform sırası ve dış finansman koşulları ülkeden ülkeye değişti. Chang'in eleştirisinin çekirdeği daha dar ve daha sağlamdır: bu reçeteler çoğu zaman zengin ülkelerin kendi tarihsel sanayileşme yolundaki koruma, öğrenme ve devlet kapasitesi katmanlarını küçümsedi. Bu yüzden Chang, mercantilizmi aynen geri çağırmaz; onu modern kalkınma politikası için tarihsel bir uyarı merceği olarak yeniden konumlandırır.
 
 İkincisi: **Erik S. Reinert**'in *How Rich Countries Got Rich… and Why Poor Countries Stay Poor* (2007). Norveçli iktisatçı Reinert, Chang'in argümanını daha uzun tarihsel arka planla ve daha derin teorik çerçeveyle güçlendirir. Reinert'in büyük katkısı, mercantilist çağda zaten **iyi rant** (artan getirili imalat) ve **kötü rant** (azalan getirili tarım ve hammadde) ayrımı bilinçli olarak yapıldığını göstermesidir.
 
@@ -158,8 +158,17 @@ Bu tablo, tarih yazımını daha dürüst okumaya yardım eder. Bir yorum bir ka
 - [Ha-Joon Chang — *Kicking Away the Ladder*](appendix/playground.html#concept/ha-joon-chang)
 - [Halil İnalcık — Osmanlı iktisat tarihi](appendix/playground.html#concept/halil-inalcik)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1935: Heckscher'ın iki cildi" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Eli F. Heckscher. *Mercantilism* (1935), ss. 21-56. Heckscher'in mercantilizmi tanımladığı beş aspect: birleştirici sistem, güç sistemi, koruma sistemi, parasal sistem, toplumsal dünya görüşü. Bölüm 1, dipnot 6'ya bakınız.
 
 [^2]: Lars Magnusson. *Mercantilism: The Shaping of an Economic Language* (1994), s. 80. Jacob Viner, "Power versus Plenty as Objectives of Foreign Policy" (*World Politics*, 1948), aktarımla. "Viner emphasized that the mercantilists never [treated power and plenty as opposing aims]; power and plenty are mutually supporting."

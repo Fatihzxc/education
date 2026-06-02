@@ -123,6 +123,15 @@ Piyasada işçi ve kapitalist hukuken eşit taraflar gibi görünür. Biri emek-
 
 İleri soru şudur: Kapitalizmde özgür sözleşme gerçekten özgür müdür, yoksa yaşamak için emek-gücünü satmak zorunda kalmak bu özgürlüğün sınırını mı çizer? Marx pane'inin derinliği burada başlar.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "En basit soru" başlığının gösterdiği somut düğümden oku: sermaye birikimi, sınıf gücü ve artı-değer sorusunun tarih içinde nasıl görünür olduğu sorusu.
+- **Baskın bakış:** işçi sınıfı ve kapitalizm eleştirisi; çünkü üretim ilişkisindeki asimetriyi görünür yapar.
+- **Güçlü karşı fikir:** marjinalist, kurumsalcı ve sosyal-demokrat okumalar sınıf indirgemeciliği riskini sorar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Karl Marx. *Das Kapital, Band I* (1867). Emek-gücü, artı-değer, çalışma günü ve meta fetişizmi tartışmaları için ana metin.

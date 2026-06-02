@@ -154,8 +154,17 @@ Bu örüntü, Montesquieu'nun 1748'deki çerçevesinin temel bir sınırını or
 
 İleri düzeyde sınırlı egemenliği basit bir demokrasi zaferi gibi okuma. Locke iktidarı haklarla sınırlar, Montesquieu gücü güçle dengeler, Rousseau egemenliği halka verir. Ama her çözüm yeni bir soru doğurur: hakları kim yorumlar, dengeyi kim korur, halk iradesi kimin sesiyle konuşur?
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Hobbes sonrası: üç sınırlama denemesi" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Locke, J. (1690). *Two Treatises of Government*. Mülkiyet kitabı Bölüm 5'te detaylı işlendi. *Of Civil Government* II §§87-89, 95-99, 134-142 — sosyal sözleşme, yasama yetkisinin sınırları, ayaklanma hakkı.
 
 [^2]: Montesquieu, *De l'Esprit des Lois* (1748). Public domain Fransızca metin gutenberg.org'da bulunmaktadır. Kitap XI bölüm 6 — kuvvetler ayrılığı doktrinin merkezi pasajı. Türkçe çeviri: Fehmi Baldaş (Toplumsal Dönüşüm Yayınları, 1998).

@@ -118,6 +118,15 @@ Ricardo'nun karşılaştırmalı üstünlük teorisi analitik olarak çok güçl
 
 İleri soru şudur: Serbest ticaret herkes için aynı fırsatı mı açar, yoksa güçlü olanın kurduğu düzen içinde farklı ülkeleri farklı yerlere mi yerleştirir? Klasik iktisadı tarih atlasına bağlayan ana soru budur.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Napolyon savaşları neden önemli?" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: David Ricardo. *The High Price of Bullion* (1810). Kâğıt para, altın ve fiyatlar tartışmasının savaş dönemi bağlamında klasik metinlerinden biridir.

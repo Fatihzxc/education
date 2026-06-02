@@ -182,8 +182,17 @@ Bu paralellik, neden 21. yüzyıl iktisat tarihçiliğinin İbn Haldun'u modern 
 İleri düzeyde İbn Haldun’da mülkü yalnız sahiplik değil, siyasal iktidarın maddi zemini olarak oku. Devlet güçlendikçe kendi üretim tabanını zayıflatabilir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Mukaddime'nin mülkiyet anlayışı" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 *Pagination notu*: Mukaddime alıntıları, Süleyman Uludağ'ın Dergâh Yayınları çevirisinin 3-ciltlik baskısının sayfa numaralarıyla verilmiştir. Köşeli parantez içindeki ikinci sayfa numarası (`[indeks PDF p. X]`), `iktisat-kb` veritabanında yer alan 2-parçaya bölünmüş PDF taramasındaki konumdur; iki numaralandırma arasında sistematik bir kayma vardır. (Aynı not *Değer* kitabı Bölüm 4 için de geçerlidir.)
 
 [^1]: İbn Haldun (1377/2007). *Mukaddime*, çev. Süleyman Uludağ, Cilt I, s. 397 [indeks PDF ~p. 370-400 bölgesi]. Dergâh Yayınları. "Mülke esas teşkil eden zafer ve galebenin kaynağı asabiyettir" tezinin orijinal pasajı.

@@ -102,6 +102,15 @@ Ama aynı devlet dışarıya karşı korumacı olabilir. Yani merkantilist devle
 
 İleri düzeyde şunu sorabiliriz: Serbest piyasa dediğimiz alan gerçekten devletten önce mi gelir, yoksa devletin hukuk, ölçü, güvenlik ve altyapı kurmasıyla mı mümkün olur? Merkantilizm bu soruya sert bir cevap verir: Piyasa, güç tarafından açılan ve korunan bir alandır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Parçalı dünyadan tek pazara" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Eli F. Heckscher. *Mercantilism* (1935). Özellikle "unifying system" çerçevesi, merkantilist politikaların ulusal pazar ve devlet birliği kurma işlevini anlatır.

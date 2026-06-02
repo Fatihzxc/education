@@ -101,6 +101,15 @@ Merkantilist akıl nüfusu çoğu zaman üretim ve savaş kapasitesi olarak gör
 
 İleri düzeyde temel soru şudur: Bir devletin zenginleşmesi toplumun bütün kesimleri için aynı anlama mı gelir? Merkantilizm bize "ulusal zenginlik" denilen şeyin içinde çok farklı kazanç ve kayıp hatları olabileceğini öğretir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "İnsan haritası: aynı sistemde farklı yerler" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Sven Beckert. *Empire of Cotton: A Global History* (2014). "War capitalism" çerçevesi, erken modern ticaret genişlemesinin şiddet, kölelik ve sömürgecilikle bağını anlatır.

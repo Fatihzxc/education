@@ -66,7 +66,7 @@ Bir muhasebe yapalım. Klasik politik-iktisadın temel kavramsal varlık-defteri
 
 *Değişen veya silinen kategoriler:*
 - **Üretken vs üretken-olmayan emek**: marjinal devrim *kategorik nötralite* lehine terk etti; tüketici tercih ediyorsa değer var. Mazzucato (Bölüm 12.4) ve modern politik-iktisadi okul yeniden açıyor, ama ana akım iktisat ders kitaplarında yer yok.
-- **Iron Law of Wages**: Bölüm 3'te işlediğimiz Malthus-Ricardo öngörüsü (ücretler yapısal olarak iaşe düzeyinde kalır), Bölüm 5'te işaret ettiğimiz Mill'in 1869 *Fortnightly Review* makalesinde içeriden çürütüldü; 19. yüzyıl sonu reel ücret artışları empirik olarak yanlışladı. Modern karşılığı yok — *minimum wage*, *productivity-pay decoupling*, *insider-outsider models* gibi modeller bambaşka mekanizmaları çalıştırır.
+- **Demir Ücret Yasası**: Bölüm 3 ve 4'te işlediğimiz Malthus-Ricardo hattında ücretlerin geçimlik düzeye yakınsama eğilimi vardır; fakat *Iron Law of Wages* adı özellikle Lassalle ve 19. yüzyıl sosyalist tartışmasıyla sertleşir. Mill'in 1869 *Fortnightly Review* makalesi, sendikal pazarlık ve kurumlar üzerinden bu mekanik yakınsama fikrini içeriden zayıflattı; 19. yüzyıl sonu reel ücret artışları da katı formülü empirik olarak yanlışladı. Modern karşılığı yok — *minimum wage*, *productivity-pay decoupling*, *insider-outsider models* gibi modeller bambaşka mekanizmaları çalıştırır.
 - **Stationary state**: Bölüm 6 ve Bölüm 9'da gördüğümüz Mill'in pozitif vizyonu, klasik damarın ana kolunda gözden düştü; 1970'ler ekolojik iktisat damarında Daly üzerinden geri döndü.
 - **Klasik para teorisi** (*quantity theory*): Bölüm 5'te işlediğimiz Ricardo-Hume hattı, marjinal sentezde modifiye edildi, sonra Milton Friedman'ın 1956-1976 arası *monetarism*'inde modern formuyla geri döndü. Friedman *A Monetary History of the United States* (1963, Anna Schwartz ile birlikte) yapıtında klasik *MV = PT* mantığını ABD verisi üzerinden yeniden inşa etti. Bu damar 1980'lerde merkez bankacılığında etkin oldu (Volcker disinflasyonu), sonra 2000'ler sonrası gözden düştü (sıfır faiz tabanı sorunları), 2021-2024 enflasyon dalgasıyla kısmen yeniden gündeme geldi.
 
@@ -106,7 +106,7 @@ Bunun istisnaları var. Şevket Pamuk *Türkiye'nin 200 Yıllık İktisat Tarihi
 
 Modern Türk politik-iktisadi tartışmasında klasik kategorilerin yansımaları net görünür. *İmar rantı* tartışması — kardeş kitap fizyokrasi/12'de uzun uzun işlediğimiz mesele — doğrudan Ricardyen diferansiyel rant teorisinin Türk kentlerine uyarlamasıdır: bir belediye kararıyla tarım arazisinin konut arazisine dönüşmesi, parselin değerinde bir gecede onlarca kat artış yaratır; bu artış arazi sahibinin emeğinden değil, kamusal bir karardan kaynaklanır; klasik anlamda *unearned increment*'tir. *İmar rantı* terimi Türkçe siyasi söylemde yaygın, ama tartışmacılar genellikle Ricardo'nun veya Henry George'un adını anmaz; analitik yapı bilinmeden adlandırılmadan kullanılır.
 
-*Emeğin azalan-payı* sorunu da Türkiye için ciddi bir kategoridir. TÜİK ve TCMB verilerine göre Türkiye'de emek-payı 2010'lardan itibaren önemli ölçüde düştü; özellikle 2018 sonrası yüksek enflasyon döneminde reel ücretlerin sermaye gelirlerine kıyasla aşınması, Piketty'nin küresel *r > g* eğiliminin Türk versiyonudur. *Finansal-rant* — yüksek faiz dönemlerinde tahvil tutucu ve mevduat sahiplerine akan transferler, döviz tutucu hanehalkına akan kazançlar — klasik Ricardyen rant kategorisinin parasal-finansal modern formudur.
+*Emeğin azalan-payı* sorunu da Türkiye için ciddi bir kategoridir. Burada dikkatli ölçü şudur: TÜİK'in gelir yöntemiyle GSYH/Gayrisafi Katma Değer serilerinde "işgücüne yapılan ödemelerin cari gayrisafi katma değer içindeki payı" 2018'de yaklaşık %33,5 düzeyindeyken 2022'de %26,3'e kadar geriledi; 2023'te %32,5'e, 2024 dönemsel bültenlerinde ise yıllık %37,9'a doğru kısmi bir toparlanma gösterdi.^[17] Bu yüzden doğru cümle "2018 sonrasında keskin bir düşüş ve sonrasında ücret/kur/enflasyon politikalarına bağlı toparlanma"dır. Bunu doğrudan Piketty'nin küresel *r > g* formülünün yerel kopyası saymak hızlı olur; daha iyi okuma, emek payı, enflasyon, kur şoku, ücret ayarlaması ve sermaye/karma gelir payını birlikte izlemektir. *Finansal-rant* — yüksek faiz dönemlerinde tahvil tutucu ve mevduat sahiplerine akan transferler, döviz tutucu hanehalkına akan kazançlar — klasik Ricardyen rant kategorisinin parasal-finansal modern formudur.
 
 Daron Acemoğlu, Bölüm 11'de işaret ettiğimiz gibi 2024 Nobel İktisat Ödülü'nü Simon Johnson ve James Robinson ile birlikte aldı.^[16] *Power and Progress* (2023) yapıtı modern teknoloji-emek dağılım tartışmasını AI çağına uyarlar; Ricardo'nun *On Machinery* sorusunu güncel veri ve örnek setiyle yeniden açar. Acemoğlu Türk akademiyle ilişkisini koruyor (yıllık konferanslar, doktora öğrenci yetiştirme), ama yayını ABD merkezli; Türk klasik-iktisat alımlamasına etkisi şimdilik dolaylı.
 
@@ -137,9 +137,17 @@ Smith *Wealth of Nations*'ını 1776'da yazdı. Bugün 2026; 250 yıl sonra Smit
 İleri düzeyde klasik mirası nostalji gibi değil, temel sorular deposu gibi kullan. Modeller değişir; fakat üretimden doğan pay kavgası biçim değiştirerek sürer.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Açılış — niçin klasik bugün?" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Mark Blaug, *Economic Theory in Retrospect*, 5th ed., Cambridge University Press, 1997. Kraliçenin 2008 Kasım LSE ziyareti ve sorduğu soru için bkz. *The Telegraph*, "The Queen asks why no one saw the credit crunch coming", 5 Kasım 2008.
 
 [^2]: Carmen M. Reinhart ve Kenneth S. Rogoff, *This Time Is Different: Eight Centuries of Financial Folly*, Princeton University Press, 2009; Nouriel Roubini ve Stephen Mihm, *Crisis Economics: A Crash Course in the Future of Finance*, Penguin, 2010.
@@ -171,3 +179,5 @@ Smith *Wealth of Nations*'ını 1776'da yazdı. Bugün 2026; 250 yıl sonra Smit
 [^15]: Korkut Boratav, *Türkiye İktisat Tarihi 1908-2009*, İmge Kitabevi, çeşitli baskılar (ilk baskı 1988).
 
 [^16]: 2024 Sveriges Riksbank İktisat Bilimlerinde Alfred Nobel Anısına Ödülü ilanı, The Royal Swedish Academy of Sciences, 14 Ekim 2024.
+
+[^17]: TÜİK, *Yıllık Gayrisafi Yurt İçi Hasıla - 2023* bülteni, gelir yöntemiyle GSYH bileşenleri: işgücüne yapılan ödemelerin cari gayrisafi katma değer içindeki payı 2022'de %26,3, 2023'te %32,5. TÜİK, *Dönemsel Gayrisafi Yurt İçi Hasıla - IV. Çeyrek 2024* bülteni: işgücü ödemelerinin cari fiyatlarla Gayrisafi Katma Değer içindeki payı 2024 yılında %37,9. 2018 oranı için Hazine ve Maliye Bakanlığı ekonomik göstergelerindeki gelir yöntemiyle GSYH tablosunda 2018 GSKD ve işgücüne yapılan ödemeler satırlarından yaklaşık %33,5 hesaplanır.

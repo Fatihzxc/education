@@ -190,9 +190,17 @@ Bu matris bölümün ana dersini sakinleştirir: Fizyokrasi hem yanıldı hem yo
 
 İleri düzeyde fizyokrasiyi yalnız “tarım önemlidir” cümlesiyle kapatma. Asıl gerilim, iktisadi düzenin kendiliğinden bir doğa yasası gibi mi, yoksa siyasal olarak kurulmuş bir mülkiyet düzeni gibi mi okunacağıdır.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Bir doktrini ciddiye almak" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Erik S. Reinert. *How Rich Countries Got Rich… and Why Poor Countries Stay Poor* (Constable, 2007). Reinert'in tezi, kalkınma tarihinde imalat sektörüne karşı ideolojik tutumların yapısal bedeller doğurduğu yönündedir; fizyokratik agrarianizmin 18. yüzyıl sonu Fransa'sındaki sanayi politikası üzerindeki etkisi, bu çerçevenin bir vakasıdır. Reinert'in argümanı doğrudan Antonio Serra'nın 1613 "artan getirili imalat" tezine (Bölüm 8'in arka planı — *merkantilizm* kitabı, Bölüm 11) bağlanır.
 
 [^2]: Sven Beckert. *Empire of Cotton: A Global History* (Knopf, 2014). Beckert'in "savaş kapitalizmi" (*war capitalism*) çerçevesi, klasik iktisadın sömürge çevresini yapısal olarak görünmez kıldığı tezini taşır. Fizyokrasiyi doğrudan ele almasa da, çerçeve onun *ilk vakası* olarak okunabilir: kapalı-krallık modeli, sömürge ticaretinin Fransız zenginliği üzerindeki yapısal katkısını analiz dışı bırakır.

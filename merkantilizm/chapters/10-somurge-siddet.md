@@ -160,8 +160,17 @@ Sömürge merkantilizminin kurumlarını ve şiddet yapılarını ekteki playgro
 - [Calico Acts ve Hint deindustrialization'ı](appendix/playground.html#concept/calico-acts)
 - [1700: İlk Calico Act — zaman çizelgesi olayı](appendix/playground.html#event/evt-1700-calico-acts)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Beckert'in çerçevesi: "savaş kapitalizmi"" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Sven Beckert. *Empire of Cotton: A Global History* (2014), s. 15-37. "Many historians have called this the age of 'merchant' or 'mercantile' capitalism, but 'war capitalism' better expresses its rawness and violence." Beckert'in kavramsal hamlesi: "savaş kapitalizmi" terimi.
 
 [^2]: Adam Smith. *The Wealth of Nations* (1776), Kitap V, s. 1274. "In the sugar colonies the value of the produce annually exported to Great Britain is much greater than [that of all the other colonies put together]." 18. yüzyıl ortasında şeker sömürgelerinin İngiliz ekonomisindeki orantısız ağırlığı.

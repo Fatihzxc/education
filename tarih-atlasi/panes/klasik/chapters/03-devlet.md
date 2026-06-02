@@ -108,7 +108,16 @@ Klasiklerin asıl itirazı çoğu zaman devlete değil, ayrıcalıklı devlete y
 
 İleri soru şudur: Devlet müdahalesi ne zaman ayrıcalık üretir, ne zaman ortak altyapı kurar? Klasik iktisadı güçlü kılan şey, bu ayrımı tamamen kaybetmemesidir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Corn Laws neden merkeziydi?" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: UK Parliament, "The great famine"; Britannica, "Corn Law". İki kaynak da 1846 repeal bağlamını ve Corn Laws'un tahıl fiyatlarıyla ilişkisini özetler.
 [^2]: UK Parliament, "The 1833 Factory Act". Yasa hükümleri ve fabrika müfettişliği başlangıcı için kullanıldı.

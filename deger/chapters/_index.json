@@ -8,7 +8,7 @@
       "title": "Niye \"değer\"?",
       "subtitle": "Terimin sorunu ve okumanın çerçevesi",
       "estWords": 3000,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 2,
@@ -16,7 +16,7 @@
       "title": "Antik temeller",
       "subtitle": "Aristoteles ve adil değiş",
       "estWords": 3000,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 3,
@@ -24,7 +24,7 @@
       "title": "Skolastik fiyat doktrini",
       "subtitle": "Aquinas ve Salamanca okulu",
       "estWords": 3000,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 4,
@@ -32,7 +32,7 @@
       "title": "İbn Haldun ve emek-değer'in çekirdeği",
       "subtitle": "Mukaddime'de değerin kökeni",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 5,
@@ -40,7 +40,7 @@
       "title": "Smith'in büyük sentezi",
       "subtitle": "Wealth of Nations I.5-7",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 6,
@@ -48,7 +48,7 @@
       "title": "Ricardo ve emek-değer'in inceltilmesi",
       "subtitle": "Principles 1817",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 7,
@@ -56,7 +56,7 @@
       "title": "Marx'ın eleştirisi",
       "subtitle": "Kapital I ve değerin iki yüzü",
       "estWords": 4000,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 8,
@@ -64,7 +64,7 @@
       "title": "Avusturya okulu ve sübjektif değer",
       "subtitle": "Menger 1871 ve Böhm-Bawerk",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 9,
@@ -72,7 +72,7 @@
       "title": "Jevons ve Walras — marjinalist devrim",
       "subtitle": "Theory of Political Economy ve Eléments",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 10,
@@ -80,7 +80,7 @@
       "title": "Marshall ve neoklasik sentez",
       "subtitle": "Principles 1890 — talep ve arz",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 11,
@@ -88,7 +88,7 @@
       "title": "Cambridge controversy ve Sraffa",
       "subtitle": "Production of Commodities ve neo-Ricardyen okul",
       "estWords": 3500,
-      "status": "draft"
+      "status": "completed"
     },
     {
       "num": 12,
@@ -96,7 +96,7 @@
       "title": "Sen, kapabiliteler ve değerin yeni anlamı",
       "subtitle": "Inequality Re-examined",
       "estWords": 3000,
-      "status": "draft"
+      "status": "completed"
     }
   ]
 }

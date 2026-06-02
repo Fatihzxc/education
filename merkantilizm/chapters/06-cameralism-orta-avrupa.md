@@ -158,8 +158,17 @@ Cameralism ve Habsburg-Alman geleneğini ekteki playground'da somut metin ve kav
 - [İthal ikamesi (import substitution)](appendix/playground.html#concept/import-substitution)
 - [1684: Hörnigk'in 9 kuralı — zaman çizelgesi olayı](appendix/playground.html#event/evt-1684-hornigk-osterreich)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Kelimenin kaynağı: Kamer'den disipline" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Philipp Wilhelm von Hörnigk. *Österreich über alles, wann es nur will* (1684), modern derleyici notları, s. 83. Hörnigk'in çerçevesinde Cameralökonomie — yani devlet maliyesi — ulusal ekonominin (Volkswirtschaft) üzerinde tutulur; Mombert'in vurguladığı gibi Hörnigk, "ulusal iktisat politikası" tartışmasını sistematik bir biçimde yapan ilk Cameralistlerden biridir.
 
 [^2]: Hörnigk 1684, modern derleyici notları, s. 92. "[Hörnigk] formulates his famous 'Nine Rules of Economics', which are often taken to represent the core element of his economics." Cameralism programının dokuz maddelik özeti.

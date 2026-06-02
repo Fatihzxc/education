@@ -139,8 +139,17 @@ Mun ve İngiliz okulu etrafındaki figürleri ekteki playground'da derinlemesine
 - [East India Company paradoksu](appendix/playground.html#concept/east-india-company)
 - [1664: Mun — *England's Treasure* basılır](appendix/playground.html#event/evt-1664-mun-treasure-published)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1601: Bir şirketin gölgesinde" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Eli F. Heckscher. *Mercantilism* (1935), s. 459. "The customs advantages given to the East India Company, for example, presumed that imports and exports came through London."
 
 [^2]: Heckscher 1935, s. 424. "The most salient and characteristic feature of the older joint stock companies was the peculiar position of their capital. The corporation, equipped with its own capital..."

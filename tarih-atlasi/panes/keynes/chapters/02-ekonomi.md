@@ -162,8 +162,17 @@ Keynes ekonomiyi harcama akışı ve belirsizlik üzerinden okur. Friedman paray
 
 Bu bölümün özü şu: Ekonomide "toplam" kelimesini ciddiye almak gerekir. Tek tek ailelerin, firmaların ve bankaların kararları birleşince, bazen kimsenin tek başına istemediği bir sonuç ortaya çıkar. Makro iktisat tam da bu birleşik sonucu anlamaya çalışır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Toplam talep ne demektir?" başlığının gösterdiği somut düğümden oku: belirsizlik, talep yetersizliği ve para ekonomisinde devletin ne yapacağı sorusu.
+- **Baskın bakış:** kriz yöneten devlet ve istihdam arayan toplum; çünkü piyasa tek başına toparlanmayabilir.
+- **Güçlü karşı fikir:** klasik, monetarist ve neoliberal okumalar devlet müdahalesinin sınırlarını sorar.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Milton Friedman. "The Role of Monetary Policy" (1968). Doğal işsizlik oranı, beklentiler ve Phillips eğrisi eleştirisi için temel metinlerden biri.
 [^2]: John Maynard Keynes. *The General Theory of Employment, Interest and Money* (1936). Etkin talep, çarpan ve likidite tercihi için ana kaynak.
 [^3]: Milton Friedman ve Anna J. Schwartz. *A Monetary History of the United States, 1867-1960* (1963). Para arzı, krizler ve Büyük Buhran yorumunun monetarist çerçevesi için temel kaynak.

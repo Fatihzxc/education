@@ -136,7 +136,16 @@ Klasik iktisat, ahlak felsefesinden çıkıp politik iktisada dönüşürken şu
 
 Bu yüzden klasik düşünceyi öğrenmek yalnızca Smith, Malthus, Ricardo ve Mill isimlerini bilmek değildir. Her birinin hangi problemi gördüğünü, hangi problemi daralttığını ve hangi soruyu bize miras bıraktığını anlamaktır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Smith: sempati, iş bölümü ve doğal özgürlük" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Adam Smith. *The Theory of Moral Sentiments* (1759) ve *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776).
 [^2]: Thomas Robert Malthus. *An Essay on the Principle of Population* (1798).

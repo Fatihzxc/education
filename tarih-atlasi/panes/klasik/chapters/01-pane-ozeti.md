@@ -158,6 +158,15 @@ Smith'te işbölümü ve piyasa genişliği, Ricardo'da kâr-rant-ücret gerilim
 
 İleri soru şudur: Modern iktisat fiyat ve tercih dilini çok güçlendirdi, ama klasiklerin bölüşüm ve sınıf sorularını zayıflattı mı? Klasik iktisadı bugün değerli kılan şey, tam da bu büyük sistem sorularını açık tutmasıdır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "En basit soru" başlığının gösterdiği somut düğümden oku: sanayi kapitalizmi içinde ücret, kar, rant, ticaret ve büyüme paylarının nasıl bölüşüleceği sorusu.
+- **Baskın bakış:** sanayi burjuvazisi, liberal reformcu ve üretim kapasitesi arayan devlet; çünkü ucuz gıda ve geniş pazar ister.
+- **Güçlü karşı fikir:** işçi hareketi, List, Marx, Keynes ve sömürge eleştirileri serbest piyasa dilinin görünmeyen bedellerini açar.
+- **Halkın/kamunun gözü:** Bu mesele ekmek fiyatı, fabrika disiplini, işsizlik korkusu, sendika ve şehir yoksulluğu olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Tanzimat iktisat eğitimi, Mülkiye, Cavid Bey, Cumhuriyet kalkınması ve emek payı tartışmalarıyla Türkiyeleşir.
+- **İleri düzey okuma:** klasiği model ezberi değil, büyüme ile bölüşüm arasındaki gerilimi gösteren tarihsel bir laboratuvar olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: UK Parliament, "The 1833 Factory Act" ve "The great famine" sayfaları; The National Archives, "Victorian Industrial Towns" eğitim kaynağı. Bu kaynaklar Factory Act sınırları, Corn Laws repeal bağlamı ve şehirleşme ölçeği için kullanıldı.

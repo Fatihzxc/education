@@ -152,9 +152,17 @@ Geriye dönüp baktığımızda da bir kalıp seçiliyor. Bölüm 3'te işlediğ
 
 İleri düzeyde Tableau’yu eski ve garip bir tablo gibi değil, makroekonomik modelleme düşüncesinin erken bir örneği gibi oku. Gücü, karmaşık toplumu okunabilir bir akışa çevirmesidir. Sınırı da aynı yerdedir: okunabilirlik uğruna bazı üretim biçimlerini ve sınıf deneyimlerini fazla basitleştirir.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Tek bir sayfa, bütün bir sistem" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Quesnay, F. (1758). *Tableau économique*. Versailles: Imprimerie Royale. Farklı versiyonlar için kanonik referans: Kuczynski, M. & Meek, R. L. (Ed.). (1972). *Quesnay's Tableau Économique*. London: Macmillan. Üç ana versiyon — "Première édition" (1758), "Troisième édition" (1759) ve "*Forme abrégée*" (1766) — tıpkıbasım olarak birlikte yer alır. Türkçe okurun başvurabileceği en kapsamlı modern yorum: Meek, R. L. (1962). *The Economics of Physiocracy: Essays and Translations*. London: Allen & Unwin.
 
 [^2]: *Produit net* kavramı bu bölümde yalnızca akış mantığı içinde tanıtılmıştır; vergi politikası uzantıları (*impôt unique*) Bölüm 6'da işlenecektir. Quesnay'ın net ürünü "*don gratuit de la nature*" — doğanın bedava armağanı — olarak tanımlaması hem teorik hem politik açıdan kritik bir formülasyondur. Bkz. Quesnay, F. (1888). *Œuvres économiques et philosophiques*. (A. Oncken, Ed.). Frankfurt: J. Baer.

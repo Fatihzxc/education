@@ -144,8 +144,17 @@ Fizyokratlar için toplumun zenginliği keyfî emirlerle değil, doğanın ve ü
 
 İleri soru şudur: "Doğal düzen" gerçekten tarafsız bir keşif midir, yoksa toprak sahibi ve reformcu bürokratların çıkarlarına uygun bir siyasal dil mi üretir? Fizyokrasinin gücü de sınırı da bu sorudadır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "En basit soru" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: François Quesnay. *Tableau économique* (1758). Ekonomiyi sınıflar arası yıllık akış olarak gösteren ilk büyük model denemesi.
 [^2]: Karl Marx. *Theorien über den Mehrwert* (1862-63). Marx fizyokratları artık fikrini sistematik biçimde kuran ilk okul olarak ciddiye alır.
 [^3]: Britannica, 18. yüzyıl Fransa'sında nüfusun Louis XIV sonundan 1789'a yaklaşık 20 milyondan 28 milyona çıktığını özetler; Larousse, Ancien Régime Fransa'sında nüfusun yaklaşık %85'inin kırsal olduğunu verir. Bu oranlar bölgeye ve tarihe göre değişebilecek yaklaşık ölçeklerdir.

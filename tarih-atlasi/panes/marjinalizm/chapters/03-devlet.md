@@ -117,8 +117,17 @@ Marjinalizm siyaseti yok etmedi; siyasetin konuşma biçimini değiştirdi. Baz�
 
 Bu pane'de devlet kartını okurken şu cümleyi yanında taşı: Neoklasik iktisat devleti sahneden tamamen çıkarmaz; devlete daha çok hakem, düzeltici ve ölçen uzman rolü verir. Tartışma da tam burada başlar: Hakem kimin oyununu, hangi kurallarla, hangi tarihsel güç içinde yönetiyor?
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru" başlığının gösterdiği somut düğümden oku: fiyatın son birim fayda, kıtlık ve tercih üzerinden nasıl açıklanacağı sorusu.
+- **Baskın bakış:** tüketici ve teknik iktisatçı bakışı; çünkü ölçülebilir seçimleri merkeze alır.
+- **Güçlü karşı fikir:** Marx, Sraffa, feminist ve kurumsal okumalar tercihlerin gelir ve güç içinde kurulduğunu hatırlatır.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Arthur Cecil Pigou. *The Economics of Welfare* (1920). Dışsallık, refah ve kamu müdahalesi tartışmaları için klasik kaynak.
 [^2]: Alfred Marshall. *Principles of Economics* (1890). Piyasa dengesi, kısmi denge ve refah tartışmalarının erken neoklasik zemini.
 [^3]: Karl Polanyi. *The Great Transformation* (1944). Piyasa toplumunun devlet, hukuk ve toplumsal koruma ile ilişkisini tartışan geniş tarihsel yorum.

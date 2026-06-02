@@ -147,8 +147,17 @@ Bu tarih önemli bir ders sunar. Aristoteles'in 2350 yıl önce yaptığı gözl
 İleri düzeyde antik tartışmayı modern kapitalizm tartışması gibi okuma. Burada asıl mesele, iyi yaşam ve yurttaş erdeminin hangi mülkiyet biçimiyle kurulacağıdır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "İki tartışma, iki şehir" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Schumpeter, J.A. (1954). *History of Economic Analysis*, s. 81. Aristoteles'in Plato'nun ideal devlet/komünal mülkiyet tezini sistematik biçimde reddetmesi; *Politika* II.5'in temel argümanları.
 
 [^2]: Plato'nun *Devlet* (*Politeia*) yönetici sınıfının komünal mülkiyetinin tasarımı için kitap IV (özellikle 416d-417b) ve kitap V (449a-471c) temel referanslardır. Plato metni kb-mcp'de bulunmadığı için ikincil literatürden (Schumpeter, Hirschman) sentezlenmiştir.

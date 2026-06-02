@@ -186,9 +186,17 @@ Bir sonraki bölüm bu çerçeveye geçer: doğal düzen düşüncesinin 17-18. 
 İleri düzeyde öncüleri sadece asıl ekole hazırlık diye okuma. Cantillon ve Gournay, fizyokrasinin bazı cevaplarını doğurmadan önce hangi soruların sorulacağını belirler.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Fizyokrasi öncesi: iki figür, iki kanal" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Cantillon, R. (1755). *Essai sur la nature du commerce en général*. Londra (Paris izinli baskı, anonim olarak yayımlandı).
 
 [^2]: Higgs, H. (1931). "Richard Cantillon", giriş yazısı, *Essai sur la nature du commerce en général* (Royal Economic Society edisyonu). Londra: Macmillan. — Cantillon biyografisi ve yayım tarihi üzerine standart referans.

@@ -140,8 +140,17 @@ Bu paket haritanın ana cümlesini korur: Bir fikir hem doğru bir şey görebil
 
 İleri düzeyde haritayı zaman çizelgesi değil, gerilim haritası gibi oku. Aynı fikir hem gerçek bir açıklama gücü taşıyabilir hem de belirli bir düzeni meşrulaştırabilir. Bu ikisini aynı anda görebildiğinde, “kim haklıydı?” sorusundan “hangi sorun, hangi cevabı doğurdu?” sorusuna geçersin.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Bir zincir mi, bir aile albümü mü?" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Joseph A. Schumpeter, *History of Economic Analysis* (ed. Elizabeth Boody Schumpeter, Oxford University Press, 1954). Schumpeter'in "analiz tarihi" (history of *analysis*) ile "düşünce tarihi" (history of *thought*) ayrımı, fikirleri tek tek doğru/yanlış diye tartmak yerine analitik aletlerin gelişimini izleme çağrısının kaynağıdır. Tamamlayıcı bir popüler giriş: Robert L. Heilbroner, *The Worldly Philosophers* (Simon & Schuster, 1953; Türkçesi *İktisat Düşünürleri*).
 
 [^2]: "İdeoloji"nin burada kullanılan teknik anlamı — *kısmi sınıf çıkarının evrensel akıl olarak sunulması; doktrinin yanlış değil, konumunu gizlediği için ideolojik olması* — için: Karl Marx & Friedrich Engels, *Die deutsche Ideologie* (1845-46; ölümden sonra yayın 1932). Fizyokrat tek-vergi örneğinin "ideoloji prototipi" olarak ayrıntılı okuması kardeş kitap `fizyokrasi`, Bölüm 6'dadır.

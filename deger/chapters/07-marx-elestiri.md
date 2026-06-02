@@ -218,8 +218,17 @@ Bu çerçeve, Marx'ın *Kapital*'ini bir tarihsel-belge olarak değil, *yapısal
 İleri düzeyde Marx’ı yalnız ahlaki öfke gibi değil, bir değer biçimi analizi gibi oku. Eleştirisi, piyasa eşitliği görünürken üretim alanında eşitsizliğin nasıl kurulduğunu göstermeye çalışır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1867 — Hamburg'da bir ciltlik kitap" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Marx, K. (1867). *Capital: A Critique of Political Economy — Volume I*, Bölüm I.1, s. 18. Mübadelenin kullanım-değerden tam soyutlanma olduğu tezi; "ortak olan ne ise o değerdir" argümanının açılışı.
 
 [^2]: Marx, K. (1867). *Capital* I, s. 58. "Toplumsal-zorunlu emek-zamanı" kavramının formülasyonu; değerin bireysel emek değil, sosyal ortalama emek olduğunu söyler.

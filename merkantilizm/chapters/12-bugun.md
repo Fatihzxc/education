@@ -45,7 +45,7 @@ Yaptırım rejimlerinin paradoksal bir yan etkisi vardır: kullanıldıkça yapt
 
 Bölüm 2'de uzun uzun işlediğimiz bullionizm — altın ve gümüşün ulusal zenginlikle özdeşleştirilmesi — Smith tarafından (Bölüm 9) ciddi şekilde sorgulanmıştı. Smith haklıydı: zenginlik altın değildir; zenginlik üretim kapasitesi, işbölümü, sermaye birikimidir. Ama Smith'in zayıf cevap verdiği bir mesele vardı: paranın ve özellikle uluslararası rezerv parasının **iktidar boyutu**. Bu boyut 21. yüzyıl için kritiktir.
 
-Amerikan dolarının 1944 Bretton Woods'tan bu yana dünya rezerv para birimi olması, ABD'ye Charles de Gaulle'ün Maliye Bakanı Valéry Giscard d'Estaing'in 1965'te ünlü deyimiyle bir **"exorbitant privilege"** (orantısız ayrıcalık) sağlar. Bu ayrıcalık iki boyutludur. Birincisi, ABD kendi para birimiyle borçlanabilir — yani Türkiye veya Arjantin'in yaşadığı "yabancı para borç krizi" ABD için yapısal olarak imkânsızdır; ABD doları bastığı sürece dolar borcunu ödeyebilir. İkincisi, ABD finansal yaptırım uygulayabilir — yukarıda gördüğümüz mekanizma. Bu iki boyut, klasik bullionizmin modern formudur: para *kendi içinde* siyasi güçtür.
+Amerikan dolarının 1944 Bretton Woods'tan bu yana dünya rezerv para birimi olması, ABD'ye Charles de Gaulle'ün Maliye Bakanı Valéry Giscard d'Estaing'in 1965'te ünlü deyimiyle bir **"exorbitant privilege"** (orantısız ayrıcalık) sağlar. Bu ayrıcalık iki boyutludur. Birincisi, ABD kendi para birimiyle borçlanabildiği için Türkiye veya Arjantin'in yaşadığı türden klasik bir "yabancı para borç krizi"nden yapısal olarak farklıdır. Nominal olarak dolar borcunu ödeme kapasitesi çok daha geniştir; ama bu kapasitenin enflasyon, kur güveni, borç tavanı siyaseti ve finansal istikrar gibi reel ve siyasal sınırları vardır. İkincisi, ABD finansal yaptırım uygulayabilir — yukarıda gördüğümüz mekanizma. Bu iki boyut, klasik bullionizmin modern formudur: para *kendi içinde* siyasi güçtür.
 
 2020'ler boyunca **de-dollarization** (dolar-dışılaşma) tartışması bu yapının dengesini sorgular. BRICS ülkeleri (Brezilya, Rusya, Hindistan, Çin, Güney Afrika ve genişlemeyle 2024 sonrası eklenenler) alternatif ödeme sistemleri arayışındadır. Rusya yaptırımdan sonra ticaretini yuan, rupi, hatta takas üzerinden çevirmeye çalıştı. Çin **Cross-Border Interbank Payment System** (CIPS) ile SWIFT'e alternatif geliştirir. Suudi Arabistan petrol ödemelerini yuan ile alma seçeneğini açıkça tartışıyor.
 
@@ -170,8 +170,17 @@ Modern endüstri politikası ve mercantilist mirasın çağdaş yansımalarını
 - [İaşecilik — modern gıda güvenliği politikalarının uzak akrabası](appendix/playground.html#concept/iasecilik)
 - [Kaynakça listesi](appendix/playground.html#tabSources)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Endüstri politikasının dönüşü" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Mariana Mazzucato. *Mission Economy: A Moonshot Guide to Changing Capitalism* (2021). Mazzucato'nun temel tezi, devletin "*market fixer*" değil "*market shaper*" olarak konumlanması gerektiğidir. Apollo programı analojisi üzerinden modern devletin koordinasyon kapasitesi savunulur. Kitabın çerçevesi bu bölümde özetlenen post-COVID endüstri politikası diriliminin entelektüel arka planının bir parçasıdır.
 
 [^2]: Dani Rodrik'in 2022-2024 arası yazılarından paraphrased aktarım; özellikle "An Industrial Policy for Good Jobs" (*Harvard Kennedy School Working Paper*, 2022) ve sonraki *Project Syndicate* köşe yazıları. Rodrik'in genel tezi, endüstri politikasının 20. yüzyıl boyunca "*sotto voce*" uygulandığı, ama 2020'lerde açıkça meşrulaştığıdır.

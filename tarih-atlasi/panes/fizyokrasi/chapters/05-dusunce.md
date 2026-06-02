@@ -109,6 +109,15 @@ Buradaki büyük yenilik şudur: Ekonomi artık yalnızca hükümdarın hazinesi
 
 İleri soru şudur: Bir tablo dünyayı aydınlatır mı, yoksa bazı şeyleri görünmez mi kılar? Fizyokrat tablo toprağı ve sınıf akışını görünür yapar; ama sanayi, koloni ve emek çeşitliliğini geriye iter.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Hekim Quesnay neden önemli?" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Pierre-Paul Le Mercier de la Rivière. *L'Ordre naturel et essentiel des sociétés politiques* (1767). Fizyokrat doğal düzen düşüncesinin en sistematik metinlerinden biri.

@@ -239,8 +239,17 @@ Bu, Marx'ın 1867'deki *yoğunlaşma tezi*'nin 21. yüzyıl ampirik doğrulamas�
 İleri düzeyde Marx’ta mülkiyeti ahlaki kötü niyet meselesi gibi değil, üretim ilişkisinin biçimi gibi oku. Sorun tek tek kapitalistlerin karakterinden önce yapının kendisidir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Mülkiyet ile sermaye arasındaki ayrım" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Marx, K. (1867). *Capital: A Critique of Political Economy — Volume I*, s. 368. Sözde ilkel birikim bölümünün açılış pasajı (Almanca orijinalde XXIV. Kapitel, İngilizce Moore-Aveling çevirisinde Part VIII'in başı, Chapter XXVI). İlkel birikimin kapitalist üretimin tarihsel temeli olduğu, sonucu olmadığı tezi. ElecBook Classics edisyonu.
 
 [^2]: Marx, K. (1867). *Capital* I, s. 421. Kapitalist sistemin önkoşulu: emekçilerin üretim araçlarından tamamen ayrılması.

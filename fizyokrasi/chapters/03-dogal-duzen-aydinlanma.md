@@ -174,9 +174,17 @@ Bu şemayı akılda tutarsan fizyokrasiyi daha temelden anlarsın: Sorun yalnız
 
 İleri düzeyde “doğal düzen”i sadece güzel bir Aydınlanma fikri gibi okuma. Bu kavram çift yönlü çalışır: keyfi iktidara karşı aklın ve sadeliğin silahı olabilir; ama aynı anda belirli bir mülkiyet düzenini sanki tartışılamaz doğa yasasıymış gibi de gösterebilir.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Bir başlığın içerdiği program" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Quesnay, F. & Mirabeau, V. R. (1763). *Philosophie rurale, ou Économie générale et politique de l'agriculture*. Amsterdam: Libraires Associés. (Mirabeau'nun *Tableau*'yu "yazı ve paranın yanında üçüncü büyük keşif" olarak nitelemesi önsözde geçer.) Bağlam için: Meek, R. L. (1962). *The Economics of Physiocracy: Essays and Translations*. London: Allen & Unwin, Bölüm I.
 
 [^2]: Larrère, C. (1992). *L'invention de l'économie au XVIIIe siècle: Du droit naturel à la physiocratie*. Paris: PUF, Bölüm 3. (Maupertuis'nin *en küçük eylem ilkesi* (1744) ile fizyokratik *évidence* doktrini arasındaki örtülü sürekliliği inceler.)

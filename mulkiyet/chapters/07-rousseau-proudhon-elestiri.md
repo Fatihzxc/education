@@ -168,8 +168,17 @@ Bu tablo Rousseau'nun şüphesini ve Proudhon'un ayrımını birlikte tutar. Mü
 İleri düzeyde Rousseau ve Proudhon’u yalnız slogan gibi okuma. Asıl soru, bir hak biçiminin nasıl toplumsal bağımlılık ve eşitsizlik üretebildiğidir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1755 — bir akademi yarışmasının paradoksu" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Rousseau, J.-J. (1755). *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*, II. kısım açılış pasajı. Public domain metni gutenberg.org'da bulunmaktadır. Bu kitap kb-mcp'de yer almamakta; bu bölümün argümanları ikincil literatür (Hirschman 1977 *Passions and Interests* dahil) üzerinden ve doğrudan public-domain metinden inşa edilmiştir.
 
 [^2]: Rousseau, J.-J. (1762). *Du Contrat Social*. Demokratik halk egemenliğinin mülkiyeti sınırlandırması teorisi; modern "mülkiyetin sosyal işlevi" anayasal ilkesinin kavramsal kaynağı.

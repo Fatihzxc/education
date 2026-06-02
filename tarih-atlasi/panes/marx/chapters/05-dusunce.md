@@ -114,6 +114,15 @@ Ama Marx bunları basitçe toplamaz. Felsefeyi maddi üretim ilişkilerine indir
 
 İleri soru şudur: Marx bir iktisatçı mı, filozof mu, tarihçi mi, siyaset teorisyeni mi? Güçlü cevap şudur: Marx'ın etkisi tam da bu ayrımları bozmasından gelir. Onu yalnızca bir alana sıkıştırınca düşüncesinin keskinliği azalır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Üç kaynak tablosu" başlığının gösterdiği somut düğümden oku: sermaye birikimi, sınıf gücü ve artı-değer sorusunun tarih içinde nasıl görünür olduğu sorusu.
+- **Baskın bakış:** işçi sınıfı ve kapitalizm eleştirisi; çünkü üretim ilişkisindeki asimetriyi görünür yapar.
+- **Güçlü karşı fikir:** marjinalist, kurumsalcı ve sosyal-demokrat okumalar sınıf indirgemeciliği riskini sorar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Karl Marx. *Economic and Philosophic Manuscripts* (1844), *The German Ideology* (1845-46), *Das Kapital* (1867); Friedrich Engels, *Socialism: Utopian and Scientific* (1880).

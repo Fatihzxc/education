@@ -28,6 +28,8 @@ Dördüncü basamak: Kripto para merkezi otoriteye güvensizlikten güç alır. 
 
 Beşinci basamak: CBDC, yani merkez bankası dijital parası, devlet parasının dijital biçimini tartışmaya açar. Bu kolaylık, kapsayıcılık ve ödeme verimliliği sağlayabilir; ama mahremiyet ve denetim sorularını da büyütür.
 
+Bu bugünkü sahneyi mini vakalarla okumak daha öğreticidir. Kredi kartı asgari ödemesi, borcu görünürde yönetilebilir kılar; ama borcun zamanını uzatabilir. BNPL, yani "şimdi al, sonra öde" türü taksitli platformlar tüketimi kolaylaştırır; ama gelir gelmeden harcama alışkanlığını normalleştirebilir. Stablecoin, kullanıcıya dijital dünyada daha sabit bir para vaadi verir; ama o sabitliğin arkasındaki rezerv, denetim ve itfa güveni sorgulanmalıdır. Kripto borsası, merkezi kuruma karşı itirazla doğan bir varlığı yeniden merkezi aracıya bağlayabilir. CBDC ise devlet parasını dijitalleştirirken şu soruyu büyütür: Kamusal para ile kişisel mahremiyet aynı tasarımda nasıl korunacak?
+
 ## Bölümün argümanı
 
 Bu bölümün argümanı şudur: Bugünün para düzeninde temel sorun araçların dijitalleşmesi değil, güvenin hangi kurumlara ve hangi veri altyapılarına taşındığıdır.
@@ -68,6 +70,8 @@ Bir alışveriş sahnesi düşün. Eskiden kişi cebindeki nakitle ödeme yapar,
 
 Kripto sahnesi başka bir vaatle gelir: merkezi aracıları azaltmak, kurala bağlı dijital kıtlık yaratmak, devlete veya bankaya güvenmek yerine ağa güvenmek. Fakat burada da güven bütünüyle kaybolmaz. Kullanıcı cüzdan yazılımına, borsaya, protokole, geliştirici topluluğuna, likiditeye, enerji ve donanım altyapısına, hatta kendi şifresini kaybetmeyeceğine güvenmek zorundadır.
 
+Stablecoin sahnesi daha sessiz ama çok öğreticidir. Kullanıcı "bir dijital token bir dolara eşit" gibi sade bir cümleye güvenmek ister. Fakat bu eşitlik teknik bir büyü değildir; rezerv var mı, rezerv nerede tutuluyor, kim denetliyor, herkes aynı anda çıkmak isterse ödeme yapılabilir mi gibi eski bankacılık soruları geri gelir. Yeni adlar eski güven problemini ortadan kaldırmaz; yalnız başka bir arayüze taşır.
+
 ## Bilgelik sorusu
 
 Bu bölümün bilgelik sorusu şudur: **Kolaylık uğruna hangi mahremiyeti, hangi bağımsızlığı ve hangi gelecek kararını devrediyorum?**
@@ -81,3 +85,22 @@ Bilgelik, teknolojik yeniliği büyülenmeden ve korkuya teslim olmadan okumakt�
 Bugün bu sorular kredi kartı limitinde, temassız ödemede, dijital banka hesabında, kripto borsasında, konut kredisi simülasyonunda ve merkez bankası dijital parası tartışmalarında birleşir. İnsan finansal sisteme yalnız büyük yatırımlarla değil, küçük gündelik alışkanlıklarla bağlanır.
 
 Bu kitabın son okuma pusulası şu olsun: Para biçim değiştirir, ama temel insan meselesi kalır. İnsan güvenmek ister, ama kandırılmak istemez. Geleceğini bugüne taşımak ister, ama geleceğini kaybetmek istemez. Özgür olmak ister, ama korunmak da ister. Para, borç ve finansı bilgelikle okumak, bu gerilimleri aynı anda taşıyabilmektir.
+
+## Kaynak pusulası
+
+Bu bölüm için okuma yönü:
+
+- Mian ve Sufi, *House of Debt*
+- BIS kripto varlik ve merkez bankasi raporlari
+- TCMB ve BDDK hane borcu/veri kaynaklari
+- Perry Mehrling ve Hyman Minsky finansal istikrarsizlik okumalari
+
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "En basit fikir" başlığının gösterdiği somut düğümden oku: bugünkü kaynakla gelecekteki ödeme vaadini birbirine bağlayan güven sorusu.
+- **Baskın bakış:** devlet, banka, alacaklı ve para otoritesi; çünkü ödeme düzeni ayakta kalırsa toplum hareket eder.
+- **Güçlü karşı fikir:** borçlu hane, enflasyon mağduru, finansallaşma eleştirisi ve ahlaki faiz itirazı bu düzenin bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?

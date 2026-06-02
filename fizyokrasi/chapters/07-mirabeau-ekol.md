@@ -124,9 +124,17 @@ Bu akış, fizyokrasinin gücünü ve zayıflığını aynı anda gösterir. Eko
 İleri düzeyde ekolü yalnız fikirler toplamı gibi değil, bir iletişim ve ikna makinesi gibi oku. Bir teori yayılırken kavramlar kadar dostluklar, dergiler ve saray bağlantıları da çalışır.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "1756 — *L'Ami des hommes* ve agrarian-popülasyonist dalga" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Mirabeau, V. R., marquis de (1756). *L'Ami des hommes ou Traité de la population*. Avignon (gerçek baskı yeri Paris; anonim). Bu kitap fizyokrat ekol-öncesi agrarian-popülasyonist tezin en geniş etki yapan metnidir; Quesnay ile karşılaşma sonrası Mirabeau'nun fizyokrat yeniden-yapılandırması, sonraki eserlerinde belirginleşir.
 
 [^2]: Mirabeau, V. R., marquis de (1760). *Théorie de l'impôt*. *Impôt unique* doktrininin Fransız kamuoyuna sunulması; eserin polemik etkisi Mirabeau'nun kısa süreli hapis ve sürgünüyle sonuçlandı.

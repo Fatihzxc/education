@@ -189,9 +189,17 @@ Turgot bir kişi olarak fizyokrasinin yarısını bile temsil etmez; ama Avrupa 
 
 İleri düzeyde Turgot’yu teorinin pratik sınavı gibi oku. Bir fikir metinde berrak olabilir; fakat ekmek fiyatına, lonca çıkarına ve saray siyasetine değdiğinde başka bir şeye dönüşür. Buradan şu sonuç çıkar: iyi teori, geçiş döneminin acısını kimin taşıyacağını sormadıkça eksik kalır.
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "Salondan idareye" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Anne-Robert-Jacques Turgot, *Réflexions sur la formation et la distribution des richesses* (1766 yazılı, 1769-70 *Éphémérides du citoyen*'de yayımlanmıştır). Yüz kısa paragraflık bu metin Quesnay'in *Tableau économique* çerçevesini kapital-faiz-iş bölümü üzerine genişletir. Modern eleştirel basım: Ronald L. Meek, *Turgot on Progress, Sociology and Economics* (Cambridge UP, 1973). Smith üzerindeki etki için: P. D. Groenewegen, *The Economics of A.R.J. Turgot* (Martinus Nijhoff, 1977).
 
 [^2]: Turgot'nun XVI. Louis'ye Ağustos 1774 mektubu; "Point de banqueroute, point d'augmentation d'impôts, point d'emprunts" formülü. Metnin tam hali Gustave Schelle'nin derlediği *Œuvres de Turgot et documents le concernant* (5 cilt, 1913-1923) içinde IV. ciltte yer alır. Mektup, Turgot'nun atanmasının hemen ardından programının çerçevesini krala özetler.

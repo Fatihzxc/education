@@ -34,3 +34,17 @@ Her bölüme dört ek katman eklenecek:
 - Yer tutucu ifade içermemeli.
 
 Bu eşik kitabı final yapmaz; ama okuru basit tanımdan kavrayış düzeyine çıkaran ilk gerçek eşiği kurar.
+
+## İkinci Tur İçerik Review Notları
+
+2026-06-02 ikinci turunda kitap "tamamlandı" durumundan daha güçlü bir bilgelik katmanına taşındı. İlk review'deki dört bilgelik başlığı korunurken, bu kez ana eksik daha somuttu: metin doğru ve sıcak anlatıyordu; fakat bazı bölümlerde okurun tutunacağı kaynak, ekol, olay ve kurum çıpaları zayıf kalıyordu.
+
+Bu yüzden ikinci turda şu derinleştirme yapıldı:
+
+- Para bölümüne metallist, chartalist ve kredi para ayrımı eklendi. Böylece "para nedir?" sorusu yalnız üç klasik işlevle değil, parayı geçerli kılan güven düzeniyle okunuyor.
+- Borç, faiz, banka ve kriz bölümlerine Graeber, Fisher, Keynes, Minsky ve Bagehot gibi isim/mercek çıpaları eklendi. Bu isimler ezber için değil, okurun farklı açıklama katmanlarını ayırması için kullanıldı.
+- Antik dünya ve erken modern devlet bölümlerinde Solon, nexum, fiscal-military state, Bank of England, John Law ve South Sea gibi somut sahnelerle tarihsel zemin güçlendirildi.
+- Osmanlı-Türkiye hattı tek akıştan çıkarılıp tağşiş, dış borç, Duyun-u Umumiye, erken Cumhuriyet, 1980 sonrası dönüşüm ve kriz hafızası gibi dönemsel eşiğe bağlandı.
+- Dijital finans bölümü kredi kartı asgarisi, BNPL, stablecoin, kripto borsası ve CBDC mahremiyeti gibi mini vakalarla bugüne daha sıkı bağlandı.
+
+Kalan dikkat noktası: Güncel düzenleme veya ülke bazlı CBDC/kripto iddiası eklenecekse ayrıca tarihli kaynakla doğrulanmalı. Bu turda özellikle zamana dayanıklı mekanizma anlatımı tercih edildi.

@@ -137,8 +137,17 @@ Jevons iktisadı hesaplanabilir fayda diline yaklaştırdı. Menger değeri insa
 
 Bu dört kapıyı birlikte görünce marjinalizm daha netleşir: Değer artık yalnızca üretim süresinin ya da sınıf ilişkisinin içinde aranmaz; kıtlık içindeki bireyin son birime verdiği anlamda aranır. Bu, iktisadın dilini çok güçlendirdi. Aynı zamanda onu daha soyut, daha teknik ve bazen daha insansız bir dile de yaklaştırdı.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Dört kapılı harita" başlığının gösterdiği somut düğümden oku: fiyatın son birim fayda, kıtlık ve tercih üzerinden nasıl açıklanacağı sorusu.
+- **Baskın bakış:** tüketici ve teknik iktisatçı bakışı; çünkü ölçülebilir seçimleri merkeze alır.
+- **Güçlü karşı fikir:** Marx, Sraffa, feminist ve kurumsal okumalar tercihlerin gelir ve güç içinde kurulduğunu hatırlatır.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: William Stanley Jevons. *The Theory of Political Economy* (1871). Fayda, marjinal analiz ve matematiksel iktisat yönelimi için temel metin.
 [^2]: Carl Menger. *Grundsätze der Volkswirtschaftslehre* (1871). Öznel değer, mal dereceleri ve Avusturya okulunun başlangıcı için ana kaynak.
 [^3]: Léon Walras. *Éléments d'économie politique pure* (1874-1877). Genel denge yaklaşımı için klasik kaynak.

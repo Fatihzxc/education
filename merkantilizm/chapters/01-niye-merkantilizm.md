@@ -193,8 +193,17 @@ Terimin doğuşu ve 20. yüzyıl tarihyazımını farklı bir açıdan keşfetme
 - [Eli Heckscher — *Mercantilism* (1935)](appendix/playground.html#concept/eli-heckscher)
 - [Kaynakça listesi](appendix/playground.html#tabSources)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Bir terimin yokluğu" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Adam Smith. *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), s. 556. "Book Four: Of Systems of Political Economy" — Smith'in mercantile system + agricultural system ayrımını kurduğu kitap başlığı.
 
 [^2]: Eli F. Heckscher. *Mercantilism* (1935), s. 27. "Eight of the nine chapters in the fourth book, or almost a quarter of the whole Wealth of Nations, is devoted to an exposition and refutation [of the mercantile system]."

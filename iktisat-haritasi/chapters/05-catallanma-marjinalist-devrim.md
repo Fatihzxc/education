@@ -86,8 +86,17 @@ Sonraki bölüm, marjinalizmin tek başına eksik kaldığı yeri — fiyatın h
 İleri düzeyde marjinalist devrimi sadece matematikleşme gibi okuma. Asıl değişim, değerin toplumsal üretimden bireysel tercih alanına taşınmasıdır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Üç kişi, üç ülke, bir yıl" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: William Stanley Jevons, *The Theory of Political Economy* (1871); Carl Menger, *Grundsätze der Volkswirthschaftslehre* (1871); Léon Walras, *Éléments d'économie politique pure* (1874). Marjinal devrimin nesnel-değerden öznel-değere kopuşunun kavram bazında ayrıntılı işlenişi kardeş kitap `deger`, Bölüm 8 (Avusturya/öznel değer) ve Bölüm 9 (marjinalist devrim).
 
 [^2]: "Marjinalizm Marx'a cevap mıydı?" tartışmasının iki ucu için: bir yandan marjinal fayda fikrinin Marx-öncesi kökleri (H. H. Gossen, 1854) ve üç kurucunun bağımsızlığı; öte yandan teorinin 1880 sonrası kurumsallaşmasının sosyalist yükselişle eşzamanlılığı. Klasik emek-değer geleneğinin marjinalizm karşısındaki konumu için: Maurice Dobb, *Theories of Value and Distribution since Adam Smith* (Cambridge UP, 1973). Tartışmanın açık kalışı ve "ikisinin birlikteliği" yargısı için kardeş kitap `deger`, Bölüm 9.

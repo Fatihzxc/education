@@ -133,7 +133,16 @@ Devletin sürekli savaş yaptığı, vergi toplama kapasitesinin sınırlı oldu
 
 İleri düzeyde asıl soru şudur: Merkantilizm bir teori mi, yoksa devlet kurma pratiği mi? Cevap ikisi arasında durur. Tutarlı bir okul değildir, ama aynı probleme verilen benzer cevaplardan oluşan bir yönetim aklıdır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "En basit soru" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Charles Tilly. *Coercion, Capital, and European States, AD 990-1992* (1990). Tilly'nin savaş ve devlet kapasitesi arasındaki karşılıklı ilişkiyi anlatan temel çerçevesi.
 [^2]: Eli F. Heckscher. *Mercantilism* (1935); Lars Magnusson. *Mercantilism: The Shaping of an Economic Language* (1994). İki yazar merkantilizmi farklı ama birbirini tamamlayan biçimlerde okur: sistem ve dil.

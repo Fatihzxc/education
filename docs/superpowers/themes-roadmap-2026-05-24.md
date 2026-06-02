@@ -1,8 +1,8 @@
 # Tema Yol Haritası — Education Repo Genişlemesi
 
 **Tarih:** 2026-05-24
-**Son güncelleme:** 2026-05-30 — **Fizyokratik Düşünce**, **Klasik İktisat** ve **Para, Borç ve Finans** kitapları ana katalogda tamamlandı olarak işaretlendi.
-**Bağlam:** Yedi kitap tamamlandı olarak işaretli (Merkantilizm, Fizyokrasi, Klasik İktisat, Değer, Mülkiyet, Egemenlik, Para-Borç-Finans). Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
+**Son güncelleme:** 2026-06-02 — **Emek ve Çalışma** kitabı ana katalogda tamamlandı olarak işaretlendi; Para-Borç-Finans sonrası sıradaki doğal halka tamamlandı.
+**Bağlam:** Sekiz kitap tamamlandı olarak işaretli (Merkantilizm, Fizyokrasi, Klasik İktisat, Değer, Mülkiyet, Egemenlik, Para-Borç-Finans, Emek ve Çalışma). Bu doküman olası sonraki temaları envanterler. Bağlayıcı değil — yazma sırası kullanıcının her temanın pilot bölümünden sonra vereceği karara bağlı.
 
 ---
 
@@ -27,7 +27,7 @@
 7. Karşılaştırmalı üstünlük ve serbest ticaret — Anti-Corn-Law League, 1846
 8. Klasik iktisat ve İngiliz politik bağlamı — Reform Bill, Chartism, Engels 1845, ütopyacı sosyalistler
 9. J.S. Mill ve klasik sentez — *Principles* (1848), *On Liberty*, kadın ve mülkiyet
-10. Klasik iktisat ve Osmanlı modernleşmesi — Cavid Bey *İlm-i İktisad*
+10. Klasik iktisat ve Osmanlı modernleşmesi — Sakızlı Ohannes *Mebadi-i İlm-i Servet-i Milel* ve Cavid Bey *İlm-i İktisad*
 11. Klasik'in iki karşıt mirasçısı — marjinal devrim + Marx hattı
 12. Bugün — Sraffian/neo-Ricardian, Piketty, eşitsizlik
 
@@ -293,10 +293,10 @@ Bunlar spec'te yok ama yazılmış 4 kitabın bir kavramsal eksiğini doldurur. 
 
 ---
 
-### 6. Emek kavramının tarihi
-**Alt başlık:** Kölelikten platform işine — bedensel, ücretli, dijital
+### 6. Emek kavramının tarihi → Emek ve Çalışma
+**Alt başlık:** Bedenin, zamanın ve değerin tarihi — kölelikten platform işine
 
-**Neden?** Değer'in üretim tarafı; Mülkiyet'in karşıt tarafı. Locke'un "emek karıştırarak mülkiyet" tezini Marx'la, sonra çağdaş platform işiyle birleştirir.
+**Durum:** 2026-06-02 itibarıyla `emek-calisma/` altında 12/12 completed kitap. Değer'in üretim tarafını, Mülkiyet'in geçim ve dışlama tarafını, Para-Borç-Finans'ın güvence ve gelecek kaygısı hattını emek zamanı üzerinden birbirine bağlar.
 
 **12-bölüm yayı:**
 1. Niye "emek"? — *ergon*, *labor*, *opus*, *ʿamal*, *Arbeit*
@@ -307,21 +307,21 @@ Bunlar spec'te yok ama yazılmış 4 kitabın bir kavramsal eksiğini doldurur. 
 6. Smith — iş bölümü, *Wealth* I.1 iğne fabrikası
 7. Marx — yabancılaşma, *Pariser Manuskripte* 1844 + *Capital* I
 8. Taylor + Ford — bilimsel yönetim, montaj hattı
-9. Post-fordizm + esnek üretim
-10. Polanyi — *Great Transformation* — emek meta haline gelirse ne olur?
-11. Care work — feminist ekonominin emek genişletmesi
-12. Platform işi — Uber, Deliveroo, Fiverr — yeni proletarya?
+9. Polanyi — *Great Transformation* — emek meta haline gelirse ne olur?
+10. Bakım emeği — feminist iktisadın görünmeyen emek genişletmesi
+11. Sendika, sosyal devlet ve güvencesizlik — kolektif pazarlık ve koruma
+12. Platform işi, yapay zeka ve geleceğin emeği — algoritmik yönetim, veri ve risk
 
-**Anchor yazarlar:** Aristoteles, Locke, Smith, Marx, Taylor, Polanyi, Federici, Rosa Luxemburg
+**Anchor yazarlar:** Aristoteles, Locke, Smith, Marx, Taylor, Polanyi, Federici, Rosa Luxemburg, E. P. Thompson, Guy Standing
 
 **kb-mcp kaynak durumu:**
 - Mevcut: Aristoteles, Smith, Marx, Polanyi, Beckert *Empire of Cotton*
 - Eksik: Taylor *Principles of Scientific Management*, Marx *Pariser Manuskripte*, Federici *Caliban and the Witch*, çağdaş gig-ekonomi raporları
 - Çok güçlü mevcut kaynak temeli
 
-**Çapraz bağlar:** Değer (emek-değer kuramı), Mülkiyet (Locke emek-mixing)
+**Çapraz bağlar:** Değer (emek-değer kuramı), Mülkiyet (Locke emek-mixing), Para-Borç-Finans (geçim, borç ve güvencesizlik), Egemenlik (iş hukuku ve sosyal devlet)
 
-**Tahmini efor:** 65 saat (5/10)
+**Tahmini efor:** İlk bilgelik seviyesi yazım ve 12 bölümlük kitap turu tamamlandı; sonraki opsiyonel tur kaynak doğrulama, alıntı disiplini ve dipnotlandırma olabilir.
 
 ---
 
@@ -612,7 +612,7 @@ Aristoteles *Poetika* → Aquinas → Vasari → Kant → Hegel *Estetik* → Gr
 |---|---|---|---|---|---|---|---|
 | 4 | Para'nın tarihi | 5 | 5 | 4 | 5 | 4 | **4.7** |
 | 1 | Adalet teorisi | 5 | 3 | 4 | 3 | 4 | **3.9** |
-| 6 | Emek tarihi | 5 | 4 | 4 | 4 | 4 | **4.3** |
+| 6 | Emek tarihi (tamamlandı) | 5 | 4 | 4 | 4 | 4 | **4.3** |
 | 5 | Sermaye tarihi | 5 | 3 | 4 | 3 | 5 | **4.0** |
 | 7 | Demokrasi | 4 | 3 | 4 | 3 | 4 | **3.6** |
 | 8 | Özgürlük | 4 | 4 | 4 | 4 | 4 | **4.0** |
@@ -622,15 +622,14 @@ Aristoteles *Poetika* → Aquinas → Vasari → Kant → Hegel *Estetik* → Gr
 
 ### Önerilen sıralama (puanlama bazlı, indirim katsayılı)
 
-1. **Para'nın tarihi** — en yüksek puan, mevcut kaynak temeli en güçlü, Değer kitabının doğal devamı
-2. **Emek kavramının tarihi** — Mülkiyet ↔ Değer köprüsünü doğal kapatır
-3. **Sermaye kavramının tarihi** — Değer/Mülkiyet üçgenini tamamlar; "para-emek-sermaye" üçlüsünü kapatır
-4. **Özgürlük kavramının tarihi** — Egemenlik kitabının doğal devamı
-5. **Adalet teorisi** — spec'te önerilen sıra; Egemenlik-Özgürlük-Adalet üçgenini tamamlar
-6. **Demokrasi düşüncesi** — Egemenlik kitabını derinleştirir
-7. **Eşitlik kavramının tarihi** — Adalet kitabıyla yakın; sıralama esnek
-8. **Bilim sosyolojisi** — meta-tema; tüm önceki kitaplara geri-yansıma sağlar
-9. **Hukuk düşüncesi tarihi** — Egemenlik+Mülkiyet bağı güçlü ama teknik
+1. **Sermaye kavramının tarihi** — Değer/Mülkiyet üçgenini tamamlar; Para ve Emek kitaplarından sonra klasik üçlüyü kapatır
+2. **Sömürgecilik ve Dünya Sistemi** — Emek kitabındaki zorla çalışma, plantasyon ve dünya işbölümü hattını küresel ölçeğe taşır
+3. **Özgürlük kavramının tarihi** — Egemenlik kitabının doğal devamı; emek özgürlüğü ve piyasa özgürlüğü gerilimini açar
+4. **Adalet teorisi** — spec'te önerilen sıra; Egemenlik-Özgürlük-Adalet üçgenini tamamlar
+5. **Demokrasi düşüncesi** — Egemenlik kitabını derinleştirir
+6. **Eşitlik kavramının tarihi** — Adalet kitabıyla yakın; sıralama esnek
+7. **Bilim sosyolojisi** — meta-tema; tüm önceki kitaplara geri-yansıma sağlar
+8. **Hukuk düşüncesi tarihi** — Egemenlik+Mülkiyet bağı güçlü ama teknik
 
 ---
 
@@ -670,11 +669,11 @@ Her kavram için (rant, asabiyye, *dominium*, *sovereign exception*) bir sayfa; 
 ### "Bu temayı atla" kriteri
 Eğer kaynak araştırması 4 saatten fazla sürerse ve birincil kaynaklar hâlâ yetersizse, o temayı erteleyip daha hazır olanına geç.
 
-### Şu anki durum (2026-05-24)
-- Tamamlanmış: 4 kitap (Merkantilizm, Değer, Mülkiyet, Egemenlik)
-- Tahmini toplam kelime: ~80-90K
+### Şu anki durum (2026-06-02)
+- Tamamlanmış: 8 kitap (Merkantilizm, Fizyokrasi, Klasik İktisat, Değer, Mülkiyet, Egemenlik, Para-Borç-Finans, Emek ve Çalışma)
+- Tahmini toplam kelime: 150K+ ve artıyor
 - kb-mcp source count: 20+ birincil, 12+ ikincil
-- Bir sonraki tema kararı bekleniyor.
+- Bir sonraki tema kararı için en doğal iki hat: **Sömürgecilik ve Dünya Sistemi** (küresel emek ve merkez-çevre hattı) veya **Sermaye kavramının tarihi** (para-emek-sermaye üçlüsünü kapatma hattı).
 
 ---
 

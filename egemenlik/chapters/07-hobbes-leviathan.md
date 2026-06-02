@@ -176,8 +176,17 @@ Bu, kalıcı bir egemenlik dönüşümünün mü, yoksa geçici bir kriz tepkisi
 
 İleri düzeyde Hobbes’u sadece otoriterlik diye okuma. Onun sertliği, iç savaşın bedelini çok ciddiye almasından gelir. Yine de tam bu yüzden tehlikelidir: güvenliği kuran iktidarın kendisi denetlenemez hale gelirse, insanlar doğa durumundan çıkarken korkunun başka bir biçimine girmiş olabilir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1651 — savaş sonrası bir kitap" başlığının gösterdiği somut düğümden oku: son kararı kimin vereceği, bu kararın nasıl meşrulaşacağı ve kim tarafından sınırlandırılacağı sorusu.
+- **Baskın bakış:** devlet, hukukçu ve merkezileşme bakışı; çünkü kaos karşısında son söz ve güvenlik ister.
+- **Güçlü karşı fikir:** çoğulculuk, halk egemenliği, anayasa, yerel haklar ve kolonyal itirazlar son sözün bedelini sorar.
+- **Halkın/kamunun gözü:** Bu mesele vergi, askerlik, mahkeme, sınır, polis, veri yasası ve platform yasağı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı padişahlığı, hilafet, Tanzimat, anayasa, Cumhuriyet ve güncel başkanlık/devlet kapasitesi tartışmalarına iner.
+- **İleri düzey okuma:** egemenliği tek merkezli güç değil, hukuk, şiddet, veri, platform ve halk rızası arasında dolaşan karar yetkisi olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Hobbes, T. (1651). *Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civill*. London. Public domain metni gutenberg.org'da bulunmaktadır. Türkçe çeviri: Semih Lim (Yapı Kredi Yayınları, 1993). Bu kitap kb-mcp'de bulunmamakta; bu bölümün argümanları doğrudan public-domain metinden ve ikincil literatürden — özellikle Quentin Skinner *Reason and Rhetoric in the Philosophy of Hobbes* (1996) — inşa edilmiştir.
 
 [^2]: Hobbes, *Leviathan* XIII. bölüm: "Of the Naturall Condition of Mankind, as concerning their Felicity, and Misery". Doğa durumunun klasik tasviri; "solitary, poor, nasty, brutish, and short" formülasyonu.

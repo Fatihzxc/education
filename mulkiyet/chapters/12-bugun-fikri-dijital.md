@@ -139,16 +139,16 @@ Bir kavramın yirmi beş asırlık seyrini, onunla beraber dolaşmadan anlamak m
 
 Modern fikri mülkiyet sisteminin yarattığı "*yenilik teşviki vs erişim*" geriliminin somut bir örneği: HIV/AIDS antiretroviral tedavisi.
 
-| Boyut | ABD piyasası (patent altında) | Hindistan jenerik (patent dışı) |
+| Boyut | Patentli/orijinal HAART fiyatı (2000 başı, yüksek gelirli pazar) | Hindistan jenerik rekabeti (2001-2003, düşük gelirli ülke erişimi) |
 |-------|------------------------------:|--------------------------------:|
-| Yıllık tedavi maliyeti | $30,000 - $40,000 | $300 - $500 |
-| Etkinlik | Aynı kimyasal bileşim | Aynı kimyasal bileşim |
-| Üretim maliyeti | ~$200 | ~$200 |
-| Mark-up | %15,000+ | %50-100 |
+| Yıllık tedavi maliyeti | Yaklaşık $10,000-$12,000 (erken 2000 HAART) | Cipla'nın 2001 MSF fiyatı $350; 2002'de bazı jenerik kombinasyonlar yaklaşık $300 |
+| Rejim | Üçlü antiretroviral tedavi, ülke ve ilaç kombinasyonuna göre değişir | Stavudine + lamivudine + nevirapine gibi üçlü kombinasyon teklifleri |
+| Etkinlik | Aynı etkin moleküllerle klinik eşdeğerlik hedeflenir | Aynı etkin moleküllerle klinik eşdeğerlik hedeflenir |
+| Daraltma notu | Bu rakamlar tüm HIV tedavileri için evrensel fiyat değildir | Jenerik rekabet, lisans, bağış ve kamu alımı koşullarına bağlıdır |
 
-ABD'deki bir hastanın yıllık $30,000 tedavi maliyeti, %95'in üzerinde *fikri mülkiyet rantı*'dır. Üretim maliyeti aynı; fark patent korumasından geliyor. Patent koruması olmadan (Hindistan'da Cipla, Aurobindo gibi jenerik üreticilerden), aynı ilaç 60-100 kat ucuza erişilebilir.
+Bu tabloyu doğru okumak için tarih ve rejimi dar tutmak gerekir. 2000'lerin başında patentli/orijinal HAART fiyatları düşük gelirli ülkeler için ödenemez düzeydeydi; 2001'de Cipla'nın MSF'ye yıllık $350 teklifi ve 2002'ye doğru bazı jenerik kombinasyonların yaklaşık $300 düzeyine inmesi, fikri mülkiyet + jenerik rekabet + kamu sağlığı finansmanı ilişkisinin ne kadar sert olduğunu gösterdi.^[3] Burada mesele "üretim maliyeti aynıdır, bütün fark sadece patenttir" diye basitleştirilemez; fiyat farkını patent koruması, pazar bölümlenmesi, ruhsatlandırma, kamu alımı, bağış programları ve üretim ölçeği birlikte belirler.
 
-Bu farkın küresel sonuçları derindir. 2000-2010 arasında, Güney Afrika'daki HIV salgını sırasında, patent fiyatları nedeniyle milyonlarca insan tedaviye erişemedi. 2001'de DTÖ TRIPS anlaşmasının Doha Bildirgesi, "*halk sağlığı acil durumunda*" patent zorunlu lisansının verilebileceğini kabul etti. Hindistan, Brezilya, Tayland bu hükmü kullanarak jenerik üretime izin verdi.
+Bu farkın küresel sonuçları derindir. 2000-2010 arasında, Güney Afrika'daki HIV salgını sırasında patent fiyatları, uluslararası finansman eksikliği, kamu sağlığı kapasitesi, lisans rejimleri ve dönemin siyasal tercihleri birlikte tedavi erişim krizini ağırlaştırdı. 2001'de DTÖ TRIPS anlaşmasının Doha Bildirgesi, "*halk sağlığı acil durumunda*" patent zorunlu lisansının verilebileceğini kabul etti. Hindistan, Brezilya, Tayland bu hükmü kullanarak jenerik üretime izin verdi.
 
 İlaç şirketlerinin (Pfizer, GSK, AbbVie) cevabı: "*Patent koruma, milyarlarca dolarlık AR-GE yatırımının geri kazanılması için gereklidir; aksi takdirde yeni ilaç geliştirilemez.*" Bu argüman kısmen haklı; ama Reinert'in (2007, *How Rich Countries Got Rich* — kb-mcp'de mevcut) işaret ettiği şudur: çoğu ilaç AR-GE'si devlet finansmanlı akademik araştırmaya dayanır; özel sektör çoğu zaman son aşama testleri ve pazarlamayı üstlenir. Yani rant, "*yenilik*"in tüm maliyetini değil, sadece son aşama maliyetini karşılar.
 
@@ -251,13 +251,22 @@ Bu pusula mülkiyeti daha canlı yapar. Bazı varlıklarda açık erişim yenili
 İleri düzeyde dijital ve ekolojik mülkiyeti eski tarla modeline sığdırmaya çalışma. Bazı kaynaklar kullanıldıkça tükenmez; bazıları ise herkes kullandıkça zarar görür.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Yirmi beş asır sonra, mülkiyet bugün" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Patent ve telif hakkı yasalarının erken tarihi için: Brad Sherman ve Lionel Bently, *The Making of Modern Intellectual Property Law* (1999). 1624 İngiliz Statute of Monopolies ve 1710 Statute of Anne ile başlayan modern fikri mülkiyetin kurumsal kaynakları.
 
 [^2]: Modern fikri mülkiyet patolojileri için: James Bessen ve Michael Meurer, *Patent Failure* (2008); Robin Feldman, *Drugs, Money, and Secret Handshakes* (2019). Bu kaynaklar kb-mcp dışındadır.
 
-[^3]: HIV/AIDS ilaçlarının Güney Afrika tartışması için: Achmat ve Roberts, "Steering the Storm: TAC and SANAC respond to the South African HIV/AIDS Drug Pricing Crisis" *Development* 47:2 (2004), s. 76-82.
+[^3]: HIV/AIDS ilaç fiyatları için: UNAIDS/WHO, *Access to HIV Treatment and Care* fact sheet (2004), "early 2000" HAART fiyatlarını yıllık US$10,000-12,000, bazı jenerik kombinasyonların 2002'de US$300 düzeyine indiğini belirtir. MSF/Doctors Without Borders, 7 Şubat 2001 duyurusunda Cipla'nın üçlü AIDS tedavisini MSF için yıllık US$350, hükümetler için US$600 teklif ettiğini duyurur. Güney Afrika tartışması için ayrıca Achmat ve Roberts, "Steering the Storm: TAC and SANAC respond to the South African HIV/AIDS Drug Pricing Crisis" *Development* 47:2 (2004), s. 76-82.
 
 [^4]: ABD Yüksek Mahkemesi *Myriad Genetics* kararı (2013): *Association for Molecular Pathology v. Myriad Genetics, Inc.* 569 U.S. 576. İnsan genom dizilerinin patenlenemeyeceği kararı.
 

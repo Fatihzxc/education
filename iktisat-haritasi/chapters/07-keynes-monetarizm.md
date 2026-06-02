@@ -80,8 +80,17 @@ Son bölüm mercekleri toparlar: hiçbir ekol ölmediğine göre, harita aslınd
 
 İleri düzeyde bu hattı devlet var mı yok mu tartışmasına indirgeme. Asıl kavga, kapitalist ekonomide istikrarın hangi mekanizma tarafından kurulacağıdır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Buhran, dengeyi çökertir" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: John Maynard Keynes, *The General Theory of Employment, Interest and Money* (Macmillan, 1936). Say Yasası'nın reddi, etkin talep, likidite tercihi ve tasarruf paradoksu için. Say Yasası'nın klasik kökeni ve Keynes'in onu nasıl çökerttiği kardeş kitap `klasik-iktisat`, Bölüm 5 (klasik makro); 1817 Ricardo-Malthus *general glut* tartışmasının bu çatışmanın atası olduğu da oradadır.
 
 [^2]: Milton Friedman, "The Quantity Theory of Money: A Restatement" (1956) ve *Capitalism and Freedom* (University of Chicago Press, 1962); Friedrich A. Hayek, fiyat sinyalleri ve planlamanın imkânsızlığı üzerine yazıları. Monetarizmin klasik para-miktarı teorisinin (Ricardo-Hume) modern biçimi olduğu için kardeş kitap `klasik-iktisat`, Bölüm 5 ve 12. Stagflasyon ve karşı-devrimin politik bağlamı için aynı cilt, Bölüm 12.

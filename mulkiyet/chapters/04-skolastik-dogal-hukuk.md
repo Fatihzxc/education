@@ -178,8 +178,17 @@ Beş örnek, Aquinas'ın 13. yüzyıl teolojik çerçevesinin yaşayan bir hukuk
 İleri düzeyde skolastik geleneği modern özel mülkiyet savunusunun basit atası gibi okuma. Bu gelenekte mülkiyet meşrudur ama mutlak değildir; ahlaki amaçla sınırlanır.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "13. yüzyıl: Aristoteles'in Hristiyan teolojisine girişi" başlığının gösterdiği somut düğümden oku: bir kaynağı kimin kullanacağı, koruyacağı, devredeceği ve ondan gelir elde edeceği sorusu.
+- **Baskın bakış:** hak, sözleşme, emek ve kurum dili; çünkü mülkiyet düzeni toplumsal istikrar vaat eder.
+- **Güçlü karşı fikir:** commons, sosyal sınır, Marx, Proudhon ve sömürge eleştirileri mülkiyetin dışlama bedelini gösterir.
+- **Halkın/kamunun gözü:** Bu mesele toprak, miras, kira, tapu, patent, veri ve dijital hesap kaybı olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı miri arazi, tapu reformu, gecekondu, imar rantı ve kişisel veri düzenlemeleriyle Türkiye hattına bağlanır.
+- **İleri düzey okuma:** mülkiyeti tapu kâğıdı değil, ayrılmış yetkiler ve dışlama biçimleri demeti olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.66 A.2, s. 3499. Özel mülkiyetin meşruiyeti sorusu; Aristoteles'ten miras aldığı dört argüman ile doğal hukuka uyum tezi.
 
 [^2]: Aquinas, T. (1274). *Summa Theologica*, II-II Q.66 A.2 ad 1, s. 3500. "Doğal hukuk ortak mülkiyeti emretmez; sadece ortak mülkiyete karşı değildir" formülasyonu — Salamanca'nın geliştireceği kavramsal boşluk.

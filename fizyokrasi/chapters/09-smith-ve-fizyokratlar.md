@@ -129,9 +129,17 @@ Bu tablo Smith'i tek başına başlayan kahraman gibi de, fizyokratların kopyas
 İleri düzeyde Smith’i tek başına başlayan kurucu gibi okuma. Büyük sentezler çoğu zaman önceki ekollerin hatalarını düzeltirken onların en güçlü sezgilerini de taşır.
 
 
+## Okuma pusulası
+
+- **Kök sebep:** Bu bölümü "1764 — bir İskoçyalı Toulouse'a gelir" başlığının gösterdiği somut düğümden oku: tarım fazlası, vergi karmaşası ve devlet reformu arasındaki bağın nasıl kurulacağı sorusu.
+- **Baskın bakış:** toprak sahibi, reformcu yönetici ve düzen arayan aydın; çünkü artığı ölçülebilir bir kaynağa bağlamak ister.
+- **Güçlü karşı fikir:** Smith, Marx, ekolojik iktisat ve commons okumaları toprağı tek üretken kaynak saymanın sınırlarını gösterir.
+- **Halkın/kamunun gözü:** Bu mesele köylü vergi yükü, tahıl fiyatı, kira, kırsal borç ve gündelik geçim baskısı olarak görünür.
+- **Osmanlı/Türkiye bağı:** Osmanlı tımar/çift-hane düzeni, miri arazi, modern imar rantı ve toprak vergisi tartışmalarıyla bağlanır.
+- **İleri düzey okuma:** fizyokrasiyi eski tarım romantizmi değil, rant, artı ürün ve ekolojik sınır sorusunun erken dili olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
 ## Kaynakça
-
-
 [^1]: Smith'in 1764-66 Fransa seyahatinin kronolojisi için bkz. Ian Simpson Ross, *The Life of Adam Smith* (Oxford: Clarendon, 1995), Bölüm 13-14. Toulouse'tan Paris'e geçiş Aralık 1765'tir; Smith'in Paris'teki ana ikamet süresi yaklaşık on aydır.
 
 [^2]: Smith'in fizyokrat çevresiyle Paris'teki temasları için Ross 1995'in yanı sıra Peter Groenewegen, "Turgot and Adam Smith", *Scottish Journal of Political Economy* 16, no. 3 (1969): 271-87. Quesnay'nin *entresol*u Versailles'da, Madame de Pompadour'un dairelerinin altında yer alıyordu (Bölüm 4).

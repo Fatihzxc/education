@@ -108,6 +108,15 @@ Merkantilistten monetariste bu yolculuğun amacı, size "doğru ekol"ü gösterm
 İleri düzeyde kapanışı sonuç değil yöntem olarak oku. İktisat düşüncesi, bitmiş cevaplar müzesi değil; tekrar eden sorunlara tutulacak mercekler koleksiyonudur.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Harita bir mezarlık değil" başlığının gösterdiği somut düğümden oku: iktisat ekollerinin tek doğru cevaptan çok farklı problem durumlarına verdiği cevaplar olarak nasıl okunacağı sorusu.
+- **Baskın bakış:** kanon ve ders kitabı bakışı; çünkü düşünce tarihini düzenli bir çizgiye çevirmek ister.
+- **Güçlü karşı fikir:** sınıf, yerel tarih, halk deneyimi ve karşı ekoller bu çizginin pürüzlerini açar.
+- **Halkın/kamunun gözü:** Bu mesele haber, kira, ücret, fiyat, borç ve teknoloji tartışmalarında hangi ekolün konuştuğunu fark etmeyi sağlar.
+- **Osmanlı/Türkiye bağı:** Osmanlı/Türkiye iktisat eğitimi ve yerli politika tartışmalarındaki geç alımlamalarla bağlanır.
+- **İleri düzey okuma:** haritayı okul listesi değil, aynı soruya verilmiş rakip cevapların yön bulma masası olarak kullan.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Bu kitabın yöntemsel duruşu — anti-Whig okuma, "hiçbir ekolün tam ölmediği", ve her teorinin sınıf-bağlamından okunabileceği — için temel başvurular: Herbert Butterfield, *The Whig Interpretation of History* (1931); Mark Blaug, *Economic Theory in Retrospect* (Cambridge UP, 1997); Joseph A. Schumpeter, *History of Economic Analysis* (1954). Aynı merceğin kütüphanenin diğer alanlarına uygulanışı için kardeş kitapların 12. bölümleri: `klasik-iktisat`, `fizyokrasi`, `deger`, `mulkiyet`, `egemenlik`, `merkantilizm`.

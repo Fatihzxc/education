@@ -66,7 +66,7 @@ Bunun üç gerekçesi vardır:
 
 **(a) Şimdiki ihtiyaç ile gelecek beklentisi arasındaki fark**. Bugün aç olan bir kişi, bir yıl sonra elde edeceği ekmekten çok, *şimdi* bir ekmek ister. Çünkü şimdi acıkmıştır.
 
-**(b) Sistematik gelecek-küçümseme**. İnsan zihni, geleceği şimdiye göre psikolojik olarak daha küçük ve daha belirsiz görür. Bu "*time preference*" — zaman tercihi — biyolojik bir gerçektir.
+**(b) Sistematik gelecek-küçümseme**. İnsan zihni, geleceği şimdiye göre psikolojik olarak daha küçük ve daha belirsiz görür. Bu "*time preference*" — zaman tercihi — Avusturya okuluna göre güçlü bir psikolojik ve iktisadi eğilimdir.
 
 **(c) Üretim sürecinin verimliliği**. Bir tezgâhın bugün yapılması, ileride daha çok ürünün üretilmesini mümkün kılar. Yani bugün elde edilen malın *üretkenliği*, gelecekte elde edilenden farklıdır.
 
@@ -80,13 +80,13 @@ Aquinas'ın 1274'te söylediği "para sterildir, faiz adaletsizliktir" tezini ha
 
 ## 8.6 Marx'la çekişme
 
-Böhm-Bawerk, *Kapital und Kapitalzins*'in birinci cildinde uzun bir bölümü Marx'ın artı-değer teorisinin eleştirisine ayırır. Onun argümanı şu: Marx, kapitalist üretimde işçi artığa el konulduğunu iddia ediyor. Ama bu iddia, bir yanlış-anlama üzerine kurulu: işçinin ürettiği değer, *bugünkü değil, gelecekteki* bir değerdir.
+Böhm-Bawerk, *Kapital und Kapitalzins*'in birinci cildinde uzun bir bölümü Marx'ın artı-değer teorisinin eleştirisine ayırır. Onun argümanı şu: Marx, kapitalist üretimde işçi artığa el konulduğunu iddia ediyor; fakat Böhm-Bawerk'e göre bu iddia zaman boyutunu yanlış okur, çünkü işçinin ürettiği değer *bugünkü değil, gelecekteki* bir değerdir.
 
-Bir işçi 12 saat çalışsın ve sonunda bir ürün üretsin. Bu ürün, üretildikten *sonra* — depodan satılıp piyasaya çıktığında — bir değer kazanır. Kapitalist işçiye 12 saat içindeki emek karşılığını bugün öder; ürünün gelecekte gerçekleşecek değerini ise kapitalist üstlenir. Aradaki fark "*sömürü*" değil; *zaman tercihi farkı*'dır. Bugün ödenmiş 100 lira, bir ay sonra alınacak 110 liraya tekabül eder — bu doğal bir denkliktir.
+Bir işçi 12 saat çalışsın ve sonunda bir ürün üretsin. Bu ürün, üretildikten *sonra* — depodan satılıp piyasaya çıktığında — bir değer kazanır. Böhm-Bawerk'in okumasında kapitalist işçiye 12 saat içindeki emek karşılığını bugün öder; ürünün gelecekte gerçekleşecek değerini ve satış riskini ise kapitalist üstlenir. Bu yüzden ona göre aradaki fark "*sömürü*" değil, *zaman tercihi farkı*dır. Marksist cevap ise tam burada başlar: bu zaman farkının kendisi mülkiyet asimetrisinden doğar; işçi de işsizlik ve geçim riski taşır, ama karar ve artık üzerindeki hak sermayedarda toplanır.
 
-Bu argüman, marjinalist çerçeve ile Marksist çerçeve arasında ilk büyük entelektüel çarpışmadır. Böhm-Bawerk'in iddiası şu: Marx'ın emek-değer teorisi *yanlış sorun setine cevap*'tır. Doğru soru "değer nereden geliyor?" değil; "*birinin değer-zamanı*'nı başkasıyla nasıl değiştirir?"dir.
+Bu argüman, marjinalist çerçeve ile Marksist çerçeve arasında ilk büyük entelektüel çarpışmadır. Böhm-Bawerk'in iddiası şu: Marx'ın emek-değer teorisi *yanlış sorun setine cevap*'tır. Avusturya okuluna göre doğru soru "değer nereden geliyor?" değil; "*birinin değer-zamanı*'nı başkasıyla nasıl değiştirir?"dir.
 
-Marksist gelenek bu argümana karşı uzun yıllar çalıştı; Hilferding (1904), Kautsky, Sweezy, ve sonra Sraffa farklı cevaplar geliştirdi. Ama hiçbiri Böhm-Bawerk'in argümanını tam ortadan kaldırmadı. Bu eleştirinin gücü, Marx'ın *Kapital*'inin 20. yüzyıl akademik iktisat içinde marjinalleşmesinin nedenlerinden birisidir.
+Marksist gelenek bu argümana karşı uzun yıllar çalıştı; Hilferding (1904), Kautsky, Sweezy, ve sonra Sraffa farklı cevaplar geliştirdi. Bu cevaplar tartışmayı kapatmaz, ama Böhm-Bawerk'in çerçevesinin de tarafsız son söz olmadığını gösterir: mesele yalnız zaman indirgeme hesabı değil, zaman içinde kimin bekleyebildiği, kimin geçimini hemen satmak zorunda kaldığıdır. Bu karşılaşmanın gücü, Marx'ın *Kapital*'inin 20. yüzyıl akademik iktisat içinde niçin sürekli yeniden tartışıldığını da açıklar.
 
 ## 8.7 Wieser: fırsat maliyeti
 
@@ -214,8 +214,17 @@ Bu çarpışma 100 yıl sonra Cambridge controversy'nin (Bölüm 11) içerikli b
 İleri düzeyde sübjektif değeri “her şey kişisel zevktir” diye basitleştirme. Asıl mesele, kıt malların önemini son birimin karşıladığı ihtiyaca göre düşünmektir.
 
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1871 — Viyana'da bir kitap" başlığının gösterdiği somut düğümden oku: fiyatların, emeğin, faydanın, kurumların ve özgürlüğün değer denen şeyi nasıl açıkladığı sorusu.
+- **Baskın bakış:** her ekol kendi ölçüsünü merkez yapar: emek, fayda, üretim maliyeti, özgürlük veya kapabilite.
+- **Güçlü karşı fikir:** tek ölçünün her şeyi açıklamasına karşı Marx, marjinalistler, Sraffa, Sen ve tarihsel kurumlar birbirini sınar.
+- **Halkın/kamunun gözü:** Bu mesele pazar fiyatı, ücret, kira, borç, geçim sepeti ve adalet hissi olarak gündelik hayata iner.
+- **Osmanlı/Türkiye bağı:** Osmanlı narh ve pazar düzeni, Türkiye iktisat eğitimi, ücret/enflasyon tartışmaları ve hane bütçesiyle bağlanır.
+- **İleri düzey okuma:** değeri tek formüle indirgeme; her değer teorisinin hangi görünmez varsayımı taşıdığını ara.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Menger, C. (1871). *Grundsätze der Volkswirtschaftslehre* (Principles of Economics), s. 76. Değerin sübjektif kaynak hipotezi: bir malın değeri, onun karşıladığı ihtiyacın önemine atfedilen niceliktir.
 
 [^2]: Menger, C. (1871). *Principles of Economics*, s. 76. Yüksek-derece mallarının değerinin alt-derece malların beklenen değerinden türediği tezi. Klasik çerçevenin "girdiler değer üretir" yönünü tersine çevirir.

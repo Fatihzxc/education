@@ -173,8 +173,17 @@ Colbert'in Fransız devletçiliğini ekteki playground'da kurumlar ve olaylar ü
 - [Korumacılık (protectionism) — kavram detayı](appendix/playground.html#concept/protectionism)
 - [1664: Colbert maliye nâzırı + tarife paketi](appendix/playground.html#event/evt-1664-colbert-tariff)
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "1664: Bir maliye bakanının çağrısı" başlığının gösterdiği somut düğümden oku: erken modern devletin savaş, vergi ve ticaret baskısı altında zenginliği nasıl örgütleyeceği sorusu.
+- **Baskın bakış:** devlet, maliye bürokrasisi ve ticaret sermayesi; çünkü güvenlik ve gelir aynı masada düşünülür.
+- **Güçlü karşı fikir:** Smith-Hume çizgisi, sömürge eleştirileri ve halkın pahalılaşma deneyimi bu devletçi dili sınar.
+- **Halkın/kamunun gözü:** Bu mesele gümrük, narh, kıtlık, liman emeği, askerlik ve vergi yükü olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı iaşe-fiskalizm hattı, kapitülasyonlar, gümrükler ve savaş finansmanı üzerinden Türkiye bağlamına iner.
+- **İleri düzey okuma:** merkantilizmi yalnız altın sevgisi değil, güvenlik-devlet kapasitesi-sömürge şiddeti üçgeni olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Eli F. Heckscher. *Mercantilism* (1935), s. 162. "The regulation of handicraft and of industry in France, together with the measures regarding tolls, is the principal and most striking instance of mercantilism's effort to create a unified state."
 
 [^2]: Heckscher 1935, s. 107. "The work of abolishing the tolls on all navigable rivers continued uninterruptedly, and Colbert reasserted [the basic policy]." Colbert'in iç gümrük tasfiyesinin uzun-soluklu karakterine ilişkin not.

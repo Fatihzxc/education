@@ -126,8 +126,17 @@ Bu paket güncel dünyayı yavaşlatır. Bir haber gördüğünde hemen yargıya
 
 Mal ticareti siyasallaşabilir, ama veri akışı büyüyebilir. Finans kırılabilir, ama tedarik zinciri yeniden bölgeselleşebilir. Devletler sınırları geri çağırabilir, ama iklim ve teknoloji sınır tanımaz. Çok kutupluluk, bağlantının bitişi değil, bağlantı üzerindeki kavganın sertleşmesidir.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Temel soru: 1991 sonrası dünya neden hem bağlandı hem parçalandı?" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 - Dani Rodrik, *The Globalization Paradox*.
 - Branko Milanovic, *Global Inequality*.
 - Shoshana Zuboff, *The Age of Surveillance Capitalism*.

@@ -146,8 +146,17 @@ Keynesçi devlet, piyasanın donduğu yerde akışı başlatmak ister. Monetaris
 
 Bu bölümün cümlesi şu olsun: Devlet bazen ekonominin yangın söndürücüsüdür, bazen de yangını yanlış yerde büyüten körük olabilir. İyi tarih okuması, devletin kendisini değil, hangi koşulda hangi rolü oynadığını anlamaya çalışır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "Keynesçi devlet nasıl düşünür?" başlığının gösterdiği somut düğümden oku: belirsizlik, talep yetersizliği ve para ekonomisinde devletin ne yapacağı sorusu.
+- **Baskın bakış:** kriz yöneten devlet ve istihdam arayan toplum; çünkü piyasa tek başına toparlanmayabilir.
+- **Güçlü karşı fikir:** klasik, monetarist ve neoliberal okumalar devlet müdahalesinin sınırlarını sorar.
+- **Halkın/kamunun gözü:** Bu mesele kredi kartı, kira, konut kredisi, döviz, maaş günü, enflasyon ve tahsilat baskısı olarak yaşanır.
+- **Osmanlı/Türkiye bağı:** Osmanlı akçesi, Galata bankerleri, Düyun-u Umumiye, 2001 krizi, TCMB ve yüksek enflasyon deneyimiyle bağlanır.
+- **İleri düzey okuma:** parayı nesne değil, güven, kayıt, borç, devlet ve gelecek zamanı birbirine bağlayan kurum olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: Milton Friedman. *Capitalism and Freedom* (1962). Devletin rolü, para politikası ve ekonomik özgürlük tartışmaları için temel monetarist-liberal metin.
 [^2]: John Maynard Keynes. *The General Theory of Employment, Interest and Money* (1936). Devletin toplam talebi yönetmesi fikrinin teorik zemini.
 [^3]: Paul A. Samuelson. *Economics* (1948). Savaş sonrası neoklasik sentezin ders kitabı diliyle yayılmasında belirleyici metinlerden biri.

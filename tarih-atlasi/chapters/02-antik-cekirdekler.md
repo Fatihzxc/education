@@ -129,8 +129,17 @@ Bu tablo sana şunu hatırlatsın: Devlet bir fikir olarak doğmaz; önce çok s
 
 Asıl zor soru şudur: Devlet olmadan büyük ölçekli düzen kurulabilir miydi? Belki bazı yerlerde daha gevşek ağlar mümkündü. Ama büyük ambar, ordu, kanal ve yazılı hukuk çoğu zaman merkezi güç istedi. Antik dünya bize şunu öğretir: İnsanlık büyük düzen kurdukça, büyük bedel sorusunu da yanında taşır.
 
-## Kaynakça
+## Okuma pusulası
 
+- **Kök sebep:** Bu bölümü "En temel soru: tarım fazlası neden devlete dönüştü?" başlığının gösterdiği somut düğümden oku: iktisadi düşüncenin savaş, ticaret, iklim, imparatorluk ve gündelik hayat içinde nerede doğduğunu görme sorusu.
+- **Baskın bakış:** büyük devletler, merkez bölgeler ve kazananların tarih anlatısı; çünkü arşivi ve kanonu çoğu zaman onlar tutar.
+- **Güçlü karşı fikir:** çevre bölgeler, koloniler, köylüler, işçiler, kadınlar ve yenilenler aynı süreci başka gözle anlatır.
+- **Halkın/kamunun gözü:** Bu mesele vergi, göç, kıtlık, askerlik, fiyat, zorunlu çalışma ve yerinden edilme olarak hissedilir.
+- **Osmanlı/Türkiye bağı:** Osmanlı ve Türkiye dünya ekonomisine eklemlenme, savaş finansmanı, modernleşme ve kalkınma deneyimleriyle bağlanır.
+- **İleri düzey okuma:** atlası olay listesi değil, fikirlerin maddi dünya içinde neden o anda görünür olduğunu gösteren zemin olarak oku.
+- **Kontrol sorusu:** Bu bölümde anlatılan fikir kimin sorununu çözüyor, kimin deneyimini arka planda bırakıyor?
+
+## Kaynakça
 [^1]: James C. Scott, *Against the Grain* (2017). Tahıl, kayıt ve erken devlet arasındaki ilişkiyi tartışır.
 [^2]: Bruce G. Trigger, *Understanding Early Civilizations* (2003). Erken uygarlıkların karşılaştırmalı yapısı için temel bir çalışma.
 [^3]: William H. McNeill, *The Rise of the West* (1963). Dünya tarihi bağlantıları ve erken merkezler için klasik çerçeve.
